@@ -93,6 +93,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[d1-mini-nodemcu-esp8266-wifi]]
 - [[sparkfun-qwiic-pro-micro-usb-c]]
 - [[seeed-xiao-esp32c3]]
+- [[seeed-xiao-samd21]]
 - [[adafruit-qt-py-esp32-s2]]
 - [[adafruit-qt-py-esp32-pico]]
 

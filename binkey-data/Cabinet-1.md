@@ -158,6 +158,7 @@ tags: [cabinet, inventory, electronics, components]
 - [[seeed-xiao-esp32c3]] - 7
 - [[adafruit-qt-py-esp32-s2]] - 10
 - [[adafruit-qt-py-esp32-pico]] - 1
+- [[seeed-xiao-samd21]] - 2
 
 ## Bin 27
 
