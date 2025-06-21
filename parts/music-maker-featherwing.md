@@ -7,7 +7,7 @@ part_number: 3436
 functions: [mp3-player, audio-amplifier]
 formats: [mp3, ogg, wav, midi]
 amplifier: 3w-stereo
-location: Cabinet-1/Bin-16
+location: [Cabinet-1/Bin-16]
 quantity: 1
 status: available
 price_range: $20-30

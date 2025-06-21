@@ -7,7 +7,7 @@ part_number: 3028
 chip: ds3231
 function: real-time-clock
 precision: high
-location: Cabinet-1/Bin-16
+location: [Cabinet-1/Bin-16]
 quantity: 5
 status: available
 price_range: $10-15

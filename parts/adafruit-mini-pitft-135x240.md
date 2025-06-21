@@ -11,7 +11,7 @@ driver: ST7789
 interface: SPI
 voltage: 3.3V-5V
 current: 50mA
-location: Cabinet-1/Bin-21
+location: [Cabinet-1/Bin-21]
 quantity: 1
 status: available
 price_range: $9-10

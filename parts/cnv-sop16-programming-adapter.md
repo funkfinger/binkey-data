@@ -4,7 +4,7 @@ category: Programming Tools
 subcategory: IC Adapter
 brand: Adafruit
 part_number: 1283
-location: Cabinet-1/Bin-5
+location: [Cabinet-1/Bin-5]
 quantity: 1
 status: available
 price_range: $5-10

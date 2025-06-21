@@ -11,7 +11,7 @@ driver: SSD1306
 interface: I2C
 voltage: 3.3V-5V
 current: 20mA
-location: Cabinet-1/Bin-21
+location: [Cabinet-1/Bin-21]
 quantity: 5
 status: available
 price_range: $12-15

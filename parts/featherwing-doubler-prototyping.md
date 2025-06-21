@@ -9,7 +9,7 @@ color: green
 interface: feather-headers
 voltage: 3.3V-5V
 current: passthrough
-location: Cabinet-1/Bin-22
+location: [Cabinet-1/Bin-22]
 quantity: 2
 status: available
 price_range: $7-8

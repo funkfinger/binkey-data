@@ -5,7 +5,7 @@ subcategory: Addressable Ring
 color: rgb
 technology: neopixel
 shape: circular
-location: Cabinet-1/Bin-14
+location: [Cabinet-1/Bin-14]
 quantity: 3
 status: available
 price_range: $5-15

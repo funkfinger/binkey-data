@@ -9,7 +9,7 @@ color: white
 characters: 4
 interface: i2c
 connectors: [stemma-qt, qwiic]
-location: Cabinet-1/Bin-15
+location: [Cabinet-1/Bin-15]
 quantity: 2
 status: available
 price_range: $15-25

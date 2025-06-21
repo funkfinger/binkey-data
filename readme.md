@@ -1,6 +1,16 @@
 # Electronics Inventory Management System
 
-A comprehensive electronics component inventory system built with [Foam](https://foambubble.github.io/foam/) for VS Code, designed to track and organize electronic components across multiple storage cabinets.
+A comprehensive electronics component inventory system built with [Foam](https://foambubble.github.io/foam/) for VS Code, designed to track and organize electronic components across multiple storage cabinets. This was created primarily using AI specifically **Augment Code**. Updates to the bins are created using AI like this:
+
+```
+i've got 2 https://www.adafruit.com/product/2890 in bin 22
+```
+
+or
+
+```
+I've got about 28 vintage seven segment displays in bin 20 - can you add those - there are no specs on these, just generic vintage displays.
+```
 
 ## 🎯 Project Overview
 
@@ -9,23 +19,25 @@ This project provides a structured approach to managing electronics components u
 ## 📁 Project Structure
 
 ```
+
 binkey-data/
-├── README.md                 # This file
-├── binkey-data/             # Cabinet organization
-│   ├── bins.md              # Main inventory index
-│   └── Cabinet-1.md         # Cabinet 1 layout (44 bins)
-├── parts/                   # Individual component database
-│   ├── index.md             # Parts catalog index
-│   ├── holtek-ht16k33-breakout.md
-│   ├── segger-jlink-edu-mini.md
-│   └── [27 other component files]
-├── attachments/             # Component images and photos
-│   ├── 1427-06.jpg
-│   ├── 3571-05.jpg
-│   └── [other component images]
-└── .vscode/                 # VS Code workspace configuration
-    ├── settings.json        # Foam and Paste Image settings
-    └── extensions.json      # Recommended extensions
+├── README.md # This file
+├── binkey-data/ # Cabinet organization
+│ ├── bins.md # Main inventory index
+│ └── Cabinet-1.md # Cabinet 1 layout (44 bins)
+├── parts/ # Individual component database
+│ ├── index.md # Parts catalog index
+│ ├── holtek-ht16k33-breakout.md
+│ ├── segger-jlink-edu-mini.md
+│ └── [27 other component files]
+├── attachments/ # Component images and photos
+│ ├── 1427-06.jpg
+│ ├── 3571-05.jpg
+│ └── [other component images]
+└── .vscode/ # VS Code workspace configuration
+├── settings.json # Foam and Paste Image settings
+└── extensions.json # Recommended extensions
+
 ```
 
 ## 🔧 Component Categories
@@ -34,18 +46,15 @@ binkey-data/
   - JTAG/SWD adapters and debuggers
   - IC programming adapters
   - Socket adapters
-
 - **LED Components** (18 items)
   - Standard LEDs (3mm, 5mm)
   - RGB and addressable LEDs
   - Special effect LEDs (flicker, flashing)
   - UV and IR LEDs
-
 - **Displays** (5 items)
   - LED matrices and character displays
   - Alphanumeric displays with I2C backpacks
   - LED rings
-
 - **FeatherWings** (3 items)
   - RTC modules
   - Data loggers
@@ -61,12 +70,16 @@ binkey-data/
 ### Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/funkfinger/binkey-data.git
    cd binkey-data
    ```
 
+````
+
 2. **Open in VS Code:**
+
    ```bash
    code .
    ```
@@ -80,11 +93,13 @@ binkey-data/
 ### Usage
 
 #### Browsing Components
+
 - Start with `binkey-data/bins.md` for the main index
 - Navigate to `Cabinet-1.md` to see physical organization
 - Browse `parts/index.md` for the complete component catalog
 
 #### Adding New Components
+
 1. Create a new file in the `parts/` directory
 2. Use the established frontmatter format:
    ```yaml
@@ -99,9 +114,10 @@ binkey-data/
    tags: [tag1, tag2, tag3]
    ---
    ```
-3. Add component details, images, and links
+3. Add component details, images, and links.
 
 #### Adding Images
+
 - Use `Ctrl/Cmd + Alt + V` to paste images directly from clipboard
 - Images automatically save to the `attachments/` directory
 - Use descriptive alt text for accessibility
@@ -119,12 +135,14 @@ Each component file includes structured metadata:
 ## 🔍 Search and Navigation
 
 ### Using Foam Features
+
 - **Wikilinks**: `[[component-name]]` for easy navigation
 - **Tags**: Filter by `#led`, `#programming`, `#adafruit`, etc.
 - **Graph View**: Visualize component relationships
 - **Backlinks**: See where components are referenced
 
 ### Search Examples
+
 - Find all 5mm LEDs: Search for `size: 5mm`
 - Find Adafruit products: Search for `brand: Adafruit`
 - Find programming tools: Browse `category: Programming Tools`
@@ -174,6 +192,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 For questions or suggestions:
+
 - Open an issue on GitHub
 - Check the Foam community resources
 - Review the component documentation in `parts/index.md`
@@ -181,3 +200,4 @@ For questions or suggestions:
 ---
 
 **Built with ❤️ using Foam for VS Code**
+````

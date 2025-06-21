@@ -4,7 +4,7 @@ category: Standard LEDs
 subcategory: Basic LED
 size: 5mm
 color: blue
-location: Cabinet-1/Bin-9
+location: [Cabinet-1/Bin-9]
 quantity: 10
 status: available
 price_range: $0.10-0.50

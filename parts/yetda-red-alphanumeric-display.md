@@ -11,7 +11,7 @@ characters: 1
 interface: parallel
 voltage: 5V
 current: 20mA per segment
-location: Cabinet-1/Bin-17
+location: [Cabinet-1/Bin-17]
 quantity: 8
 status: available
 price_range: $2-5

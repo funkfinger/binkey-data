@@ -6,7 +6,7 @@ brand: Adafruit
 part_number: 1734
 size: 8mm
 color: rgb
-location: Cabinet-1/Bin-8
+location: [Cabinet-1/Bin-8]
 quantity: 1
 status: available
 price_range: $1-5

@@ -15,7 +15,7 @@ functions:
 interface: I2C
 connectors: [jst-ph-3pin, stemma-qt]
 voltage: 3.3V-5V
-location: Cabinet-1/Bin-16
+location: [Cabinet-1/Bin-16]
 quantity: 2
 status: available
 price_range: $9-11

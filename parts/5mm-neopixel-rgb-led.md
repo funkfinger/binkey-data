@@ -5,7 +5,7 @@ subcategory: Addressable LED
 size: 5mm
 color: rgb
 technology: addressable
-location: Cabinet-1/Bin-10
+location: [Cabinet-1/Bin-10]
 quantity: 5
 status: available
 price_range: $1-3

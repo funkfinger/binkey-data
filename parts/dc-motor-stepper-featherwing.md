@@ -9,7 +9,7 @@ interface: I2C
 connectors: [terminal-blocks, stackable-headers]
 voltage: 4.5V-13.5V
 current: 1.2A per bridge
-location: Cabinet-1/Bin-16
+location: [Cabinet-1/Bin-16]
 quantity: 2
 status: available
 price_range: $19-20

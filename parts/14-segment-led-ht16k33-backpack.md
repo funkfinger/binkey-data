@@ -7,8 +7,8 @@ part_number: 2159
 size: 0.54 inch
 segments: 14
 driver: ht16k33
-location: Cabinet-1/Bin-15
-quantity: 1
+location: [Cabinet-1/Bin-15, Cabinet-1/Bin-23]
+quantity: 8
 status: available
 price_range: $10-15
 tags: [led-display, 14-segment, ht16k33, alphanumeric, adafruit]
@@ -18,9 +18,9 @@ tags: [led-display, 14-segment, ht16k33, alphanumeric, adafruit]
 
 ## Details
 
-- **Location**: Cabinet-1, Bin 15
+- **Location**: Cabinet-1, Bin 15 (1 unit) & Bin 23 (7 units)
 - **Category**: Alpha Numeric Displays
-- **Quantity**: 1
+- **Quantity**: 8 total
 - **Product URL**: https://www.adafruit.com/product/2159
 
 ## Description

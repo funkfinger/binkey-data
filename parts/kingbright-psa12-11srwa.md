@@ -14,7 +14,7 @@ voltage: 3.6V
 current: 10mA per segment
 luminous_intensity: 28mcd
 wavelength: 655nm
-location: Cabinet-1/Bin-18
+location: [Cabinet-1/Bin-18]
 quantity: 8
 status: available
 price_range: $7-10

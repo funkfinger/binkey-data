@@ -4,7 +4,7 @@ category: Programming Tools
 subcategory: IC Socket
 brand: Pomona
 part_number: 5253
-location: Cabinet-1/Bin-5
+location: [Cabinet-1/Bin-5]
 quantity: 1
 status: available
 price_range: $10-20

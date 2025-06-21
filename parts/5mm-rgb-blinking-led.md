@@ -5,7 +5,7 @@ subcategory: RGB LED
 size: 5mm
 color: multicolor
 effect: slow-blinking
-location: Cabinet-1/Bin-7
+location: [Cabinet-1/Bin-7]
 quantity: 1
 status: available
 price_range: $1-5

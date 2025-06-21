@@ -5,7 +5,7 @@ category: LED Backpacks
 subcategory: Display Driver
 brand: Adafruit
 part_number: 1427
-location: Cabinet-1/Bin-4
+location: [Cabinet-1/Bin-4]
 quantity: 1
 status: available
 price_range: $5-10

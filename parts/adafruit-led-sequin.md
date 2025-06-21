@@ -5,7 +5,7 @@ subcategory: Sewable LED
 brand: Adafruit
 size: small
 application: wearable
-location: Cabinet-1/Bin-13
+location: [Cabinet-1/Bin-13]
 quantity: 5
 status: available
 price_range: $1-3

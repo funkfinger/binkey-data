@@ -4,7 +4,7 @@ category: LED Displays
 subcategory: Display Driver
 brand: Adafruit
 part_number: 1427
-location: Cabinet-1/Bin-6
+location: [Cabinet-1/Bin-6]
 quantity: 1
 status: available
 price_range: $5-10

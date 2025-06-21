@@ -4,7 +4,7 @@ category: LED Displays
 subcategory: Character Display
 color: red
 size: 0.68 inch
-location: Cabinet-1/Bin-6
+location: [Cabinet-1/Bin-6]
 quantity: 1
 status: available
 price_range: $5-15

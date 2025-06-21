@@ -4,7 +4,7 @@ category: Programming Tools
 subcategory: Debug Breakout
 brand: Adafruit
 part_number: 2743
-location: Cabinet-1/Bin-5
+location: [Cabinet-1/Bin-5]
 quantity: 1
 status: available
 price_range: $5-10

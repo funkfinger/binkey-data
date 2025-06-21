@@ -5,7 +5,7 @@ subcategory: Flicker LED
 size: 5mm
 color: yellow
 effect: flicker
-location: Cabinet-1/Bin-12
+location: [Cabinet-1/Bin-12]
 quantity: 3
 status: available
 price_range: $0.50-1.50

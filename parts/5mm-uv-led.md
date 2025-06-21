@@ -5,7 +5,7 @@ subcategory: UV LED
 size: 5mm
 color: uv
 wavelength: 395-405nm
-location: Cabinet-1/Bin-11
+location: [Cabinet-1/Bin-11]
 quantity: 5
 status: available
 price_range: $0.50-2.00

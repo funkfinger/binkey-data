@@ -4,7 +4,7 @@ category: Programming Tools
 subcategory: Debugger
 brand: SEGGER
 part_number: 3571
-location: Cabinet-1/Bin-5
+location: [Cabinet-1/Bin-5]
 quantity: 1
 status: available
 price_range: $15-25

@@ -14,7 +14,7 @@ voltage: 5V
 current: 20mA per segment
 luminous_intensity: 40mcd
 wavelength: 565nm
-location: Cabinet-1/Bin-19
+location: [Cabinet-1/Bin-19]
 quantity: 4
 status: available
 price_range: $3-6
