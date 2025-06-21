@@ -96,6 +96,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[seeed-xiao-samd21]]
 - [[adafruit-qt-py-esp32-s2]]
 - [[adafruit-qt-py-esp32-pico]]
+- [[adafruit-qt-py-samd21]]
 
 ## FeatherWings
 
