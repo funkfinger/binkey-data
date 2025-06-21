@@ -1,39 +1,183 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
+# Electronics Inventory Management System
 
-# Foam
+A comprehensive electronics component inventory system built with [Foam](https://foambubble.github.io/foam/) for VS Code, designed to track and organize electronic components across multiple storage cabinets.
 
-**👋 Welcome to your new Foam Knowledge Base!**
+## 🎯 Project Overview
 
-## Getting started
+This project provides a structured approach to managing electronics components using a knowledge management system. Each component is cataloged as an individual file with rich metadata, making it easy to search, cross-reference, and maintain your inventory.
 
-This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/macOS/Windows machine.
+## 📁 Project Structure
 
-1. If you haven't yet, browse over to the main [Foam documentation](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
-2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
-3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
+```
+binkey-data/
+├── README.md                 # This file
+├── binkey-data/             # Cabinet organization
+│   ├── bins.md              # Main inventory index
+│   └── Cabinet-1.md         # Cabinet 1 layout (44 bins)
+├── parts/                   # Individual component database
+│   ├── index.md             # Parts catalog index
+│   ├── holtek-ht16k33-breakout.md
+│   ├── segger-jlink-edu-mini.md
+│   └── [27 other component files]
+├── attachments/             # Component images and photos
+│   ├── 1427-06.jpg
+│   ├── 3571-05.jpg
+│   └── [other component images]
+└── .vscode/                 # VS Code workspace configuration
+    ├── settings.json        # Foam and Paste Image settings
+    └── extensions.json      # Recommended extensions
+```
 
-    *Open the repository as a folder using the `File > Open...` menu item.*
+## 🔧 Component Categories
 
-4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
+- **Programming & Debugging Tools** (6 items)
+  - JTAG/SWD adapters and debuggers
+  - IC programming adapters
+  - Socket adapters
 
-After setting up the repository, head to [getting started](./getting-started.md) to get familiar with your new knowledge base!
+- **LED Components** (18 items)
+  - Standard LEDs (3mm, 5mm)
+  - RGB and addressable LEDs
+  - Special effect LEDs (flicker, flashing)
+  - UV and IR LEDs
 
-To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/user/recipes/recipes) bubbles of the Foam documentation workspace.
+- **Displays** (5 items)
+  - LED matrices and character displays
+  - Alphanumeric displays with I2C backpacks
+  - LED rings
 
-And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
+- **FeatherWings** (3 items)
+  - RTC modules
+  - Data loggers
+  - Audio modules
 
-## Using Foam
+## 🚀 Getting Started
 
-We've created a few Bubbles (Markdown documents) to get you started.
+### Prerequisites
 
-- [inbox](./inbox.md) - a place to write down quick notes to be categorized later
-- [getting-started](./getting-started.md) - learn how to use your Foam workspace
-- [todo](./todo.md) - a place to keep track of things to do
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
 
-In the `docs` directory you can find everything you need to learn the basics of Foam.
+### Installation
 
-## Submitting Issues
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/funkfinger/binkey-data.git
+   cd binkey-data
+   ```
 
-As you may have noticed, issues are disabled. With the goal to keep the project fairly easy to maintain, please file your issues in the main Foam repository:
+2. **Open in VS Code:**
+   ```bash
+   code .
+   ```
 
-> <https://github.com/foambubble/foam>
+3. **Install recommended extensions** when prompted:
+   - Foam for VSCode
+   - Markdown All In One
+   - Prettier
+   - Paste Image
+
+### Usage
+
+#### Browsing Components
+- Start with `binkey-data/bins.md` for the main index
+- Navigate to `Cabinet-1.md` to see physical organization
+- Browse `parts/index.md` for the complete component catalog
+
+#### Adding New Components
+1. Create a new file in the `parts/` directory
+2. Use the established frontmatter format:
+   ```yaml
+   ---
+   type: electronic-component
+   category: [Category Name]
+   subcategory: [Subcategory]
+   brand: [Brand Name]
+   location: Cabinet-X/Bin-Y
+   quantity: [Number]
+   status: available
+   tags: [tag1, tag2, tag3]
+   ---
+   ```
+3. Add component details, images, and links
+
+#### Adding Images
+- Use `Ctrl/Cmd + Alt + V` to paste images directly from clipboard
+- Images automatically save to the `attachments/` directory
+- Use descriptive alt text for accessibility
+
+## 🏷️ Metadata Schema
+
+Each component file includes structured metadata:
+
+- **Physical Properties**: Size, color, shape, wavelength
+- **Technical Specs**: Part numbers, interfaces, functions
+- **Inventory Data**: Location, quantity, status, price range
+- **Organization**: Categories, subcategories, tags
+- **Vendor Info**: Brand, part numbers, product URLs
+
+## 🔍 Search and Navigation
+
+### Using Foam Features
+- **Wikilinks**: `[[component-name]]` for easy navigation
+- **Tags**: Filter by `#led`, `#programming`, `#adafruit`, etc.
+- **Graph View**: Visualize component relationships
+- **Backlinks**: See where components are referenced
+
+### Search Examples
+- Find all 5mm LEDs: Search for `size: 5mm`
+- Find Adafruit products: Search for `brand: Adafruit`
+- Find programming tools: Browse `category: Programming Tools`
+
+## 📸 Image Management
+
+- **Centralized Storage**: All images in `/attachments` directory
+- **Proper Alt Text**: Descriptive text for accessibility
+- **Consistent Naming**: Product numbers and descriptive names
+- **Easy Addition**: Paste Image extension for quick photo addition
+
+## 🛠️ VS Code Configuration
+
+The project includes optimized VS Code settings:
+
+- **Foam Integration**: Wikilinks, graph view, backlinks
+- **Image Handling**: Automatic paste to attachments directory
+- **Markdown Enhancement**: All-in-one markdown features
+- **Code Formatting**: Prettier for consistent formatting
+
+## 📊 Current Inventory Stats
+
+- **Total Components**: 30+ individual items
+- **Cabinets**: 1 (with 44 bins, 16 populated)
+- **Categories**: 8 major categories
+- **Images**: High-quality component photos
+- **Documentation**: 100% coverage with metadata
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Add new components or improve documentation
+4. Ensure proper frontmatter and formatting
+5. Submit a pull request
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🔗 Related Links
+
+- [Foam Documentation](https://foambubble.github.io/foam/)
+- [VS Code Markdown Guide](https://code.visualstudio.com/docs/languages/markdown)
+- [YAML Frontmatter Reference](https://jekyllrb.com/docs/front-matter/)
+
+## 📞 Support
+
+For questions or suggestions:
+- Open an issue on GitHub
+- Check the Foam community resources
+- Review the component documentation in `parts/index.md`
+
+---
+
+**Built with ❤️ using Foam for VS Code**

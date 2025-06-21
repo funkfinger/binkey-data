@@ -1,0 +1,108 @@
+---
+type: parts-index
+title: Parts Database
+description: Comprehensive catalog of individual electronic components with detailed specifications
+categories:
+  [
+    led-backpacks,
+    programming-tools,
+    led-displays,
+    standard-leds,
+    special-leds,
+    rgb-leds,
+    neopixel-leds,
+    specialty-leds,
+    featherwings,
+  ]
+tags: [parts, database, components, electronics, catalog]
+---
+
+# Parts Database
+
+This folder contains detailed specifications for each individual electronic component in the inventory system.
+
+## LED Backpacks & Drivers
+
+- [[holtek-ht16k33-breakout]]
+- [[ht16k33-led-backpack]]
+
+## Programming & Debugging Tools
+
+- [[cnv-sop16-programming-adapter]]
+- [[jtag-to-swd-adapter]]
+- [[swd-cable-breakout]]
+- [[segger-jlink-edu-mini]]
+- [[pomona-5253-socket-adapter]]
+
+## LED Displays
+
+- [[5x7-led-display-red]]
+- [[14-segment-led-ht16k33-backpack]]
+- [[quad-alphanumeric-display-white]]
+
+## Standard LEDs
+
+- [[5mm-led-red]]
+- [[5mm-led-blue]]
+- [[5mm-led-white]]
+
+## Special Effect LEDs
+
+- [[5mm-rgb-blinking-led]]
+- [[5mm-yellow-flicker-led]]
+- [[5mm-white-flicker-led]]
+- [[5mm-yellow-flashing-led]]
+- [[3mm-rectangular-warm-white-led]]
+- [[3mm-rectangular-white-led]]
+
+## RGB & Addressable LEDs
+
+- [[8mm-large-rgb-led]]
+- [[5mm-neopixel-rgb-led]]
+- [[rgb-neopixel-led-rings]]
+
+## Specialty LEDs
+
+- [[5mm-uv-led]]
+- [[5mm-ir-led]]
+- [[adafruit-led-sequin]]
+
+## FeatherWings
+
+- [[ds3231-rtc-featherwing]]
+- [[adalogger-featherwing]]
+- [[music-maker-featherwing]]
+
+## Search by Tags
+
+### By Category
+
+- #led-backpack
+- #programming
+- #debugging
+- #led-display
+- #led
+- #rgb
+- #neopixel
+- #featherwing
+
+### By Brand
+
+- #adafruit
+- #segger
+- #pomona
+
+### By Size
+
+- #3mm
+- #5mm
+- #8mm
+
+### By Color
+
+- #red
+- #blue
+- #white
+- #yellow
+- #uv
+- #ir

@@ -11,6 +11,9 @@
     // Prettier for auto formatting code
     "esbenp.prettier-vscode",
 
+    // Paste images from clipboard directly into markdown
+    "mushan.vscode-paste-image",
+
     // Understated grayscale theme (light and dark variants)
     "philipbe.theme-gray-matter"
   ]
