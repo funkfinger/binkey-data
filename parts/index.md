@@ -91,6 +91,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[prop-maker-featherwing]]
 - [[dc-motor-stepper-featherwing]]
 - [[featherwing-doubler-prototyping]]
+- [[quad-alphanumeric-featherwing-red]]
 
 ## Search by Tags
 

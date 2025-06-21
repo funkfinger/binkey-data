@@ -138,6 +138,8 @@ tags: [cabinet, inventory, electronics, components]
 
 - [[14-segment-led-ht16k33-backpack]]
 - [[led-charlieplexed-matrix-9x16-warm-white]]
+- [[quad-alphanumeric-featherwing-red]]
+- [[quad-alphanumeric-display-red]]
 
 ## Bin 24
 
