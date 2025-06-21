@@ -36,72 +36,72 @@ tags: [cabinet, inventory, electronics, components]
 
 ## Bin 4 - LED Backpacks
 
-- [[holtek-ht16k33-breakout]]
+- [[holtek-ht16k33-breakout]] - 1
 
 ## Bin 5 - Programming / Debugging Tools
 
-- [[cnv-sop16-programming-adapter]]
-- [[jtag-to-swd-adapter]]
-- [[swd-cable-breakout]]
-- [[segger-jlink-edu-mini]]
-- [[pomona-5253-socket-adapter]]
+- [[cnv-sop16-programming-adapter]] - 1
+- [[jtag-to-swd-adapter]] - 1
+- [[swd-cable-breakout]] - 1
+- [[segger-jlink-edu-mini]] - 1
+- [[pomona-5253-socket-adapter]] - 1
 
 ## Bin 6 - LED Displays
 
-- [[5x7-led-display-red]]
-- [[ht16k33-led-backpack]]
+- [[5x7-led-display-red]] - 1
+- [[ht16k33-led-backpack]] - 1
 
 ## Bin 7 - Blinking LEDs
 
-- [[5mm-rgb-blinking-led]]
+- [[5mm-rgb-blinking-led]] - 1
 
 ## Bin 8 - RGB LEDs
 
-- [[8mm-large-rgb-led]]
+- [[8mm-large-rgb-led]] - 1
 
 ## Bin 9 - LEDs
 
-- [[5mm-led-red]]
-- [[5mm-led-blue]]
-- [[5mm-led-white]]
+- [[5mm-led-red]] - 10
+- [[5mm-led-blue]] - 10
+- [[5mm-led-white]] - 10
 
 ## Bin 10 - Neopixel LEDs
 
-- [[5mm-neopixel-rgb-led]]
+- [[5mm-neopixel-rgb-led]] - 5
 
 ## Bin 11 - UV & IR LEDs
 
-- [[5mm-uv-led]]
-- [[5mm-ir-led]]
+- [[5mm-uv-led]] - 5
+- [[5mm-ir-led]] - 5
 
 ## Bin 12 - LEDs
 
-- [[5mm-yellow-flicker-led]]
-- [[5mm-white-flicker-led]]
-- [[3mm-rectangular-warm-white-led]]
-- [[3mm-rectangular-white-led]]
+- [[5mm-yellow-flicker-led]] - 3
+- [[5mm-white-flicker-led]] - 3
+- [[3mm-rectangular-warm-white-led]] - 5
+- [[3mm-rectangular-white-led]] - 5
 
 ## Bin 13 - LEDs
 
-- [[5mm-yellow-flashing-led]]
-- [[adafruit-led-sequin]]
+- [[5mm-yellow-flashing-led]] - 3
+- [[adafruit-led-sequin]] - 1
 
 ## Bin 14 - LED Rings
 
-- [[rgb-neopixel-led-rings]]
+- [[rgb-neopixel-led-rings]] - 3
 
 ## Bin 15 - Alpha Numeric Displays
 
-- [[14-segment-led-ht16k33-backpack]]
-- [[quad-alphanumeric-display-white]]
+- [[14-segment-led-ht16k33-backpack]] - 1
+- [[quad-alphanumeric-display-white]] - 2
 
 ## Bin 16 - Featherwings
 
-- [[ds3231-rtc-featherwing]]
-- [[adalogger-featherwing]]
-- [[music-maker-featherwing]]
-- [[prop-maker-featherwing]]
-- [[dc-motor-stepper-featherwing]]
+- [[ds3231-rtc-featherwing]] - 1
+- [[adalogger-featherwing]] - 1
+- [[music-maker-featherwing]] - 1
+- [[prop-maker-featherwing]] - 1
+- [[dc-motor-stepper-featherwing]] - 1
 
 ## Bin 17 - Character Displays
 
@@ -122,7 +122,7 @@ tags: [cabinet, inventory, electronics, components]
 
 ## Bin 20 - Vintage Seven Segment Displays
 
-- [[vintage-seven-segment-displays]]
+- [[vintage-seven-segment-displays]] - 28
 
 ## Bin 21 - OLED & TFT Displays
 
@@ -136,7 +136,7 @@ tags: [cabinet, inventory, electronics, components]
 
 ## Bin 23 - Alpha Numeric Displays & LED Matrices
 
-- [[14-segment-led-ht16k33-backpack]]
+- [[14-segment-led-ht16k33-backpack]] - 7
 - [[led-charlieplexed-matrix-9x16-warm-white]]
 - [[quad-alphanumeric-featherwing-red]]
 - [[charlieplex-led-matrix-featherwing-green]]
@@ -155,8 +155,8 @@ tags: [cabinet, inventory, electronics, components]
 
 ## Bin 26 - RISC-V & ESP32-S2 Microcontrollers
 
-- [[seeed-xiao-esp32c3]]
-- [[adafruit-qt-py-esp32-s2]]
+- [[seeed-xiao-esp32c3]] - 7
+- [[adafruit-qt-py-esp32-s2]] - 10
 
 ## Bin 27
 
@@ -229,11 +229,3 @@ tags: [cabinet, inventory, electronics, components]
 ## Bin 44
 
 - [[empty]]
-
-
-
-
-
-
-
-
