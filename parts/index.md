@@ -92,6 +92,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[dc-motor-stepper-featherwing]]
 - [[featherwing-doubler-prototyping]]
 - [[quad-alphanumeric-featherwing-red]]
+- [[charlieplex-led-matrix-featherwing-green]]
 
 ## Search by Tags
 
