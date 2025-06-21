@@ -2,7 +2,7 @@
 type: cabinet
 cabinet_number: 1
 total_bins: 44
-populated_bins: 19
+populated_bins: 20
 categories:
   [
     led-backpacks,
@@ -153,9 +153,9 @@ tags: [cabinet, inventory, electronics, components]
 - [[d1-mini-nodemcu-esp8266-wifi]]
 - [[sparkfun-qwiic-pro-micro-usb-c]]
 
-## Bin 26
+## Bin 26 - RISC-V Microcontrollers
 
-- [[empty]]
+- [[seeed-xiao-esp32c3]]
 
 ## Bin 27
 

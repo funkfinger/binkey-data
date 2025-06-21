@@ -92,6 +92,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[d1-mini-nodemcu-esp8266-wifi]]
 - [[sparkfun-qwiic-pro-micro-usb-c]]
+- [[seeed-xiao-esp32c3]]
 
 ## FeatherWings
 
