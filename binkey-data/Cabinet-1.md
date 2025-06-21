@@ -143,9 +143,10 @@ tags: [cabinet, inventory, electronics, components]
 - [[is31fl3731-led-matrix-driver]]
 - [[quad-alphanumeric-display-red]]
 
-## Bin 24 - Wireless Microcontrollers
+## Bin 24 - Wireless Microcontrollers & Radio Wings
 
 - [[feather-m0-rfm95-lora-900mhz]]
+- [[lora-radio-featherwing-rfm95w-433mhz]]
 
 ## Bin 25
 

@@ -98,6 +98,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[featherwing-doubler-prototyping]]
 - [[quad-alphanumeric-featherwing-red]]
 - [[charlieplex-led-matrix-featherwing-green]]
+- [[lora-radio-featherwing-rfm95w-433mhz]]
 
 ## Search by Tags
 
