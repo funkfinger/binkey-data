@@ -94,6 +94,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[sparkfun-qwiic-pro-micro-usb-c]]
 - [[seeed-xiao-esp32c3]]
 - [[adafruit-qt-py-esp32-s2]]
+- [[adafruit-qt-py-esp32-pico]]
 
 ## FeatherWings
 
