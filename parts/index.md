@@ -94,6 +94,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[sparkfun-qwiic-pro-micro-usb-c]]
 - [[seeed-xiao-esp32c3]]
 - [[seeed-xiao-esp32s3]]
+- [[seeed-xiao-mg24-sense]]
 - [[seeed-xiao-samd21]]
 - [[adafruit-qt-py-esp32-s2]]
 - [[adafruit-qt-py-esp32-pico]]
