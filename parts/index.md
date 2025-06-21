@@ -38,6 +38,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[5x7-led-display-red]]
 - [[14-segment-led-ht16k33-backpack]]
+- [[led-charlieplexed-matrix-9x16-warm-white]]
 - [[quad-alphanumeric-display-white]]
 - [[yetda-red-alphanumeric-display]]
 - [[luckylight-kwa-541cwb-y]]
@@ -100,6 +101,7 @@ This folder contains detailed specifications for each individual electronic comp
 - #debugging
 - #led-display
 - #led
+- #matrix
 - #rgb
 - #neopixel
 - #featherwing
