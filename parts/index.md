@@ -25,6 +25,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[holtek-ht16k33-breakout]]
 - [[ht16k33-led-backpack]]
+- [[is31fl3731-led-matrix-driver]]
 
 ## Programming & Debugging Tools
 

@@ -140,6 +140,7 @@ tags: [cabinet, inventory, electronics, components]
 - [[led-charlieplexed-matrix-9x16-warm-white]]
 - [[quad-alphanumeric-featherwing-red]]
 - [[charlieplex-led-matrix-featherwing-green]]
+- [[is31fl3731-led-matrix-driver]]
 - [[quad-alphanumeric-display-red]]
 
 ## Bin 24
