@@ -148,9 +148,10 @@ tags: [cabinet, inventory, electronics, components]
 - [[feather-m0-rfm95-lora-900mhz]]
 - [[lora-radio-featherwing-rfm95w-433mhz]]
 
-## Bin 25 - WiFi Microcontrollers
+## Bin 25 - WiFi & Arduino Microcontrollers
 
 - [[d1-mini-nodemcu-esp8266-wifi]]
+- [[sparkfun-qwiic-pro-micro-usb-c]]
 
 ## Bin 26
 
