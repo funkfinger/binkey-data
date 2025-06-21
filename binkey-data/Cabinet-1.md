@@ -2,7 +2,7 @@
 type: cabinet
 cabinet_number: 1
 total_bins: 44
-populated_bins: 18
+populated_bins: 19
 categories:
   [
     led-backpacks,
@@ -148,9 +148,9 @@ tags: [cabinet, inventory, electronics, components]
 - [[feather-m0-rfm95-lora-900mhz]]
 - [[lora-radio-featherwing-rfm95w-433mhz]]
 
-## Bin 25
+## Bin 25 - WiFi Microcontrollers
 
-- [[empty]]
+- [[d1-mini-nodemcu-esp8266-wifi]]
 
 ## Bin 26
 
