@@ -120,6 +120,20 @@ tags: [cabinet, inventory, electronics, components]
 - [[luckylight-kwa-541cvb]]
 - [[luckylight-kwa-541cpgb]]
 
+## Bin 20 - Vintage Seven Segment Displays
+
+- [[vintage-seven-segment-displays]]
+
+## Bin 21 - OLED & TFT Displays
+
+- [[frienda-oled-091-i2c-ssd1306]]
+- [[weewooday-oled-096-i2c-ssd1306]]
+- [[adafruit-mini-pitft-135x240]]
+
+## Bin 22 - FeatherWing Prototyping
+
+- [[featherwing-doubler-prototyping]]
+
 ## Bin 17
 
 ## Bin 18

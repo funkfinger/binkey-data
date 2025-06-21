@@ -44,6 +44,16 @@ This folder contains detailed specifications for each individual electronic comp
 - [[luckylight-kwa-541cvb]]
 - [[luckylight-kwa-541cpgb]]
 - [[kingbright-psa12-11srwa]]
+- [[vintage-seven-segment-displays]]
+
+## OLED Displays
+
+- [[frienda-oled-091-i2c-ssd1306]]
+- [[weewooday-oled-096-i2c-ssd1306]]
+
+## TFT Displays
+
+- [[adafruit-mini-pitft-135x240]]
 
 ## Standard LEDs
 
@@ -79,6 +89,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[music-maker-featherwing]]
 - [[prop-maker-featherwing]]
 - [[dc-motor-stepper-featherwing]]
+- [[featherwing-doubler-prototyping]]
 
 ## Search by Tags
 
