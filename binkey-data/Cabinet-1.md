@@ -156,6 +156,7 @@ tags: [cabinet, inventory, electronics, components]
 ## Bin 26 - RISC-V, ESP32 & ARM Microcontrollers
 
 - [[seeed-xiao-esp32c3]] - 7
+- [[seeed-xiao-esp32s3]] - 3
 - [[adafruit-qt-py-esp32-s2]] - 10
 - [[adafruit-qt-py-esp32-pico]] - 1
 - [[adafruit-qt-py-samd21]] - 5
