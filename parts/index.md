@@ -39,6 +39,11 @@ This folder contains detailed specifications for each individual electronic comp
 - [[5x7-led-display-red]]
 - [[14-segment-led-ht16k33-backpack]]
 - [[quad-alphanumeric-display-white]]
+- [[yetda-red-alphanumeric-display]]
+- [[luckylight-kwa-541cwb-y]]
+- [[luckylight-kwa-541cvb]]
+- [[luckylight-kwa-541cpgb]]
+- [[kingbright-psa12-11srwa]]
 
 ## Standard LEDs
 
@@ -72,6 +77,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[ds3231-rtc-featherwing]]
 - [[adalogger-featherwing]]
 - [[music-maker-featherwing]]
+- [[prop-maker-featherwing]]
+- [[dc-motor-stepper-featherwing]]
 
 ## Search by Tags
 

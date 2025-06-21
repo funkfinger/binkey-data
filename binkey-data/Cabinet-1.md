@@ -100,6 +100,25 @@ tags: [cabinet, inventory, electronics, components]
 - [[ds3231-rtc-featherwing]]
 - [[adalogger-featherwing]]
 - [[music-maker-featherwing]]
+- [[prop-maker-featherwing]]
+- [[dc-motor-stepper-featherwing]]
+
+## Bin 17 - Character Displays
+
+- [[yetda-red-alphanumeric-display]]
+- [[luckylight-kwa-541cwb-y]]
+- [[luckylight-kwa-541cvb]]
+
+## Bin 18 - Large Character Displays
+
+- [[kingbright-psa12-11srwa]]
+- [[luckylight-kwa-541cvb]]
+
+## Bin 19 - Character Displays (White, Red & Green)
+
+- [[luckylight-kwa-541cwb-y]]
+- [[luckylight-kwa-541cvb]]
+- [[luckylight-kwa-541cpgb]]
 
 ## Bin 17
 

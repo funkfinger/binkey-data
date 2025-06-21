@@ -25,7 +25,7 @@ Pomona 5253 2x3 IC Socket Adapter for connecting to small form factor ICs.
 
 ## Image
 
-![Pomona 5253 2x3 IC Socket Adapter](../attachments/MFG_5253_sml (200x200).jpg)
+![Pomona 5253 2x3 IC Socket Adapter](<../attachments/MFG_5253_sml (200x200).jpg>)
 
 ## Tags
 
