@@ -2,7 +2,7 @@
 type: cabinet
 cabinet_number: 1
 total_bins: 44
-populated_bins: 17
+populated_bins: 18
 categories:
   [
     led-backpacks,
@@ -143,9 +143,9 @@ tags: [cabinet, inventory, electronics, components]
 - [[is31fl3731-led-matrix-driver]]
 - [[quad-alphanumeric-display-red]]
 
-## Bin 24
+## Bin 24 - Wireless Microcontrollers
 
-- [[empty]]
+- [[feather-m0-rfm95-lora-900mhz]]
 
 ## Bin 25
 

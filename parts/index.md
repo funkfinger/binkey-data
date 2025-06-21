@@ -84,6 +84,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[5mm-ir-led]]
 - [[adafruit-led-sequin]]
 
+## Feather Boards
+
+- [[feather-m0-rfm95-lora-900mhz]]
+
 ## FeatherWings
 
 - [[ds3231-rtc-featherwing]]
