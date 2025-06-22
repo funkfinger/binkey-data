@@ -100,6 +100,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[adafruit-qt-py-esp32-pico]]
 - [[adafruit-qt-py-samd21]]
 - [[wemos-esp32-s2-mini]]
+- [[lilygo-ttgo-t-display]]
 
 ## FeatherWings
 

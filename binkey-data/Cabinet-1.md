@@ -163,9 +163,10 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-qt-py-samd21]] - 5
 - [[seeed-xiao-samd21]] - 2
 
-## Bin 27 - ESP32-S2 Development Boards
+## Bin 27 - ESP32 Development Boards
 
 - [[wemos-esp32-s2-mini]] - 9
+- [[lilygo-ttgo-t-display]] - 4
 
 ## Bin 28
 

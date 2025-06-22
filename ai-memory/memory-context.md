@@ -29,6 +29,12 @@ This file contains the AI assistant's memory context for the binkey-data project
 - User uses VS Code with the Paste Image extension for editing Markdown files.
 - User prefers VS Code project settings to be configured in the .vscode folder for the Paste Image extension to automatically save images to the attachments directory.
 
+## AI Memory Management
+
+- User prefers AI memory context to be saved in an ai-memory folder and wants to review it before git commit for security reasons.
+- User wants new memories created with the remember tool to also be automatically added to the ai-memory/memory-context.md file to keep it synchronized.
+- User requires strict security measures to ensure absolutely no sensitive or private data gets checked into git, especially in the memory-context.md file.
+
 ## Usage Instructions
 
 To use this memory context:
@@ -39,4 +45,22 @@ To use this memory context:
 
 ## Security Note
 
-This file contains project-specific preferences and workflows but no sensitive information like API keys, passwords, or personal data.
+**CRITICAL**: This file is checked into git and must never contain sensitive or private data.
+
+**Prohibited content includes:**
+
+- API keys, tokens, or credentials
+- Passwords or authentication information
+- Personal identifying information (PII)
+- Private URLs or internal system details
+- Financial or confidential business information
+- Any data that should not be publicly accessible
+
+**Safe content includes:**
+
+- Project structure preferences
+- Workflow patterns and processes
+- Tool configuration preferences
+- General coding patterns and conventions
+
+**Before committing changes to this file, always review the content to ensure no sensitive data has been inadvertently included.**
