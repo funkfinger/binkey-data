@@ -2,7 +2,7 @@
 type: cabinet
 cabinet_number: 1
 total_bins: 44
-populated_bins: 20
+populated_bins: 21
 categories:
   [
     led-backpacks,
@@ -163,9 +163,9 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-qt-py-samd21]] - 5
 - [[seeed-xiao-samd21]] - 2
 
-## Bin 27
+## Bin 27 - ESP32-S2 Development Boards
 
-- [[empty]]
+- [[wemos-esp32-s2-mini]] - 9
 
 ## Bin 28
 
