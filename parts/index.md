@@ -58,6 +58,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[adafruit-mini-pitft-135x240]]
 
+## E-Paper Displays
+
+- [[waveshare-154-epaper-module-200x200]]
+
 ## Standard LEDs
 
 - [[5mm-led-red]]

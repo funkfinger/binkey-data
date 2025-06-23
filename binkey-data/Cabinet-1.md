@@ -217,9 +217,9 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-neopixel-ring-quarter-15-rgbw-cool-white]] - 8
 - [[adafruit-neopixel-rgbw-mini-button-pcb]] - 6
 
-## Bin 34
+## Bin 34 - Display Modules
 
-- [[empty]]
+- [[waveshare-154-epaper-module-200x200]] - 1
 
 ## Bin 35
 
