@@ -22,6 +22,9 @@ Please add the following parts that are uncheck in this file. Please check off t
   - [x] https://www.adafruit.com/product/4062 - 1
   - [x] https://www.adafruit.com/product/3403 - 3
   - [x] https://www.adafruit.com/product/2772 - 1
+  - [x] https://www.adafruit.com/product/5525 - 1
 - Bin 31
-  - [ ] https://www.adafruit.com/product/3405 - 3
-  - [ ]
+  - [x] https://www.adafruit.com/product/3405 - 3
+  - [x] https://www.sparkfun.com/sparkfun-thing-plus-skeleboard-esp32-wroom-u-fl.html - 1
+  - [x] https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-DEVKITC-1U-N8/16162645 - 2
+  - [x] https://a.co/d/ciKueeW - 2

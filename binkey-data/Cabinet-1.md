@@ -192,9 +192,12 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-feather-huzzah-esp8266]] - 6
 - [[adafruit-huzzah-esp8266-breakout]] - 4
 
-## Bin 31
+## Bin 31 - ESP32 Boards
 
-- [[empty]]
+- [[adafruit-huzzah32-esp32-feather]] - 3
+- [[esp32-s3-devkitc-1u-n8]] - 2
+- [[esp-wroom-32-esp32-development-board]] - 2
+- [[sparkfun-thing-plus-skeleboard-esp32-wroom-ufl]] - 1
 
 ## Bin 32 - Raspberry Pi Microcontroller Boards
 
