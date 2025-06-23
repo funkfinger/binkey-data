@@ -79,6 +79,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[5mm-neopixel-rgb-led]]
 - [[adafruit-neopixel-stick-8-led]]
 - [[adafruit-neopixel-ring-quarter-15-rgbw-cool-white]]
+- [[adafruit-neopixel-rgbw-mini-button-pcb-pack-10]]
 - [[rgb-neopixel-led-rings]]
 
 ## Specialty LEDs
