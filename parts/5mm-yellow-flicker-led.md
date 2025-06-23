@@ -26,6 +26,10 @@ tags: [led, yellow, flicker, 5mm, effect]
 
 5mm Yellow Flicker LED that simulates candle flame or fire effect.
 
+## Image
+
+![5mm Yellow Flicker LED](../attachments/5mm-yellow-flicker-led.jpg)
+
 ## Tags
 
 #led #yellow #flicker #5mm #effect

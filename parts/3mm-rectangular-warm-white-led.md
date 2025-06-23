@@ -26,6 +26,10 @@ tags: [led, warm-white, 3mm, rectangular]
 
 3mm Rectangular Warm White LED with rectangular form factor for specific applications.
 
+## Image
+
+![3mm Rectangular Warm White LED](../attachments/3mm-rectangular-warm-white-led.jpg)
+
 ## Tags
 
 #led #warm-white #3mm #rectangular

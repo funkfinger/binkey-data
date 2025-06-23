@@ -24,6 +24,10 @@ tags: [led, white, 5mm, standard]
 
 Standard 5mm white LED for general purpose lighting and indicators.
 
+## Image
+
+![5mm LED White](../attachments/5mm-led-white.jpg)
+
 ## Tags
 
 #led #white #5mm #standard

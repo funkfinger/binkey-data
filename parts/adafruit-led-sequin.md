@@ -24,6 +24,10 @@ tags: [led, adafruit, sequin, wearable, sewable]
 
 Adafruit LED Sequin - small sewable LED module for wearable electronics and craft projects.
 
+## Image
+
+![Adafruit LED Sequin](../attachments/adafruit-led-sequin.jpg)
+
 ## Tags
 
 #led #adafruit #sequin #wearable #sewable

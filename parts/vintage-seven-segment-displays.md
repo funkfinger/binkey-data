@@ -31,6 +31,10 @@ tags: [led-display, seven-segment, vintage, numeric, red, retro]
 - **Quantity**: 28 units
 - **Era**: Vintage/Retro electronics
 
+## Image
+
+![Vintage Seven-Segment Displays](../attachments/vintage-seven-segment-displays.jpg)
+
 ## Description
 
 Collection of 28 vintage seven segment LED displays from various manufacturers and eras. These classic displays represent the early days of digital electronics and are perfect for retro projects, educational demonstrations, or restoration work.

@@ -26,6 +26,10 @@ tags: [led, yellow, flashing, 5mm, blinking]
 
 5mm Yellow Flashing LED that blinks automatically at a regular interval.
 
+## Image
+
+![5mm Yellow Flashing LED](../attachments/5mm-yellow-flashing-led.jpg)
+
 ## Tags
 
 #led #yellow #flashing #5mm #blinking

@@ -25,6 +25,10 @@ tags: [led, ir, infrared, 5mm, sensor]
 
 5mm IR LED for infrared applications, remote controls, and sensor applications.
 
+## Image
+
+![5mm IR LED](../attachments/5mm-ir-led.jpg)
+
 ## Tags
 
 #led #ir #infrared #5mm #sensor

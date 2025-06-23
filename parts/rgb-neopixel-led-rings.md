@@ -24,6 +24,10 @@ tags: [neopixel, led-ring, rgb, addressable, circular]
 
 RGB Neopixel LED Rings with multiple addressable LEDs arranged in a circular pattern.
 
+## Image
+
+![RGB Neopixel LED Rings](../attachments/rgb-neopixel-led-rings.jpg)
+
 ## Tags
 
 #neopixel #led-ring #rgb #addressable #circular

@@ -23,6 +23,10 @@ tags: [led-backpack, ht16k33, adafruit, display-driver]
 
 HT16K33 LED Backpack driver board for LED displays and matrices.
 
+## Image
+
+![HT16K33 LED Backpack](../attachments/ht16k33-led-backpack.jpg)
+
 ## Tags
 
 #led-backpack #ht16k33 #adafruit #display-driver

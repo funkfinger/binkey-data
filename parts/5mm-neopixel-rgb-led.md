@@ -25,6 +25,10 @@ tags: [neopixel, led, rgb, 5mm, addressable]
 
 5mm Neopixel RGB LED with built-in controller for addressable LED applications.
 
+## Image
+
+![5mm Neopixel RGB LED](../attachments/5mm-neopixel-rgb-led.jpg)
+
 ## Tags
 
 #neopixel #led #rgb #5mm #addressable

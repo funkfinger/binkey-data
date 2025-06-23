@@ -26,6 +26,10 @@ tags: [led, white, flicker, 5mm, effect]
 
 5mm White Flicker LED that simulates candle flame or fire effect.
 
+## Image
+
+![5mm White Flicker LED](../attachments/5mm-white-flicker-led.jpg)
+
 ## Tags
 
 #led #white #flicker #5mm #effect

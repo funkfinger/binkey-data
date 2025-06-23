@@ -24,6 +24,10 @@ tags: [led, red, 5mm, standard]
 
 Standard 5mm red LED for general purpose lighting and indicators.
 
+## Image
+
+![5mm LED Red](../attachments/5mm-led-red.jpg)
+
 ## Tags
 
 #led #red #5mm #standard

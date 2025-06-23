@@ -33,6 +33,10 @@ tags: [led-display, alphanumeric, red, 16-segment, kingbright, common-anode]
 - **Quantity**: 8
 - **Product URL**: https://www.digikey.com/en/products/detail/kingbright/psa12-11srwa/17506597
 
+## Image
+
+![Kingbright PSA12-11SRWA Red Alphanumeric Display](../attachments/kingbright-psa12-11srwa.jpg)
+
 ## Description
 
 Kingbright PSA12-11SRWA red alphanumeric LED display with 16-segment configuration for displaying letters, numbers, and symbols. Large 1.2" character display with common anode configuration and high brightness red LEDs.
