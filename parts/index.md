@@ -13,6 +13,7 @@ categories:
     neopixel-leds,
     specialty-leds,
     featherwings,
+    microcontroller-boards,
   ]
 tags: [parts, database, components, electronics, catalog]
 ---
@@ -86,14 +87,31 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Feather Boards
 
+- [[adafruit-feather-32u4-bluefruit-le]]
+- [[adafruit-feather-32u4-fona]]
+- [[adafruit-feather-huzzah-esp8266]]
+- [[adafruit-feather-m0-basic-proto]]
+- [[adafruit-feather-m0-express]]
+- [[adafruit-feather-nrf52840-express]]
+- [[adafruit-feather-rp2040]]
+- [[adafruit-wiced-wifi-feather-stm32f205]]
 - [[feather-m0-rfm95-lora-900mhz]]
 
 ## Microcontroller Boards
 
+- [[adafruit-huzzah-esp8266-breakout]]
+- [[adafruit-itsybitsy-rp2040]]
+- [[adafruit-kb2040-rp2040]]
+- [[adafruit-qt-py-rp2040]]
 - [[d1-mini-nodemcu-esp8266-wifi]]
-- [[sparkfun-qwiic-pro-micro-usb-c]]
+- [[raspberry-pi-pico-2w]]
+- [[raspberry-pi-pico-h]]
 - [[seeed-xiao-esp32c3]]
 - [[seeed-xiao-esp32s3]]
+- [[seeed-xiao-rp2040]]
+- [[sparkfun-pro-micro-rp2040]]
+- [[sparkfun-qwiic-pro-micro-usb-c]]
+- [[waveshare-rp2040-tiny]]
 - [[seeed-xiao-mg24-sense]]
 - [[seeed-xiao-samd21]]
 - [[adafruit-qt-py-esp32-s2]]
@@ -101,6 +119,12 @@ This folder contains detailed specifications for each individual electronic comp
 - [[adafruit-qt-py-samd21]]
 - [[wemos-esp32-s2-mini]]
 - [[lilygo-ttgo-t-display]]
+- [[teensy-3-2]]
+- [[pixelblaze-v3-standard]]
+- [[fadecandy-usb-neopixel-driver]]
+- [[itsybitsy-nrf52840-express]]
+- [[bbc-microbit]]
+- [[particle-photon-headers]]
 
 ## FeatherWings
 

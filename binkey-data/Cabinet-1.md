@@ -2,7 +2,7 @@
 type: cabinet
 cabinet_number: 1
 total_bins: 44
-populated_bins: 21
+populated_bins: 23
 categories:
   [
     led-backpacks,
@@ -16,6 +16,7 @@ categories:
     led-rings,
     alphanumeric-displays,
     featherwings,
+    microcontroller-boards,
   ]
 tags: [cabinet, inventory, electronics, components]
 ---
@@ -168,25 +169,44 @@ tags: [cabinet, inventory, electronics, components]
 - [[wemos-esp32-s2-mini]] - 9
 - [[lilygo-ttgo-t-display]] - 4
 
-## Bin 28
+## Bin 28 - Microcontroller Boards
 
-- [[empty]]
+- [[teensy-3-2]] - 1
+- [[pixelblaze-v3-standard]] - 1
+- [[fadecandy-usb-neopixel-driver]] - 1
+- [[itsybitsy-nrf52840-express]] - 1
+- [[bbc-microbit]] - 1
+- [[particle-photon-headers]] - 1
 
-## Bin 29
+## Bin 29 - Feather Boards
 
-- [[empty]]
+- [[adafruit-feather-32u4-bluefruit-le]] - 1
+- [[adafruit-feather-32u4-fona]] - 2
+- [[adafruit-feather-m0-basic-proto]] - 1
+- [[adafruit-feather-m0-express]] - 3
+- [[adafruit-feather-nrf52840-express]] - 1
+- [[adafruit-wiced-wifi-feather-stm32f205]] - 1
 
-## Bin 30
+## Bin 30 - ESP8266 Boards
 
-- [[empty]]
+- [[adafruit-feather-huzzah-esp8266]] - 6
+- [[adafruit-huzzah-esp8266-breakout]] - 4
 
 ## Bin 31
 
 - [[empty]]
 
-## Bin 32
+## Bin 32 - Raspberry Pi Microcontroller Boards
 
-- [[empty]]
+- [[adafruit-feather-rp2040]] - 1
+- [[adafruit-itsybitsy-rp2040]] - 2
+- [[adafruit-kb2040-rp2040]] - 6
+- [[adafruit-qt-py-rp2040]] - 5
+- [[raspberry-pi-pico-2w]] - 3
+- [[raspberry-pi-pico-h]] - 1
+- [[seeed-xiao-rp2040]] - 1
+- [[sparkfun-pro-micro-rp2040]] - 3
+- [[waveshare-rp2040-tiny]] - 4
 
 ## Bin 33
 
