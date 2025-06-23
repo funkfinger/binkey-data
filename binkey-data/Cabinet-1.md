@@ -214,6 +214,8 @@ tags: [cabinet, inventory, electronics, components]
 ## Bin 33 - LED Modules
 
 - [[adafruit-neopixel-stick-8-led]] - 20+
+- [[adafruit-neopixel-ring-quarter-15-rgbw-cool-white]] - 8
+- [[adafruit-neopixel-ring-quarter-15-rgbw-cool-white]] - 8
 
 ## Bin 34
 
