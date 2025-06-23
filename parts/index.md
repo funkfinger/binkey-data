@@ -77,6 +77,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[8mm-large-rgb-led]]
 - [[5mm-neopixel-rgb-led]]
+- [[adafruit-neopixel-stick-8-led]]
 - [[rgb-neopixel-led-rings]]
 
 ## Specialty LEDs

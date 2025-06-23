@@ -2,7 +2,7 @@
 type: cabinet
 cabinet_number: 1
 total_bins: 44
-populated_bins: 23
+populated_bins: 24
 categories:
   [
     led-backpacks,
@@ -211,9 +211,9 @@ tags: [cabinet, inventory, electronics, components]
 - [[sparkfun-pro-micro-rp2040]] - 3
 - [[waveshare-rp2040-tiny]] - 4
 
-## Bin 33
+## Bin 33 - LED Modules
 
-- [[empty]]
+- [[adafruit-neopixel-stick-8-led]] - 20+
 
 ## Bin 34
 
