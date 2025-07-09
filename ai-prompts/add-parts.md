@@ -2,29 +2,24 @@
 
 Please add the following parts that are uncheck in this file. Please check off the part once added to the inventory system. Thanks
 
-- Bin 32
-  - [x] https://www.adafruit.com/product/5302 - 6
-  - [x] https://www.adafruit.com/product/4888 - 2
-  - [x] https://www.sparkfun.com/sparkfun-pro-micro-rp2040.html - 3
-  - [x] https://www.adafruit.com/product/4900 - 5
-  - [x] https://www.waveshare.com/rp2040-tiny.htm?sku=24665 - 4
-  - [x] https://wiki.seeedstudio.com/XIAO-RP2040/ - 1
-  - [x] https://www.adafruit.com/product/4884 - 1
-  - [x] https://www.adafruit.com/product/5525 - 1
-  - [x] https://www.adafruit.com/product/6087 - 3
-- Bin 30
-  - [x] https://www.adafruit.com/product/2471 - 4
-  - [x] https://www.adafruit.com/product/2821 - 6
-- Bin 29
-  - [x] https://www.adafruit.com/product/2829 - 1
-  - [x] https://www.adafruit.com/product/3056 - 1
-  - [x] https://www.adafruit.com/product/3027 - 2
-  - [x] https://www.adafruit.com/product/4062 - 1
-  - [x] https://www.adafruit.com/product/3403 - 3
-  - [x] https://www.adafruit.com/product/2772 - 1
-  - [x] https://www.adafruit.com/product/5525 - 1
-- Bin 31
-  - [x] https://www.adafruit.com/product/3405 - 3
-  - [x] https://www.sparkfun.com/sparkfun-thing-plus-skeleboard-esp32-wroom-u-fl.html - 1
-  - [x] https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-DEVKITC-1U-N8/16162645 - 2
-  - [x] https://a.co/d/ciKueeW - 2
+- Bin 34
+
+  - [x] https://www.aliexpress.us/item/3256802580414312.html?spm=a2g0o.productlist.main.15.6f051bfaoXrcwe&algo_pvid=c30e5772-3cdf-4e02-bd42-c8e6374c66ac&algo_exp_id=c30e5772-3cdf-4e02-bd42-c8e6374c66ac-14&pdp_ext_f=%7B%22order%22%3A%22394%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%218.84%218.84%21%21%218.84%218.84%21%402103209b17520782629454811ee3e8%2112000043383276409%21sea%21US%21784872495%21X&curPageLogUid=Y6bt19iYkyss&utparam-url=scene%3Asearch%7Cquery_from%3A (2)
+  - [x] https://www.digikey.com/en/products/detail/sunfounder/CN0295D/18668612 (1)
+  - [x] https://a.co/d/0YMI2AM (1)
+  - [x] https://www.sparkfun.com/sparkfun-micro-oled-breakout-qwiic-lcd-22495.html (1)
+  - [x] GameBoy Color LED Screen (1)
+
+- Bin 35
+
+  - [x] https://www.adafruit.com/product/4650 (1)
+  - [x] https://www.adafruit.com/product/2900 (1)
+  - [x] https://www.adafruit.com/product/3315 (1)
+  - [x] https://www.adafruit.com/product/4814 (1)
+
+- Bin 36
+  - [ ] https://www.adafruit.com/product/4242 (2)
+  - [ ] https://www.adafruit.com/product/4200 (1)
+  - [ ] https://www.adafruit.com/product/4400 (1)
+  - [ ] https://www.adafruit.com/product/4500 (1)
+  - [ ] https://www.adafruit.com/product/3900 (1)

@@ -220,10 +220,17 @@ tags: [cabinet, inventory, electronics, components]
 ## Bin 34 - Display Modules
 
 - [[waveshare-154-epaper-module-200x200]] - 1
+- [[sunfounder-cn0295d-1602-i2c-lcd]] - 2
+- [[waveshare-154-epaper-display-200x200]] - 1
+- [[sparkfun-micro-oled-breakout-qwiic]] - 1
+- [[gameboy-color-led-screen]] - 1
 
-## Bin 35
+## Bin 35 - FeatherWing Displays
 
-- [[empty]]
+- [[adafruit-featherwing-oled-128x64-stemma-qt]] - 1
+- [[adafruit-featherwing-oled-128x32]] - 1
+- [[adafruit-tft-featherwing-24-320x240-touchscreen-v2]] - 1
+- [[adafruit-213-hd-tricolor-eink-featherwing]] - 1
 
 ## Bin 36
 

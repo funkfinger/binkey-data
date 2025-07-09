@@ -48,11 +48,14 @@ This folder contains detailed specifications for each individual electronic comp
 - [[luckylight-kwa-541cpgb]]
 - [[kingbright-psa12-11srwa]]
 - [[vintage-seven-segment-displays]]
+- [[sunfounder-cn0295d-1602-i2c-lcd]]
+- [[gameboy-color-led-screen]]
 
 ## OLED Displays
 
 - [[frienda-oled-091-i2c-ssd1306]]
 - [[weewooday-oled-096-i2c-ssd1306]]
+- [[sparkfun-micro-oled-breakout-qwiic]]
 
 ## TFT Displays
 
@@ -61,6 +64,7 @@ This folder contains detailed specifications for each individual electronic comp
 ## E-Paper Displays
 
 - [[waveshare-154-epaper-module-200x200]]
+- [[waveshare-154-epaper-display-200x200]]
 
 ## Standard LEDs
 
@@ -148,6 +152,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[quad-alphanumeric-featherwing-red]]
 - [[charlieplex-led-matrix-featherwing-green]]
 - [[lora-radio-featherwing-rfm95w-433mhz]]
+- [[adafruit-featherwing-oled-128x64-stemma-qt]]
+- [[adafruit-featherwing-oled-128x32]]
+- [[adafruit-tft-featherwing-24-320x240-touchscreen-v2]]
+- [[adafruit-213-hd-tricolor-eink-featherwing]]
 
 ## Search by Tags
 
