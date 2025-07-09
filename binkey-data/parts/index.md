@@ -35,6 +35,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[swd-cable-breakout]]
 - [[segger-jlink-edu-mini]]
 - [[pomona-5253-socket-adapter]]
+- [[waveshare-rp2040-tiny-adapter-flex-cable]]
+- [[avr-6-pin-in-circuit-serial-programming-adapter]]
 
 ## LED Displays
 

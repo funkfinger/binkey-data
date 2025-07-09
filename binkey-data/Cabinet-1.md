@@ -240,9 +240,10 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-clue-nrf52840-express-bluetooth-le]] - 1
 - [[adafruit-hallowing-m0-express]] - 1
 
-## Bin 37
+## Bin 37 - Programming & Development Tools
 
-- [[empty]]
+- [[waveshare-rp2040-tiny-adapter-flex-cable]] - 1
+- [[avr-6-pin-in-circuit-serial-programming-adapter]] - 1
 
 ## Bin 38
 

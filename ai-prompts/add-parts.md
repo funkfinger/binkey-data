@@ -26,8 +26,15 @@ Please add the following parts that are uncheck in this file. Please check off t
   - [x] https://www.adafruit.com/product/3900 (1)
 
 - Bin 37
+
   - [ ] https://www.digikey.com/en/products/detail/microchip-technology/ATATMEL-ICE/4753379 (1)
   - [ ] https://www.adafruit.com/product/46 (1)
   - [ ] https://artofcircuits.com/product/usbasp-v2-0-programmer-for-atmel-microcontrollers (1)
-  - [ ] rp2040-tiny-adapter
+  - [x] WaveShare RP2040-Tiny-Adapter with flex cable (1)
   - [ ] AVR Dragon Adapters (8)
+  - [x] AVR 6 Pin In-Circuit Serial Programming Adapter (1)
+
+- Bin 38
+  - [ ] https://www.microchip.com/en-us/development-tool/atavrdragon (2)
+  - [ ] https://www.tindie.com/products/makersbox/yet-another-programming-shield/ (1)
+  - [ ] WaveShare RP2040-Tiny-Adapter with flex cable (4)
