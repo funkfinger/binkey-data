@@ -18,8 +18,16 @@ Please add the following parts that are uncheck in this file. Please check off t
   - [x] https://www.adafruit.com/product/4814 (1)
 
 - Bin 36
-  - [ ] https://www.adafruit.com/product/4242 (2)
-  - [ ] https://www.adafruit.com/product/4200 (1)
-  - [ ] https://www.adafruit.com/product/4400 (1)
-  - [ ] https://www.adafruit.com/product/4500 (1)
-  - [ ] https://www.adafruit.com/product/3900 (1)
+
+  - [x] https://www.adafruit.com/product/4242 (2)
+  - [x] https://www.adafruit.com/product/4200 (1)
+  - [x] https://www.adafruit.com/product/4400 (1)
+  - [x] https://www.adafruit.com/product/4500 (1)
+  - [x] https://www.adafruit.com/product/3900 (1)
+
+- Bin 37
+  - [ ] https://www.digikey.com/en/products/detail/microchip-technology/ATATMEL-ICE/4753379 (1)
+  - [ ] https://www.adafruit.com/product/46 (1)
+  - [ ] https://artofcircuits.com/product/usbasp-v2-0-programmer-for-atmel-microcontrollers (1)
+  - [ ] rp2040-tiny-adapter
+  - [ ] AVR Dragon Adapters (8)

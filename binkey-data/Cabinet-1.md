@@ -232,9 +232,13 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-tft-featherwing-24-320x240-touchscreen-v2]] - 1
 - [[adafruit-213-hd-tricolor-eink-featherwing]] - 1
 
-## Bin 36
+## Bin 36 - Gaming & Development Boards
 
-- [[empty]]
+- [[adafruit-pygamer-samd51]] - 1
+- [[adafruit-pybadge-makecode-arcade-circuitpython-arduino]] - 1
+- [[adafruit-edgebadge-tensorflow-lite-microcontrollers]] - 1
+- [[adafruit-clue-nrf52840-express-bluetooth-le]] - 1
+- [[adafruit-hallowing-m0-express]] - 1
 
 ## Bin 37
 
