@@ -196,37 +196,25 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[rotary-encoders-input-devices]] - PEC11L-4120F-S0020 Rotary Encoders (5)
 
-## Bin 25
+## Bin 33 - LED Matrices & Prototyping Boards
 
-- [[empty]]
+- [[led-matrices-displays]] - Adafruit NeoPixel NeoMatrix 8x8 (4)
+- [[prototyping-boards-breadboards]] - Snappable Protoboard 90mm x 96mm (5)
 
-## Bin 26
+## Bin 34 - Prototyping Boards
 
-- [[empty]]
+- [[prototyping-boards-breadboards]] - Various Protoboards (Mixed)
 
-## Bin 27
+## Bin 35 - RFID/NFC Modules
 
-- [[empty]]
+- [[rfid-nfc-modules]] - SunFounder RC522 RFID Reader Modules (7)
+- [[rfid-nfc-modules]] - Adafruit ST25DV16K I2C RFID EEPROM Breakout (1)
+- [[rfid-nfc-modules]] - NFC Cards (5+)
+- [[rfid-nfc-modules]] - NFC Fobs (5+)
 
-## Bin 28
+## Bin 36 - AA Battery Holders
 
-- [[empty]]
-
-## Bin 29
-
-- [[empty]]
-
-## Bin 30
-
-- [[empty]]
-
-## Bin 31
-
-- [[empty]]
-
-## Bin 32
-
-- [[empty]]
+- [[battery-products]] - 3x AA Battery Holder with On/Off Switch and JST (6)
 
 ## Bin 33
 

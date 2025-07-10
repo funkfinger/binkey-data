@@ -228,6 +228,24 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[rotary-encoders-input-devices]]
 
+## Displays
+
+### LED Matrices & Visual Displays
+
+- [[led-matrices-displays]]
+
+## Prototyping & Development
+
+### Prototyping Boards & Breadboards
+
+- [[prototyping-boards-breadboards]]
+
+## Wireless & Communication
+
+### RFID & NFC Modules
+
+- [[rfid-nfc-modules]]
+
 ## Power Management
 
 ### Voltage Regulators
