@@ -61,94 +61,86 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[diodes-mixed-collection]] - 1N4733A Zener 5.1V (20+)
 - [[diodes-mixed-collection]] - 1N5226B Zener 3.3V (20+)
 
-## Bin 9 - Linear Voltage Regulators
+## Bin 9
 
-- [[power-management-modules]] - AMS1117-3.3 Regulators (20)
-- [[power-management-modules]] - L78L05ABZ Regulators (10)
+- [[empty]]
 
-## Bin 10 - Buck Converter Modules
+## Bin 10
 
-- [[power-management-modules]] - MPM3610-5V Buck Modules (5)
-- [[power-management-modules]] - Generic Buck Converters (10+)
+- [[empty]]
 
-## Bin 11 - Mixed Power Modules
+## Bin 11
 
-- [[power-management-modules]] - Step-down Modules (5+)
-- [[power-management-modules]] - Power Supplies (5+)
+- [[empty]]
 
-## Bin 12 - Mixed Capacitors
+## Bin 12
 
-- [[capacitors-mixed-collection]] - Ceramic Capacitors (200+)
-- [[capacitors-mixed-collection]] - Electrolytic Capacitors (150+)
-- [[capacitors-mixed-collection]] - Tantalum Capacitors (100+)
-- [[capacitors-mixed-collection]] - Film/Polyester Capacitors (50+)
+- [[empty]]
 
-## Bin 13 - Voltage Regulators & Boost Converters
+## Bin 13
 
-- [[voltage-regulators-boost-converters]] - MT3608 Boost Modules (10)
-- [[voltage-regulators-boost-converters]] - USB 5V Boost Modules (4)
-- [[voltage-regulators-boost-converters]] - Step-up Modules (4)
-- [[voltage-regulators-boost-converters]] - Generic Regulators (5+)
-
-## Bin 14 - Battery Holders
-
-- [[battery-products]] - BH23APC A23 Holders (10)
-- [[battery-products]] - CR2032 Coin Cell Holders (20+)
-- [[battery-products]] - AA Battery Holders (15+)
-- [[battery-products]] - AAA Battery Holders (10+)
-- [[battery-products]] - 9V Battery Clips (5+)
-
-## Bin 15 - Batteries
-
-- [[battery-products]] - A23 Alkaline Batteries (20+)
-- [[battery-products]] - CR2032 Lithium Batteries (30+)
-- [[battery-products]] - AA Alkaline Batteries (20+)
-- [[battery-products]] - AAA Alkaline Batteries (15+)
-- [[battery-products]] - 9V Alkaline Batteries (10+)
+- [[empty]]
 
 ## Bin 14
 
 - [[empty]]
 
-## Bin 15
+## Bin 15 - Buck Converters & Power Modules
 
-- [[empty]]
+- [[power-management-modules]] - MT3608 Boost Modules (18)
+- [[power-management-modules]] - MPM3610-5V Buck Modules (6)
+- [[power-management-modules]] - L78L05ABZ Regulators (25)
+- [[power-management-modules]] - Generic Buck Converters (4)
+- USB-C Breakout Boards (4)
+- USB-Micro Breakout Boards (19)
 
-## Bin 16
+## Bin 16 - Battery Clips
 
-- [[empty]]
+- [[battery-products]] - Double CR2032 Battery Clips
 
-## Bin 17
+## Bin 17 - Through Hole Capacitors (Small Values)
 
-- [[empty]]
+- [[capacitors-mixed-collection]] - 0.1µF Through Hole Capacitors (20+)
+- [[capacitors-mixed-collection]] - 0.012µF Through Hole Capacitors (10+)
+- [[capacitors-mixed-collection]] - 10µF Through Hole Capacitors (10+)
+- [[capacitors-mixed-collection]] - 1µF Through Hole Capacitors (5+)
+- [[capacitors-mixed-collection]] - 22pF Through Hole Capacitors (4)
+- [[capacitors-mixed-collection]] - 0.47µF Through Hole Capacitors (8)
+- [[capacitors-mixed-collection]] - 0.047µF Through Hole Capacitors (2)
+- [[capacitors-mixed-collection]] - 150pF Through Hole Capacitors (10+)
 
-## Bin 18
+## Bin 18 - Through Hole Capacitors (Mixed)
 
-- [[empty]]
+- [[capacitors-mixed-collection]] - 150pF Through Hole Capacitors (20+)
+- [[capacitors-mixed-collection]] - Misc Through Hole Capacitors (20+)
 
-## Bin 19
+## Bin 19 - Through Hole Capacitors (Medium Values)
 
-- [[empty]]
+- [[capacitors-mixed-collection]] - 47µF Through Hole Capacitors (20+)
+- [[capacitors-mixed-collection]] - 4.7µF Radial Capacitors (10+)
 
-## Bin 20
+## Bin 20 - Through Hole Capacitors (Large Values)
 
-- [[empty]]
+- [[capacitors-mixed-collection]] - 100µF Through Hole Capacitors (20+)
 
-## Bin 21
+## Bin 21 - Battery Holders
 
-- [[empty]]
+- [[battery-products]] - BH23APC A23 Battery Holders (10)
 
-## Bin 22
+## Bin 22 - Barrel Connectors
 
-- [[empty]]
+- Various Barrel Connectors
 
-## Bin 23
+## Bin 23 - Coin Cell Batteries & Holders
 
-- [[empty]]
+- [[battery-products]] - 303/357/76 Coin Cell Batteries (Silver Oxide) (3)
+- [[battery-products]] - CR2032 Coin Cell Batteries (4)
+- [[battery-products]] - CR2032 Coin Cell Batteries with leads (10+)
+- [[battery-products]] - CR2032 Coin Cell Battery Holder (1)
 
-## Bin 24
+## Bin 24 - Coin Cell Batteries
 
-- [[empty]]
+- [[battery-products]] - CR2477 Coin Cell Batteries (9)
 
 ## Bin 25
 
