@@ -42,17 +42,24 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[resistor-arrays-networks]] - L081S221LF (20+)
 - [[resistor-arrays-networks]] - Assorted Arrays (10+)
 
-## Bin 6
+## Bin 6 - Trim Potentiometers & Rectifier Diodes
 
-- [[empty]]
+- [[potentiometers-trim-pots]] - Trim Pots 100Ω-500KΩ (60+)
+- [[diodes-mixed-collection]] - 1N4007 Rectifier Diodes (50+)
+- [[diodes-mixed-collection]] - 1N5807 Rectifier Diodes (20+)
 
-## Bin 7
+## Bin 7 - Through-Hole Potentiometers & Signal Diodes
 
-- [[empty]]
+- [[potentiometers-trim-pots]] - 100KΩ Through-hole Pots (20+)
+- [[diodes-mixed-collection]] - 1N4148 Switching Diodes (100+)
+- [[diodes-mixed-collection]] - BAT43 Schottky Diodes (50+)
+- [[diodes-mixed-collection]] - 1N5818 Schottky Diodes (30+)
 
-## Bin 8
+## Bin 8 - High-Value Potentiometers & Zener Diodes
 
-- [[empty]]
+- [[potentiometers-trim-pots]] - 500KΩ Through-hole Pots (10+)
+- [[diodes-mixed-collection]] - 1N4733A Zener 5.1V (20+)
+- [[diodes-mixed-collection]] - 1N5226B Zener 3.3V (20+)
 
 ## Bin 9
 
@@ -70,9 +77,12 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[empty]]
 
-## Bin 13
+## Bin 13 - Voltage Regulators & Boost Converters
 
-- [[empty]]
+- [[voltage-regulators-boost-converters]] - MT3608 Boost Modules (10)
+- [[voltage-regulators-boost-converters]] - USB 5V Boost Modules (4)
+- [[voltage-regulators-boost-converters]] - Step-up Modules (4)
+- [[voltage-regulators-boost-converters]] - Generic Regulators (5+)
 
 ## Bin 14
 

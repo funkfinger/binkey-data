@@ -198,6 +198,20 @@ This folder contains detailed specifications for each individual electronic comp
 - [[axial-through-hole-resistors]]
 - [[resistor-arrays-networks]]
 
+### Potentiometers
+
+- [[potentiometers-trim-pots]]
+
+### Diodes
+
+- [[diodes-mixed-collection]]
+
+## Power Management
+
+### Voltage Regulators
+
+- [[voltage-regulators-boost-converters]]
+
 ## Adapters & Cables
 
 - [[usb-c-to-usb-a-adapter-pack]]
