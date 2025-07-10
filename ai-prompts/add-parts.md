@@ -2,10 +2,8 @@
 
 Please add the following parts that are uncheck in this file. Please check off the part once added to the inventory system. Thanks
 
-- Bin 41
-  - [x] https://store-usa.arduino.cc/products/arduino-uno-rev3 (2)
-  - [x] https://www.adafruit.com/product/1501 (2)
-  - [x] https://www.adafruit.com/product/51 (1)
-  - [x] Arduino Uno Proto Shield (4)
-  - [x] https://www.adafruit.com/product/3382 (1)
-  - [x] https://www.adafruit.com/product/3505 (1)
+- Bin 42
+  - [x] https://wiki.iteadstudio.com/Arduino_1602_LCD_Shield (2)
+  - [x] https://docs.arduino.cc/retired/shields/arduino-ethernet-shield-without-poe-module/ (1)
+  - [x] https://seeeddoc.github.io/Music_Shield_V1.0/ (1)
+  - [x] Random Arduino Proto Shield - Partially populated (2)

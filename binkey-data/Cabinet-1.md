@@ -279,9 +279,12 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-metro-m4-express]] - 1
 - [[adafruit-metro-m0-express]] - 1
 
-## Bin 42
+## Bin 42 - Arduino Shields & Interface Boards
 
-- [[empty]]
+- [[arduino-1602-lcd-shield]] - 2
+- [[arduino-ethernet-shield-without-poe]] - 1
+- [[seeed-music-shield-v1]] - 1
+- [[arduino-proto-shield-partially-populated]] - 2
 
 ## Bin 43
 

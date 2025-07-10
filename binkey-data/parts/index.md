@@ -176,6 +176,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[adafruit-proto-shield-arduino-kit-v5]]
 - [[arduino-uno-proto-shield]]
+- [[arduino-1602-lcd-shield]]
+- [[arduino-ethernet-shield-without-poe]]
+- [[seeed-music-shield-v1]]
+- [[arduino-proto-shield-partially-populated]]
 
 ## Adapters & Cables
 
