@@ -3,7 +3,7 @@ title: Cabinet 3 Inventory
 description: Electronics component inventory for Cabinet 3 - Sensors, Cables, and Specialty Components
 cabinet: 3
 total_bins: 50
-populated_bins: 5
+populated_bins: 13
 last_updated: 2025-01-10
 categories:
   [
@@ -13,6 +13,11 @@ categories:
     jst-cables,
     stepper-motor-cables,
     specialty-components,
+    wifi-modules,
+    wireless-modules,
+    rf-components,
+    power-management,
+    power-semiconductors,
   ]
 tags: [cabinet, inventory, electronics, components, sensors, cables]
 ---
@@ -86,37 +91,43 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[empty]]
 
-## Bin 17
+## Bin 17 - WiFi Modules
 
-- [[empty]]
+- [[itead-psf-wifi-modules]] - ITEAD PSF-A85 WiFi Modules (5)
+- [[itead-psf-wifi-modules]] - ITEAD PSF-B85 WiFi Modules (5)
 
-## Bin 18
+## Bin 18 - Wireless Modules
 
-- [[empty]]
+- [[nrf24l01-wireless-modules]] - Standard nRF24L01+ Modules (10)
+- [[nrf24l01-wireless-modules]] - PA+LNA nRF24L01+ Modules (3)
+- [[nrf24l01-wireless-modules]] - Breakout Adapters with 3.3V Regulators (3)
 
-## Bin 19
+## Bin 19 - Miscellaneous Wireless Boards
 
-- [[empty]]
+- [[misc-wireless-boards]] - Various Wireless Development Boards (10+)
 
-## Bin 20
+## Bin 20 - RF Antennas
 
-- [[empty]]
+- [[rf-antennas-collection]] - Various RF Antennas (15+)
 
-## Bin 21
+## Bin 21 - Transistors
 
-- [[empty]]
+- [[misc-transistors-collection]] - Miscellaneous Transistors (50+)
 
 ## Bin 22
 
 - [[empty]]
 
-## Bin 23
+## Bin 23 - Voltage Regulators
 
-- [[empty]]
+- [[voltage-regulators-collection]] - Texas Instruments Voltage Regulators (15+)
+- [[voltage-regulators-collection]] - STMicroelectronics Voltage Regulators (10+)
 
-## Bin 24
+## Bin 24 - Power Transistors
 
-- [[empty]]
+- [[power-transistors-collection]] - TIP120 Darlington Transistors (5+)
+- [[power-transistors-collection]] - IRF840PBF Power MOSFETs (5+)
+- [[power-transistors-collection]] - FQPF9N90CT Power MOSFETs (5+)
 
 ## Bin 25
 
