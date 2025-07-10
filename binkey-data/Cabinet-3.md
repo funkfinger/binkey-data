@@ -36,7 +36,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 4 - Specialty Components
 
-- [[sparkfun-14495-component]] - 4
+- [[sparkfun-qwii c-adapter-14495]] - 4
 
 ## Bin 5 - STEMMA QT/Qwiic Cables
 
