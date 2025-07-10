@@ -14,6 +14,9 @@ categories:
     specialty-leds,
     featherwings,
     microcontroller-boards,
+    temperature-sensors,
+    connector-boards,
+    cables-connectors,
   ]
 tags: [parts, database, components, electronics, catalog]
 ---
@@ -293,6 +296,24 @@ This folder contains detailed specifications for each individual electronic comp
 ### SMT Optoelectronics
 
 - [[smt-leds]]
+
+## Temperature Sensors
+
+- [[10k-glass-thermistors]]
+
+## Connector Boards
+
+- [[sparkfun-qwiic-adapter-14495]]
+
+## Cables & Connectors
+
+### I2C Cables
+
+- [[stemma-qt-qwiic-cables]]
+
+### Motor & Power Cables
+
+- [[motor-and-jst-cables]]
 
 ## Adapters & Cables
 

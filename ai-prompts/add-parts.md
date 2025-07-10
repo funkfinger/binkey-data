@@ -4,15 +4,23 @@ Please add the following parts that are uncheck in this file. Please check off t
 
 ## AI NOTE: if the line has (AI: please look up), please search the web for this item and add any relevant information.
 
-# Cabinet 2
+# Cabinet 3 - COMPLETED ✓
 
-- Bin 41
-  - [x] Various Crimp-able Connectors
-- Bin 42
-  - [x] empty
-- Bin 43
-  - [x] Misc SMT Components - resistors and capacitors
-- Bin 44
-  - [x] Misc SMT LEDs
-
-**THATS ALL of Cabinet 2! Yay!**
+- Bin 1
+  - ✓ 10k glass thermistor - similar to https://www.digikey.com/en/products/detail/cantherm/MF58103F3380/1840607 (50+)
+- Bin 2
+  - STEMMA QT / Qwiic Breadboard Cables
+    - ✓ https://www.adafruit.com/product/4209 (5+)
+    - ✓ https://www.adafruit.com/product/4397 (5+)
+- Bin 3
+  - empty
+- Bin 4
+  - ✓ https://www.digikey.com/en/products/detail/sparkfun-electronics/14495/7942483 (4)
+- Bin 5
+  - ✓ STEMMA QT / Qwiic Cables (10+)
+- Bin 6
+  - ✓ Stepper Motor cables - 4 conductor (4+)
+- Bin 7
+  - empty
+- Bin 8
+  - ✓ JST 4 Conductor Cables (5+)
