@@ -191,6 +191,12 @@ This folder contains detailed specifications for each individual electronic comp
 - [[adafruit-crickit-circuit-playground]]
 - [[circuit-playground-enclosure]]
 
+## Passive Components
+
+### Resistors
+
+- [[axial-through-hole-resistors]]
+
 ## Adapters & Cables
 
 - [[usb-c-to-usb-a-adapter-pack]]
