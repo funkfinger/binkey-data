@@ -42,50 +42,65 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[resistor-arrays-networks]] - L081S221LF (20+)
 - [[resistor-arrays-networks]] - Assorted Arrays (10+)
 
-## Bin 6 - Trim Potentiometers & Rectifier Diodes
+## Bin 6 - Trim Potentiometers
 
-- [[potentiometers-trim-pots]] - Trim Pots 100Ω-500KΩ (60+)
-- [[diodes-mixed-collection]] - 1N4007 Rectifier Diodes (50+)
-- [[diodes-mixed-collection]] - 1N5807 Rectifier Diodes (20+)
+- [[potentiometers-trim-pots]] - 100Ω (101) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 200Ω (201) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 500Ω (501) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 1KΩ (102) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 2KΩ (202) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 5KΩ (502) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 10KΩ (103) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 20KΩ (203) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 50KΩ (503) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 100KΩ (104) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 200KΩ (204) Trim Pots (5+)
+- [[potentiometers-trim-pots]] - 500KΩ (504) Trim Pots (5+)
 
-## Bin 7 - Through-Hole Potentiometers & Signal Diodes
+## Bin 7 - Through-Hole Potentiometers
 
 - [[potentiometers-trim-pots]] - 100KΩ Through-hole Pots (20+)
-- [[diodes-mixed-collection]] - 1N4148 Switching Diodes (100+)
-- [[diodes-mixed-collection]] - BAT43 Schottky Diodes (50+)
-- [[diodes-mixed-collection]] - 1N5818 Schottky Diodes (30+)
 
-## Bin 8 - High-Value Potentiometers & Zener Diodes
+## Bin 8 - High-Value Through-Hole Potentiometers
 
 - [[potentiometers-trim-pots]] - 500KΩ Through-hole Pots (10+)
-- [[diodes-mixed-collection]] - 1N4733A Zener 5.1V (20+)
-- [[diodes-mixed-collection]] - 1N5226B Zener 3.3V (20+)
 
-## Bin 9
+## Bin 9 - Rectifier & Switching Diodes
 
-- [[empty]]
+- [[diodes-mixed-collection]] - 1N5807 Rectifier Diodes (20+)
+- [[diodes-mixed-collection]] - 1N4148 Switching Diodes (20+)
 
-## Bin 10
+## Bin 10 - Schottky Diodes
 
-- [[empty]]
+- [[diodes-mixed-collection]] - BAT43 Schottky Diodes (20+)
+- [[diodes-mixed-collection]] - 1N5818 Schottky Diodes (20+)
 
-## Bin 11
+## Bin 11 - Zener & Signal Diodes
 
-- [[empty]]
+- [[diodes-mixed-collection]] - 1N4733A Zener 5.1V Diodes (10)
+- [[diodes-mixed-collection]] - 1N5226B Zener 3.3V Diodes (10)
+- [[diodes-mixed-collection]] - Unknown Signal Diodes (20+)
 
-## Bin 12
+## Bin 12 - Generic Diodes
 
-- [[empty]]
+- [[diodes-mixed-collection]] - Generic Diodes (50+)
 
-## Bin 13
+## Bin 13 - Voltage Regulators & Boost Converters
 
-- [[empty]]
+- [[voltage-regulators-boost-converters]] - MT3608 Boost Modules (10)
+- [[voltage-regulators-boost-converters]] - USB 5V Boost Modules (4)
+- [[voltage-regulators-boost-converters]] - Step-up Modules (4)
+- [[voltage-regulators-boost-converters]] - Various Voltage Regulators (5)
 
-## Bin 14
+## Bin 14 - Battery Holders (Original Organization)
 
-- [[empty]]
+- [[battery-products]] - BH23APC A23 Holders (10)
+- [[battery-products]] - CR2032 Coin Cell Holders (20+)
+- [[battery-products]] - AA Battery Holders (15+)
+- [[battery-products]] - AAA Battery Holders (10+)
+- [[battery-products]] - 9V Battery Clips (5+)
 
-## Bin 15 - Buck Converters & Power Modules
+## Bin 15 - Buck Converters & Power Modules (Your Organization)
 
 - [[power-management-modules]] - MT3608 Boost Modules (18)
 - [[power-management-modules]] - MPM3610-5V Buck Modules (6)
