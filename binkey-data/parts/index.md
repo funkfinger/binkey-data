@@ -301,6 +301,29 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[10k-glass-thermistors]]
 
+## Motion & Proximity Sensors
+
+- [[hall-effect-sensors-and-tilt-switches]]
+- [[motion-and-proximity-sensors-collection]]
+- [[adafruit-vl53l1x-time-of-flight-sensor]]
+
+## Camera Modules & Vision Sensors
+
+- [[openmv-cam-h7-r2]]
+- [[pixy2-camera]]
+- [[adafruit-tcs34725-color-sensor]]
+
+## Environmental Sensors
+
+- [[temperature-environmental-sensors-collection]]
+- [[moisture-water-sensors-collection]]
+
+## Integrated Circuits
+
+### Operational Amplifiers
+
+- [[operational-amplifiers-collection]]
+
 ## Connector Boards
 
 - [[sparkfun-qwiic-adapter-14495]]

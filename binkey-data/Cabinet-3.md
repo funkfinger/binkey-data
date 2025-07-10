@@ -59,37 +59,44 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[motor-and-jst-cables]] - JST 4-Conductor Cables (5+)
 
-## Bin 9
+## Bin 9 - Bluetooth and RTC Modules
 
-- [[empty]]
+- [[bluetooth-and-rtc-modules]] - Adafruit Bluefruit EZ-Key (1)
+- [[bluetooth-and-rtc-modules]] - Adafruit Bluefruit LE nRF8001 (1)
+- [[bluetooth-and-rtc-modules]] - Adafruit DS3231 Precision RTC (2)
+- [[bluetooth-and-rtc-modules]] - Macetech ChronoDot (1)
 
-## Bin 10
+## Bin 10 - Educational Electronics
 
-- [[empty]]
+- [[chibitronics-educational-electronics]] - Chibitronics Circuit Stickers Kit (1)
 
-## Bin 11
+## Bin 11 - Optical Components
 
-- [[empty]]
+- [[laser-diodes-and-optical-mirrors]] - Small Laser Diodes (5+)
+- [[laser-diodes-and-optical-mirrors]] - First Surface Mirrors (5+)
 
-## Bin 12
+## Bin 12 - CAN Bus Modules
 
-- [[empty]]
+- [[hiletgo-mcp2515-can-bus-modules]] - HiLetgo MCP2515 CAN Bus Modules (5)
 
-## Bin 13
+## Bin 13 - Voltage Regulators & Boost Converters
 
-- [[empty]]
+- [[voltage-regulators-boost-converters]] - MT3608 Boost Modules (10)
+- [[voltage-regulators-boost-converters]] - USB 5V Boost Modules (4)
+- [[voltage-regulators-boost-converters]] - Step-up Modules (4)
+- [[voltage-regulators-boost-converters]] - Various Voltage Regulators (5)
 
-## Bin 14
+## Bin 14 - 3-Pin JST Cables
 
-- [[empty]]
+- [[jst-cables-and-connectors]] - 3-Pin JST Cables (5+)
 
-## Bin 15
+## Bin 15 - 2-Pin JST Cables
 
-- [[empty]]
+- [[jst-cables-and-connectors]] - 2-Pin JST Cables (10+)
 
-## Bin 16
+## Bin 16 - 2-Pin JST Sockets
 
-- [[empty]]
+- [[jst-cables-and-connectors]] - 2-Pin JST Sockets (10+)
 
 ## Bin 17 - WiFi Modules
 
@@ -135,31 +142,41 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 26
 
-- [[empty]]
+- [[a1301-a1302-hall-effect-sensors]] - A1301/A1302 Hall Effect Sensors (10)
+- [[radial-tilt-switches]] - Radial Tilt Switches (20+)
 
 ## Bin 27
 
-- [[empty]]
+- [[openmv-cam-h7-r2]] - OpenMV Cam H7 R2 (1)
+- [[pixy2-camera]] - Pixy2 Camera (2)
+- [[adafruit-tcs34725-color-sensor]] - Adafruit TCS34725 RGB Color Sensor (6)
 
 ## Bin 28
 
-- [[empty]]
+- [[pololu-minimu-9-v3]] - Pololu MinIMU-9 v3 (1)
+- [[sparkfun-l3g4200d-gyro]] - SparkFun L3G4200D Gyro (1)
+- [[adafruit-lsm6ds33-6dof-imu]] - Adafruit LSM6DS33 6-DoF IMU (2)
+- [[adafruit-lsm9ds1-9dof-imu]] - Adafruit LSM9DS1 9-DoF IMU (1)
+- [[adafruit-lis3dh-accelerometer]] - Adafruit LIS3DH Accelerometer (2)
+- [[adafruit-lsm303agr-accelerometer-magnetometer]] - Adafruit LSM303AGR (1)
+- [[adafruit-adxl343-accelerometer]] - Adafruit ADXL343 (2)
+- [[misc-pir-sensors-and-tilt-sensors]] - Misc PIR Sensors and Tilt Sensors (10+)
 
 ## Bin 29
 
-- [[empty]]
+- [[environmental-sensors-collection-bin29]] - Environmental Sensors Collection (15+)
 
 ## Bin 30
 
-- [[empty]]
+- [[water-level-and-soil-moisture-sensors]] - Water Level and Soil Moisture Sensors (9)
 
 ## Bin 31
 
-- [[empty]]
+- [[adafruit-vl53l0x-time-of-flight-sensor]] - Adafruit VL53L0X Time of Flight Distance Sensor (1)
 
 ## Bin 32
 
-- [[empty]]
+- [[operational-amplifiers-collection-bin32]] - Operational Amplifiers Collection (15+)
 
 ## Bin 33
 

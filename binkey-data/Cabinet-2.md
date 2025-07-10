@@ -65,25 +65,25 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[potentiometers-trim-pots]] - 500KΩ Through-hole Pots (10+)
 
-## Bin 9 - Bluetooth and RTC Modules
+## Bin 9 - Rectifier & Switching Diodes
 
-- [[bluetooth-and-rtc-modules]] - Adafruit Bluefruit EZ-Key (1)
-- [[bluetooth-and-rtc-modules]] - Adafruit Bluefruit LE nRF8001 (1)
-- [[bluetooth-and-rtc-modules]] - Adafruit DS3231 Precision RTC (2)
-- [[bluetooth-and-rtc-modules]] - Macetech ChronoDot (1)
+- [[diodes-mixed-collection]] - 1N5807 Rectifier Diodes (20+)
+- [[diodes-mixed-collection]] - 1N4148 Switching Diodes (20+)
 
-## Bin 10 - Educational Electronics
+## Bin 10 - Schottky Diodes
 
-- [[chibitronics-educational-electronics]] - Chibitronics Circuit Stickers Kit (1)
+- [[diodes-mixed-collection]] - BAT43 Schottky Diodes (20+)
+- [[diodes-mixed-collection]] - 1N5818 Schottky Diodes (20+)
 
-## Bin 11 - Optical Components
+## Bin 11 - Zener & Signal Diodes
 
-- [[laser-diodes-and-optical-mirrors]] - Small Laser Diodes (5+)
-- [[laser-diodes-and-optical-mirrors]] - First Surface Mirrors (5+)
+- [[diodes-mixed-collection]] - 1N4733A Zener 5.1V Diodes (10)
+- [[diodes-mixed-collection]] - 1N5226B Zener 3.3V Diodes (10)
+- [[diodes-mixed-collection]] - Unknown Signal Diodes (20+)
 
-## Bin 12 - CAN Bus Modules
+## Bin 12 - Generic Diodes
 
-- [[hiletgo-mcp2515-can-bus-modules]] - HiLetgo MCP2515 CAN Bus Modules (5)
+- [[diodes-mixed-collection]] - Generic Diodes (50+)
 
 ## Bin 13 - Voltage Regulators & Boost Converters
 
@@ -92,17 +92,22 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[voltage-regulators-boost-converters]] - Step-up Modules (4)
 - [[voltage-regulators-boost-converters]] - Various Voltage Regulators (5)
 
-## Bin 14 - 3-Pin JST Cables
+## Bin 14 - Battery Holders (Original Organization)
 
-- [[jst-cables-and-connectors]] - 3-Pin JST Cables (5+)
+- [[empty]]
 
-## Bin 15 - 2-Pin JST Cables
+## Bin 15 - Buck Converters & Power Modules (Your Organization)
 
-- [[jst-cables-and-connectors]] - 2-Pin JST Cables (10+)
+- [[power-management-modules]] - MT3608 Boost Modules (18)
+- [[power-management-modules]] - MPM3610-5V Buck Modules (6)
+- [[power-management-modules]] - L78L05ABZ Regulators (25)
+- [[power-management-modules]] - Generic Buck Converters (4)
+- USB-C Breakout Boards (4)
+- USB-Micro Breakout Boards (19)
 
-## Bin 16 - 2-Pin JST Sockets
+## Bin 16 - Battery Clips
 
-- [[jst-cables-and-connectors]] - 2-Pin JST Sockets (10+)
+- [[battery-products]] - Double CR2032 Battery Clips
 
 ## Bin 17 - Through Hole Capacitors (Small Values)
 

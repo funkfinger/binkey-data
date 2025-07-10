@@ -24,10 +24,15 @@ This file contains the AI assistant's memory context for the binkey-data project
 
 ## Attachments Directory and VS Code Configuration
 
-- The attachments directory is located in the binkey-data folder at the root of the file structure in this codebase.
+- The attachments directory is located at binkey-data/binkey-data/attachments/ not at the root level.
 - User prefers images pasted into documents to automatically go into the attachments directory and is looking for configuration options to enable this behavior.
 - User uses VS Code with the Paste Image extension for editing Markdown files.
 - User prefers VS Code project settings to be configured in the .vscode folder for the Paste Image extension to automatically save images to the attachments directory.
+
+## File Structure and Directory Organization
+
+- All new files in the binkey-data project should be created in the nested binkey-data/binkey-data/ directory structure, not in the root binkey-data/ folder.
+- User prefers kebab case (lowercase with hyphens) for all filenames in the binkey-data project including parts, cabinets, and other project files.
 
 ## AI Memory Management
 
