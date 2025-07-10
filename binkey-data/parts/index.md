@@ -151,6 +151,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[itsybitsy-nrf52840-express]]
 - [[bbc-microbit]]
 - [[particle-photon-headers]]
+- [[arduino-uno-rev3]]
+- [[adafruit-trinket-5v]]
+- [[adafruit-metro-m4-express]]
+- [[adafruit-metro-m0-express]]
 
 ## FeatherWings
 
@@ -167,6 +171,11 @@ This folder contains detailed specifications for each individual electronic comp
 - [[adafruit-featherwing-oled-128x32]]
 - [[adafruit-tft-featherwing-24-320x240-touchscreen-v2]]
 - [[adafruit-213-hd-tricolor-eink-featherwing]]
+
+## Shields
+
+- [[adafruit-proto-shield-arduino-kit-v5]]
+- [[arduino-uno-proto-shield]]
 
 ## Adapters & Cables
 

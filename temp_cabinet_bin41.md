@@ -270,7 +270,7 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-funhouse-wifi-home-automation]] - 1
 - [[waveshare-esp32-s3-lcd-1-3]] - 2
 
-## Bin 41 - Arduino & Metro Development Boards
+## Bin 41
 
 - [[arduino-uno-rev3]] - 2
 - [[adafruit-trinket-5v]] - 2
@@ -278,15 +278,3 @@ tags: [cabinet, inventory, electronics, components]
 - [[arduino-uno-proto-shield]] - 4
 - [[adafruit-metro-m4-express]] - 1
 - [[adafruit-metro-m0-express]] - 1
-
-## Bin 42
-
-- [[empty]]
-
-## Bin 43
-
-- [[empty]]
-
-## Bin 44
-
-- [[empty]]
