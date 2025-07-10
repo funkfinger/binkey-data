@@ -55,7 +55,7 @@ High-quality glass bead NTC (Negative Temperature Coefficient) thermistors with 
 
 ## Image
 
-![Cantherm MF58103F3380 10kΩ Glass Thermistor](../attachments/cantherm-mf58103f3380-thermistor.jpg)
+![10kΩ NTC Thermistor](../attachments/10k-thermistor-adafruit-372.jpg)
 
 ## Features
 
@@ -78,23 +78,26 @@ High-quality glass bead NTC (Negative Temperature Coefficient) thermistors with 
 ## Technical Characteristics
 
 ### Resistance vs Temperature
+
 The resistance follows the standard NTC thermistor equation:
 R(T) = R₀ × e^(B × (1/T - 1/T₀))
 
 Where:
+
 - R₀ = 10kΩ at T₀ = 25°C (298.15K)
 - B = 3380K
 - T = Temperature in Kelvin
 
 ### Typical Resistance Values
+
 | Temperature (°C) | Resistance (Ω) |
-|------------------|----------------|
-| -40°C | ~195kΩ |
-| 0°C | ~32.7kΩ |
-| 25°C | 10kΩ |
-| 50°C | ~3.6kΩ |
-| 85°C | ~1.2kΩ |
-| 125°C | ~0.5kΩ |
+| ---------------- | -------------- |
+| -40°C            | ~195kΩ         |
+| 0°C              | ~32.7kΩ        |
+| 25°C             | 10kΩ           |
+| 50°C             | ~3.6kΩ         |
+| 85°C             | ~1.2kΩ         |
+| 125°C            | ~0.5kΩ         |
 
 ## Documentation
 
