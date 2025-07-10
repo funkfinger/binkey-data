@@ -186,16 +186,14 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[axial-through-hole-resistors]] - 4.7KΩ Resistors (20+)
 - [[axial-through-hole-resistors]] - 6.8KΩ Resistors (20+)
 
-## Bin 30 - Through Hole Resistors
+## Bin 30 - Battery Clips
 
-- [[axial-through-hole-resistors]] - 22KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 33KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 47KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 68KΩ Resistors (20+)
+- [[battery-products]] - 9V Battery Clips (10+)
 
 ## Bin 31 - Battery Clips
 
-- [[battery-products]] - Double CR2032 Battery Clips (10+)
+- [[battery-products]] - CR2032 Battery Clips (10+)
+- [[battery-products]] - AAA Battery Clips (10+)
 
 ## Bin 32 - Rotary Encoders
 
