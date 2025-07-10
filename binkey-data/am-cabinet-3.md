@@ -114,22 +114,23 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[misc-wireless-boards]] - Various Wireless Development Boards (10+)
 
-## Bin 20 - RF Antennas
+## Bin 20 - Empty
+
+## Bin 21 - RF Antennas
 
 - [[rf-antennas-collection]] - Various RF Antennas (15+)
 
-## Bin 21 - Transistors
+## Bin 22 - Transistors
 
 - [[misc-transistors-collection]] - Miscellaneous Transistors (50+)
 
-## Bin 22
-
-- [[empty]]
-
 ## Bin 23 - Voltage Regulators
 
-- [[voltage-regulators-collection]] - Texas Instruments Voltage Regulators (15+)
-- [[voltage-regulators-collection]] - STMicroelectronics Voltage Regulators (10+)
+- [[lm7912ct-voltage-regulator]] - LM7912CT -12V Voltage Regulators (3)
+- [[lm7812ct-voltage-regulator]] - LM7812CT +12V Voltage Regulators (2)
+- [[lm7805ct-voltage-regulator]] - LM7805CT +5V Voltage Regulators (10+)
+- [[lm7824t-voltage-regulator]] - LM7824T +24V Voltage Regulators (2)
+- [[ld1117av18-voltage-regulator]] - LD1117AV18 1.8V Voltage Regulators (12)
 
 ## Bin 24 - Power Transistors
 
