@@ -167,24 +167,21 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 ## Bin 27 - Through Hole Resistors
 
-- [[axial-through-hole-resistors]] - 1KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 10KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 100KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 1MΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 2.7kΩ 1% Resistors (50+)
+- [[axial-through-hole-resistors]] - 100Ω 1% Resistors (50+)
 
 ## Bin 28 - Through Hole Resistors
 
-- [[axial-through-hole-resistors]] - 220Ω Resistors (20+)
-- [[axial-through-hole-resistors]] - 330Ω Resistors (20+)
-- [[axial-through-hole-resistors]] - 470Ω Resistors (20+)
-- [[axial-through-hole-resistors]] - 680Ω Resistors (20+)
+- [[axial-through-hole-resistors]] - 220Ω 1% Resistors (50+)
+- [[axial-through-hole-resistors]] - 5.6kΩ 1% Resistors (50+)
+- [[axial-through-hole-resistors]] - 1.8kΩ 1% Resistors (50+)
 
 ## Bin 29 - Through Hole Resistors
 
-- [[axial-through-hole-resistors]] - 2.2KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 3.3KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 4.7KΩ Resistors (20+)
-- [[axial-through-hole-resistors]] - 6.8KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 22kΩ 1% Resistors (50+)
+- [[axial-through-hole-resistors]] - 330Ω 1% Resistors (50+)
+- [[axial-through-hole-resistors]] - 220kΩ 1% Resistors (50+)
+- [[axial-through-hole-resistors]] - 330kΩ 1% Resistors (50+)
 
 ## Bin 30 - Battery Clips
 
