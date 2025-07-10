@@ -6,12 +6,13 @@ Please add the following parts that are uncheck in this file. Please check off t
 
 # Cabinet 2
 
-- Bin 37
-  - [x] Various Li-Po batteries (25+)
-- Bin 38
-  - [x] Various large capacitors (25+)
-- Bin 39
-  - [x] Various Potentiometers (25+)
-- Bin 40
-  - [x] https://www.adafruit.com/product/4958 (50+)
-  - [x] Various Li-Po Charging Boards
+- Bin 41
+  - [x] Various Crimp-able Connectors
+- Bin 42
+  - [x] empty
+- Bin 43
+  - [x] Misc SMT Components - resistors and capacitors
+- Bin 44
+  - [x] Misc SMT LEDs
+
+**THATS ALL of Cabinet 2! Yay!**

@@ -278,6 +278,22 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[mechanical-keyboard-components]]
 
+## Connectors & Cables
+
+### Crimp Connectors
+
+- [[crimp-connectors]]
+
+## Surface Mount Technology (SMT)
+
+### SMT Passive Components
+
+- [[smt-components-resistors-capacitors]]
+
+### SMT Optoelectronics
+
+- [[smt-leds]]
+
 ## Adapters & Cables
 
 - [[usb-c-to-usb-a-adapter-pack]]

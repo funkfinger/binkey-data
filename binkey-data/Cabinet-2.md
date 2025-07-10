@@ -233,6 +233,22 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[mechanical-keyboard-components]] - Kailh Switch Sockets MX-compatible (50+)
 - [[battery-charging-boards]] - Various Li-Po Charging Boards (25+)
 
+## Bin 41 - Crimp-able Connectors
+
+- [[crimp-connectors]] - Various Crimp-able Connectors
+
+## Bin 42 - Empty
+
+- [[empty]]
+
+## Bin 43 - SMT Components
+
+- [[smt-components-resistors-capacitors]] - Misc SMT Resistors and Capacitors
+
+## Bin 44 - SMT LEDs
+
+- [[smt-leds]] - Misc SMT LEDs
+
 ## Bin 33
 
 - [[empty]]
