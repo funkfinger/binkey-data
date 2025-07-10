@@ -196,6 +196,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Resistors
 
 - [[axial-through-hole-resistors]]
+- [[resistor-arrays-networks]]
 
 ## Adapters & Cables
 
