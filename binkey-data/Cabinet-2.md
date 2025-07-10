@@ -94,11 +94,7 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 ## Bin 14 - Battery Holders (Original Organization)
 
-- [[battery-products]] - BH23APC A23 Holders (10)
-- [[battery-products]] - CR2032 Coin Cell Holders (20+)
-- [[battery-products]] - AA Battery Holders (15+)
-- [[battery-products]] - AAA Battery Holders (10+)
-- [[battery-products]] - 9V Battery Clips (5+)
+- [[empty]]
 
 ## Bin 15 - Buck Converters & Power Modules (Your Organization)
 
@@ -156,6 +152,13 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 ## Bin 24 - Coin Cell Batteries
 
 - [[battery-products]] - CR2477 Coin Cell Batteries (9)
+
+## Bin 25 - Crystals & Timing Components
+
+- [[crystals-oscillators-timing]] - AB38T-32.768KHZ Watch Crystals (8)
+- [[crystals-oscillators-timing]] - MP080A 8MHz Crystals (3)
+- [[crystals-oscillators-timing]] - ECS-200-20-3X-TR 20MHz SMD Crystals (10)
+- [[crystals-oscillators-timing]] - Generic 16MHz Through-Hole Crystals (10)
 
 ## Bin 25
 

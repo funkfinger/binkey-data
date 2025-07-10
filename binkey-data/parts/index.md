@@ -210,6 +210,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[capacitors-mixed-collection]]
 
+## Timing Components
+
+### Crystals & Oscillators
+
+- [[crystals-oscillators-timing]]
+
 ## Power Management
 
 ### Voltage Regulators
