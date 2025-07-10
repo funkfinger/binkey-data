@@ -206,11 +206,20 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[diodes-mixed-collection]]
 
+### Capacitors
+
+- [[capacitors-mixed-collection]]
+
 ## Power Management
 
 ### Voltage Regulators
 
 - [[voltage-regulators-boost-converters]]
+- [[power-management-modules]]
+
+### Battery Products
+
+- [[battery-products]]
 
 ## Adapters & Cables
 

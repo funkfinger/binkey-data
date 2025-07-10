@@ -61,21 +61,27 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[diodes-mixed-collection]] - 1N4733A Zener 5.1V (20+)
 - [[diodes-mixed-collection]] - 1N5226B Zener 3.3V (20+)
 
-## Bin 9
+## Bin 9 - Linear Voltage Regulators
 
-- [[empty]]
+- [[power-management-modules]] - AMS1117-3.3 Regulators (20)
+- [[power-management-modules]] - L78L05ABZ Regulators (10)
 
-## Bin 10
+## Bin 10 - Buck Converter Modules
 
-- [[empty]]
+- [[power-management-modules]] - MPM3610-5V Buck Modules (5)
+- [[power-management-modules]] - Generic Buck Converters (10+)
 
-## Bin 11
+## Bin 11 - Mixed Power Modules
 
-- [[empty]]
+- [[power-management-modules]] - Step-down Modules (5+)
+- [[power-management-modules]] - Power Supplies (5+)
 
-## Bin 12
+## Bin 12 - Mixed Capacitors
 
-- [[empty]]
+- [[capacitors-mixed-collection]] - Ceramic Capacitors (200+)
+- [[capacitors-mixed-collection]] - Electrolytic Capacitors (150+)
+- [[capacitors-mixed-collection]] - Tantalum Capacitors (100+)
+- [[capacitors-mixed-collection]] - Film/Polyester Capacitors (50+)
 
 ## Bin 13 - Voltage Regulators & Boost Converters
 
@@ -83,6 +89,22 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[voltage-regulators-boost-converters]] - USB 5V Boost Modules (4)
 - [[voltage-regulators-boost-converters]] - Step-up Modules (4)
 - [[voltage-regulators-boost-converters]] - Generic Regulators (5+)
+
+## Bin 14 - Battery Holders
+
+- [[battery-products]] - BH23APC A23 Holders (10)
+- [[battery-products]] - CR2032 Coin Cell Holders (20+)
+- [[battery-products]] - AA Battery Holders (15+)
+- [[battery-products]] - AAA Battery Holders (10+)
+- [[battery-products]] - 9V Battery Clips (5+)
+
+## Bin 15 - Batteries
+
+- [[battery-products]] - A23 Alkaline Batteries (20+)
+- [[battery-products]] - CR2032 Lithium Batteries (30+)
+- [[battery-products]] - AA Alkaline Batteries (20+)
+- [[battery-products]] - AAA Alkaline Batteries (15+)
+- [[battery-products]] - 9V Alkaline Batteries (10+)
 
 ## Bin 14
 
