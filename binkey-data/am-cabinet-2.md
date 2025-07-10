@@ -2,8 +2,9 @@
 title: Cabinet 2 Inventory
 description: Electronics component inventory for Cabinet 2 - Passive Components
 cabinet: 2
-total_bins: 50
-populated_bins: 9
+bin_capacity: 44
+total_bins: 44
+populated_bins: 41
 last_updated: 2025-01-09
 ---
 

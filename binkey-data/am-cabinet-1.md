@@ -1,8 +1,9 @@
 ---
 type: cabinet
 cabinet_number: 1
+bin_capacity: 44
 total_bins: 44
-populated_bins: 24
+populated_bins: 44
 categories:
   [
     led-backpacks,

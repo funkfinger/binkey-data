@@ -2,7 +2,8 @@
 title: Cabinet 3 Inventory
 description: Electronics component inventory for Cabinet 3 - Sensors, Cables, and Specialty Components
 cabinet: 3
-total_bins: 50
+bin_capacity: 64
+total_bins: 64
 populated_bins: 13
 last_updated: 2025-01-10
 categories:
