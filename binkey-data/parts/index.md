@@ -216,6 +216,18 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[crystals-oscillators-timing]]
 
+## Discrete Semiconductors
+
+### Transistors
+
+- [[transistors-bipolar-bjt]]
+
+## Sensors & Transducers
+
+### Encoders & Input Devices
+
+- [[rotary-encoders-input-devices]]
+
 ## Power Management
 
 ### Voltage Regulators

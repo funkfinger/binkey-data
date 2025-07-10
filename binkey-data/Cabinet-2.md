@@ -160,6 +160,47 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[crystals-oscillators-timing]] - ECS-200-20-3X-TR 20MHz SMD Crystals (10)
 - [[crystals-oscillators-timing]] - Generic 16MHz Through-Hole Crystals (10)
 
+## Bin 26 - BJT Transistors
+
+- [[transistors-bipolar-bjt]] - BC558B PNP Transistors (20)
+- [[transistors-bipolar-bjt]] - BC548C NPN Transistors (20)
+
+## Bin 27 - Through Hole Resistors
+
+- [[axial-through-hole-resistors]] - 1KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 10KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 100KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 1MΩ Resistors (20+)
+
+## Bin 28 - Through Hole Resistors
+
+- [[axial-through-hole-resistors]] - 220Ω Resistors (20+)
+- [[axial-through-hole-resistors]] - 330Ω Resistors (20+)
+- [[axial-through-hole-resistors]] - 470Ω Resistors (20+)
+- [[axial-through-hole-resistors]] - 680Ω Resistors (20+)
+
+## Bin 29 - Through Hole Resistors
+
+- [[axial-through-hole-resistors]] - 2.2KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 3.3KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 4.7KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 6.8KΩ Resistors (20+)
+
+## Bin 30 - Through Hole Resistors
+
+- [[axial-through-hole-resistors]] - 22KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 33KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 47KΩ Resistors (20+)
+- [[axial-through-hole-resistors]] - 68KΩ Resistors (20+)
+
+## Bin 31 - Battery Clips
+
+- [[battery-products]] - Double CR2032 Battery Clips (10+)
+
+## Bin 32 - Rotary Encoders
+
+- [[rotary-encoders-input-devices]] - PEC11L-4120F-S0020 Rotary Encoders (5)
+
 ## Bin 25
 
 - [[empty]]
