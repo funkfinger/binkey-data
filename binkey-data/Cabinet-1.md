@@ -286,10 +286,16 @@ tags: [cabinet, inventory, electronics, components]
 - [[seeed-music-shield-v1]] - 1
 - [[arduino-proto-shield-partially-populated]] - 2
 
-## Bin 43
+## Bin 43 - Circuit Playground Boards & Accessories
 
-- [[empty]]
+- [[circuit-playground-proto-gizmo]] - 4
+- [[circuit-playground-classic-developers-edition]] - 1
+- [[circuit-playground-express]] - 4
+- [[circuit-playground-bluefruit]] - 4
 
-## Bin 44
+## Bin 44 - Circuit Playground Displays & Robotics
 
-- [[empty]]
+- [[circuit-playground-tft-gizmo]] - 1
+- [[circuit-playground-express]] - 2
+- [[adafruit-crickit-circuit-playground]] - 2
+- [[circuit-playground-enclosure]] - 4

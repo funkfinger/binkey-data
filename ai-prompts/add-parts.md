@@ -2,8 +2,13 @@
 
 Please add the following parts that are uncheck in this file. Please check off the part once added to the inventory system. Thanks
 
-- Bin 42
-  - [x] https://wiki.iteadstudio.com/Arduino_1602_LCD_Shield (2)
-  - [x] https://docs.arduino.cc/retired/shields/arduino-ethernet-shield-without-poe-module/ (1)
-  - [x] https://seeeddoc.github.io/Music_Shield_V1.0/ (1)
-  - [x] Random Arduino Proto Shield - Partially populated (2)
+- Bin 43
+  - [x] https://www.adafruit.com/product/4320 (4)
+  - [x] Circuit Playground Developers Edition. - https://learn.adafruit.com/introducing-circuit-playground?view=all (1)
+  - [x] https://www.adafruit.com/product/3333 (4)
+  - [x] https://www.adafruit.com/product/4333 (4)
+- Bin 44
+  - [x] https://www.adafruit.com/product/4367 (1)
+  - [x] https://www.adafruit.com/product/3333 (2)
+  - [x] https://www.adafruit.com/product/3093 (2)
+  - [x] https://www.adafruit.com/product/3915 (4)

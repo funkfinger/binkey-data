@@ -155,6 +155,9 @@ This folder contains detailed specifications for each individual electronic comp
 - [[adafruit-trinket-5v]]
 - [[adafruit-metro-m4-express]]
 - [[adafruit-metro-m0-express]]
+- [[circuit-playground-classic-developers-edition]]
+- [[circuit-playground-express]]
+- [[circuit-playground-bluefruit]]
 
 ## FeatherWings
 
@@ -180,6 +183,13 @@ This folder contains detailed specifications for each individual electronic comp
 - [[arduino-ethernet-shield-without-poe]]
 - [[seeed-music-shield-v1]]
 - [[arduino-proto-shield-partially-populated]]
+
+## Circuit Playground Accessories
+
+- [[circuit-playground-proto-gizmo]]
+- [[circuit-playground-tft-gizmo]]
+- [[adafruit-crickit-circuit-playground]]
+- [[circuit-playground-enclosure]]
 
 ## Adapters & Cables
 
