@@ -6,7 +6,22 @@ manufacturer: Various
 part_number: RFID-NFC-MODULES-MIXED
 category: wireless
 subcategory: rfid-nfc
-tags: [rfid, nfc, rc522, st25dv, mfrc522, contactless, identification, access-control, mifare, iso15693, i2c, spi, stemma-qt]
+tags:
+  [
+    rfid,
+    nfc,
+    rc522,
+    st25dv,
+    mfrc522,
+    contactless,
+    identification,
+    access-control,
+    mifare,
+    iso15693,
+    i2c,
+    spi,
+    stemma-qt,
+  ]
 total_quantity: 8
 location: [cabinet-2-bin-35]
 price: 12.00
@@ -17,6 +32,8 @@ status: active
 
 # RFID & NFC Modules
 
+![RC522 RFID Module](../attachments/rc522-rfid-module.jpg)
+
 ## Overview
 
 This collection contains RFID (Radio Frequency Identification) and NFC (Near Field Communication) modules for contactless identification, access control, and data transfer applications. The collection includes both traditional RFID readers and advanced NFC modules with I2C programmability.
@@ -25,18 +42,19 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 
 ### Bin 35 - RFID/NFC Modules (Cabinet 2)
 
-| Part Number | Type | Frequency | Interface | Protocol | Cards Included | Quantity | Applications |
-|-------------|------|-----------|-----------|----------|----------------|----------|--------------|
-| RC522 | RFID Reader | 13.56MHz | SPI | ISO14443A | S50 Card + Fob | 7 | Access control |
-| ST25DV16K | NFC EEPROM | 13.56MHz | I2C + RF | ISO15693 | None | 1 | Dynamic NFC |
-| NFC Cards | NFC Tags | 13.56MHz | RF | Various | N/A | 5+ | Data storage |
-| NFC Fobs | NFC Tags | 13.56MHz | RF | Various | N/A | 5+ | Identification |
+| Part Number | Type        | Frequency | Interface | Protocol  | Cards Included | Quantity | Applications   |
+| ----------- | ----------- | --------- | --------- | --------- | -------------- | -------- | -------------- |
+| RC522       | RFID Reader | 13.56MHz  | SPI       | ISO14443A | S50 Card + Fob | 7        | Access control |
+| ST25DV16K   | NFC EEPROM  | 13.56MHz  | I2C + RF  | ISO15693  | None           | 1        | Dynamic NFC    |
+| NFC Cards   | NFC Tags    | 13.56MHz  | RF        | Various   | N/A            | 5+       | Data storage   |
+| NFC Fobs    | NFC Tags    | 13.56MHz  | RF        | Various   | N/A            | 5+       | Identification |
 
 ## Technical Specifications
 
 ### SunFounder RC522 RFID Reader Module
 
 #### Core Specifications
+
 - **Chip**: Original Philips MFRC522
 - **Frequency**: 13.56MHz ISM band
 - **Protocol**: ISO/IEC 14443 Type A
@@ -46,6 +64,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 - **Current Consumption**: 13-26mA (depending on mode)
 
 #### Communication Interface
+
 - **Interface Type**: 4-wire SPI
 - **Clock Speed**: Up to 10MHz
 - **Pins Required**: MISO, MOSI, SCK, SS/CS, RST, IRQ (optional)
@@ -54,6 +73,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 - **Reset**: Hardware reset pin for reliable initialization
 
 #### RF Performance
+
 - **Operating Distance**: Up to 50mm (depending on antenna and card)
 - **Antenna**: Built-in PCB antenna
 - **Sensitivity**: High sensitivity for reliable card detection
@@ -62,6 +82,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 - **Memory Access**: Read/write access to card memory
 
 #### Included Accessories
+
 - **S50 White Card**: Mifare Classic 1K card
 - **Key Ring Fob**: Mifare Classic key fob
 - **Memory**: 1KB EEPROM divided into 16 sectors
@@ -71,6 +92,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 ### Adafruit ST25DV16K I2C RFID EEPROM Breakout
 
 #### Core Specifications
+
 - **Chip**: STMicroelectronics ST25DV16K
 - **Memory**: 16-kbit (2KB) EEPROM
 - **Dual Interface**: I2C and RF (contactless)
@@ -79,6 +101,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 - **Voltage**: 1.8V to 5.5V operation
 
 #### I2C Interface
+
 - **Speed**: Up to 1MHz I2C protocol
 - **Addresses**: Multiple I2C addresses (0x2D, 0x53, 0x57)
 - **Memory Access**: Byte-level access from I2C
@@ -87,6 +110,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 - **Data Retention**: 40 years
 
 #### RF Interface
+
 - **Protocol**: ISO/IEC 15693 compliant
 - **NFC Compatibility**: NFC Forum Type 5 certified
 - **Block Access**: 4-byte blocks from RF interface
@@ -95,6 +119,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 - **Phone Compatible**: Works with NFC-enabled smartphones
 
 #### Advanced Features
+
 - **Dynamic Programming**: Reprogram over I2C while maintaining RF functionality
 - **Energy Harvesting**: Analog output pin for powering external components
 - **Data Protection**: Password protection for memory areas
@@ -102,6 +127,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 - **STEMMA QT**: Built-in STEMMA QT/Qwiic connectors
 
 #### Physical Specifications
+
 - **Dimensions**: 31.7mm x 25.3mm x 4.6mm
 - **Antenna**: Built-in PCB trace antenna
 - **Connectors**: STEMMA QT/Qwiic JST SH 4-pin connectors
@@ -111,6 +137,7 @@ This collection contains RFID (Radio Frequency Identification) and NFC (Near Fie
 ## Programming and Integration
 
 ### RC522 Arduino Integration
+
 ```cpp
 #include <SPI.h>
 #include <MFRC522.h>
@@ -140,6 +167,7 @@ void loop() {
 ```
 
 ### ST25DV Arduino Integration
+
 - **Library**: STM32duino ST25DV library
 - **Compatibility**: Requires SAMD or better (not ATmega328p)
 - **Memory Requirements**: Insufficient RAM on Arduino UNO
@@ -147,6 +175,7 @@ void loop() {
 - **I2C Interface**: Standard Wire library compatible
 
 ### Smartphone Integration
+
 - **NFC Apps**: Use NFC-enabled smartphone apps
 - **URL Programming**: Program URLs for automatic browser opening
 - **Data Exchange**: Exchange data between phone and module
@@ -156,6 +185,7 @@ void loop() {
 ## Applications
 
 ### Access Control Systems
+
 - **Door Locks**: Electronic door lock systems
 - **Time Attendance**: Employee time tracking systems
 - **Vehicle Access**: Car and garage door access
@@ -163,6 +193,7 @@ void loop() {
 - **Multi-level Security**: Different access levels for different users
 
 ### Identification Systems
+
 - **Student ID**: School and university ID systems
 - **Employee Badges**: Corporate identification badges
 - **Membership Cards**: Gym and club membership systems
@@ -170,6 +201,7 @@ void loop() {
 - **Event Management**: Conference and event check-in systems
 
 ### Data Storage and Transfer
+
 - **Configuration Storage**: Store device configuration data
 - **Sensor Data**: Collect and store sensor readings
 - **User Preferences**: Store user settings and preferences
@@ -177,6 +209,7 @@ void loop() {
 - **Asset Management**: Manage and track company assets
 
 ### IoT and Smart Home
+
 - **Device Configuration**: Configure IoT devices with NFC
 - **User Profiles**: Switch between user profiles with NFC tags
 - **Automation Triggers**: Trigger home automation with NFC
@@ -184,6 +217,7 @@ void loop() {
 - **Energy Management**: Control power and energy settings
 
 ### Educational Projects
+
 - **Learning RFID**: Understand RFID technology and protocols
 - **Security Education**: Learn about access control systems
 - **Programming Practice**: Practice embedded programming
@@ -193,6 +227,7 @@ void loop() {
 ## Installation and Wiring
 
 ### RC522 Wiring (Arduino)
+
 ```
 RC522    Arduino UNO
 VCC   -> 3.3V
@@ -205,6 +240,7 @@ SS    -> Pin 10
 ```
 
 ### ST25DV Wiring (I2C)
+
 ```
 ST25DV   Arduino
 VCC   -> 3.3V or 5V
@@ -214,6 +250,7 @@ SCL   -> A5 (UNO) or SCL pin
 ```
 
 ### Power Supply Considerations
+
 - **RC522**: Requires 3.3V, use level shifters for 5V systems
 - **ST25DV**: Wide voltage range (1.8V-5.5V)
 - **Current**: Low current consumption for both modules
@@ -223,6 +260,7 @@ SCL   -> A5 (UNO) or SCL pin
 ## Security Considerations
 
 ### RC522 Security
+
 - **Mifare Classic**: Known cryptographic vulnerabilities
 - **UID Cloning**: UIDs can be cloned with appropriate tools
 - **Encryption**: Crypto1 encryption is broken
@@ -230,6 +268,7 @@ SCL   -> A5 (UNO) or SCL pin
 - **Recommendations**: Use for low-security applications only
 
 ### ST25DV Security
+
 - **Password Protection**: 64-bit password protection available
 - **Memory Areas**: Configurable protected memory areas
 - **Write Protection**: Write protection for critical data
@@ -237,6 +276,7 @@ SCL   -> A5 (UNO) or SCL pin
 - **Recommendations**: Better security than RC522 but not military-grade
 
 ### General Security Best Practices
+
 - **Defense in Depth**: Use RFID as part of multi-factor authentication
 - **Regular Updates**: Update firmware and software regularly
 - **Physical Security**: Protect readers from physical tampering
@@ -246,6 +286,7 @@ SCL   -> A5 (UNO) or SCL pin
 ## Troubleshooting
 
 ### RC522 Common Issues
+
 - **No Card Detection**: Check wiring, power supply, and antenna
 - **Intermittent Operation**: Check connections and power stability
 - **Wrong Data**: Verify SPI communication and timing
@@ -253,6 +294,7 @@ SCL   -> A5 (UNO) or SCL pin
 - **Library Issues**: Ensure correct library version and board selection
 
 ### ST25DV Common Issues
+
 - **I2C Communication**: Check I2C address and pull-up resistors
 - **Memory Access**: Verify memory addressing and protection settings
 - **NFC Compatibility**: Ensure phone NFC is enabled and compatible
@@ -260,6 +302,7 @@ SCL   -> A5 (UNO) or SCL pin
 - **Library Compatibility**: Use compatible microcontroller with sufficient RAM
 
 ### General Troubleshooting
+
 - **Power Supply**: Verify stable power supply voltage and current
 - **Connections**: Check all connections with multimeter
 - **Software**: Verify code and library compatibility
