@@ -256,6 +256,23 @@ This folder contains detailed specifications for each individual electronic comp
 ### Battery Products
 
 - [[battery-products]]
+- [[lithium-polymer-batteries]]
+
+## Passive Components
+
+### Capacitors
+
+- [[large-capacitors]]
+
+### Variable Resistors
+
+- [[potentiometers-variable-resistors]]
+
+## User Interface
+
+### Mechanical Keyboards
+
+- [[mechanical-keyboard-components]]
 
 ## Adapters & Cables
 

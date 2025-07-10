@@ -216,6 +216,23 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[battery-products]] - 3x AA Battery Holder with On/Off Switch and JST (6)
 
+## Bin 37 - Li-Po Batteries
+
+- [[lithium-polymer-batteries]] - Various Li-Po Batteries (25+)
+
+## Bin 38 - Large Capacitors
+
+- [[large-capacitors]] - Various Large Capacitors (25+)
+
+## Bin 39 - Potentiometers
+
+- [[potentiometers-variable-resistors]] - Various Potentiometers (25+)
+
+## Bin 40 - Mechanical Keyboard Components & Li-Po Charging
+
+- [[mechanical-keyboard-components]] - Kailh Switch Sockets MX-compatible (50+)
+- [[mechanical-keyboard-components]] - Various Li-Po Charging Boards (25+)
+
 ## Bin 33
 
 - [[empty]]
