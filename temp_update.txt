@@ -1,0 +1,16 @@
+## Bin 37 - Programming & Development Tools
+
+- [[waveshare-rp2040-tiny-adapter-flex-cable]] - 1
+- [[avr-6-pin-in-circuit-serial-programming-adapter]] - 1
+- [[microchip-atmel-ice-debugger-programmer]] - 1
+- [[adafruit-usbtinyisp-avr-programmer-kit]] - 1
+- [[art-of-circuits-usbasp-v2-programmer]] - 1
+- [[avr-dragon-adapters-set]] - 8
+
+## Bin 38 - Development Tools & Test Equipment
+
+- [[microchip-avr-dragon-development-tool]] - 2
+- [[makersbox-yet-another-programming-shield]] - 1
+- [[waveshare-rp2040-tiny-adapter-flex-cable]] - 4
+- [[cp2102n-friend-usb-serial-converter]] - 1
+- [[pomona-5250-soic-8-test-clip]] - 1

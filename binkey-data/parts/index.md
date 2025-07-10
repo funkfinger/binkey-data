@@ -127,6 +127,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[seeed-xiao-rp2040]]
 - [[adafruit-pygamer-samd51]]
 - [[adafruit-pybadge-makecode-arcade-circuitpython-arduino]]
+- [[arduino-mega-2560-rev3]]
+- [[adafruit-monster-m4sk-electronic-eyes]]
+- [[adafruit-funhouse-wifi-home-automation]]
+- [[waveshare-esp32-s3-lcd-1-3]]
 - [[adafruit-edgebadge-tensorflow-lite-microcontrollers]]
 - [[adafruit-clue-nrf52840-express-bluetooth-le]]
 - [[adafruit-hallowing-m0-express]]
@@ -163,6 +167,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[adafruit-featherwing-oled-128x32]]
 - [[adafruit-tft-featherwing-24-320x240-touchscreen-v2]]
 - [[adafruit-213-hd-tricolor-eink-featherwing]]
+
+## Adapters & Cables
+
+- [[usb-c-to-usb-a-adapter-pack]]
 
 ## Search by Tags
 

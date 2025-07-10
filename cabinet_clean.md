@@ -258,34 +258,13 @@ tags: [cabinet, inventory, electronics, components]
 - [[makersbox-yet-another-programming-shield]] - 1
 - [[waveshare-rp2040-tiny-adapter-flex-cable]] - 4
 - [[cp2102n-friend-usb-serial-converter]] - 1
-- [[pomona-5250-soic-8-test-clip]] - 1
 
-## Bin 39 - Arduino & Development Boards - Arduino & Development Boards
-
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
-
-## Bin 40
+## Bin 39 - Arduino & Development Boards
 
 - [[arduino-mega-2560-rev3]] - 2
 - [[usb-c-to-usb-a-adapter-pack]] - 1
 
-## Bin 41
+## Bin 40 - Specialized Development Boards
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
-
-## Bin 42
-
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
-
-## Bin 43
-
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
-
-## Bin 44
-
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[adafruit-monster-m4sk-electronic-eyes]] - 1
+- [[adafruit-funhouse-wifi-home-automation]] - 1

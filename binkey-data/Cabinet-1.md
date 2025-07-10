@@ -25,15 +25,18 @@ tags: [cabinet, inventory, electronics, components]
 
 ## Bin 1
 
-- [[empty]]
+- [[arduino-mega-2560-rev3]] - 2
+- [[usb-c-to-usb-a-adapter-pack]] - 1
 
 ## Bin 2
 
-- [[empty]]
+- [[arduino-mega-2560-rev3]] - 2
+- [[usb-c-to-usb-a-adapter-pack]] - 1
 
 ## Bin 3
 
-- [[empty]]
+- [[arduino-mega-2560-rev3]] - 2
+- [[usb-c-to-usb-a-adapter-pack]] - 1
 
 ## Bin 4 - LED Backpacks
 
@@ -244,18 +247,28 @@ tags: [cabinet, inventory, electronics, components]
 
 - [[waveshare-rp2040-tiny-adapter-flex-cable]] - 1
 - [[avr-6-pin-in-circuit-serial-programming-adapter]] - 1
+- [[microchip-atmel-ice-debugger-programmer]] - 1
+- [[adafruit-usbtinyisp-avr-programmer-kit]] - 1
+- [[art-of-circuits-usbasp-v2-programmer]] - 1
+- [[avr-dragon-adapters-set]] - 8
 
-## Bin 38
+## Bin 38 - Development Tools & Test Equipment
 
-- [[empty]]
+- [[microchip-avr-dragon-development-tool]] - 2
+- [[makersbox-yet-another-programming-shield]] - 1
+- [[waveshare-rp2040-tiny-adapter-flex-cable]] - 4
+- [[cp2102n-friend-usb-serial-converter]] - 1
 
-## Bin 39
+## Bin 39 - Arduino & Development Boards
 
-- [[empty]]
+- [[arduino-mega-2560-rev3]] - 2
+- [[usb-c-to-usb-a-adapter-pack]] - 1
 
-## Bin 40
+## Bin 40 - Specialized Development Boards
 
-- [[empty]]
+- [[adafruit-monster-m4sk-electronic-eyes]] - 1
+- [[adafruit-funhouse-wifi-home-automation]] - 1
+- [[waveshare-esp32-s3-lcd-1-3]] - 2
 
 ## Bin 41
 
@@ -267,8 +280,10 @@ tags: [cabinet, inventory, electronics, components]
 
 ## Bin 43
 
-- [[empty]]
+- [[arduino-mega-2560-rev3]] - 2
+- [[usb-c-to-usb-a-adapter-pack]] - 1
 
 ## Bin 44
 
-- [[empty]]
+- [[arduino-mega-2560-rev3]] - 2
+- [[usb-c-to-usb-a-adapter-pack]] - 1

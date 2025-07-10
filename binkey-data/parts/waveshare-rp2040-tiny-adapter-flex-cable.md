@@ -6,9 +6,21 @@ manufacturer: WaveShare
 part_number: RP2040-Tiny-Adapter
 category: programming-tools
 subcategory: development-adapters
-tags: [rp2040, tiny, adapter, flex-cable, usb, programming, debugging, waveshare, microcontroller, development]
-quantity: 1
-location: [cabinet-1-bin-37]
+tags:
+  [
+    rp2040,
+    tiny,
+    adapter,
+    flex-cable,
+    usb,
+    programming,
+    debugging,
+    waveshare,
+    microcontroller,
+    development,
+  ]
+quantity: 5
+location: [cabinet-1-bin-37, cabinet-1-bin-38]
 datasheet_url: https://www.waveshare.com/wiki/RP2040-Tiny
 purchase_url: https://www.waveshare.com/rp2040-tiny.htm
 price: 4.99
@@ -45,18 +57,21 @@ The WaveShare RP2040-Tiny-Adapter is a USB adapter board designed specifically f
 ## Technical Details
 
 ### USB Interface
+
 - **Connector Type**: USB-C
 - **USB Standard**: USB 2.0
 - **Data Transfer**: Full-speed USB communication
 - **Power Delivery**: 5V input, regulated output
 
 ### Flex Cable Connection
+
 - **Cable Type**: Flexible PCB (FPC)
 - **Connector**: Fine-pitch connector for RP2040-Tiny
 - **Signals**: Power, ground, USB data lines, programming signals
 - **Length**: Optimized for development and prototyping use
 
 ### Power Management
+
 - **Input Voltage**: 5V via USB
 - **Output Voltage**: 3.3V regulated for RP2040-Tiny
 - **Current Capability**: Sufficient for RP2040-Tiny operation
@@ -65,18 +80,21 @@ The WaveShare RP2040-Tiny-Adapter is a USB adapter board designed specifically f
 ## Applications
 
 ### Development and Prototyping
+
 - RP2040-Tiny firmware development
 - Code uploading and debugging
 - Serial communication and monitoring
 - Rapid prototyping with removable USB interface
 
 ### Educational Projects
+
 - Microcontroller programming learning
 - Embedded systems development
 - IoT project prototyping
 - STEM education applications
 
 ### Production Support
+
 - Initial programming of RP2040-Tiny boards
 - Firmware updates and maintenance
 - Quality testing and validation
@@ -85,12 +103,14 @@ The WaveShare RP2040-Tiny-Adapter is a USB adapter board designed specifically f
 ## Programming Support
 
 ### Development Environments
+
 - **Arduino IDE**: Full Arduino IDE support with RP2040 core
 - **MicroPython**: Native MicroPython support
 - **C/C++**: Raspberry Pi Pico SDK support
 - **CircuitPython**: Adafruit CircuitPython compatibility
 
 ### Programming Methods
+
 - **USB Mass Storage**: Drag-and-drop UF2 file programming
 - **Serial Programming**: Traditional serial bootloader support
 - **Debug Interface**: SWD debugging capabilities
