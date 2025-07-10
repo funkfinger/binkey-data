@@ -21,7 +21,7 @@ categories:
 tags: [cabinet, inventory, electronics, components]
 ---
 
-# Cabinet-1
+# Akro Mills Cabinet 1
 
 ## Bin 1
 
@@ -258,34 +258,44 @@ tags: [cabinet, inventory, electronics, components]
 - [[makersbox-yet-another-programming-shield]] - 1
 - [[waveshare-rp2040-tiny-adapter-flex-cable]] - 4
 - [[cp2102n-friend-usb-serial-converter]] - 1
-- [[pomona-5250-soic-8-test-clip]] - 1
 
-## Bin 39 - Arduino & Development Boards - Arduino & Development Boards
-
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
-
-## Bin 40
+## Bin 39 - Arduino & Development Boards
 
 - [[arduino-mega-2560-rev3]] - 2
 - [[usb-c-to-usb-a-adapter-pack]] - 1
 
-## Bin 41
+## Bin 40 - Specialized Development Boards
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[adafruit-monster-m4sk-electronic-eyes]] - 1
+- [[adafruit-funhouse-wifi-home-automation]] - 1
+- [[waveshare-esp32-s3-lcd-1-3]] - 2
 
-## Bin 42
+## Bin 41 - Arduino & Metro Development Boards
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[arduino-uno-rev3]] - 2
+- [[adafruit-trinket-5v]] - 2
+- [[adafruit-proto-shield-arduino-kit-v5]] - 1
+- [[arduino-uno-proto-shield]] - 4
+- [[adafruit-metro-m4-express]] - 1
+- [[adafruit-metro-m0-express]] - 1
 
-## Bin 43
+## Bin 42 - Arduino Shields & Interface Boards
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[arduino-1602-lcd-shield]] - 2
+- [[arduino-ethernet-shield-without-poe]] - 1
+- [[seeed-music-shield-v1]] - 1
+- [[arduino-proto-shield-partially-populated]] - 2
 
-## Bin 44
+## Bin 43 - Circuit Playground Boards & Accessories
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[circuit-playground-proto-gizmo]] - 4
+- [[circuit-playground-classic-developers-edition]] - 1
+- [[circuit-playground-express]] - 4
+- [[circuit-playground-bluefruit]] - 4
+
+## Bin 44 - Circuit Playground Displays & Robotics
+
+- [[circuit-playground-tft-gizmo]] - 1
+- [[circuit-playground-express]] - 2
+- [[adafruit-crickit-circuit-playground]] - 2
+- [[circuit-playground-enclosure]] - 4

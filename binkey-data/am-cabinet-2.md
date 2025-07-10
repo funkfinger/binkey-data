@@ -7,7 +7,7 @@ populated_bins: 9
 last_updated: 2025-01-09
 ---
 
-# Cabinet 2 - Passive Components
+# Akro Mills Cabinet 2 - Passive Components
 
 Cabinet 2 contains passive electronic components including resistors, capacitors, diodes, and other basic electronic parts organized by type and value ranges.
 
@@ -248,75 +248,3 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 ## Bin 44 - SMT LEDs
 
 - [[smt-leds]] - Misc SMT LEDs
-
-## Bin 33
-
-- [[empty]]
-
-## Bin 34
-
-- [[empty]]
-
-## Bin 35
-
-- [[empty]]
-
-## Bin 36
-
-- [[empty]]
-
-## Bin 37
-
-- [[empty]]
-
-## Bin 38
-
-- [[empty]]
-
-## Bin 39
-
-- [[empty]]
-
-## Bin 40
-
-- [[empty]]
-
-## Bin 41
-
-- [[empty]]
-
-## Bin 42
-
-- [[empty]]
-
-## Bin 43
-
-- [[empty]]
-
-## Bin 44
-
-- [[empty]]
-
-## Bin 45
-
-- [[empty]]
-
-## Bin 46
-
-- [[empty]]
-
-## Bin 47
-
-- [[empty]]
-
-## Bin 48
-
-- [[empty]]
-
-## Bin 49
-
-- [[empty]]
-
-## Bin 50
-
-- [[empty]]

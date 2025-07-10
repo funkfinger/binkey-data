@@ -22,7 +22,7 @@ categories:
 tags: [cabinet, inventory, electronics, components, sensors, cables]
 ---
 
-# Cabinet 3 - Sensors, Cables, and Specialty Components
+# Akro Mills Cabinet 3 - Sensors, Cables, and Specialty Components
 
 Cabinet 3 contains sensors, various cable types, and specialty electronic components organized by type and application.
 
