@@ -1,34 +1,33 @@
 ---
 type: part
-title: Mechanical Keyboard Components & Li-Po Charging Boards
-description: Collection of mechanical keyboard components including Kailh switch sockets for hot-swappable keyboards, and Li-Po battery charging boards for portable electronics
+title: Mechanical Keyboard Components
+description: Collection of mechanical keyboard components including Kailh switch sockets for hot-swappable keyboards and custom keyboard construction
 manufacturer: Various
-part_number: MECH-KEYBOARD-CHARGING-MIXED
+part_number: MECH-KEYBOARD-MIXED
 category: user-interface
 subcategory: mechanical-keyboards
-tags: [mechanical-keyboard, kailh, switch-sockets, hot-swap, mx-compatible, lipo-charger, battery-charging, portable-power, usb-charging]
-total_quantity: 75+
+tags: [mechanical-keyboard, kailh, switch-sockets, hot-swap, mx-compatible, custom-keyboard, pcb-mount]
+total_quantity: 50+
 location: [cabinet-2-bin-40]
-price: 8.00
+price: 5.00
 currency: USD
 date_added: 2025-01-09
 status: active
 ---
 
-# Mechanical Keyboard Components & Li-Po Charging Boards
+# Mechanical Keyboard Components
 
 ## Overview
 
-This collection contains mechanical keyboard components and Li-Po battery charging boards. The primary components are Kailh switch sockets that enable hot-swappable mechanical keyboards, along with various Li-Po charging boards for portable electronics projects.
+This collection contains mechanical keyboard components for building custom keyboards and enabling hot-swappable switch functionality. The primary components are Kailh switch sockets that enable hot-swappable mechanical keyboards, allowing users to change switches without soldering.
 
 ## Available Components and Locations
 
-### Bin 40 - Mechanical Keyboard & Charging Components (Cabinet 2)
+### Bin 40 - Mechanical Keyboard Components (Cabinet 2)
 
-| Type | Compatibility | Features | Voltage | Current | Quantity | Applications |
-|------|---------------|----------|---------|---------|----------|--------------|
-| Kailh Switch Sockets | MX-compatible | Hot-swap | N/A | N/A | 50+ | Mechanical keyboards |
-| Li-Po Charging Boards | 3.7V Li-Po | USB charging | 5V input | 500mA-1A | 25+ | Portable devices |
+| Type                 | Compatibility | Features | Package      | Mounting  | Quantity | Applications         |
+| -------------------- | ------------- | -------- | ------------ | --------- | -------- | -------------------- |
+| Kailh Switch Sockets | MX-compatible | Hot-swap | Through-hole | PCB mount | 50+      | Mechanical keyboards |
 
 ## Technical Specifications
 
@@ -64,37 +63,6 @@ This collection contains mechanical keyboard components and Li-Po battery chargi
 - **Other Brands**: Most MX-compatible switch manufacturers
 - **Switch Types**: Linear, tactile, and clicky switches
 
-### Li-Po Charging Boards
-
-#### Electrical Specifications
-- **Input Voltage**: 5V USB (4.5V-5.5V range)
-- **Output Voltage**: 4.2V (Li-Po charging voltage)
-- **Charging Current**: 500mA to 1A typical (varies by board)
-- **Charging Method**: Constant current/constant voltage (CC/CV)
-- **Charge Termination**: Automatic termination at full charge
-- **Protection**: Overcurrent, overvoltage, and thermal protection
-
-#### Common Charging IC Types
-- **TP4056**: Popular 1A Li-Po charger IC
-- **MCP73831**: Microchip 500mA charger IC
-- **BQ24074**: Texas Instruments advanced charger
-- **LTC4054**: Linear Technology precision charger
-- **MAX1555**: Maxim USB-powered charger
-
-#### Features and Protection
-- **LED Indicators**: Charging and full charge status LEDs
-- **USB Connector**: Micro-USB or USB-C input
-- **Battery Connector**: JST-PH or wire pads for battery
-- **Load Sharing**: Some boards support load sharing
-- **Temperature Monitoring**: Thermal protection and monitoring
-
-#### Physical Specifications
-- **Size Range**: 15mm x 10mm to 30mm x 20mm typical
-- **Mounting**: Through-hole or surface mount components
-- **Connectors**: Various USB and battery connector types
-- **Indicators**: LED status indicators
-- **Test Points**: Access points for voltage monitoring
-
 ## Applications
 
 ### Mechanical Keyboard Applications
@@ -110,20 +78,6 @@ This collection contains mechanical keyboard components and Li-Po battery chargi
 - **Maintenance**: Easy switch replacement for worn switches
 - **Experimentation**: Experiment with switch combinations
 - **Future-Proofing**: Upgrade switches as new types become available
-
-### Li-Po Charging Applications
-- **Portable Projects**: Add charging to battery-powered projects
-- **IoT Devices**: Rechargeable IoT sensor nodes
-- **Wearables**: Charging circuits for wearable electronics
-- **Robot Projects**: Rechargeable robot power systems
-- **Emergency Backup**: Backup power systems with charging
-
-### Charging Board Features
-- **USB Charging**: Convenient USB charging interface
-- **Status Indication**: Visual charging status feedback
-- **Safety**: Built-in protection circuits
-- **Compact Size**: Small form factor for portable devices
-- **Easy Integration**: Simple integration into projects
 
 ## Design Guidelines
 
@@ -141,13 +95,6 @@ This collection contains mechanical keyboard components and Li-Po battery chargi
 - **Clearance**: Adequate clearance for socket height
 - **Stability**: Rigid construction for stable typing
 
-### Charging Circuit Integration
-- **Input Protection**: Add input protection for USB connection
-- **Battery Protection**: Include battery protection circuit
-- **Status Display**: Provide charging status indication
-- **Thermal Management**: Consider heat dissipation
-- **Connector Selection**: Choose appropriate connectors
-
 ## Installation Guidelines
 
 ### Kailh Socket Installation
@@ -164,21 +111,7 @@ This collection contains mechanical keyboard components and Li-Po battery chargi
 4. **Testing**: Test switch operation and electrical connection
 5. **Keycap Installation**: Install keycaps on switches
 
-### Charging Board Integration
-1. **Power Planning**: Plan power distribution and protection
-2. **Connector Wiring**: Wire USB and battery connectors
-3. **Status LEDs**: Position status LEDs for visibility
-4. **Thermal Design**: Ensure adequate heat dissipation
-5. **Testing**: Test charging function before final assembly
-
 ## Safety Considerations
-
-### Li-Po Charging Safety
-- **Proper Charging**: Use only appropriate Li-Po chargers
-- **Temperature Monitoring**: Monitor battery temperature during charging
-- **Overcurrent Protection**: Ensure overcurrent protection is functional
-- **Fire Safety**: Charge in fireproof container when possible
-- **Supervision**: Never leave charging unattended
 
 ### Electrical Safety
 - **Voltage Limits**: Respect voltage limits of all components
@@ -203,18 +136,11 @@ This collection contains mechanical keyboard components and Li-Po battery chargi
 - **Durability Test**: Test repeated insertion/removal cycles
 - **Visual Inspection**: Check for physical damage
 
-### Charging Board Testing
-- **Input Voltage Test**: Verify input voltage range
-- **Charging Current Test**: Measure charging current
-- **Termination Test**: Verify proper charge termination
-- **Protection Test**: Test protection circuits
-- **Efficiency Test**: Measure charging efficiency
-
 ### System Integration Testing
 - **Keyboard Function**: Test complete keyboard operation
-- **Charging Function**: Test complete charging system
-- **Thermal Test**: Monitor temperatures during operation
-- **EMI Test**: Check for electromagnetic interference
+- **Switch Response**: Test all switch positions
+- **Key Rollover**: Test n-key rollover functionality
+- **Latency**: Measure key response latency
 - **Reliability Test**: Long-term operation testing
 
 ## Troubleshooting
@@ -226,44 +152,53 @@ This collection contains mechanical keyboard components and Li-Po battery chargi
 - **Mechanical Binding**: Check for proper clearances
 - **Electrical Open**: Verify continuity through socket
 
-### Charging Issues
-- **No Charging**: Check input voltage and connections
-- **Slow Charging**: Verify charging current settings
-- **Overheating**: Check thermal design and current limits
-- **No Termination**: Verify charge termination circuit
-- **LED Issues**: Check LED connections and current limiting
-
 ### System Issues
 - **Keyboard Not Working**: Check power and data connections
-- **Battery Not Charging**: Verify charging circuit operation
+- **Keys Not Responding**: Check individual socket connections
 - **Intermittent Operation**: Check all connections and solder joints
 - **Performance Issues**: Verify component specifications
 - **Compatibility Issues**: Check component compatibility
 
+## Storage and Handling
+
+### Storage Conditions
+- **Temperature**: Store at room temperature
+- **Humidity**: Low humidity environment preferred
+- **Protection**: Protect from physical damage
+- **Organization**: Organize by type and quantity
+- **Inventory**: Maintain accurate inventory
+
+### Handling Guidelines
+- **ESD Protection**: Use ESD precautions during handling
+- **Gentle Handling**: Avoid excessive force on components
+- **Clean Handling**: Keep clean during installation
+- **Component Protection**: Protect sockets from damage
+- **Documentation**: Maintain handling procedures
+
 ## Package Contents
 
 - Kailh Switch Sockets for MX-compatible switches (50+ pieces)
-- Various Li-Po charging boards (25+ pieces)
 - Hot-swappable keyboard socket design
-- USB charging capability for portable projects
-- Compatible with standard mechanical switches and Li-Po batteries
+- Compatible with standard mechanical switches
+- Through-hole PCB mounting design
+- Gold-plated contacts for reliable connection
 
 ## Important Notes
 
 - **Switch Compatibility**: Sockets work with MX-compatible switches only
 - **Mechanical Support**: Switches require additional mechanical support
-- **Li-Po Safety**: Follow proper Li-Po charging and handling procedures
 - **Soldering Required**: Sockets must be soldered to PCB
 - **Quality**: Use quality components for reliable operation
+- **PCB Design**: Requires specific PCB footprint design
 
 ## Advantages
 
 - **Hot-Swappable**: Easy switch changes without soldering
 - **Versatility**: Compatible with wide range of MX switches
-- **Convenience**: USB charging for portable projects
-- **Safety**: Built-in protection circuits in charging boards
 - **Customization**: Enable keyboard customization and experimentation
 - **Reliability**: Quality components for long-term use
+- **Future-Proof**: Upgrade switches as technology improves
+- **Cost Effective**: Reasonable cost for hot-swap functionality
 
 ## Limitations
 
@@ -278,7 +213,7 @@ This collection contains mechanical keyboard components and Li-Po battery chargi
 
 - **Custom Keyboards**: Build personalized mechanical keyboards
 - **Prototyping**: Prototype keyboard designs and layouts
-- **Portable Electronics**: Add rechargeable power to projects
-- **Educational**: Learn about keyboard and charging technology
+- **Educational**: Learn about keyboard technology and construction
 - **Repair**: Repair and upgrade existing keyboards
 - **Experimentation**: Experiment with different switches and configurations
+- **Professional**: Professional keyboard customization services

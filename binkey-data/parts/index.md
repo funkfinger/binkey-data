@@ -258,6 +258,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[battery-products]]
 - [[lithium-polymer-batteries]]
 
+### Battery Charging & Power Management
+
+- [[battery-charging-boards]]
+
 ## Passive Components
 
 ### Capacitors

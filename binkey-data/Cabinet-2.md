@@ -231,7 +231,7 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 ## Bin 40 - Mechanical Keyboard Components & Li-Po Charging
 
 - [[mechanical-keyboard-components]] - Kailh Switch Sockets MX-compatible (50+)
-- [[mechanical-keyboard-components]] - Various Li-Po Charging Boards (25+)
+- [[battery-charging-boards]] - Various Li-Po Charging Boards (25+)
 
 ## Bin 33
 
