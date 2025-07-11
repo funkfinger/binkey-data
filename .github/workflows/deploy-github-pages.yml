@@ -35,15 +35,10 @@ jobs:
         with:
           node-version: "18"
           cache: "npm"
-          cache-dependency-path: |
-            package-lock.json
-            web/package-lock.json
+          cache-dependency-path: "web/package-lock.json"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
-
-      - name: Install root dependencies
-        run: npm ci
 
       - name: Install web dependencies
         run: |
@@ -51,10 +46,14 @@ jobs:
           npm ci
 
       - name: Sync content
-        run: npm run web:sync
+        run: |
+          cd web
+          npm run sync
 
       - name: Build with Quartz
-        run: npm run web:build
+        run: |
+          cd web
+          npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
