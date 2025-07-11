@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins";
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🔧 Electronics Inventory - binkey-data",
+    pageTitle: "BinKey",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -21,6 +21,7 @@ const config: QuartzConfig = {
       ".obsidian",
       "ai-prompts",
       "ai-memory",
+      "docs",
     ],
     defaultDateType: "modified",
     theme: {
