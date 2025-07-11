@@ -1,4 +1,35 @@
-.foam-tag{
-  color:#ffffff;
+.foam-tag {
+  color: #ffffff;
   background-color: #000000;
+}
+
+.foam-tag-todo {
+  background-color: #e74c3c;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.foam-tag-pending {
+  background-color: #f39c12;
+  color: #ffffff;
+}
+
+.foam-tag-completed {
+  background-color: #27ae60;
+  color: #ffffff;
+}
+
+.foam-tag-high {
+  background-color: #c0392b;
+  color: #ffffff;
+}
+
+.foam-tag-medium {
+  background-color: #d35400;
+  color: #ffffff;
+}
+
+.foam-tag-low {
+  background-color: #16a085;
+  color: #ffffff;
 }

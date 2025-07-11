@@ -69,3 +69,24 @@ To use this memory context:
 - General coding patterns and conventions
 
 **Before committing changes to this file, always review the content to ensure no sensitive data has been inadvertently included.**
+
+## TODO System
+
+- User has implemented a TODO system for tracking bins that need organization or attention.
+- Bins marked as "TODO" in cabinet files should automatically trigger an entry in the todo.md file.
+- The todo.md file uses a checkbox system (- [ ] format) to track incomplete tasks.
+- Completed tasks should be moved to a "Completed Tasks" section with checked boxes (- [x] format).
+- TODO entries should follow the format "Cabinet X Bin Y - need to organize" or similar descriptive text.
+- A template for TODO items is available at `.foam/templates/todo-item.md`.
+- The electronic component template includes a status field that can be set to "todo" for components that need attention.
+- A script at `scripts/update-todos.js` can be run to automatically scan cabinet files for TODOs and update the todo.md file.
+
+### Foam Tag Implementation
+
+- Custom CSS styles have been added to `.vscode/custom-tag-style.css` for todo-related tags.
+- Tags are used to mark todo status: #todo, #pending, #completed
+- Priority levels are indicated with tags: #priority-high, #priority-medium, #priority-low
+- Location is tagged with: #cabinet-X #bin-Y
+- Component status is tagged with: #status-available, #status-todo, #status-pending
+- These tags enable Foam's tag-based navigation and filtering.
+- The todo.md file and component files include these tags both in frontmatter and as hashtags in the content.

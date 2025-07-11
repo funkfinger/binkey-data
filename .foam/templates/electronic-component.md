@@ -8,32 +8,33 @@ size: ${5:Size (e.g., 5mm, 0.54 inch)}
 color: ${6:Color}
 location: [Cabinet-${7:X}/Bin-${8:Y}]
 quantity: ${9:1}
-status: available
-price_range: ${10:$X-Y}
-tags: [${11:tag1, tag2, tag3}]
+status: ${10:available|todo|pending}
+price_range: ${11:$X-Y}
+tags: [${12:tag1, tag2, tag3}, cabinet-${7}, bin-${8}, status-${10}]
 ---
 
-# ${12:Component Name}
+# ${13:Component Name}
 
 ## Details
 
 - **Location**: Cabinet-${7:X}, Bin ${8:Y}
 - **Category**: ${1:Category Name}
 - **Quantity**: ${9:1}
-- **Product URL**: ${13:https://example.com/product}
+- **Status**: ${10:Status}
+- **Product URL**: ${14:https://example.com/product}
 
 ## Description
 
-${14:Detailed description of the component, its purpose, and specifications.}
+${15:Detailed description of the component, its purpose, and specifications.}
 
 ## Image
 
-![${15:Descriptive alt text}](${16:../attachments/image-filename.jpg})
+![${16:Descriptive alt text}](${17:../attachments/image-filename.jpg})
 
 ## Tags
 
-${11:tag1, tag2, tag3}
+${12:tag1, tag2, tag3} #cabinet-${7} #bin-${8} #status-${10}
 
 ## Notes
 
-${17:Additional notes, usage examples, or compatibility information.}
+${18:Additional notes, usage examples, or compatibility information.}

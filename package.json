@@ -1,0 +1,65 @@
+{
+  "name": "binkey-data",
+  "version": "1.0.0",
+  "description": "Electronics component inventory management system using Foam and Quartz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "web:install": "cd web && npm install",
+    "web:sync": "cd web && npm run sync",
+    "web:build": "cd web && npm run build",
+    "web:serve": "cd web && npm run serve",
+    "web:deploy": "cd web && npm run deploy",
+    "deploy": "npm run web:deploy",
+    "build": "npm run web:build",
+    "serve": "npm run web:serve",
+    "dev": "npm run web:sync && npm run web:build && npm run web:serve",
+    "setup": "npm run web:install && npm run web:sync",
+    "clean": "cd web && rm -rf content/* public/* node_modules/.cache",
+    "update-todos": "node scripts/update-todos.js",
+    "pages:build": "npm run web:sync && npm run web:build",
+    "pages:deploy": "npm run pages:build && gh-pages -d web/public",
+    "pages:preview": "npm run pages:build && cd web && npm run serve",
+    "github:deploy": "./scripts/deploy-to-github-pages.sh",
+    "github:quick": "./scripts/deploy-to-github-pages.sh 'Quick update'"
+  },
+  "keywords": [
+    "electronics",
+    "inventory",
+    "foam",
+    "quartz",
+    "components",
+    "akro-mills",
+    "organization",
+    "knowledge-management"
+  ],
+  "author": "Jay Wiggins",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/funkfinger/binkey-data.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "devDependencies": {
+    "chalk": "^5.3.0",
+    "gh-pages": "^6.1.1"
+  },
+  "workspaces": [
+    "web"
+  ],
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "files": [
+    "parts/",
+    "attachments/",
+    "*.md",
+    "web/",
+    "scripts/",
+    "docs/"
+  ]
+}
