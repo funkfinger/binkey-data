@@ -33,7 +33,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "22"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -47,16 +47,6 @@ jobs:
         run: |
           cd web
           npm run sync
-
-      - name: Debug environment
-        run: |
-          echo "Current directory: $(pwd)"
-          echo "Directory contents:"
-          ls -la
-          echo "Web directory contents:"
-          ls -la web/
-          echo "Node version: $(node --version)"
-          echo "NPM version: $(npm --version)"
 
       - name: Build with Quartz
         run: |
