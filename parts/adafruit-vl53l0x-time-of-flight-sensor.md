@@ -450,6 +450,341 @@ while True:
     time.sleep(0.1)
 ```
 
+### Arduino - Proximity Alarm System
+
+```cpp
+#include <Adafruit_VL53L0X.h>
+
+Adafruit_VL53L0X lox = Adafruit_VL53L0X();
+
+const int BUZZER_PIN = 8;
+const int LED_PIN = 13;
+const int PROXIMITY_THRESHOLD = 200; // 200mm threshold
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(BUZZER_PIN, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
+
+  if (!lox.begin()) {
+    Serial.println("Failed to boot VL53L0X");
+    while(1);
+  }
+
+  // Configure for fast response
+  lox.setMeasurementTimingBudget(30000); // 30ms
+
+  Serial.println("Proximity Alarm System Ready");
+}
+
+void loop() {
+  VL53L0X_RangingMeasurementData_t measure;
+  lox.rangingTest(&measure, false);
+
+  if (measure.RangeStatus != 4) {
+    int distance = measure.RangeMilliMeter;
+
+    Serial.print("Distance: ");
+    Serial.print(distance);
+    Serial.println("mm");
+
+    if (distance < PROXIMITY_THRESHOLD) {
+      // Object detected within threshold
+      digitalWrite(LED_PIN, HIGH);
+
+      // Variable frequency based on distance
+      int frequency = map(distance, 50, PROXIMITY_THRESHOLD, 2000, 500);
+      tone(BUZZER_PIN, frequency, 100);
+
+      Serial.println("PROXIMITY ALERT!");
+    } else {
+      digitalWrite(LED_PIN, LOW);
+      noTone(BUZZER_PIN);
+    }
+  } else {
+    Serial.println("Out of range");
+    digitalWrite(LED_PIN, LOW);
+    noTone(BUZZER_PIN);
+  }
+
+  delay(100);
+}
+```
+
+### Arduino - Multiple Sensors Array
+
+```cpp
+#include <Adafruit_VL53L0X.h>
+
+// Create sensor objects
+Adafruit_VL53L0X sensor1 = Adafruit_VL53L0X();
+Adafruit_VL53L0X sensor2 = Adafruit_VL53L0X();
+Adafruit_VL53L0X sensor3 = Adafruit_VL53L0X();
+
+// Shutdown pins for each sensor
+#define XSHUT_pin1 2
+#define XSHUT_pin2 3
+#define XSHUT_pin3 4
+
+// New I2C addresses for sensors
+#define sensor1_newAddress 0x30
+#define sensor2_newAddress 0x31
+#define sensor3_newAddress 0x32
+
+void setup() {
+  Serial.begin(115200);
+
+  // Initialize shutdown pins
+  pinMode(XSHUT_pin1, OUTPUT);
+  pinMode(XSHUT_pin2, OUTPUT);
+  pinMode(XSHUT_pin3, OUTPUT);
+
+  // Shutdown all sensors
+  digitalWrite(XSHUT_pin1, LOW);
+  digitalWrite(XSHUT_pin2, LOW);
+  digitalWrite(XSHUT_pin3, LOW);
+  delay(10);
+
+  // Initialize sensor 1
+  digitalWrite(XSHUT_pin1, HIGH);
+  delay(10);
+  if (!sensor1.begin(sensor1_newAddress)) {
+    Serial.println("Failed to boot sensor 1");
+    while(1);
+  }
+
+  // Initialize sensor 2
+  digitalWrite(XSHUT_pin2, HIGH);
+  delay(10);
+  if (!sensor2.begin(sensor2_newAddress)) {
+    Serial.println("Failed to boot sensor 2");
+    while(1);
+  }
+
+  // Initialize sensor 3
+  digitalWrite(XSHUT_pin3, HIGH);
+  delay(10);
+  if (!sensor3.begin(sensor3_newAddress)) {
+    Serial.println("Failed to boot sensor 3");
+    while(1);
+  }
+
+  Serial.println("All sensors initialized");
+}
+
+void loop() {
+  VL53L0X_RangingMeasurementData_t measure1, measure2, measure3;
+
+  // Read all sensors
+  sensor1.rangingTest(&measure1, false);
+  sensor2.rangingTest(&measure2, false);
+  sensor3.rangingTest(&measure3, false);
+
+  // Display results
+  Serial.print("Sensor 1: ");
+  if (measure1.RangeStatus != 4) {
+    Serial.print(measure1.RangeMilliMeter);
+    Serial.print("mm");
+  } else {
+    Serial.print("OOR");
+  }
+
+  Serial.print(" | Sensor 2: ");
+  if (measure2.RangeStatus != 4) {
+    Serial.print(measure2.RangeMilliMeter);
+    Serial.print("mm");
+  } else {
+    Serial.print("OOR");
+  }
+
+  Serial.print(" | Sensor 3: ");
+  if (measure3.RangeStatus != 4) {
+    Serial.print(measure3.RangeMilliMeter);
+    Serial.print("mm");
+  } else {
+    Serial.print("OOR");
+  }
+
+  Serial.println();
+  delay(200);
+}
+```
+
+### CircuitPython - Smart Lighting Controller
+
+```python
+import time
+import board
+import busio
+import digitalio
+import pwmio
+import adafruit_vl53l0x
+
+# Initialize I2C and sensor
+i2c = busio.I2C(board.SCL, board.SDA)
+vl53 = adafruit_vl53l0x.VL53L0X(i2c)
+
+# Initialize LED with PWM for brightness control
+led = pwmio.PWMOut(board.D13, frequency=5000, duty_cycle=0)
+
+# Configuration
+MIN_DISTANCE = 100  # mm
+MAX_DISTANCE = 800  # mm
+FADE_SPEED = 0.02   # seconds between brightness steps
+
+def map_range(value, in_min, in_max, out_min, out_max):
+    """Map a value from one range to another"""
+    return (value - in_min) * (out_max - out_min) // (in_max - in_min) + out_min
+
+def set_led_brightness(brightness):
+    """Set LED brightness (0-100%)"""
+    duty_cycle = int(brightness * 65535 / 100)
+    led.duty_cycle = max(0, min(65535, duty_cycle))
+
+print("Smart Lighting Controller Ready")
+print(f"Detection range: {MIN_DISTANCE}mm to {MAX_DISTANCE}mm")
+
+current_brightness = 0
+target_brightness = 0
+
+while True:
+    try:
+        distance = vl53.range
+
+        if MIN_DISTANCE <= distance <= MAX_DISTANCE:
+            # Map distance to brightness (closer = brighter)
+            target_brightness = map_range(distance, MAX_DISTANCE, MIN_DISTANCE, 0, 100)
+        else:
+            target_brightness = 0
+
+        # Smooth brightness transition
+        if current_brightness < target_brightness:
+            current_brightness = min(current_brightness + 2, target_brightness)
+        elif current_brightness > target_brightness:
+            current_brightness = max(current_brightness - 2, target_brightness)
+
+        set_led_brightness(current_brightness)
+
+        print(f"Distance: {distance}mm, Brightness: {current_brightness}%")
+
+    except RuntimeError:
+        print("Range error")
+        target_brightness = 0
+
+    time.sleep(FADE_SPEED)
+```
+
+### CircuitPython - Data Logger with Statistics
+
+```python
+import time
+import board
+import busio
+import adafruit_vl53l0x
+import math
+
+# Initialize I2C and sensor
+i2c = busio.I2C(board.SCL, board.SDA)
+vl53 = adafruit_vl53l0x.VL53L0X(i2c)
+
+# Data collection settings
+SAMPLE_SIZE = 100
+SAMPLE_INTERVAL = 0.1  # seconds
+
+class DistanceStats:
+    def __init__(self):
+        self.measurements = []
+        self.valid_count = 0
+        self.error_count = 0
+
+    def add_measurement(self, distance):
+        if distance is not None:
+            self.measurements.append(distance)
+            self.valid_count += 1
+            if len(self.measurements) > SAMPLE_SIZE:
+                self.measurements.pop(0)
+        else:
+            self.error_count += 1
+
+    def get_statistics(self):
+        if not self.measurements:
+            return None
+
+        # Calculate statistics
+        mean = sum(self.measurements) / len(self.measurements)
+
+        # Calculate standard deviation
+        variance = sum((x - mean) ** 2 for x in self.measurements) / len(self.measurements)
+        std_dev = math.sqrt(variance)
+
+        # Find min and max
+        min_val = min(self.measurements)
+        max_val = max(self.measurements)
+
+        # Calculate median
+        sorted_measurements = sorted(self.measurements)
+        n = len(sorted_measurements)
+        if n % 2 == 0:
+            median = (sorted_measurements[n//2 - 1] + sorted_measurements[n//2]) / 2
+        else:
+            median = sorted_measurements[n//2]
+
+        return {
+            'mean': mean,
+            'median': median,
+            'std_dev': std_dev,
+            'min': min_val,
+            'max': max_val,
+            'range': max_val - min_val,
+            'samples': len(self.measurements),
+            'valid_count': self.valid_count,
+            'error_count': self.error_count
+        }
+
+# Initialize statistics tracker
+stats = DistanceStats()
+
+print("VL53L0X Data Logger with Statistics")
+print(f"Collecting {SAMPLE_SIZE} samples every {SAMPLE_INTERVAL}s")
+print("Press Ctrl+C to stop and view final statistics")
+
+try:
+    while True:
+        try:
+            distance = vl53.range
+            stats.add_measurement(distance)
+            print(f"Distance: {distance}mm (Sample #{stats.valid_count})")
+
+            # Show running statistics every 10 samples
+            if stats.valid_count % 10 == 0:
+                current_stats = stats.get_statistics()
+                if current_stats:
+                    print(f"Running Stats - Mean: {current_stats['mean']:.1f}mm, "
+                          f"StdDev: {current_stats['std_dev']:.1f}mm, "
+                          f"Range: {current_stats['min']}-{current_stats['max']}mm")
+
+        except RuntimeError:
+            stats.add_measurement(None)
+            print("Range error")
+
+        time.sleep(SAMPLE_INTERVAL)
+
+except KeyboardInterrupt:
+    print("\nData collection stopped. Final Statistics:")
+    final_stats = stats.get_statistics()
+    if final_stats:
+        print(f"Samples collected: {final_stats['samples']}")
+        print(f"Valid measurements: {final_stats['valid_count']}")
+        print(f"Errors: {final_stats['error_count']}")
+        print(f"Mean distance: {final_stats['mean']:.2f}mm")
+        print(f"Median distance: {final_stats['median']:.2f}mm")
+        print(f"Standard deviation: {final_stats['std_dev']:.2f}mm")
+        print(f"Min distance: {final_stats['min']}mm")
+        print(f"Max distance: {final_stats['max']}mm")
+        print(f"Range: {final_stats['range']}mm")
+        print(f"Measurement precision: ±{final_stats['std_dev']:.1f}mm")
+```
+
 ## Pinout and Connections
 
 ### STEMMA QT Connector

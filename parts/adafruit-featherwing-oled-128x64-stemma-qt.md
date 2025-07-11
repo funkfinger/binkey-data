@@ -6,7 +6,19 @@ manufacturer: Adafruit
 part_number: 4650
 category: featherwings
 subcategory: display-wings
-tags: [featherwing, oled, display, 128x64, stemma-qt, qwiic, i2c, sh1107, adafruit, buttons]
+tags:
+  [
+    featherwing,
+    oled,
+    display,
+    128x64,
+    stemma-qt,
+    qwiic,
+    i2c,
+    sh1107,
+    adafruit,
+    buttons,
+  ]
 quantity: 1
 location: [cabinet-1-bin-35]
 datasheet_url: https://cdn-shop.adafruit.com/product-files/4650/4650_C14586.pdf
@@ -75,14 +87,181 @@ The Adafruit FeatherWing OLED 128x64 is a gorgeous monochrome OLED display add-o
 ## Programming Support
 
 ### Arduino Libraries
+
 - Adafruit SH1107 library
 - Adafruit GFX library for graphics
 - Button handling libraries
 
 ### CircuitPython
+
 - displayio support
 - Built-in graphics capabilities
 - Easy button integration
+
+## Pinout Diagrams
+
+### Official Adafruit OLED FeatherWing Schematic
+
+![OLED FeatherWing Schematic](../attachments/oled-featherwing-128x64-schematic.png)
+
+### OLED FeatherWing Fabrication Print
+
+![OLED FeatherWing Fab Print](../attachments/oled-featherwing-128x64-fab.png)
+
+## Basic Wiring Examples
+
+### Standard FeatherWing Connection
+
+```
+Feather Board → OLED FeatherWing (via stacking headers)
+- 3V → 3V
+- GND → GND
+- SCL → SCL
+- SDA → SDA
+- RST → RST (auto-connected)
+
+Note: Use Feather stacking headers for easy connection
+```
+
+### Non-Feather Board Connection (Minimal)
+
+```
+Microcontroller 3.3V → FeatherWing 3V
+Microcontroller GND → FeatherWing GND
+Microcontroller SCL → FeatherWing SCL
+Microcontroller SDA → FeatherWing SDA
+Microcontroller RST → FeatherWing RST
+
+Note: Reset connection is required for proper operation
+```
+
+### STEMMA QT Sensor Chain
+
+```
+FeatherWing STEMMA QT → STEMMA QT Cable → I2C Sensor
+- Automatic 3.3V, GND, SCL, SDA connection
+- Supports multiple sensors in chain
+- Compatible with SparkFun Qwiic ecosystem
+
+Example: FeatherWing → BME280 → LIS3DH → TSL2591
+```
+
+### Button Connections (for non-Feather boards)
+
+```
+Button A → Microcontroller Pin 9 (or chosen GPIO)
+Button B → Microcontroller Pin 6 (or chosen GPIO)
+Button C → Microcontroller Pin 5 (or chosen GPIO)
+
+Note: Buttons are active-low with internal pull-ups
+```
+
+## Programming Setup Guide
+
+### Arduino IDE Setup
+
+1. Install Arduino IDE 1.8.19 or later
+2. Install required libraries via Library Manager:
+   - Adafruit SH110X library
+   - Adafruit GFX library
+   - Adafruit BusIO library (auto-installed)
+3. Select appropriate Feather board from Tools → Board
+4. Connect FeatherWing to Feather with stacking headers
+
+### CircuitPython Setup
+
+1. Install CircuitPython on your Feather board
+2. Install required libraries in lib folder:
+   - adafruit_displayio_sh1107
+   - adafruit_bus_device
+   - adafruit_display_text
+3. Create code.py file with your display code
+
+## Programming Examples
+
+### Arduino - Basic Display Test
+
+```cpp
+#include <SPI.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SH110X.h>
+
+Adafruit_SH1107 display = Adafruit_SH1107(64, 128, &Wire);
+
+// Button pins for different Feather boards
+#if defined(ESP8266)
+  #define BUTTON_A  0
+  #define BUTTON_B 16
+  #define BUTTON_C  2
+#elif defined(ESP32)
+  #define BUTTON_A 15
+  #define BUTTON_B 32
+  #define BUTTON_C 14
+#else // M0, M4, nRF52840, RP2040
+  #define BUTTON_A  9
+  #define BUTTON_B  6
+  #define BUTTON_C  5
+#endif
+
+void setup() {
+  Serial.begin(115200);
+
+  // Initialize display
+  delay(250); // Wait for OLED to power up
+  display.begin(0x3C, true); // I2C address 0x3C
+
+  // Show Adafruit splash screen
+  display.display();
+  delay(2000);
+
+  // Clear display
+  display.clearDisplay();
+  display.setRotation(1); // Landscape orientation
+
+  // Initialize buttons
+  pinMode(BUTTON_A, INPUT_PULLUP);
+  pinMode(BUTTON_B, INPUT_PULLUP);
+  pinMode(BUTTON_C, INPUT_PULLUP);
+
+  Serial.println("OLED FeatherWing initialized");
+}
+
+void loop() {
+  display.clearDisplay();
+
+  // Display title
+  display.setTextSize(1);
+  display.setTextColor(SH110X_WHITE);
+  display.setCursor(0, 0);
+  display.println("OLED FeatherWing Test");
+  display.println();
+
+  // Check buttons and display status
+  display.print("Buttons: ");
+  if (!digitalRead(BUTTON_A)) {
+    display.print("A ");
+  }
+  if (!digitalRead(BUTTON_B)) {
+    display.print("B ");
+  }
+  if (!digitalRead(BUTTON_C)) {
+    display.print("C ");
+  }
+  display.println();
+
+  // Display some graphics
+  display.drawRect(0, 40, 128, 24, SH110X_WHITE);
+  display.fillRect(2, 42, 124, 20, SH110X_WHITE);
+
+  display.setTextColor(SH110X_BLACK);
+  display.setCursor(10, 48);
+  display.println("Graphics Test");
+
+  display.display();
+  delay(100);
+}
+```
 
 ## Important Notes
 
