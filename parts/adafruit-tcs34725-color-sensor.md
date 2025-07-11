@@ -19,7 +19,7 @@ tags: [color-sensor, rgb, light-sensor, i2c, arduino, raspberry-pi, tcs34725]
 
 High-quality RGB color light sensor with integrated IR blocking filter and white LED illumination for accurate color measurements.
 
-![Adafruit TCS34725 RGB Color Sensor](../attachments/adafruit-tcs34725-color-sensor.jpg)
+![Adafruit TCS34725 RGB Color Sensor](../attachments/adafruit-tcs34725-color-sensor-fixed.jpg)
 
 _Adafruit TCS34725 RGB Color Sensor - High-quality color detection with IR filter_
 
@@ -100,6 +100,53 @@ The TCS34725 is considered one of the best color sensors on the market, featurin
 | LED | LED    | LED control pin (optional)  |
 | INT | INT    | Interrupt output (optional) |
 
+## Wiring Diagrams
+
+### Arduino Uno Connection
+
+```
+TCS34725    Arduino Uno
+--------    -----------
+VIN    →    5V or 3.3V
+GND    →    GND
+SCL    →    A5 (SCL)
+SDA    →    A4 (SDA)
+LED    →    Pin 7 (optional)
+INT    →    Pin 2 (optional)
+
+Required: 4.7kΩ pull-up resistors on SDA and SCL lines
+```
+
+### Raspberry Pi Pico Connection
+
+```
+TCS34725    Pico
+--------    ----
+VIN    →    3V3
+GND    →    GND
+SCL    →    GP5 (I2C0 SCL)
+SDA    →    GP4 (I2C0 SDA)
+LED    →    GP15 (optional)
+INT    →    GP2 (optional)
+
+Required: 4.7kΩ pull-up resistors on SDA and SCL lines
+```
+
+### ESP32 Connection
+
+```
+TCS34725    ESP32
+--------    -----
+VIN    →    3.3V
+GND    →    GND
+SCL    →    GPIO22 (SCL)
+SDA    →    GPIO21 (SDA)
+LED    →    GPIO5 (optional)
+INT    →    GPIO4 (optional)
+
+Required: 4.7kΩ pull-up resistors on SDA and SCL lines
+```
+
 **Connection Notes:**
 
 - **VIN**: Connect to 3.3V or 5V power supply
@@ -166,6 +213,83 @@ The TCS34725 is considered one of the best color sensors on the market, featurin
 - **Accessibility**: Color identification for visually impaired users
 
 ## Usage Examples
+
+### Arduino Code Example
+
+```cpp
+#include <Wire.h>
+#include "Adafruit_TCS34725.h"
+
+// Initialize sensor with integration time and gain
+Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_50MS, TCS34725_GAIN_4X);
+
+void setup() {
+  Serial.begin(9600);
+
+  if (tcs.begin()) {
+    Serial.println("Found TCS34725 sensor");
+  } else {
+    Serial.println("No TCS34725 found ... check your connections");
+    while (1);
+  }
+}
+
+void loop() {
+  uint16_t r, g, b, c;
+
+  // Read raw color values
+  tcs.getRawData(&r, &g, &b, &c);
+
+  // Calculate color temperature
+  uint16_t colorTemp = tcs.calculateColorTemperature(r, g, b);
+
+  // Calculate lux
+  uint16_t lux = tcs.calculateLux(r, g, b);
+
+  Serial.print("Color Temp: "); Serial.print(colorTemp, DEC); Serial.print(" K - ");
+  Serial.print("Lux: "); Serial.print(lux, DEC); Serial.print(" - ");
+  Serial.print("R: "); Serial.print(r, DEC); Serial.print(" ");
+  Serial.print("G: "); Serial.print(g, DEC); Serial.print(" ");
+  Serial.print("B: "); Serial.print(b, DEC); Serial.print(" ");
+  Serial.print("C: "); Serial.print(c, DEC); Serial.print(" ");
+  Serial.println(" ");
+
+  delay(500);
+}
+```
+
+### CircuitPython Code Example
+
+```python
+import time
+import board
+import busio
+import adafruit_tcs34725
+
+# Initialize I2C bus and sensor
+i2c = busio.I2C(board.SCL, board.SDA)
+sensor = adafruit_tcs34725.TCS34725(i2c)
+
+# Optional: Enable LED
+# led_pin = digitalio.DigitalInOut(board.D7)
+# led_pin.direction = digitalio.Direction.OUTPUT
+# led_pin.value = True
+
+while True:
+    # Read color values
+    r, g, b, clear = sensor.color_raw
+
+    # Calculate color temperature and lux
+    color_temp = adafruit_tcs34725.color_temperature(r, g, b)
+    lux = adafruit_tcs34725.lux(r, g, b, clear)
+
+    print(f"Color: R={r} G={g} B={b} Clear={clear}")
+    print(f"Color Temperature: {color_temp}K")
+    print(f"Lux: {lux}")
+    print("---")
+
+    time.sleep(1)
+```
 
 ### Basic Color Reading
 

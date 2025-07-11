@@ -6,7 +6,17 @@ manufacturer: Adafruit
 part_number: 3333
 category: microcontrollers
 subcategory: circuit-playground
-tags: [circuit-playground, express, atsamd21, circuitpython, makecode, arduino, sensors, neopixels]
+tags:
+  [
+    circuit-playground,
+    express,
+    atsamd21,
+    circuitpython,
+    makecode,
+    arduino,
+    sensors,
+    neopixels,
+  ]
 quantity: 6
 location: [cabinet-1-bin-43, cabinet-1-bin-44]
 datasheet_url: https://learn.adafruit.com/adafruit-circuit-playground-express
@@ -38,12 +48,14 @@ image: attachments/circuit-playground-express.jpg
 ## Key Features
 
 ### Multiple Programming Options
+
 - **Microsoft MakeCode**: Block-based or JavaScript programming
 - **CircuitPython**: Python interpreter running on the board
 - **Arduino IDE**: Full Arduino IDE support with low-level access
 - **Code.org CS Discoveries**: Browser-based coding education
 
 ### Enhanced Hardware
+
 - **10x Mini NeoPixels**: Full-color RGB LEDs with individual control
 - **Motion Sensor**: LIS3DH triple-axis accelerometer with tap detection
 - **Temperature Sensor**: Thermistor for ambient temperature
@@ -53,6 +65,7 @@ image: attachments/circuit-playground-express.jpg
 - **Infrared**: Both receiver and transmitter for remote control
 
 ### Connectivity and I/O
+
 - **8x Alligator-Clip Pads**: No soldering required
 - **7x Capacitive Touch**: Touch-sensitive input pads
 - **1x True Analog Output**: Real DAC output
@@ -62,6 +75,7 @@ image: attachments/circuit-playground-express.jpg
 ## Hardware Components
 
 ### Sensors and Inputs
+
 - **LIS3DH Accelerometer**: 3-axis motion with tap and free-fall detection
 - **Thermistor**: Temperature sensing with wide range
 - **Phototransistor**: Light sensing with color detection capability
@@ -70,6 +84,7 @@ image: attachments/circuit-playground-express.jpg
 - **Capacitive Touch**: 7 touch-sensitive pads
 
 ### Outputs and Indicators
+
 - **10x NeoPixels**: Individually addressable RGB LEDs
 - **Class D Amplifier**: High-quality audio output
 - **Infrared Transmitter**: Send remote control codes
@@ -77,13 +92,224 @@ image: attachments/circuit-playground-express.jpg
 - **Red #13 LED**: User programmable LED
 
 ### User Interface
+
 - **2x Push Buttons**: Labeled A and B for user input
+
+## Pinout Diagram
+
+![Circuit Playground Express Pinout](../attachments/circuit-playground-express-pinout.png)
+
+## Basic Wiring Examples
+
+### External LED Connection
+
+```
+CPX Pin A1 → LED Anode (long leg)
+LED Cathode (short leg) → 220Ω Resistor → CPX GND
+
+Note: Built-in NeoPixels available for most projects
+```
+
+### Button/Switch Connection
+
+```
+CPX 3.3V → 10kΩ Pull-up Resistor → CPX Pin A2
+CPX Pin A2 → Button → CPX GND
+
+Code: digitalRead(A2) returns HIGH when not pressed, LOW when pressed
+```
+
+### Servo Motor Connection
+
+```
+Servo Red Wire → CPX VOUT (5V power)
+Servo Black/Brown Wire → CPX GND
+Servo White/Orange Wire → CPX Pin A1 (PWM)
+
+Note: Use VOUT for high-power devices like servos
+```
+
+### I2C Device Connection
+
+```
+I2C Device VCC → CPX 3.3V
+I2C Device GND → CPX GND
+I2C Device SDA → CPX Pin A5 (SDA)
+I2C Device SCL → CPX Pin A4 (SCL)
+
+Note: Built-in pull-up resistors included
+```
+
+### Analog Sensor Reading
+
+```
+Sensor Output → CPX Pin A1, A2, A3, A6, or A7
+Sensor VCC → CPX 3.3V
+Sensor GND → CPX GND
+
+Code: analogRead(A1) returns 0-65535 (0-3.3V)
+```
+
+### Alligator Clip Connections
+
+```
+No soldering required! Use alligator clips to connect:
+- Conductive materials (fruit, water, foil)
+- Breadboard components
+- Sensors and actuators
+- Educational experiments
+```
+
+## Programming Examples
+
+### CircuitPython NeoPixel Rainbow
+
+```python
+import board
+import neopixel
+import time
+
+pixels = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=0.3)
+
+def wheel(pos):
+    if pos < 0 or pos > 255:
+        return (0, 0, 0)
+    if pos < 85:
+        return (255 - pos * 3, pos * 3, 0)
+    if pos < 170:
+        pos -= 85
+        return (0, 255 - pos * 3, pos * 3)
+    pos -= 170
+    return (pos * 3, 0, 255 - pos * 3)
+
+while True:
+    for j in range(255):
+        for i in range(10):
+            pixel_index = (i * 256 // 10) + j
+            pixels[i] = wheel(pixel_index & 255)
+        pixels.show()
+        time.sleep(0.01)
+```
+
+### CircuitPython Button and Sound
+
+```python
+import board
+import digitalio
+import audioio
+import audiocore
+import time
+
+# Set up buttons
+button_a = digitalio.DigitalInOut(board.BUTTON_A)
+button_a.direction = digitalio.Direction.INPUT
+button_a.pull = digitalio.Pull.DOWN
+
+button_b = digitalio.DigitalInOut(board.BUTTON_B)
+button_b.direction = digitalio.Direction.INPUT
+button_b.pull = digitalio.Pull.DOWN
+
+# Set up speaker
+speaker = audioio.AudioOut(board.SPEAKER)
+
+while True:
+    if button_a.value:
+        print("Button A pressed!")
+        # Play tone (requires audio file)
+
+    if button_b.value:
+        print("Button B pressed!")
+
+    time.sleep(0.1)
+```
+
+### CircuitPython Accelerometer
+
+```python
+import board
+import adafruit_lis3dh
+import busio
+import time
+
+# Set up accelerometer
+i2c = busio.I2C(board.ACCELEROMETER_SCL, board.ACCELEROMETER_SDA)
+lis3dh = adafruit_lis3dh.LIS3DH_I2C(i2c)
+
+while True:
+    x, y, z = lis3dh.acceleration
+    print(f"X: {x:6.2f} Y: {y:6.2f} Z: {z:6.2f} m/s^2")
+
+    # Detect shake
+    if abs(x) > 15 or abs(y) > 15 or abs(z) > 15:
+        print("Shake detected!")
+
+    time.sleep(0.1)
+```
+
+### MakeCode Block Example (JavaScript)
+
+```javascript
+// Button A controls NeoPixels
+input.onButtonPressed(Button.A, function () {
+  light.setAll(0xff0000); // Red
+  music.playTone(262, music.beat(BeatFraction.Half));
+});
+
+// Button B controls NeoPixels
+input.onButtonPressed(Button.B, function () {
+  light.setAll(0x0000ff); // Blue
+  music.playTone(523, music.beat(BeatFraction.Half));
+});
+
+// Shake detection
+input.onGesture(Gesture.Shake, function () {
+  light.showRing(`red red red red red red red red red red`);
+  music.playMelody("C D E F G A B C5 ", 120);
+});
+```
+
+### Arduino Example
+
+```cpp
+#include <Adafruit_CircuitPlayground.h>
+
+void setup() {
+  CircuitPlayground.begin();
+  Serial.begin(9600);
+}
+
+void loop() {
+  // Check buttons
+  if (CircuitPlayground.leftButton()) {
+    CircuitPlayground.setPixelColor(0, 255, 0, 0);  // Red
+    CircuitPlayground.playTone(440, 500);
+  }
+
+  if (CircuitPlayground.rightButton()) {
+    CircuitPlayground.setPixelColor(0, 0, 0, 255);  // Blue
+    CircuitPlayground.playTone(880, 500);
+  }
+
+  // Read sensors
+  float temp = CircuitPlayground.temperature();
+  float light = CircuitPlayground.lightSensor();
+
+  Serial.print("Temperature: ");
+  Serial.print(temp);
+  Serial.print("°C, Light: ");
+  Serial.println(light);
+
+  delay(100);
+}
+```
+
 - **1x Slide Switch**: Mode selection or on/off control
 - **Reset Button**: Manual reset and bootloader entry
 
 ## Programming Platforms
 
 ### Microsoft MakeCode
+
 - **Block Programming**: Drag-and-drop visual programming
 - **JavaScript**: Text-based programming option
 - **Simulator**: Test code without hardware
@@ -91,6 +317,7 @@ image: attachments/circuit-playground-express.jpg
 - **Educational**: Perfect for beginners
 
 ### CircuitPython
+
 - **Python Interpreter**: Real Python running on microcontroller
 - **Interactive REPL**: Live coding and debugging
 - **File System**: Access board as USB drive
@@ -98,6 +325,7 @@ image: attachments/circuit-playground-express.jpg
 - **Rapid Development**: Quick iteration and testing
 
 ### Arduino IDE
+
 - **Full Support**: Complete Arduino IDE compatibility
 - **Low-Level Access**: Direct hardware control
 - **C/C++ Programming**: Traditional embedded programming
@@ -105,6 +333,7 @@ image: attachments/circuit-playground-express.jpg
 - **Advanced Features**: For experienced developers
 
 ### Code.org CS Discoveries
+
 - **Curriculum Integration**: Part of computer science education
 - **Classroom Ready**: Designed for educational environments
 - **Progressive Learning**: Structured learning progression
@@ -113,6 +342,7 @@ image: attachments/circuit-playground-express.jpg
 ## Pin Configuration
 
 ### GPIO Pins (8 total)
+
 - **A0**: Analog input, digital I/O, capacitive touch
 - **A1**: Analog input, digital I/O, capacitive touch, true analog output
 - **A2**: Analog input, digital I/O, capacitive touch
@@ -123,11 +353,13 @@ image: attachments/circuit-playground-express.jpg
 - **A7**: Analog input, digital I/O, capacitive touch
 
 ### Power Pins
+
 - **3.3V**: Two power output pads
 - **GND**: Three ground pads
 - **VBATT**: Battery/USB voltage output
 
 ### Communication
+
 - **SDA/SCL**: I2C communication (shared with GPIO)
 - **TX/RX**: UART communication (shared with GPIO)
 - **Multiple PWM**: Various pins support PWM output
@@ -135,12 +367,14 @@ image: attachments/circuit-playground-express.jpg
 ## Storage and Memory
 
 ### SPI Flash (2MB)
+
 - **CircuitPython Storage**: Store code and libraries
 - **File System**: Appears as USB drive when connected
 - **Data Logging**: Store sensor data and logs
 - **User Files**: Images, sounds, configuration files
 
 ### Built-in Flash
+
 - **Program Storage**: Store compiled programs
 - **Bootloader**: UF2 bootloader for easy programming
 - **Multiple Programs**: Switch between different programs
@@ -148,18 +382,21 @@ image: attachments/circuit-playground-express.jpg
 ## Applications
 
 ### Educational Projects
+
 - **STEM Learning**: Science, technology, engineering, math
 - **Programming Education**: Learn coding with immediate feedback
 - **Electronics Basics**: Understand sensors and actuators
 - **Creative Projects**: Art, music, and interactive installations
 
 ### Maker Projects
+
 - **Wearable Electronics**: Fashion and costume integration
 - **Home Automation**: Smart home sensors and controls
 - **Robotics**: Brain for robotic projects
 - **IoT Devices**: Internet-connected sensors and actuators
 
 ### Professional Use
+
 - **Rapid Prototyping**: Quick concept development
 - **Educational Tools**: Teaching aids and demonstrations
 - **Art Installations**: Interactive art and exhibits
@@ -168,12 +405,14 @@ image: attachments/circuit-playground-express.jpg
 ## Power Management
 
 ### Power Sources
+
 - **USB Power**: 5V from micro USB connector
 - **Battery Power**: 3.7V LiPo or 3xAAA battery pack
 - **Auto-Switching**: Automatically selects power source
 - **JST Connector**: Standard battery connector
 
 ### Power Consumption
+
 - **Active Mode**: Varies by program and LED usage
 - **Sleep Modes**: Low-power modes available
 - **NeoPixel Control**: Significant power when LEDs active
@@ -182,6 +421,7 @@ image: attachments/circuit-playground-express.jpg
 ## Getting Started
 
 ### MakeCode Setup
+
 1. **Open Browser**: Go to makecode.adafruit.com
 2. **Select Board**: Choose Circuit Playground Express
 3. **Drag Blocks**: Create program with visual blocks
@@ -189,6 +429,7 @@ image: attachments/circuit-playground-express.jpg
 5. **Test**: Program runs immediately
 
 ### CircuitPython Setup
+
 1. **Install CircuitPython**: Download and install firmware
 2. **Connect USB**: Board appears as CIRCUITPY drive
 3. **Edit Code**: Modify code.py file
@@ -196,6 +437,7 @@ image: attachments/circuit-playground-express.jpg
 5. **Use REPL**: Interactive Python shell
 
 ### Arduino Setup
+
 1. **Install Arduino IDE**: Download latest version
 2. **Add Board Package**: Install Adafruit SAMD boards
 3. **Select Board**: Choose "Adafruit Circuit Playground Express"
@@ -205,18 +447,21 @@ image: attachments/circuit-playground-express.jpg
 ## Advanced Features
 
 ### Infrared Communication
+
 - **Remote Control**: Receive and transmit IR signals
 - **Device Control**: Control TVs, stereos, etc.
 - **Communication**: Send data between boards
 - **Proximity Sensing**: Detect nearby objects
 
 ### Audio Processing
+
 - **Sound Analysis**: Analyze microphone input
 - **Music Generation**: Create tones and melodies
 - **Voice Control**: Simple voice recognition
 - **Audio Effects**: Process and modify sounds
 
 ### Motion Detection
+
 - **Orientation**: Detect board orientation
 - **Tap Detection**: Respond to taps and knocks
 - **Free-fall**: Detect when board is dropped

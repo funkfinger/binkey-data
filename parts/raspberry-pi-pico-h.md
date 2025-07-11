@@ -27,7 +27,20 @@ location: [Cabinet-1/Bin-32]
 quantity: 1
 status: available
 price_range: $5
-tags: [microcontroller, rp2040, pico, raspberry-pi, headers-soldered, debug-connector, circuitpython, micropython, arduino, pio, dual-core]
+tags:
+  [
+    microcontroller,
+    rp2040,
+    pico,
+    raspberry-pi,
+    headers-soldered,
+    debug-connector,
+    circuitpython,
+    micropython,
+    arduino,
+    pio,
+    dual-core,
+  ]
 ---
 
 # Raspberry Pi Pico H - Pico with Headers Soldered
@@ -115,6 +128,149 @@ The Raspberry Pi Pico H is identical to the classic Pico but comes with pre-sold
 
 microcontroller, rp2040, pico, raspberry-pi, headers-soldered, debug-connector, circuitpython, micropython, arduino, pio, dual-core
 
+## Pinout Diagram
+
+```
+                    Raspberry Pi Pico H Pinout
+
+                    +-----+
+         +----------| USB |----------+
+         |          +-----+          |
+         | [ ]GP0/TX0              VBUS[ ] |
+         | [ ]GP1/RX0              VSYS[ ] |
+         | [ ]GND                   GND[ ] |
+         | [ ]GP2                3V3_EN[ ] |
+         | [ ]GP3                   3V3[ ] |
+         | [ ]GP4               ADC_REF[ ] |
+         | [ ]GP5                  GP28[ ] |
+         | [ ]GND                  GND[ ] |
+         | [ ]GP6                  GP27[ ] |
+         | [ ]GP7                  GP26[ ] |
+         | [ ]GP8                  RUN[ ] |
+         | [ ]GP9                  GP22[ ] |
+         | [ ]GND                  GND[ ] |
+         | [ ]GP10                 GP21[ ] |
+         | [ ]GP11                 GP20[ ] |
+         | [ ]GP12                 GP19[ ] |
+         | [ ]GP13                 GP18[ ] |
+         | [ ]GND                  GND[ ] |
+         | [ ]GP14                 GP17[ ] |
+         | [ ]GP15                 GP16[ ] |
+         |                               |
+         |    [DEBUG]  [BOOTSEL]  [LED]  |
+         +-------------------------------+
+
+Debug Connector (3-pin JST-SH):
+SWCLK | SWDIO | GND
+```
+
+## Basic Wiring Examples
+
+### LED Blink Circuit
+
+```
+Pico GP25 → Built-in LED (no external wiring needed)
+OR
+Pico GP15 → LED Anode (long leg)
+LED Cathode (short leg) → 220Ω Resistor → Pico GND
+```
+
+### Button Input Circuit
+
+```
+Pico 3V3 → 10kΩ Pull-up Resistor → Pico GP2
+Pico GP2 → Button → Pico GND
+
+Code: digitalRead(2) returns HIGH when not pressed, LOW when pressed
+```
+
+### I2C Device Connection (Default I2C0)
+
+```
+Pico 3V3 → Device VCC
+Pico GND → Device GND
+Pico GP4 (SDA) → Device SDA
+Pico GP5 (SCL) → Device SCL
+Add 4.7kΩ pull-up resistors on SDA and SCL lines
+```
+
+### SPI Device Connection (Default SPI0)
+
+```
+Pico 3V3 → Device VCC
+Pico GND → Device GND
+Pico GP18 (SCK) → Device SCK
+Pico GP16 (MISO) → Device MISO
+Pico GP19 (MOSI) → Device MOSI
+Pico GP17 (CS) → Device CS/SS
+```
+
+### Analog Reading
+
+```
+Sensor Output → Pico GP26 (ADC0), GP27 (ADC1), or GP28 (ADC2)
+Code: analogRead(A0) returns 0-65535 (0-3.3V)
+```
+
+## Programming Setup Guide
+
+### CircuitPython Setup
+
+1. Download CircuitPython UF2 from circuitpython.org
+2. Hold BOOTSEL button while connecting USB
+3. Drag UF2 file to RPI-RP2 drive
+4. Board reboots as CIRCUITPY drive
+5. Edit code.py to program
+
+### Arduino IDE Setup
+
+1. Install Arduino IDE 2.0+
+2. Add RP2040 board package URL in preferences
+3. Install "Raspberry Pi Pico/RP2040" boards
+4. Select "Raspberry Pi Pico" from Tools → Board
+5. Hold BOOTSEL while connecting for first upload
+
+### MicroPython Setup
+
+1. Download MicroPython UF2 from micropython.org
+2. Hold BOOTSEL button while connecting USB
+3. Drag UF2 file to RPI-RP2 drive
+4. Use Thonny IDE or terminal for programming
+
+## Programming Examples
+
+### CircuitPython LED Blink
+
+```python
+import board
+import digitalio
+import time
+
+led = digitalio.DigitalInOut(board.LED)
+led.direction = digitalio.Direction.OUTPUT
+
+while True:
+    led.value = True
+    time.sleep(1)
+    led.value = False
+    time.sleep(1)
+```
+
+### Arduino LED Blink
+
+```cpp
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);  // GP25
+}
+
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+}
+```
+
 ## Notes
 
-The Pico H is perfect for breadboard prototyping since the headers are already soldered. The 3-pin debug connector provides professional debugging capabilities. The RP2040's PIO system is unique and powerful for creating custom peripherals. Not 5V tolerant - all GPIO pins are 3.3V logic only. The UF2 bootloader makes programming incredibly simple - just hold BOOTSEL while plugging in USB to enter bootloader mode.
+The Pico H is perfect for breadboard prototyping since the headers are already soldered. The 3-pin debug connector provides professional debugging capabilities. The RP2040's PIO system is unique and powerful for creating custom peripherals. **Important: Not 5V tolerant** - all GPIO pins are 3.3V logic only. The UF2 bootloader makes programming incredibly simple - just hold BOOTSEL while plugging in USB to enter bootloader mode.

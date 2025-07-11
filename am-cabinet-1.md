@@ -26,18 +26,15 @@ tags: [cabinet, inventory, electronics, components]
 
 ## Bin 1
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[empty]]
 
 ## Bin 2
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[empty]]
 
 ## Bin 3
 
-- [[arduino-mega-2560-rev3]] - 2
-- [[usb-c-to-usb-a-adapter-pack]] - 1
+- [[empty]]
 
 ## Bin 4 - LED Backpacks
 

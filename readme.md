@@ -1,5 +1,7 @@
 # Electronics Inventory Management System
 
+> **IMPORTANT NOTE ** This entire repo was AI created - including all of the data within. The intent was to A) help me with my personal electronics inventory; and B) see how I could use AI to make that process a bit easier. DO NOT TRUST THE CONTENT
+
 A comprehensive electronics component inventory system built with [Foam](https://foambubble.github.io/foam/) for VS Code, designed to track and organize electronic components across multiple storage cabinets. This was created primarily using AI specifically **Augment Code**. Updates to the bins are created using AI like this:
 
 ```

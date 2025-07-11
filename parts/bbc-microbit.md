@@ -22,7 +22,19 @@ location: [Cabinet-1/Bin-28]
 quantity: 1
 status: available
 price_range: $10-15
-tags: [microcontroller, educational, bbc, microbit, bluetooth-le, accelerometer, magnetometer, led-matrix, beginner-friendly, discontinued]
+tags:
+  [
+    microcontroller,
+    educational,
+    bbc,
+    microbit,
+    bluetooth-le,
+    accelerometer,
+    magnetometer,
+    led-matrix,
+    beginner-friendly,
+    discontinued,
+  ]
 ---
 
 # BBC micro:bit
@@ -67,6 +79,248 @@ Pocket-sized programmable computer designed specifically for education and begin
 - **Edge Connector**: 25 pins for external connections
 - **USB Interface**: Programming and power via micro-USB
 - **Beginner Friendly**: Designed for educational use
+
+## Pinout Diagram
+
+### Official micro:bit Pinout
+
+![micro:bit Pinout](../attachments/microbit-pinout.png)
+
+## Basic Wiring Examples
+
+### LED Connection
+
+```
+micro:bit Pin 0 → LED Anode (long leg)
+LED Cathode (short leg) → 220Ω Resistor → micro:bit GND
+
+Note: Pins 0, 1, 2 have touch sensing capability
+```
+
+### Button/Switch Connection
+
+```
+micro:bit 3V → 10kΩ Pull-up Resistor → micro:bit Pin 1
+micro:bit Pin 1 → Button → micro:bit GND
+
+Code: pin1.read_digital() returns 1 when not pressed, 0 when pressed
+```
+
+### Analog Sensor Reading
+
+```
+Sensor Output → micro:bit Pin 0, 1, 2, 3, 4, or 10 (analog pins)
+Sensor VCC → micro:bit 3V
+Sensor GND → micro:bit GND
+
+Code: pin0.read_analog() returns 0-1023 (0-3.3V)
+```
+
+### Servo Motor Connection
+
+```
+Servo Red Wire → micro:bit 3V
+Servo Black/Brown Wire → micro:bit GND
+Servo White/Orange Wire → micro:bit Pin 0 (PWM)
+
+Code: pin0.write_analog(value) where value is 0-1023
+```
+
+### I2C Device Connection
+
+```
+I2C Device VCC → micro:bit 3V
+I2C Device GND → micro:bit GND
+I2C Device SDA → micro:bit Pin 20 (SDA)
+I2C Device SCL → micro:bit Pin 19 (SCL)
+
+Note: Built-in pull-up resistors included
+```
+
+### SPI Device Connection
+
+```
+SPI Device VCC → micro:bit 3V
+SPI Device GND → micro:bit GND
+SPI Device SCK → micro:bit Pin 13 (SCK)
+SPI Device MOSI → micro:bit Pin 15 (MOSI)
+SPI Device MISO → micro:bit Pin 14 (MISO)
+SPI Device CS → micro:bit Pin 16 (or any digital pin)
+```
+
+### Battery Power Connection
+
+```
+2x AAA Battery Pack → micro:bit JST Connector
+OR
+3V Coin Cell → micro:bit 3V and GND pins
+
+Note: No built-in charging - use external charger for rechargeable batteries
+```
+
+## Programming Setup Guide
+
+### MakeCode (Recommended for Beginners)
+
+1. Visit makecode.microbit.org in web browser
+2. Create new project
+3. Drag and drop blocks to create programs
+4. Download .hex file
+5. Copy .hex file to MICROBIT drive
+
+### MicroPython Setup
+
+1. Visit python.microbit.org in web browser
+2. Write Python code in editor
+3. Download .hex file
+4. Copy .hex file to MICROBIT drive
+
+### Arduino IDE Setup
+
+1. Install Arduino IDE
+2. Add micro:bit board package
+3. Install required libraries
+4. Select "BBC micro:bit" from Tools → Board
+
+## Programming Examples
+
+### MakeCode - Basic LED Control
+
+```javascript
+// Show heart on button A press
+input.onButtonPressed(Button.A, function () {
+  basic.showIcon(IconNames.Heart);
+});
+
+// Show sad face on button B press
+input.onButtonPressed(Button.B, function () {
+  basic.showIcon(IconNames.Sad);
+});
+
+// Clear display on shake
+input.onGesture(Gesture.Shake, function () {
+  basic.clearScreen();
+});
+
+// Forever loop - scroll text
+basic.forever(function () {
+  basic.showString("Hello World!");
+});
+```
+
+### MicroPython - Sensor Reading
+
+```python
+from microbit import *
+import music
+
+while True:
+    # Read accelerometer
+    x = accelerometer.get_x()
+    y = accelerometer.get_y()
+    z = accelerometer.get_z()
+
+    # Display temperature
+    temp = temperature()
+    display.scroll(str(temp) + "C")
+
+    # Check buttons
+    if button_a.was_pressed():
+        display.show(Image.HAPPY)
+        music.play(music.BA_DING)
+
+    if button_b.was_pressed():
+        display.show(Image.SAD)
+        music.play(music.WAWAWAWAA)
+
+    # Detect shake
+    if accelerometer.was_gesture('shake'):
+        display.clear()
+        music.play(music.JUMP_UP)
+
+    sleep(100)
+```
+
+### MicroPython - External LED Control
+
+```python
+from microbit import *
+
+# Blink external LED on pin 0
+while True:
+    pin0.write_digital(1)  # LED on
+    sleep(500)
+    pin0.write_digital(0)  # LED off
+    sleep(500)
+```
+
+### MicroPython - Analog Reading
+
+```python
+from microbit import *
+
+while True:
+    # Read analog value from pin 0 (0-1023)
+    sensor_value = pin0.read_analog()
+
+    # Convert to voltage (0-3.3V)
+    voltage = sensor_value * 3.3 / 1023
+
+    # Display on LED matrix
+    display.scroll(str(voltage))
+
+    sleep(1000)
+```
+
+### MicroPython - Touch Sensing
+
+```python
+from microbit import *
+
+while True:
+    # Check touch on pins 0, 1, 2
+    if pin0.is_touched():
+        display.show("0")
+
+    elif pin1.is_touched():
+        display.show("1")
+
+    elif pin2.is_touched():
+        display.show("2")
+
+    else:
+        display.clear()
+
+    sleep(100)
+```
+
+### MicroPython - Radio Communication
+
+```python
+from microbit import *
+import radio
+
+# Enable radio
+radio.on()
+radio.config(channel=7)  # Set channel (0-83)
+
+while True:
+    # Send message on button A
+    if button_a.was_pressed():
+        radio.send("Hello from micro:bit!")
+        display.show(Image.ARROW_E)
+
+    # Receive messages
+    message = radio.receive()
+    if message:
+        display.scroll(message)
+
+    # Clear display on button B
+    if button_b.was_pressed():
+        display.clear()
+
+    sleep(100)
+```
 
 ## Built-in Components
 

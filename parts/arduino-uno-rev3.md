@@ -6,7 +6,17 @@ manufacturer: Arduino
 part_number: A000066
 category: microcontrollers
 subcategory: arduino-boards
-tags: [arduino, uno, atmega328p, microcontroller, development-board, 8-bit, usb, official]
+tags:
+  [
+    arduino,
+    uno,
+    atmega328p,
+    microcontroller,
+    development-board,
+    8-bit,
+    usb,
+    official,
+  ]
 quantity: 2
 location: [cabinet-1-bin-41]
 datasheet_url: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
@@ -51,6 +61,7 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Key Features
 
 ### Microcontroller Core
+
 - **ATmega328P**: 8-bit AVR microcontroller with Harvard architecture
 - **16 MHz Clock**: Crystal oscillator for precise timing
 - **32KB Flash**: Program storage with bootloader
@@ -58,18 +69,21 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 - **1KB EEPROM**: Non-volatile data storage
 
 ### Input/Output Capabilities
+
 - **14 Digital Pins**: Configurable as input or output
 - **6 PWM Outputs**: 8-bit PWM on pins 3, 5, 6, 9, 10, 11
 - **6 Analog Inputs**: 10-bit ADC resolution (1024 values)
 - **Built-in LED**: Connected to pin 13 for testing
 
 ### Communication Interfaces
+
 - **USB**: Native USB connectivity for programming and serial communication
 - **UART**: Hardware serial on pins 0 (RX) and 1 (TX)
 - **SPI**: Serial Peripheral Interface on pins 10-13
 - **I2C/TWI**: Two-wire interface on pins A4 (SDA) and A5 (SCL)
 
 ### Power Management
+
 - **Multiple Power Sources**: USB, DC jack, or VIN pin
 - **Automatic Source Selection**: Seamless switching between power sources
 - **Voltage Regulation**: Onboard 5V and 3.3V regulators
@@ -78,6 +92,7 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Pin Configuration
 
 ### Digital Pins (0-13)
+
 - **Pin 0 (RX)**: Serial receive, also digital I/O
 - **Pin 1 (TX)**: Serial transmit, also digital I/O
 - **Pins 2-3**: External interrupt pins
@@ -86,12 +101,14 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 - **Pins 10-13**: SPI interface (SS, MOSI, MISO, SCK)
 
 ### Analog Pins (A0-A5)
+
 - **A0-A5**: 10-bit analog inputs (0-1023 values)
 - **A4 (SDA)**: I2C data line
 - **A5 (SCL)**: I2C clock line
 - **AREF**: Analog reference voltage input
 
 ### Power Pins
+
 - **VIN**: Input voltage when using external power
 - **5V**: Regulated 5V output
 - **3V3**: 3.3V output (50mA max)
@@ -101,12 +118,14 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Programming and Development
 
 ### Arduino IDE Support
+
 - **Native Support**: Full compatibility with Arduino IDE
 - **Extensive Libraries**: Thousands of available libraries
 - **Community Support**: Large user community and documentation
 - **Easy Programming**: Simple upload via USB
 
 ### Bootloader
+
 - **Pre-installed**: Arduino bootloader for easy programming
 - **USB Programming**: No external programmer needed
 - **STK500 Compatible**: Standard Arduino programming protocol
@@ -115,12 +134,14 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Applications
 
 ### Education and Learning
+
 - **Beginner Friendly**: Ideal first microcontroller board
 - **STEM Education**: Perfect for teaching electronics and programming
 - **Prototyping**: Quick project development and testing
 - **Maker Projects**: DIY electronics and automation
 
 ### Project Categories
+
 - **Home Automation**: Light control, sensor monitoring
 - **Robotics**: Motor control, sensor integration
 - **IoT Projects**: Data logging, remote monitoring
@@ -129,18 +150,21 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Memory Organization
 
 ### Flash Memory (32KB)
+
 - **Program Storage**: User sketches and libraries
 - **Bootloader**: 0.5KB reserved for Arduino bootloader
 - **Available Space**: 31.5KB for user programs
 - **Non-volatile**: Retains programs when powered off
 
 ### SRAM (2KB)
+
 - **Variable Storage**: Runtime variables and arrays
 - **Stack Space**: Function calls and local variables
 - **Volatile**: Lost when power is removed
 - **Shared Resource**: Used by all program components
 
 ### EEPROM (1KB)
+
 - **Persistent Storage**: Data that survives power cycles
 - **Configuration**: Settings and calibration data
 - **User Accessible**: Can be read/written by sketches
@@ -149,18 +173,21 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Communication Protocols
 
 ### Serial Communication
+
 - **Hardware UART**: Pins 0 (RX) and 1 (TX)
 - **USB Serial**: Virtual COM port over USB
 - **Baud Rates**: Up to 115200 bps
 - **Software Serial**: Additional serial ports on any digital pins
 
 ### SPI Communication
+
 - **Hardware SPI**: Pins 10 (SS), 11 (MOSI), 12 (MISO), 13 (SCK)
 - **High Speed**: Fast synchronous communication
 - **Multiple Devices**: Chip select for device selection
 - **Standard Protocol**: Compatible with many sensors and modules
 
 ### I2C/TWI Communication
+
 - **Hardware I2C**: Pins A4 (SDA) and A5 (SCL)
 - **Two-wire Interface**: Clock and data lines
 - **Multiple Devices**: Address-based device selection
@@ -169,12 +196,14 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Power Specifications
 
 ### Input Power
+
 - **USB Power**: 5V from USB connection (500mA max)
 - **DC Jack**: 2.1mm center-positive plug (7-12V recommended)
 - **VIN Pin**: Direct connection to voltage regulator input
 - **Automatic Selection**: Board automatically selects power source
 
 ### Output Power
+
 - **5V Rail**: Regulated 5V output for shields and sensors
 - **3.3V Rail**: 3.3V output with 50mA maximum current
 - **I/O Current**: 20mA maximum per pin, 200mA total
@@ -183,12 +212,14 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Shield Compatibility
 
 ### Standard Shields
+
 - **Arduino Shields**: Compatible with official Arduino shields
 - **Third-party Shields**: Works with most Uno-compatible shields
 - **Stacking**: Multiple shields can be stacked
 - **Pin Mapping**: Standard Arduino pin layout
 
 ### Popular Shield Types
+
 - **Motor Shields**: DC motor and stepper motor control
 - **Sensor Shields**: Easy sensor connections
 - **Display Shields**: LCD and OLED displays
@@ -197,6 +228,7 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 ## Getting Started
 
 ### Basic Setup
+
 1. **Install Arduino IDE**: Download from arduino.cc
 2. **Connect USB Cable**: Use USB A to B cable
 3. **Select Board**: Choose "Arduino Uno" in IDE
@@ -204,6 +236,7 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 5. **Upload Sketch**: Start with Blink example
 
 ### First Projects
+
 - **Blink LED**: Control built-in LED on pin 13
 - **Serial Communication**: Send data to computer
 - **Analog Reading**: Read sensor values
@@ -229,6 +262,114 @@ The Arduino Uno Rev3 is a microcontroller board based on the ATmega328P. It has 
 - **Shield Ecosystem**: Hundreds of compatible shields
 - **Beginner Friendly**: Easy to learn and use
 - **Reliable**: Proven design with excellent track record
+
+## Pinout Diagram
+
+```
+                    Arduino Uno Rev3 Pinout
+
+                    +-----+
+         +----------| USB |----------+
+         |          +-----+          |
+         | [ ]D13/SCK        MISO/D12[ ] |
+         | [ ]3.3V           MOSI/D11[ ]~|
+         | [ ]V.ref     ___    SS/D10[ ]~|
+         | [ ]A0       / N \       D9[ ]~|
+         | [ ]A1      /  A  \      D8[ ] |
+         | [ ]A2      \  N  /      D7[ ] |
+         | [ ]A3       \_O_/       D6[ ]~|
+         | [ ]A4/SDA              D5[ ]~|
+         | [ ]A5/SCL              D4[ ] |
+         | [ ]A6              INT1/D3[ ]~|
+         | [ ]A7              INT0/D2[ ] |
+         | [ ]5V                  GND[ ] |
+         | [ ]RST                 RST[ ] |
+         | [ ]GND   +5V   +3V3    TX1[ ] |
+         | [ ]VIN   [ ]   [ ]     RX0[ ] |
+         |          [ ]                  |
+         |          GND                  |
+         +-------------------------------+
+
+Legend: [ ] = Pin, ~ = PWM capable, SDA/SCL = I2C
+```
+
+## Basic Wiring Examples
+
+### LED Blink Circuit
+
+```
+Arduino Pin 13 → LED Anode (long leg)
+LED Cathode (short leg) → 220Ω Resistor → GND
+
+Note: Pin 13 has built-in LED, external LED optional
+```
+
+### Button Input Circuit
+
+```
+5V → 10kΩ Pull-up Resistor → Arduino Pin 2
+Arduino Pin 2 → Button → GND
+
+Code: digitalRead(2) returns HIGH when not pressed, LOW when pressed
+```
+
+### Analog Sensor Reading
+
+```
+5V → Sensor VCC
+GND → Sensor GND
+Sensor Output → Arduino Pin A0
+
+Code: analogRead(A0) returns 0-1023 (0-5V)
+```
+
+### I2C Device Connection
+
+```
+Arduino 5V → Device VCC
+Arduino GND → Device GND
+Arduino Pin A4 (SDA) → Device SDA
+Arduino Pin A5 (SCL) → Device SCL
+Add 4.7kΩ pull-up resistors on SDA and SCL lines
+```
+
+### SPI Device Connection
+
+```
+Arduino 5V → Device VCC
+Arduino GND → Device GND
+Arduino Pin 13 (SCK) → Device SCK
+Arduino Pin 12 (MISO) → Device MISO
+Arduino Pin 11 (MOSI) → Device MOSI
+Arduino Pin 10 (SS) → Device CS/SS
+```
+
+## Programming Setup Guide
+
+### Arduino IDE Setup
+
+1. Download Arduino IDE from arduino.cc
+2. Install USB drivers (usually automatic)
+3. Connect Arduino via USB cable
+4. Select "Arduino Uno" from Tools → Board
+5. Select correct COM port from Tools → Port
+6. Upload "Blink" example to test
+
+### First Program Example
+
+```cpp
+// Basic LED blink program
+void setup() {
+  pinMode(13, OUTPUT);  // Set pin 13 as output
+}
+
+void loop() {
+  digitalWrite(13, HIGH);  // Turn LED on
+  delay(1000);             // Wait 1 second
+  digitalWrite(13, LOW);   // Turn LED off
+  delay(1000);             // Wait 1 second
+}
+```
 
 ## Recommended Accessories
 
