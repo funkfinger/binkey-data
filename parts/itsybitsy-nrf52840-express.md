@@ -24,7 +24,19 @@ location: [Cabinet-1/Bin-28]
 quantity: 1
 status: available
 price_range: $15-20
-tags: [microcontroller, bluetooth-le, nrf52840, arm, cortex-m4, usb, circuitpython, arduino, adafruit, itsybitsy]
+tags:
+  [
+    microcontroller,
+    bluetooth-le,
+    nrf52840,
+    arm,
+    cortex-m4,
+    usb,
+    circuitpython,
+    arduino,
+    adafruit,
+    itsybitsy,
+  ]
 ---
 
 # Adafruit ItsyBitsy nRF52840 Express - Bluetooth LE
@@ -165,6 +177,149 @@ Compact Bluetooth LE development board featuring the Nordic nRF52840 processor i
 - ItsyBitsy nRF52840 Express board
 - Headers (not pre-soldered)
 - Quick start documentation
+
+## Pinout Diagram
+
+### Official Adafruit ItsyBitsy nRF52840 Express Pinout
+
+![ItsyBitsy nRF52840 Pinout](../attachments/itsybitsy-nrf52840-pinout.png)
+
+## Basic Wiring Examples
+
+### LED Blink Circuit
+
+```
+LED Anode (long leg) → 220Ω Resistor → ItsyBitsy Pin 13
+LED Cathode (short leg) → ItsyBitsy GND
+
+Note: Pin 13 has built-in LED, Pin 3 has blue LED
+```
+
+### Button Input Circuit
+
+```
+ItsyBitsy 3V → 10kΩ Pull-up Resistor → ItsyBitsy Pin 7
+ItsyBitsy Pin 7 → Button → ItsyBitsy GND
+
+Code: pinMode(7, INPUT_PULLUP); digitalRead(7);
+```
+
+### I2C Sensor Connection
+
+```
+I2C Sensor VCC → ItsyBitsy 3V
+I2C Sensor GND → ItsyBitsy GND
+I2C Sensor SDA → ItsyBitsy SDA (requires 2.2kΩ-10kΩ pullup to 3V)
+I2C Sensor SCL → ItsyBitsy SCL (requires 2.2kΩ-10kΩ pullup to 3V)
+
+Note: External pullups required for I2C operation
+```
+
+### NeoPixel Strip Connection
+
+```
+NeoPixel Strip VCC → ItsyBitsy Vhi (5V when USB powered)
+NeoPixel Strip GND → ItsyBitsy GND
+NeoPixel Strip DIN → ItsyBitsy Pin 5 (level-shifted to Vhi)
+
+Code: #include <Adafruit_NeoPixel.h>; Adafruit_NeoPixel strip(30, 5);
+```
+
+### Servo Motor Connection
+
+```
+Servo Red Wire → ItsyBitsy Vhi (5V)
+Servo Black Wire → ItsyBitsy GND
+Servo White Wire → ItsyBitsy Pin 9 (PWM capable)
+
+Code: #include <Servo.h>; Servo myservo; myservo.attach(9);
+```
+
+### Battery Power Connection
+
+```
+3.7V LiPo Battery + → ItsyBitsy BAT
+3.7V LiPo Battery - → ItsyBitsy GND
+
+Note: Automatic switching between USB and battery power
+```
+
+### UART Communication
+
+```
+Device TX → ItsyBitsy Pin 0 (RX)
+Device RX → ItsyBitsy Pin 1 (TX)
+Device VCC → ItsyBitsy 3V
+Device GND → ItsyBitsy GND
+
+Code: Serial1.begin(9600); // Hardware UART on pins 0,1
+```
+
+## Programming Setup Guide
+
+### Arduino IDE Setup
+
+1. Install Arduino IDE 1.8.19 or later
+2. Add Adafruit board package URL in preferences:
+   `https://adafruit.github.io/arduino-board-index/package_adafruit_index.json`
+3. Install "Adafruit nRF52 by Adafruit" boards package
+4. Install required libraries:
+   - Bluefruit nRF52 Libraries
+   - Adafruit NeoPixel
+   - Adafruit DotStar
+   - Adafruit Sensor libraries
+5. Select "Adafruit ItsyBitsy nRF52840 Express" from Tools → Board
+
+### CircuitPython Setup
+
+1. Download CircuitPython UF2 for ItsyBitsy nRF52840 from circuitpython.org
+2. Double-click RESET button to enter bootloader (red LED pulses)
+3. Drag UF2 file to ITSYBOOT drive
+4. Board reboots as CIRCUITPY drive
+5. Install required libraries in lib folder
+
+### Bluetooth Development Setup
+
+1. Install Nordic nRF Connect app on mobile device
+2. Install Bluefruit Connect app for testing
+3. Use Nordic nRF52 SDK for advanced development
+4. Consider using Web Bluetooth for browser integration
+
+## Programming Examples
+
+### Arduino - Basic Bluetooth LE Beacon
+
+```cpp
+#include <bluefruit.h>
+
+void setup() {
+  Serial.begin(115200);
+
+  // Initialize Bluefruit
+  Bluefruit.begin();
+  Bluefruit.setTxPower(4);    // Check bluefruit.h for supported values
+  Bluefruit.setName("ItsyBitsy-Beacon");
+
+  // Set up advertising packet
+  Bluefruit.Advertising.addFlags(BLE_GAP_ADV_FLAGS_LE_ONLY_GENERAL_DISC_MODE);
+  Bluefruit.Advertising.addTxPower();
+  Bluefruit.Advertising.addName();
+
+  // Start advertising
+  Bluefruit.Advertising.restartOnDisconnect(true);
+  Bluefruit.Advertising.setInterval(32, 244);    // in unit of 0.625 ms
+  Bluefruit.Advertising.setFastTimeout(30);      // number of seconds in fast mode
+  Bluefruit.Advertising.start(0);                // 0 = Don't stop advertising after n seconds
+
+  Serial.println("Bluetooth LE Beacon started");
+}
+
+void loop() {
+  // Toggle built-in LED to show activity
+  digitalToggle(LED_BUILTIN);
+  delay(1000);
+}
+```
 
 ## Notes
 
