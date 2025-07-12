@@ -197,9 +197,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section E: [[cd4040be-12bit-binary-counter]] - 9
 - Section F: [[cd4049-hex-inverting-buffer]] - 5
 
-## Bin 35
+## Bin 35 - CMOS Logic ICs
 
-- [[empty]]
+- Section A: [[cd4411-cmos-logic-ic]] - 40
 
 ## Bin 36
 
