@@ -199,7 +199,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 35 - CMOS Logic ICs
 
-- Section A: [[cd4411-cmos-logic-ic]] - 40
+- Section A: [[cd4511-bcd-7segment-decoder]] - 40
 
 ## Bin 36
 
