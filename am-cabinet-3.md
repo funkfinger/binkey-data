@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 13
-last_updated: 2025-01-10
+populated_bins: 14
+last_updated: 2025-01-12
 categories:
   [
     thermistors,
@@ -180,13 +180,21 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[operational-amplifiers-collection-bin32]] - Operational Amplifiers Collection (15+)
 
-## Bin 33 - Unidentified DIP IC Chips - TODO
+## Bin 33 - Logic ICs and Digital Potentiometers
 
 - [[unidentified-dip-ic-chips]] - Various DIP IC chips that need identification
+- Section A: [[motorola-mc68hc68t1p-rtc]] - 1
+- Section B: [[motorola-mc14584b-hex-schmitt-trigger]] - 1
+- Section C: [[motorola-mc14001bcp-quad-nor-gate]] - 1
+- Section D: [[dallas-ds1267-100-dual-digital-potentiometer]] - 1
+- Section E: [[sn74hct573n-octal-transparent-latch]] - 1
 
-## Bin 34
+## Bin 34 - CMOS Logic ICs
 
-- [[empty]]
+- Section A: [[cd4010-hex-buffer-converter]] - 9
+- Section B: [[cd4026be-decade-counter-7segment-driver]] - 4
+- Section C: [[cd4066be-quad-bilateral-switch]] - 10
+- Section D: [[74hc4051-8channel-analog-multiplexer]] - 15
 
 ## Bin 35
 
