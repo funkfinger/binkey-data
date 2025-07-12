@@ -195,6 +195,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section C: [[cd4066be-quad-bilateral-switch]] - 10
 - Section D: [[74hc4051-8channel-analog-multiplexer]] - 15
 - Section E: [[cd4040be-12bit-binary-counter]] - 9
+- Section F: [[cd4049-hex-inverting-buffer]] - 5
 
 ## Bin 35
 

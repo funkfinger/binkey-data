@@ -323,6 +323,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Logic ICs & Counters
 
 - [[cd4040be-12bit-binary-counter]]
+- [[cd4049-hex-inverting-buffer]]
 
 ### Unidentified ICs
 
