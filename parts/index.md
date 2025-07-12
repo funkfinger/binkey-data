@@ -320,6 +320,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Integrated Circuits
 
+### Logic ICs & Counters
+
+- [[cd4040be-12bit-binary-counter]]
+
+### Unidentified ICs
+
 - [[unidentified-dip-ic-chips]]
 
 ## Connector Boards

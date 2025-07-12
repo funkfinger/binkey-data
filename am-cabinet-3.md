@@ -182,7 +182,6 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 33 - Logic ICs and Digital Potentiometers
 
-- [[unidentified-dip-ic-chips]] - Various DIP IC chips that need identification
 - Section A: [[motorola-mc68hc68t1p-rtc]] - 1
 - Section B: [[motorola-mc14584b-hex-schmitt-trigger]] - 1
 - Section C: [[motorola-mc14001bcp-quad-nor-gate]] - 1
@@ -195,6 +194,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section B: [[cd4026be-decade-counter-7segment-driver]] - 4
 - Section C: [[cd4066be-quad-bilateral-switch]] - 10
 - Section D: [[74hc4051-8channel-analog-multiplexer]] - 15
+- Section E: [[cd4040be-12bit-binary-counter]] - 9
 
 ## Bin 35
 
