@@ -247,9 +247,10 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section A: [[sn74hct14n-hex-schmitt-trigger]] - 14 (Digikey sourced)
 - Section B: [[sn74hct14n-hex-schmitt-trigger]] - 27 (non-Digikey sourced)
 
-## Bin 42 - EEPROM Memory ICs
+## Bin 42 - Memory & Display Driver ICs
 
 - Section A: [[24lc08b-p-eeprom]] - 20
+- Section B: [[k155na1-nixie-driver]] - 10
 
 ## Bin 43
 

@@ -383,6 +383,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[pc817x2nsz9f-optocoupler]]
 - [[3-pin-dip-opto-isolators-mixed]]
 
+### Display Driver ICs
+
+- [[k155na1-nixie-driver]]
+
 ### Interface ICs
 
 - [[max232cpe-rs232-line-driver]]
