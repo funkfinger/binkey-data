@@ -227,9 +227,12 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section B: [[tlc5940-led-driver]] - 8
 - Section C: [[max7219cng-led-matrix-driver]] - 20
 
-## Bin 40
+## Bin 40 - Microcontrollers
 
-- [[empty]]
+- Section A: [[attiny13v-10pu-microcontroller]] - 11
+- Section B: [[attiny2313v-10pu-microcontroller]] - 17
+- Section C: [[attiny85v-10pu-microcontroller]] - 38
+- Section D: [[atmega328-pu-microcontroller]] - 11
 
 ## Bin 41
 

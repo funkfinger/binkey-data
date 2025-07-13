@@ -120,6 +120,10 @@ This folder contains detailed specifications for each individual electronic comp
 ## Microcontroller Boards
 
 - [[adafruit-huzzah-esp8266-breakout]]
+- [[atmega328-pu-microcontroller]]
+- [[attiny13v-10pu-microcontroller]]
+- [[attiny2313v-10pu-microcontroller]]
+- [[attiny85v-10pu-microcontroller]]
 - [[adafruit-itsybitsy-rp2040]]
 - [[adafruit-kb2040-rp2040]]
 - [[adafruit-qt-py-rp2040]]
