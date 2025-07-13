@@ -342,6 +342,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Integrated Circuits
 
+### Memory ICs
+
+- [[24lc08b-p-eeprom]]
+
 ### Logic ICs & Counters
 
 - [[cd4017-decade-counter]]

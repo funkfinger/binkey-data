@@ -9,3 +9,6 @@ Please add the following parts that are uncheck in this file. Please check off t
 - Bin 34
   - [ ] https://www.digikey.com/en/products/detail/texas-instruments/CD40106BE/376602 (9)
   - [ ]
+
+- Bin 42
+  - [x] https://www.digikey.com/en/products/detail/microchip-technology/24LC08B-P/170160 (20+) - Section A

@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 14
+populated_bins: 15
 last_updated: 2025-01-12
 categories:
   [
@@ -247,9 +247,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section A: [[sn74hct14n-hex-schmitt-trigger]] - 14 (Digikey sourced)
 - Section B: [[sn74hct14n-hex-schmitt-trigger]] - 27 (non-Digikey sourced)
 
-## Bin 42
+## Bin 42 - EEPROM Memory ICs
 
-- [[empty]]
+- Section A: [[24lc08b-p-eeprom]] - 20
 
 ## Bin 43
 
