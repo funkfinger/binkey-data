@@ -330,6 +330,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Timer ICs
 
 - [[555-timer-ic]]
+- [[556-dual-timer-ic]]
 
 ### Unidentified ICs
 

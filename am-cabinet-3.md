@@ -205,6 +205,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ## Bin 36 - Timer ICs
 
 - Section A: [[555-timer-ic]] - 70
+- Section B: [[556-dual-timer-ic]] - 6
 
 ## Bin 37
 
