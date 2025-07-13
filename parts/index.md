@@ -316,6 +316,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[24-pin-dip-ic-sockets]]
 - [[28-pin-dip-ic-sockets]]
 
+### Terminal Blocks
+
+- [[adafruit-2137-terminal-block-4pin]]
+
 ## Surface Mount Technology (SMT)
 
 ### SMT Passive Components

@@ -34,6 +34,9 @@ Please add the following parts that are uncheck in this file. Please check off t
     - 7x 12-pin single row headers
   - [x] 1mm spacing dual row female headers (15) - Section B
 
+- Bin 57
+  - [x] Adafruit 4-pin terminal blocks (20+) - Section A
+
 # Cabinet 2
 
 - Bin 5

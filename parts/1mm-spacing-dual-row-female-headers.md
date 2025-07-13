@@ -16,7 +16,7 @@ interface: [Through-hole, SMT, Fine-pitch]
 connectivity: [PCB, High-density modules, Fine-pitch cables]
 compatibility:
   [Fine-pitch male headers, Ribbon cables, High-density applications]
-location: [Cabinet-3/Bin-48/Section-B]
+location: [Cabinet-3/Bin-46/Section-B]
 quantity: 15
 status: available
 price_range: $0.50-3.00 per piece
@@ -33,7 +33,7 @@ tags:
     high-density,
     pcb,
     cabinet-3,
-    bin-48,
+    bin-46,
     status-available,
   ]
 date_added: 2025-01-13
