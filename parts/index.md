@@ -299,6 +299,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Header Connectors
 
+- [[1mm-spacing-dual-row-female-headers]]
 - [[2-pin-female-stacking-headers]]
 - [[dual-row-40pin-female-headers]]
 - [[single-row-male-stacking-headers]]
