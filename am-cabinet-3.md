@@ -251,6 +251,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - Section A: [[24lc08b-p-eeprom]] - 20
 - Section B: [[k155na1-nixie-driver]] - 10
+- Section C: [[sfc441be-nixie-driver]] - 2
 
 ## Bin 43
 

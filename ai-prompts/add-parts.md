@@ -13,6 +13,7 @@ Please add the following parts that are uncheck in this file. Please check off t
 - Bin 42
   - [x] https://www.digikey.com/en/products/detail/microchip-technology/24LC08B-P/170160 (20+) - Section A
   - [x] K155NA1 Soviet Nixie Tube Drivers (10) - Section B
+  - [x] SFC441BE SESCOSEM Nixie Tube Drivers (2) - Section C
 
 # Cabinet 2
 

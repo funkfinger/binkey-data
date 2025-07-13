@@ -387,6 +387,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Display Driver ICs
 
 - [[k155na1-nixie-driver]]
+- [[sfc441be-nixie-driver]]
 
 ### Interface ICs
 
