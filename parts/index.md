@@ -27,9 +27,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## LED Backpacks & Drivers
 
+- [[a6276-led-driver]]
 - [[holtek-ht16k33-breakout]]
 - [[ht16k33-led-backpack]]
 - [[is31fl3731-led-matrix-driver]]
+- [[max7219cng-led-matrix-driver]]
+- [[tlc5940-led-driver]]
 
 ## Programming & Debugging Tools
 
@@ -325,6 +328,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[cd4040be-12bit-binary-counter]]
 - [[cd4049-hex-inverting-buffer]]
 - [[cd4050-cmos-hex-buffer]]
+- [[cd4071-quad-or-gate]]
 - [[cd4510-bcd-up-down-counter]]
 - [[cd4511-bcd-7segment-decoder]]
 
@@ -341,6 +345,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Isolators & Optocouplers
 
 - [[pc817x2nsz9f-optocoupler]]
+- [[3-pin-dip-opto-isolators-mixed]]
 
 ### Interface ICs
 

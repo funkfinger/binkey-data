@@ -187,6 +187,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section C: [[motorola-mc14001bcp-quad-nor-gate]] - 1
 - Section D: [[dallas-ds1267-100-dual-digital-potentiometer]] - 1
 - Section E: [[sn74hct573n-octal-transparent-latch]] - 1
+- Section F: [[cd4071-quad-or-gate]] - 1
 
 ## Bin 34 - CMOS Logic ICs
 
@@ -213,15 +214,18 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section A: [[lm741-op-amp]] - 16
 - Section B: [[pc817x2nsz9f-optocoupler]] - 49
 - Section C: [[tl074cn-quad-jfet-opamp]] - 16
+- Section D: [[3-pin-dip-opto-isolators-mixed]] - 14
 
 ## Bin 38 - I/O Expander ICs
 
 - Section A: [[mcp23017-e-sp-io-expander]] - 24
 - Section B: [[mcp23008-e-p-io-expander]] - 14
 
-## Bin 39
+## Bin 39 - Display Driver ICs
 
-- [[empty]]
+- Section A: [[a6276-led-driver]] - 20
+- Section B: [[tlc5940-led-driver]] - 8
+- Section C: [[max7219cng-led-matrix-driver]] - 20
 
 ## Bin 40
 
