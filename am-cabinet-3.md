@@ -338,6 +338,6 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[single-row-male-headers-01-various]] - 50+ various lengths
 
-## Bin 62 - Dual Row Male Headers
+## Bin 63 - Dual Row Male Headers
 
 - [[dual-row-male-headers-01-various]] - 50+ various lengths
