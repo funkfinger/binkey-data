@@ -209,6 +209,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 37 - Op-Amp ICs & Isolators
 
+- Section A: [[lm741-op-amp]] - 16
 - Section B: [[pc817x2nsz9f-optocoupler]] - 49
 - Section C: [[tl074cn-quad-jfet-opamp]] - 16
 

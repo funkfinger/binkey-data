@@ -334,6 +334,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Op-Amp ICs
 
+- [[lm741-op-amp]]
 - [[tl074cn-quad-jfet-opamp]]
 
 ### Isolators & Optocouplers
