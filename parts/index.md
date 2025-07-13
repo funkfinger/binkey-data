@@ -332,6 +332,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[555-timer-ic]]
 - [[556-dual-timer-ic]]
 
+### Op-Amp ICs
+
+- [[tl074cn-quad-jfet-opamp]]
+
 ### Unidentified ICs
 
 - [[unidentified-dip-ic-chips]]

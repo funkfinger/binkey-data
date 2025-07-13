@@ -207,9 +207,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section A: [[555-timer-ic]] - 70
 - Section B: [[556-dual-timer-ic]] - 6
 
-## Bin 37
+## Bin 37 - Op-Amp ICs
 
-- [[empty]]
+- Section C: [[tl074cn-quad-jfet-opamp]] - 16
 
 ## Bin 38
 
