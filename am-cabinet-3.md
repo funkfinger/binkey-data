@@ -255,6 +255,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 43 - Header Connectors
 
+- Section A: [[2-pin-female-stacking-headers]] - 30+
 - Section B: [[single-row-male-stacking-headers]] - 30+
 
 ## Bin 44

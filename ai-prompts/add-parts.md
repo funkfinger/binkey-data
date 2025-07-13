@@ -16,6 +16,7 @@ Please add the following parts that are uncheck in this file. Please check off t
   - [x] SFC441BE SESCOSEM Nixie Tube Drivers (2) - Section C
 
 - Bin 43
+  - [x] 2-pin female stacking headers (30+) - Section A
   - [x] Single row male stacking headers (30+) - Section B
 
 # Cabinet 2
