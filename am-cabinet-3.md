@@ -201,6 +201,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - Section A: [[cd4511-bcd-7segment-decoder]] - 40
 - Section B: [[cd4510-bcd-up-down-counter]] - 30
+- Section C: [[cd4050-cmos-hex-buffer]] - 12
 
 ## Bin 36 - Timer ICs
 
