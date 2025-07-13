@@ -260,6 +260,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Voltage Regulators
 
+- [[ua723cn-voltage-regulator]]
 - [[voltage-regulators-boost-converters]]
 - [[power-management-modules]]
 
@@ -329,12 +330,17 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Logic ICs & Counters
 
+- [[cd4017-decade-counter]]
+- [[cd4026-decade-counter-7segment]]
 - [[cd4040be-12bit-binary-counter]]
 - [[cd4049-hex-inverting-buffer]]
 - [[cd4050-cmos-hex-buffer]]
 - [[cd4071-quad-or-gate]]
 - [[cd4510-bcd-up-down-counter]]
 - [[cd4511-bcd-7segment-decoder]]
+- [[lm3909n-led-flasher]]
+- [[sn74hct14n-hex-schmitt-trigger]]
+- [[ti-logic-gate-snosbq4f]]
 
 ### Timer ICs
 

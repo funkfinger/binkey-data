@@ -182,12 +182,14 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 33 - Logic ICs and Digital Potentiometers
 
-- Section A: [[motorola-mc68hc68t1p-rtc]] - 1
+- Section A: [[motorola-mc68hc68t1p-rtc]] - 1, [[lm3909n-led-flasher]] - 1
 - Section B: [[motorola-mc14584b-hex-schmitt-trigger]] - 1
 - Section C: [[motorola-mc14001bcp-quad-nor-gate]] - 1
 - Section D: [[dallas-ds1267-100-dual-digital-potentiometer]] - 1
 - Section E: [[sn74hct573n-octal-transparent-latch]] - 1
-- Section F: [[cd4071-quad-or-gate]] - 1
+- Section F: [[cd4071-quad-or-gate]] - 1, [[cd4026-decade-counter-7segment]] - 1
+- Section G: [[ti-logic-gate-snosbq4f]] - 3, [[ua723cn-voltage-regulator]] - 1
+- Section H: [[cd4017-decade-counter]] - 2
 
 ## Bin 34 - CMOS Logic ICs
 
@@ -234,9 +236,10 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section C: [[attiny85v-10pu-microcontroller]] - 38
 - Section D: [[atmega328-pu-microcontroller]] - 11
 
-## Bin 41
+## Bin 41 - Logic Gates
 
-- [[empty]]
+- Section A: [[sn74hct14n-hex-schmitt-trigger]] - 14 (Digikey sourced)
+- Section B: [[sn74hct14n-hex-schmitt-trigger]] - 27 (non-Digikey sourced)
 
 ## Bin 42
 
