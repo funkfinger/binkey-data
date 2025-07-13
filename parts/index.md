@@ -336,6 +336,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[tl074cn-quad-jfet-opamp]]
 
+### Isolators & Optocouplers
+
+- [[pc817x2nsz9f-optocoupler]]
+
 ### Unidentified ICs
 
 - [[unidentified-dip-ic-chips]]
