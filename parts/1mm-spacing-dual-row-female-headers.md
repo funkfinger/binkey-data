@@ -14,14 +14,28 @@ current: 1A per pin (typical)
 power: Variable
 interface: [Through-hole, SMT, Fine-pitch]
 connectivity: [PCB, High-density modules, Fine-pitch cables]
-compatibility: [Fine-pitch male headers, Ribbon cables, High-density applications]
-location: [Cabinet-3/Bin-46]
+compatibility:
+  [Fine-pitch male headers, Ribbon cables, High-density applications]
+location: [Cabinet-3/Bin-48/Section-B]
 quantity: 15
 status: available
 price_range: $0.50-3.00 per piece
 datasheet: Generic fine-pitch connector specifications
 product_url: N/A (generic component)
-tags: [headers, connectors, female, dual-row, 1mm-spacing, fine-pitch, high-density, pcb, cabinet-3, bin-46, status-available]
+tags:
+  [
+    headers,
+    connectors,
+    female,
+    dual-row,
+    1mm-spacing,
+    fine-pitch,
+    high-density,
+    pcb,
+    cabinet-3,
+    bin-48,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
@@ -29,7 +43,7 @@ date_added: 2025-01-13
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 46
+- **Location**: Cabinet-3, Bin 48, Section B
 - **Category**: Connectors & Cables - Header Connectors
 - **Type**: 1mm Spacing Dual Row Female Headers
 - **Package**: Through-hole/SMT
@@ -46,13 +60,15 @@ date_added: 2025-01-13
 ## Specifications
 
 ### Electrical Characteristics
+
 - **Voltage Rating**: 125V AC/DC (typical)
 - **Current Rating**: 1A per pin (typical)
 - **Contact Resistance**: <30mΩ (typical)
 - **Insulation Resistance**: >500MΩ
 - **Dielectric Strength**: 500V AC (typical)
 
-### Physical Characteristics  
+### Physical Characteristics
+
 - **Pitch**: 1.0mm fine spacing
 - **Row Spacing**: 1.0mm or 2.0mm (depending on variant)
 - **Socket Diameter**: 0.5mm typical
@@ -62,6 +78,7 @@ date_added: 2025-01-13
 - **Mounting**: Through-hole or SMT
 
 ### Key Features
+
 - Fine 1.0mm pitch for high density
 - Dual row configuration for maximum pins
 - Compact footprint
@@ -73,6 +90,7 @@ date_added: 2025-01-13
 ## Applications
 
 Common use cases and applications for this component:
+
 - Embedded system interfaces
 - Industrial control modules
 - Compact data acquisition systems
@@ -85,6 +103,7 @@ Common use cases and applications for this component:
 ## Pin Count Varieties
 
 Common 1mm pitch dual row configurations:
+
 - **2x5 (10-pin)**: Compact interfaces
 - **2x8 (16-pin)**: Standard fine-pitch
 - **2x10 (20-pin)**: Extended interfaces
@@ -96,6 +115,7 @@ Common 1mm pitch dual row configurations:
 ## Circuit Examples
 
 ### High-Density I/O Module
+
 ```
 Main Controller PCB
     ↓ (1mm pitch connection)
@@ -107,6 +127,7 @@ High-Density I/O Module
 ```
 
 ### Camera Module Interface
+
 ```
 Main PCB
     ↓ (Fine-pitch connector)
@@ -120,6 +141,7 @@ Camera Module
 ## Installation Examples
 
 ### PCB Design Considerations
+
 ```cpp
 // Fine-pitch design requirements:
 // Pitch: 1.0mm spacing
@@ -136,6 +158,7 @@ Camera Module
 ```
 
 ### Assembly Guidelines
+
 ```
 Fine-Pitch Assembly Process:
 ├── Precise component placement
@@ -148,6 +171,7 @@ Fine-Pitch Assembly Process:
 ## Technical Notes
 
 Important technical considerations, limitations, or special requirements:
+
 - **Manufacturing Precision**: Requires high-precision PCB fabrication
 - **Assembly Equipment**: Needs fine-pitch assembly capabilities
 - **Soldering**: Requires controlled reflow or skilled hand soldering
@@ -160,6 +184,7 @@ Important technical considerations, limitations, or special requirements:
 ## Design Guidelines
 
 Best practices for using 1mm pitch headers:
+
 - **PCB Layout**: Use controlled impedance design
 - **Via Management**: Minimize vias near connector
 - **Ground Planes**: Provide solid ground reference
@@ -171,6 +196,7 @@ Best practices for using 1mm pitch headers:
 ## Manufacturing Considerations
 
 Factors affecting successful assembly:
+
 - **PCB Tolerance**: ±0.05mm positional accuracy
 - **Solder Paste**: Fine-pitch stencil design
 - **Component Placement**: High-precision pick-and-place
@@ -181,6 +207,7 @@ Factors affecting successful assembly:
 ## Signal Integrity
 
 High-frequency considerations:
+
 - **Crosstalk**: Minimize with proper spacing
 - **Impedance**: Control trace impedance
 - **Ground**: Provide adequate ground planes
@@ -191,6 +218,7 @@ High-frequency considerations:
 ## Quality Control
 
 Inspection and testing requirements:
+
 - **Visual Inspection**: 10x magnification minimum
 - **Electrical Test**: Continuity and isolation
 - **Mechanical Test**: Insertion/extraction force
@@ -200,6 +228,7 @@ Inspection and testing requirements:
 ## Compatibility
 
 Compatible with:
+
 - 1mm pitch male headers
 - Fine-pitch ribbon cables
 - High-density modules
@@ -210,6 +239,7 @@ Compatible with:
 ## Handling Precautions
 
 Special handling requirements:
+
 - **ESD Protection**: Anti-static handling required
 - **Storage**: Controlled environment
 - **Transport**: Protective packaging
@@ -220,6 +250,7 @@ Special handling requirements:
 ## Cost Considerations
 
 Economic factors:
+
 - **Higher Unit Cost**: 3-5x standard pitch
 - **Assembly Cost**: Specialized equipment
 - **Yield Impact**: Lower assembly yields
@@ -229,7 +260,7 @@ Economic factors:
 
 ## Tags
 
-headers, connectors, female, dual-row, 1mm-spacing, fine-pitch, high-density, pcb #cabinet-3 #bin-46 #status-available
+headers, connectors, female, dual-row, 1mm-spacing, fine-pitch, high-density, pcb #cabinet-3 #bin-48 #status-available
 
 ## Notes
 

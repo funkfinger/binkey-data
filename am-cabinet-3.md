@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 18
+populated_bins: 19
 last_updated: 2025-01-12
 categories:
   [
@@ -266,18 +266,17 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section A: [[2-pin-female-stacking-headers]] - 30+
 - Section B: [[single-row-male-stacking-headers]] - 30+
 
-## Bin 46 - Female Headers Collection
+## Bin 46 - Standard Female Headers
 
 - [[various-female-headers-01-spacing]] - Various counts
-- [[1mm-spacing-dual-row-female-headers]] - 15
 
 ## Bin 47
 
 - [[empty]]
 
-## Bin 48
+## Bin 48 - Fine-Pitch Headers
 
-- [[empty]]
+- Section B: [[1mm-spacing-dual-row-female-headers]] - 15
 
 ## Bin 49 - LED Display Drivers
 
