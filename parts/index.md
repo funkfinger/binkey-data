@@ -6,6 +6,18 @@ categories:
   [
     led-backpacks,
     programming-tools,
+    test-equipment,
+    building-components,
+    enclosures,
+    optical-components,
+    sensors,
+    environmental-monitoring,
+    led-controllers,
+    switches,
+    vintage-components,
+    mechanical-components,
+    networking-components,
+    servo-motors,
     led-displays,
     standard-leds,
     special-leds,
@@ -44,6 +56,49 @@ This folder contains detailed specifications for each individual electronic comp
 - [[pomona-5253-socket-adapter]]
 - [[waveshare-rp2040-tiny-adapter-flex-cable]]
 - [[avr-6-pin-in-circuit-serial-programming-adapter]]
+
+## Test Equipment & Measurement Tools
+
+- [[fnrsi-lcr-p1-transistor-meter]]
+
+## Building Components & Mechanical Parts
+
+- [[habow-882pcs-technic-parts]]
+
+## Enclosures & Cases
+
+- [[adafruit-pygamer-acrylic-enclosure-kit]]
+
+## Optical Components
+
+- [[adafruit-convex-glass-lens-40mm]]
+
+## Sensors & Environmental Monitoring
+
+- [[hiletgo-lm393-soil-moisture-sensor-5pcs]]
+- [[hiletgo-lm393-rain-sensor-3pcs]]
+
+## LED Controllers
+
+- [[quinled-dig-quad-v3]]
+
+## Switches & Vintage Components
+
+- [[bcd-mechanical-numeric-selector-switches]]
+
+## Mechanical Components
+
+- [[scstyle-gt2-timing-belt-5m]]
+- [[bemonoc-2gt-timing-belt-loops-various]]
+
+## Networking Components
+
+- [[dslrkit-active-poe-splitter-48v-5v]]
+
+## Servo Motors
+
+- [[beffkkip-sg90-micro-servos]]
+- [[mg995-55g-metal-gear-servos]]
 
 ## LED Displays
 

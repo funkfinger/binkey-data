@@ -2,9 +2,9 @@
 title: Akro Mills Cabinet System Overview
 description: High-level overview of the Akro Mills cabinet organization system for electronics components
 type: overview
-total_cabinets: 3
+total_cabinets: 4
 tags: [akro-mills, cabinets, inventory, electronics, organization]
-last_updated: 2025-01-10
+last_updated: 2025-01-13
 ---
 
 # Akro Mills Cabinet System
@@ -88,6 +88,27 @@ Specialized components focusing on sensors, interconnect cables, and advanced el
 
 ---
 
+### [[am-cabinet-4|Akro Mills Cabinet 4]] - Test Equipment & Tools
+
+**44 bins total | 1 populated bin**
+
+Specialized test equipment, measurement instruments, and electronic tools for component testing and circuit analysis.
+
+**Key Categories:**
+
+- **Component Testers**: LCR meters, transistor testers, capacitor analyzers
+- **Measurement Tools**: Multimeters, oscilloscopes, signal generators
+- **Electronic Instruments**: Specialized testing and analysis equipment
+- **Calibration Tools**: Reference standards and calibration equipment
+
+**Notable Contents:**
+
+- FNRSI LCR-P1 multifunctional component tester with SMD capability
+- Professional-grade testing instruments for electronics work
+- Portable battery-powered test equipment for field use
+
+---
+
 ## Organization Philosophy
 
 ### Bin Numbering
@@ -123,9 +144,10 @@ Specialized components focusing on sensors, interconnect cables, and advanced el
 | [[am-cabinet-1]] | Development Boards & LEDs | 44        | 44 bins (100%) |
 | [[am-cabinet-2]] | Passive Components        | 44        | 41 bins (93%)  |
 | [[am-cabinet-3]] | Sensors & Specialty       | 64        | 13 bins (20%)  |
+| [[am-cabinet-4]] | Test Equipment & Tools    | 44        | 11 bins (25%)  |
 
-**Total System Capacity**: 152 bins across 3 cabinets
-**Current Utilization**: 98 populated bins (64% utilization)
+**Total System Capacity**: 196 bins across 4 cabinets
+**Current Utilization**: 109 populated bins (56% utilization)
 
 ---
 
