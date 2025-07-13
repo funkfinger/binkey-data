@@ -14,12 +14,29 @@ current: Rated for standard IC currents
 power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
-compatibility: [24-pin DIP ICs, Memory chips, Microcontrollers, Large logic ICs, Interface ICs]
-location: [Cabinet-3/Bin-59]
+compatibility:
+  [
+    24-pin DIP ICs,
+    Memory chips,
+    Microcontrollers,
+    Large logic ICs,
+    Interface ICs,
+  ]
+location: [Cabinet-3/Bin-51]
 quantity: 30+
 status: available
 price_range: $0.75-2.50
-tags: [ic-socket, dip-socket, 24-pin, through-hole, prototyping, cabinet-3, bin-59, status-available]
+tags:
+  [
+    ic-socket,
+    dip-socket,
+    24-pin,
+    through-hole,
+    prototyping,
+    cabinet-3,
+    bin-59,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
@@ -27,7 +44,7 @@ date_added: 2025-01-13
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 59
+- **Location**: Cabinet-3, Bin 51
 - **Category**: Connectors & Sockets
 - **Brand**: Generic
 - **Part Number**: DIP-24
@@ -43,6 +60,7 @@ These 24-pin dual in-line IC sockets are designed to hold 24-pin DIP (Dual In-li
 ## Specifications
 
 ### Physical Characteristics
+
 - **Pin Count**: 24 pins (12 pins per side)
 - **Row Spacing**: 0.600" (15.24mm)
 - **Pin Pitch**: 0.100" (2.54mm)
@@ -51,6 +69,7 @@ These 24-pin dual in-line IC sockets are designed to hold 24-pin DIP (Dual In-li
 - **Mounting**: Through-hole PCB mounting
 
 ### Electrical Characteristics
+
 - **Contact Resistance**: Low resistance for reliable connections
 - **Voltage Rating**: Suitable for standard IC voltages (3.3V, 5V, etc.)
 - **Current Rating**: Adequate for typical IC current requirements
@@ -58,6 +77,7 @@ These 24-pin dual in-line IC sockets are designed to hold 24-pin DIP (Dual In-li
 - **Insertion/Extraction Cycles**: Rated for multiple IC insertions
 
 ### Key Features
+
 - Removable IC mounting for easy replacement
 - Standard DIP-24 footprint compatibility
 - Low insertion force for easy IC installation
@@ -90,6 +110,7 @@ These 24-pin dual in-line IC sockets are designed to hold 24-pin DIP (Dual In-li
 Common 24-pin DIP ICs that fit these sockets:
 
 ### **Memory Chips**
+
 - **27C128** - 16KB EPROM
 - **28C128** - 16KB EEPROM
 - **27C256** - 32KB EPROM (some variants)
@@ -97,24 +118,28 @@ Common 24-pin DIP ICs that fit these sockets:
 - **62256** - 32KB SRAM (some variants)
 
 ### **Microcontrollers**
+
 - **PIC16F876** - PIC microcontroller
 - **PIC16F877** - Enhanced PIC microcontroller (some packages)
 - **AT89C51** - 8051-compatible microcontroller
 - **AT89C52** - Enhanced 8051 microcontroller
 
 ### **Logic ICs**
+
 - **74HC573** - Octal transparent latch
 - **74HC574** - Octal D-type flip-flop
 - **74HC245** - Octal bus transceiver
 - **74HC244** - Octal buffer/line driver
 
 ### **Interface ICs**
+
 - **8255** - Programmable peripheral interface
 - **8251** - Universal synchronous/asynchronous receiver/transmitter
 - **8253** - Programmable interval timer
 - **MAX232** - RS-232 line driver/receiver (some variants)
 
 ### **Display Controllers**
+
 - **HD44780** - LCD controller
 - **SED1330** - Graphics LCD controller
 - Various LED display drivers
@@ -122,6 +147,7 @@ Common 24-pin DIP ICs that fit these sockets:
 ## Applications
 
 Common use cases for 24-pin DIP sockets:
+
 - Memory system prototyping and development
 - Microcontroller project development
 - Logic circuit prototyping with large-scale ICs
@@ -134,6 +160,7 @@ Common use cases for 24-pin DIP sockets:
 ## Installation Guidelines
 
 ### PCB Design Considerations
+
 ```
 Footprint Requirements:
 - Pin spacing: 0.100" (2.54mm)
@@ -144,6 +171,7 @@ Footprint Requirements:
 ```
 
 ### Soldering Instructions
+
 ```
 1. Insert socket into PCB with pin 1 indicator aligned
 2. Ensure socket sits flush against PCB surface
@@ -154,6 +182,7 @@ Footprint Requirements:
 ```
 
 ### IC Insertion Best Practices
+
 ```
 1. Verify IC orientation (pin 1 alignment)
 2. Check IC pin straightness before insertion
@@ -166,18 +195,21 @@ Footprint Requirements:
 ## Design Considerations
 
 ### Socket Selection
+
 - **Contact Material**: Choose gold-plated contacts for critical applications
 - **Profile Height**: Consider clearance requirements above PCB
 - **Insertion Force**: Low insertion force sockets for frequent IC changes
 - **Temperature Rating**: Match socket rating to application requirements
 
 ### PCB Layout
+
 - **Orientation Marking**: Clear pin 1 indication on silkscreen
 - **Clearance**: Adequate space around socket for IC insertion/removal
 - **Trace Routing**: Route traces away from socket area when possible
 - **Power Distribution**: Proper power and ground plane connections
 
 ### Reliability Factors
+
 - **Contact Quality**: Ensure good electrical contact between IC and socket
 - **Mechanical Stress**: Avoid excessive bending of IC pins
 - **Environmental**: Consider humidity and temperature effects
@@ -186,6 +218,7 @@ Footprint Requirements:
 ## Advantages of Using IC Sockets
 
 ### Development Benefits
+
 - **Easy IC Replacement**: Swap ICs without desoldering
 - **Prototyping Flexibility**: Test different ICs in same circuit
 - **Damage Prevention**: Protect expensive ICs from soldering heat
@@ -193,6 +226,7 @@ Footprint Requirements:
 - **Version Testing**: Compare different IC versions easily
 
 ### Maintenance Benefits
+
 - **Field Replacement**: Easy IC replacement in deployed systems
 - **Upgrade Path**: Simple IC upgrades without PCB changes
 - **Failure Analysis**: Easy IC removal for testing
@@ -201,6 +235,7 @@ Footprint Requirements:
 ## Circuit Examples
 
 ### Memory Interface
+
 ```
 24-pin SRAM (6264):
 Pin 1: A7 (Address)
@@ -217,6 +252,7 @@ Pin 24: VCC (Power)
 ```
 
 ### Microcontroller Socket
+
 ```
 24-pin PIC16F876:
 Pin 1: MCLR (Reset)
@@ -230,6 +266,7 @@ Pin 24: RC1/T1OSI
 ```
 
 ### Logic IC Socket
+
 ```
 24-pin 74HC573 (Octal Latch):
 Pin 1: OE (Output Enable)
@@ -246,20 +283,24 @@ Pin 24: VCC (Power)
 ## Common Applications by IC Type
 
 ### **Memory Systems**
+
 - **EPROM/EEPROM**: Program storage and firmware
 - **SRAM**: High-speed data storage
 - **Flash memory**: Non-volatile data storage
 
 ### **Microcontroller Projects**
+
 - **PIC microcontrollers**: Embedded control applications
 - **8051 family**: Industrial control and automation
 
 ### **Logic Systems**
+
 - **Latches and flip-flops**: Data storage and timing
 - **Bus transceivers**: Signal buffering and isolation
 - **Buffers and drivers**: Signal amplification
 
 ### **Interface Applications**
+
 - **Parallel interfaces**: Data communication
 - **Timer circuits**: Timing and counting functions
 - **Display controllers**: LCD and LED control

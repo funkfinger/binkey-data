@@ -285,11 +285,12 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 51
 
-- [[empty]]
+- [[24-pin-dip-ic-sockets]] - 30+
 
 ## Bin 52
 
-- [[empty]]
+- Section A: [[16-pin-dip-ic-sockets]] - 17
+- Section B: [[20-pin-dip-ic-sockets]] - 20+
 
 ## Bin 53 - IC Sockets
 
@@ -300,9 +301,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - Section A: [[14-pin-dip-ic-sockets]] - 30+
 
-## Bin 55
+## Bin 55 - Header Connectors
 
-- [[empty]]
+- [[wurth-61202021621-20pin-header]] - 15+
 
 ## Bin 56
 
@@ -318,7 +319,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 59 - IC Sockets
 
-- [[24-pin-dip-ic-sockets]] - 30+
+- [[empty]]
 
 ## Bin 60
 
@@ -326,5 +327,4 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 61 - IC Sockets
 
-- Section A: [[16-pin-dip-ic-sockets]] - 17
-- Section B: [[20-pin-dip-ic-sockets]] - 20+
+- [[empty]]

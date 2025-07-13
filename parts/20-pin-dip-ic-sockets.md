@@ -14,12 +14,23 @@ current: Rated for standard IC currents
 power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
-compatibility: [20-pin DIP ICs, Memory chips, Logic ICs, Interface ICs, Microcontrollers]
-location: [Cabinet-3/Bin-61/Section-B]
+compatibility:
+  [20-pin DIP ICs, Memory chips, Logic ICs, Interface ICs, Microcontrollers]
+location: [Cabinet-3/Bin-52/Section-B]
 quantity: 20+
 status: available
 price_range: $0.50-2.00
-tags: [ic-socket, dip-socket, 20-pin, through-hole, prototyping, cabinet-3, bin-61, status-available]
+tags:
+  [
+    ic-socket,
+    dip-socket,
+    20-pin,
+    through-hole,
+    prototyping,
+    cabinet-3,
+    bin-61,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
@@ -27,7 +38,7 @@ date_added: 2025-01-13
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 61, Section B
+- **Location**: Cabinet-3, Bin 52, Section B
 - **Category**: Connectors & Sockets
 - **Brand**: Generic
 - **Part Number**: DIP-20
@@ -43,6 +54,7 @@ These 20-pin dual in-line IC sockets are designed to hold 20-pin DIP (Dual In-li
 ## Specifications
 
 ### Physical Characteristics
+
 - **Pin Count**: 20 pins (10 pins per side)
 - **Row Spacing**: 0.600" (15.24mm)
 - **Pin Pitch**: 0.100" (2.54mm)
@@ -51,6 +63,7 @@ These 20-pin dual in-line IC sockets are designed to hold 20-pin DIP (Dual In-li
 - **Mounting**: Through-hole PCB mounting
 
 ### Electrical Characteristics
+
 - **Contact Resistance**: Low resistance for reliable connections
 - **Voltage Rating**: Suitable for standard IC voltages (3.3V, 5V, etc.)
 - **Current Rating**: Adequate for typical IC current requirements
@@ -58,6 +71,7 @@ These 20-pin dual in-line IC sockets are designed to hold 20-pin DIP (Dual In-li
 - **Insertion/Extraction Cycles**: Rated for multiple IC insertions
 
 ### Key Features
+
 - Removable IC mounting for easy replacement
 - Standard DIP-20 footprint compatibility
 - Low insertion force for easy IC installation
@@ -88,6 +102,7 @@ These 20-pin dual in-line IC sockets are designed to hold 20-pin DIP (Dual In-li
 Common 20-pin DIP ICs that fit these sockets:
 
 ### **Memory Chips**
+
 - **27C64** - 8KB EPROM
 - **28C64** - 8KB EEPROM
 - **6116** - 2KB SRAM
@@ -95,6 +110,7 @@ Common 20-pin DIP ICs that fit these sockets:
 - **2732** - 4KB EPROM
 
 ### **Logic ICs**
+
 - **74HC373** - Octal transparent latch
 - **74HC374** - Octal D-type flip-flop
 - **74HC377** - Octal D-type flip-flop with enable
@@ -105,23 +121,27 @@ Common 20-pin DIP ICs that fit these sockets:
 - **74HC163** - 4-bit synchronous counter
 
 ### **Interface ICs**
+
 - **8255A** - Programmable peripheral interface
 - **8254** - Programmable interval timer
 - **6522** - Versatile interface adapter
 - **6821** - Peripheral interface adapter
 
 ### **Microcontrollers**
+
 - **PIC16F84** - Popular PIC microcontroller
 - **PIC16F628** - Enhanced PIC microcontroller
 - **AT89C2051** - 8051-compatible microcontroller (20-pin variant)
 
 ### **Display & LED Drivers**
+
 - **MAX7219** - LED display driver
 - **MAX7221** - LED display driver
 - **ICM7218** - LED display driver
 - **MC14489** - LED display driver
 
 ### **Communication ICs**
+
 - **8250** - UART (some variants)
 - **6850** - Asynchronous communications interface adapter
 - **MC68681** - Dual UART
@@ -129,6 +149,7 @@ Common 20-pin DIP ICs that fit these sockets:
 ## Applications
 
 Common use cases for 20-pin DIP sockets:
+
 - Memory system prototyping and development
 - Logic circuit design with medium-scale integration
 - Interface circuit development and testing
@@ -141,6 +162,7 @@ Common use cases for 20-pin DIP sockets:
 ## Installation Guidelines
 
 ### PCB Design Considerations
+
 ```
 Footprint Requirements:
 - Pin spacing: 0.100" (2.54mm)
@@ -151,6 +173,7 @@ Footprint Requirements:
 ```
 
 ### Soldering Instructions
+
 ```
 1. Insert socket into PCB with pin 1 indicator aligned
 2. Ensure socket sits flush against PCB surface
@@ -161,6 +184,7 @@ Footprint Requirements:
 ```
 
 ### IC Insertion Best Practices
+
 ```
 1. Verify IC orientation (pin 1 alignment)
 2. Check IC pin straightness before insertion
@@ -173,18 +197,21 @@ Footprint Requirements:
 ## Design Considerations
 
 ### Socket Selection
+
 - **Contact Material**: Choose gold-plated contacts for critical applications
 - **Profile Height**: Consider clearance requirements above PCB
 - **Insertion Force**: Low insertion force sockets for frequent IC changes
 - **Temperature Rating**: Match socket rating to application requirements
 
 ### PCB Layout
+
 - **Orientation Marking**: Clear pin 1 indication on silkscreen
 - **Clearance**: Adequate space around socket for IC insertion/removal
 - **Trace Routing**: Route traces away from socket area when possible
 - **Power Distribution**: Proper power and ground connections
 
 ### Reliability Factors
+
 - **Contact Quality**: Ensure good electrical contact between IC and socket
 - **Mechanical Stress**: Avoid excessive bending of IC pins
 - **Environmental**: Consider humidity and temperature effects
@@ -193,6 +220,7 @@ Footprint Requirements:
 ## Advantages of Using IC Sockets
 
 ### Development Benefits
+
 - **Easy IC Replacement**: Swap ICs without desoldering
 - **Prototyping Flexibility**: Test different ICs in same circuit
 - **Damage Prevention**: Protect expensive ICs from soldering heat
@@ -200,6 +228,7 @@ Footprint Requirements:
 - **Version Testing**: Compare different IC versions easily
 
 ### Maintenance Benefits
+
 - **Field Replacement**: Easy IC replacement in deployed systems
 - **Upgrade Path**: Simple IC upgrades without PCB changes
 - **Failure Analysis**: Easy IC removal for testing
@@ -208,6 +237,7 @@ Footprint Requirements:
 ## Circuit Examples
 
 ### Memory Interface
+
 ```
 20-pin SRAM (6116):
 Pin 1: A7 (Address)
@@ -222,6 +252,7 @@ Pin 20: VCC (Power)
 ```
 
 ### Logic IC Socket
+
 ```
 20-pin 74HC373 (Octal Latch):
 Pin 1: OE (Output Enable)
@@ -235,6 +266,7 @@ Pin 20: VCC (Power)
 ```
 
 ### Microcontroller Socket
+
 ```
 20-pin PIC16F84:
 Pin 1: RA2
@@ -250,21 +282,25 @@ Pin 20: RA1
 ## Common Applications by IC Type
 
 ### **Memory Systems**
+
 - **EPROM/EEPROM**: Program storage and configuration
 - **SRAM**: High-speed data buffering
 - **ROM**: Fixed program and data storage
 
 ### **Logic Systems**
+
 - **Latches and flip-flops**: Data storage and synchronization
 - **Decoders**: Address and data decoding
 - **Counters**: Timing and sequencing functions
 
 ### **Interface Applications**
+
 - **Parallel interfaces**: Data communication and control
 - **Timer circuits**: Precision timing functions
 - **I/O expansion**: Additional input/output capability
 
 ### **Display Control**
+
 - **LED drivers**: Matrix and segment display control
 - **Display controllers**: Multiplexed display management
 

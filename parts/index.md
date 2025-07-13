@@ -296,6 +296,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[crimp-connectors]]
 
+### Header Connectors
+
+- [[wurth-61202021621-20pin-header]]
+
 ### IC Sockets
 
 - [[8-pin-dip-ic-sockets]]

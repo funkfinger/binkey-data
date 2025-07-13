@@ -14,12 +14,23 @@ current: Rated for standard IC currents
 power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
-compatibility: [16-pin DIP ICs, Logic ICs, Memory chips, Shift registers, Counters, Decoders]
-location: [Cabinet-3/Bin-61/Section-A]
+compatibility:
+  [16-pin DIP ICs, Logic ICs, Memory chips, Shift registers, Counters, Decoders]
+location: [Cabinet-3/Bin-52/Section-A]
 quantity: 17
 status: available
 price_range: $0.40-1.50
-tags: [ic-socket, dip-socket, 16-pin, through-hole, prototyping, cabinet-3, bin-61, status-available]
+tags:
+  [
+    ic-socket,
+    dip-socket,
+    16-pin,
+    through-hole,
+    prototyping,
+    cabinet-3,
+    bin-61,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
@@ -27,7 +38,7 @@ date_added: 2025-01-13
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 61, Section A
+- **Location**: Cabinet-3, Bin 52, Section A
 - **Category**: Connectors & Sockets
 - **Brand**: Generic
 - **Part Number**: DIP-16
@@ -43,6 +54,7 @@ These 16-pin dual in-line IC sockets are designed to hold 16-pin DIP (Dual In-li
 ## Specifications
 
 ### Physical Characteristics
+
 - **Pin Count**: 16 pins (8 pins per side)
 - **Row Spacing**: 0.600" (15.24mm)
 - **Pin Pitch**: 0.100" (2.54mm)
@@ -51,6 +63,7 @@ These 16-pin dual in-line IC sockets are designed to hold 16-pin DIP (Dual In-li
 - **Mounting**: Through-hole PCB mounting
 
 ### Electrical Characteristics
+
 - **Contact Resistance**: Low resistance for reliable connections
 - **Voltage Rating**: Suitable for standard IC voltages (3.3V, 5V, etc.)
 - **Current Rating**: Adequate for typical IC current requirements
@@ -58,6 +71,7 @@ These 16-pin dual in-line IC sockets are designed to hold 16-pin DIP (Dual In-li
 - **Insertion/Extraction Cycles**: Rated for multiple IC insertions
 
 ### Key Features
+
 - Removable IC mounting for easy replacement
 - Standard DIP-16 footprint compatibility
 - Low insertion force for easy IC installation
@@ -86,6 +100,7 @@ These 16-pin dual in-line IC sockets are designed to hold 16-pin DIP (Dual In-li
 Common 16-pin DIP ICs that fit these sockets:
 
 ### **Logic ICs (74 Series)**
+
 - **74HC00** - Quad 2-input NAND gate
 - **74HC02** - Quad 2-input NOR gate
 - **74HC04** - Hex inverter
@@ -98,6 +113,7 @@ Common 16-pin DIP ICs that fit these sockets:
 - **74HC157** - Quad 2-to-1 data selector/multiplexer
 
 ### **Shift Registers & Counters**
+
 - **74HC595** - 8-bit shift register with output latches
 - **74HC164** - 8-bit serial-in parallel-out shift register
 - **74HC165** - 8-bit parallel-in serial-out shift register
@@ -106,22 +122,26 @@ Common 16-pin DIP ICs that fit these sockets:
 - **74HC193** - 4-bit synchronous up/down counter
 
 ### **Memory & Storage**
+
 - **2716** - 2KB EPROM (some variants)
 - **74HC373** - Octal transparent latch (some variants)
 - **74HC374** - Octal D-type flip-flop (some variants)
 
 ### **Specialized Logic**
+
 - **74HC85** - 4-bit magnitude comparator
 - **74HC153** - Dual 4-to-1 data selector/multiplexer
 - **74HC154** - 4-to-16 line decoder (some variants)
 - **74HC283** - 4-bit binary full adder
 
 ### **Interface & Communication**
+
 - **MAX232** - RS-232 line driver/receiver (some variants)
 - **75176** - Differential bus transceiver
 - **SN75150** - Dual line driver
 
 ### **Analog & Mixed Signal**
+
 - **LM339** - Quad voltage comparator
 - **LM393** - Dual voltage comparator
 - **CD4051** - 8-channel analog multiplexer/demultiplexer
@@ -129,6 +149,7 @@ Common 16-pin DIP ICs that fit these sockets:
 ## Applications
 
 Common use cases for 16-pin DIP sockets:
+
 - Digital logic circuit prototyping and development
 - Shift register and counter circuit design
 - Memory interface development
@@ -141,6 +162,7 @@ Common use cases for 16-pin DIP sockets:
 ## Installation Guidelines
 
 ### PCB Design Considerations
+
 ```
 Footprint Requirements:
 - Pin spacing: 0.100" (2.54mm)
@@ -151,6 +173,7 @@ Footprint Requirements:
 ```
 
 ### Soldering Instructions
+
 ```
 1. Insert socket into PCB with pin 1 indicator aligned
 2. Ensure socket sits flush against PCB surface
@@ -161,6 +184,7 @@ Footprint Requirements:
 ```
 
 ### IC Insertion Best Practices
+
 ```
 1. Verify IC orientation (pin 1 alignment)
 2. Check IC pin straightness before insertion
@@ -173,18 +197,21 @@ Footprint Requirements:
 ## Design Considerations
 
 ### Socket Selection
+
 - **Contact Material**: Choose gold-plated contacts for critical applications
 - **Profile Height**: Consider clearance requirements above PCB
 - **Insertion Force**: Low insertion force sockets for frequent IC changes
 - **Temperature Rating**: Match socket rating to application requirements
 
 ### PCB Layout
+
 - **Orientation Marking**: Clear pin 1 indication on silkscreen
 - **Clearance**: Adequate space around socket for IC insertion/removal
 - **Trace Routing**: Route traces away from socket area when possible
 - **Power Distribution**: Proper power and ground connections
 
 ### Reliability Factors
+
 - **Contact Quality**: Ensure good electrical contact between IC and socket
 - **Mechanical Stress**: Avoid excessive bending of IC pins
 - **Environmental**: Consider humidity and temperature effects
@@ -193,6 +220,7 @@ Footprint Requirements:
 ## Advantages of Using IC Sockets
 
 ### Development Benefits
+
 - **Easy IC Replacement**: Swap ICs without desoldering
 - **Prototyping Flexibility**: Test different ICs in same circuit
 - **Damage Prevention**: Protect expensive ICs from soldering heat
@@ -200,6 +228,7 @@ Footprint Requirements:
 - **Version Testing**: Compare different IC versions easily
 
 ### Maintenance Benefits
+
 - **Field Replacement**: Easy IC replacement in deployed systems
 - **Upgrade Path**: Simple IC upgrades without PCB changes
 - **Failure Analysis**: Easy IC removal for testing
@@ -208,6 +237,7 @@ Footprint Requirements:
 ## Circuit Examples
 
 ### Logic Gate Socket
+
 ```
 16-pin 74HC00 (Quad NAND):
 Pin 1: 1A Input
@@ -227,6 +257,7 @@ Pin 14: VCC
 ```
 
 ### Shift Register Socket
+
 ```
 16-pin 74HC595:
 Pin 1: QB Output
@@ -248,6 +279,7 @@ Pin 16: VCC
 ```
 
 ### Decoder Socket
+
 ```
 16-pin 74HC138 (3-to-8 Decoder):
 Pin 1: A0 Input
@@ -271,21 +303,25 @@ Pin 16: VCC
 ## Common Applications by IC Type
 
 ### **Digital Logic Systems**
+
 - **Basic gates**: AND, OR, NAND, NOR, XOR implementations
 - **Complex logic**: Decoders, multiplexers, comparators
 - **Sequential logic**: Counters, shift registers, latches
 
 ### **Microprocessor Support**
+
 - **Address decoding**: Memory and I/O selection
 - **Bus buffering**: Signal amplification and isolation
 - **Timing circuits**: Clock generation and distribution
 
 ### **Interface Applications**
+
 - **Level conversion**: Voltage level translation
 - **Signal conditioning**: Buffering and amplification
 - **Protocol conversion**: Serial to parallel conversion
 
 ### **Educational Projects**
+
 - **Logic gate experiments**: Understanding Boolean algebra
 - **Counter circuits**: Learning sequential logic
 - **Decoder applications**: Address and data decoding
