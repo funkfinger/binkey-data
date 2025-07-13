@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 4 - Test Equipment and 
 cabinet: 4
 bin_capacity: 24
 total_bins: 24
-populated_bins: 15
+populated_bins: 17
 last_updated: 2025-01-13
 categories:
   [
@@ -102,18 +102,24 @@ Cabinet 4 contains electronic test equipment, measurement instruments, and speci
 
 - [[dslrkit-active-poe-splitter-48v-5v]] - 8
 
-## Bin 18
+## Bin 18 - Electro-Mechanical Counters
 
-- [[empty]]
+- [[electro-mechanical-counter-units]] - 8
 
 ## Bin 19 - Servo Motors
 
 - [[beffkkip-sg90-micro-servos]] - ~8 small servos (9g SG90)
 - [[mg995-55g-metal-gear-servos]] - ~2 larger servos (55g MG995)
 
-## Bin 20
+## Bin 20 - Nixie Components
 
-- [[empty]]
+### Section A
+
+- [[in-18-nixie-tube-sockets]] - 8
+
+### Section B
+
+- [[various-nixie-tubes-collection]] - 12
 
 ## Bin 21 - Nixie Power Supplies
 

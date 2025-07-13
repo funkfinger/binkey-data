@@ -24,14 +24,13 @@ This file contains the AI assistant's memory context for the binkey-data project
 
 ## Attachments Directory and VS Code Configuration
 
-- The attachments directory is located at binkey-data/binkey-data/attachments/ not at the root level.
+- The attachments directory is located at binkey-data/attachments/ at the repository root level.
 - User prefers images pasted into documents to automatically go into the attachments directory and is looking for configuration options to enable this behavior.
 - User uses VS Code with the Paste Image extension for editing Markdown files.
 - User prefers VS Code project settings to be configured in the .vscode folder for the Paste Image extension to automatically save images to the attachments directory.
 
 ## File Structure and Directory Organization
 
-- All new files in the binkey-data project should be created in the nested binkey-data/binkey-data/ directory structure, not in the root binkey-data/ folder.
 - User prefers kebab case (lowercase with hyphens) for all filenames in the binkey-data project including parts, cabinets, and other project files.
 
 ## AI Memory Management
@@ -39,6 +38,7 @@ This file contains the AI assistant's memory context for the binkey-data project
 - User prefers AI memory context to be saved in an ai-memory folder and wants to review it before git commit for security reasons.
 - User wants new memories created with the remember tool to also be automatically added to the ai-memory/memory-context.md file to keep it synchronized.
 - User requires strict security measures to ensure absolutely no sensitive or private data gets checked into git, especially in the memory-context.md file.
+- Do not remember specific part information or inventory details - that information belongs in the inventory system, not in AI memory.
 
 ## Usage Instructions
 

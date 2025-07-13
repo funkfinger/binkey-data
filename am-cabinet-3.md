@@ -80,12 +80,13 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[hiletgo-mcp2515-can-bus-modules]] - HiLetgo MCP2515 CAN Bus Modules (5)
 
-## Bin 13 - Voltage Regulators & Boost Converters
+## Bin 13 - Voltage Regulators & Connectors
 
 - [[voltage-regulators-boost-converters]] - MT3608 Boost Modules (10)
 - [[voltage-regulators-boost-converters]] - USB 5V Boost Modules (4)
 - [[voltage-regulators-boost-converters]] - Step-up Modules (4)
 - [[voltage-regulators-boost-converters]] - Various Voltage Regulators (5)
+- [[zh-15-4pin-jst-connector-set]] - 10
 
 ## Bin 14 - 3-Pin JST Cables
 
@@ -307,7 +308,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 55 - Header Connectors
 
-- [[wurth-61202021621-20pin-header]] - 15+
+- [[16-pin-idc-ribbon-socket-through-hole-mount]] - 15+
 
 ## Bin 56
 

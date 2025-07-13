@@ -38,7 +38,7 @@ date_added: ${25:YYYY-MM-DD}
 - **Status**: ${20:Status}
 - **Price Range**: ${21:Price Range}
 ${28:- **Datasheet**: [${4:Part Number} Datasheet](${22:datasheet-url})}
-${29:- **Product URL**: ${23:product-url}}
+  ${29:- **Product URL**: ${23:product-url}}
 
 ## Description
 
@@ -47,18 +47,21 @@ ${30:Detailed description of the component, its purpose, key features, and typic
 ## Specifications
 
 ${31:### Electrical Characteristics
+
 - **Operating Voltage**: ${10:Voltage}
 - **Current**: ${11:Current}
 - **Power**: ${12:Power}
 - **Interface**: ${13:Interface Types}
 
-### Physical Characteristics  
+### Physical Characteristics
+
 - **Package**: ${8:Package Type}
 - **Dimensions**: ${9:Dimensions}
 - **Weight**: ${32:Weight (optional)}
 - **Operating Temperature**: ${33:Temperature range}
 
 ### Key Features
+
 - ${34:Feature 1}
 - ${35:Feature 2}
 - ${36:Feature 3}}
@@ -78,6 +81,7 @@ ${42:Detailed pin descriptions if applicable}}
 ${43:## Applications
 
 ${44:Common use cases and applications for this component:}
+
 - ${45:Application 1}
 - ${46:Application 2}
 - ${47:Application 3}}
@@ -85,12 +89,14 @@ ${44:Common use cases and applications for this component:}
 ${48:## Circuit Examples
 
 ${49:### Basic Usage Circuit
+
 ```
 ${50:Simple circuit example or connection diagram}
 ```
 
 ### Advanced Usage
-```
+
+````
 ${51:More complex usage example}
 ```}}
 
@@ -99,10 +105,11 @@ ${52:## Programming Examples
 ${53:### Arduino Example
 ```cpp
 ${54:Arduino code example}
-```
+````
 
-### CircuitPython Example  
-```python
+### CircuitPython Example
+
+````python
 ${55:CircuitPython code example}
 ```}}
 
@@ -120,3 +127,4 @@ ${24:tag1, tag2, tag3} #cabinet-${16} #bin-${17} #status-${20}
 ## Notes
 
 ${61:Additional notes, compatibility information, alternatives, or usage tips. Include any special handling requirements or known issues.}
+````

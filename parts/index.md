@@ -60,6 +60,7 @@ This folder contains detailed specifications for each individual electronic comp
 ## Test Equipment & Measurement Tools
 
 - [[fnrsi-lcr-p1-transistor-meter]]
+- [[electro-mechanical-counter-units]]
 
 ## Building Components & Mechanical Parts
 
@@ -300,6 +301,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### LED Matrices & Visual Displays
 
 - [[in-18-nixie-tubes]]
+- [[various-nixie-tubes-collection]]
 - [[led-matrices-displays]]
 
 ## Prototyping & Development
@@ -354,6 +356,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Crimp Connectors
 
 - [[crimp-connectors]]
+- [[zh-15-4pin-jst-connector-set]]
 
 ### Header Connectors
 
@@ -368,7 +371,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[single-row-male-stacking-headers]]
 - [[specific-01-spacing-headers-collection]]
 - [[various-female-headers-01-spacing]]
-- [[wurth-61202021621-20pin-header]]
+- [[16-pin-idc-ribbon-socket-through-hole-mount]]
 
 ### IC Sockets
 
@@ -378,6 +381,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[20-pin-dip-ic-sockets]]
 - [[24-pin-dip-ic-sockets]]
 - [[28-pin-dip-ic-sockets]]
+
+### Tube Sockets
+
+- [[in-18-nixie-tube-sockets]]
 
 ### Terminal Blocks
 
