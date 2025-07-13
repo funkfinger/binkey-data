@@ -21,11 +21,25 @@ status: available
 price_range: $0.40-0.50
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/24AA08-24LC08B-24FC08-8K-I2C-Serial-EEPROM-20001710M.pdf
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/24LC08B-P/170160
-tags: [eeprom, memory, i2c, serial, non-volatile, microchip, cabinet-3, bin-42, status-available]
+tags:
+  [
+    eeprom,
+    memory,
+    i2c,
+    serial,
+    non-volatile,
+    microchip,
+    cabinet-3,
+    bin-42,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
 # 24LC08B-P I2C Serial EEPROM
+
+> NOTE:
+> AT24C1024B might be the correct Atmel Part Number
 
 ## Details
 
@@ -47,18 +61,21 @@ The 24LC08B-P is an 8K-bit (1024 x 8) serial EEPROM from Microchip Technology. T
 ## Specifications
 
 ### Electrical Characteristics
+
 - **Operating Voltage**: 2.5V - 5.5V
 - **Current**: 1mA (write), 1µA (standby)
 - **Power**: 5mW (typical)
 - **Interface**: I2C (400 kHz max)
 
-### Physical Characteristics  
+### Physical Characteristics
+
 - **Package**: 8-pin DIP (0.300" width)
 - **Dimensions**: 9.27mm x 6.35mm x 3.3mm
 - **Weight**: ~1g
 - **Operating Temperature**: 0°C to +70°C (Commercial)
 
 ### Key Features
+
 - 8K-bit (1024 x 8) EEPROM memory
 - I2C serial interface (400 kHz)
 - Page write capability (16 bytes)
@@ -70,6 +87,7 @@ The 24LC08B-P is an 8K-bit (1024 x 8) serial EEPROM from Microchip Technology. T
 ## Applications
 
 Common use cases and applications for this component:
+
 - Configuration data storage
 - Calibration value storage
 - User settings and preferences
@@ -80,6 +98,7 @@ Common use cases and applications for this component:
 ## Circuit Examples
 
 ### Basic I2C Connection
+
 ```
 VCC (Pin 8) ---- +5V or +3.3V
 GND (Pin 4) ---- Ground
@@ -87,13 +106,14 @@ SDA (Pin 5) ---- I2C Data Line (with 4.7kΩ pullup)
 SCL (Pin 6) ---- I2C Clock Line (with 4.7kΩ pullup)
 WP  (Pin 7) ---- Ground (write enable) or VCC (write protect)
 A0  (Pin 1) ---- Ground or VCC (address bit 0)
-A1  (Pin 2) ---- Ground or VCC (address bit 1)  
+A1  (Pin 2) ---- Ground or VCC (address bit 1)
 A2  (Pin 3) ---- Ground or VCC (address bit 2)
 ```
 
 ## Programming Examples
 
 ### Arduino Example
+
 ```cpp
 #include <Wire.h>
 
@@ -102,10 +122,10 @@ A2  (Pin 3) ---- Ground or VCC (address bit 2)
 void setup() {
   Wire.begin();
   Serial.begin(9600);
-  
+
   // Write data
   writeEEPROM(0x00, 0x42);  // Write 0x42 to address 0x00
-  
+
   // Read data
   byte data = readEEPROM(0x00);
   Serial.print("Read: 0x");
@@ -136,6 +156,7 @@ void loop() {
 ## Technical Notes
 
 Important technical considerations, limitations, or special requirements:
+
 - Requires pullup resistors (4.7kΩ) on SDA and SCL lines
 - Address pins (A0, A1, A2) allow up to 8 devices on same I2C bus
 - Write protection pin (WP) prevents accidental writes when high
