@@ -324,6 +324,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[cd4040be-12bit-binary-counter]]
 - [[cd4049-hex-inverting-buffer]]
+- [[cd4510-bcd-up-down-counter]]
 - [[cd4511-bcd-7segment-decoder]]
 
 ### Unidentified ICs
