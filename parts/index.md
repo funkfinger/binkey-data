@@ -296,6 +296,15 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[crimp-connectors]]
 
+### IC Sockets
+
+- [[8-pin-dip-ic-sockets]]
+- [[14-pin-dip-ic-sockets]]
+- [[16-pin-dip-ic-sockets]]
+- [[20-pin-dip-ic-sockets]]
+- [[24-pin-dip-ic-sockets]]
+- [[28-pin-dip-ic-sockets]]
+
 ## Surface Mount Technology (SMT)
 
 ### SMT Passive Components
@@ -340,6 +349,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[cd4510-bcd-up-down-counter]]
 - [[cd4511-bcd-7segment-decoder]]
 - [[lm3909n-led-flasher]]
+- [[mc74hc595a-shift-register-soic]]
 - [[nte955mc-cmos-timing-circuit]]
 - [[sn74hc595n-shift-register]]
 - [[sn74hct14n-hex-schmitt-trigger]]

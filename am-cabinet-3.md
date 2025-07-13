@@ -209,6 +209,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section A: [[cd4511-bcd-7segment-decoder]] - 40
 - Section B: [[cd4510-bcd-up-down-counter]] - 30
 - Section C: [[cd4050-cmos-hex-buffer]] - 12
+- Section D: [[mc74hc595a-shift-register-soic]] - 31
 
 ## Bin 36 - Timer ICs
 
@@ -281,3 +282,49 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ## Bin 50
 
 - [[empty]]
+
+## Bin 51
+
+- [[empty]]
+
+## Bin 52
+
+- [[empty]]
+
+## Bin 53 - IC Sockets
+
+- Section A: [[28-pin-dip-ic-sockets]] - 10+
+- Section B: [[8-pin-dip-ic-sockets]] - 20+
+
+## Bin 54 - IC Sockets
+
+- Section A: [[14-pin-dip-ic-sockets]] - 30+
+
+## Bin 55
+
+- [[empty]]
+
+## Bin 56
+
+- [[empty]]
+
+## Bin 57
+
+- [[empty]]
+
+## Bin 58
+
+- [[empty]]
+
+## Bin 59 - IC Sockets
+
+- [[24-pin-dip-ic-sockets]] - 30+
+
+## Bin 60
+
+- [[empty]]
+
+## Bin 61 - IC Sockets
+
+- Section A: [[16-pin-dip-ic-sockets]] - 17
+- Section B: [[20-pin-dip-ic-sockets]] - 20+
