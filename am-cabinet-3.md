@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 20
+populated_bins: 21
 last_updated: 2025-01-12
 categories:
   [
@@ -322,9 +322,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[empty]]
 
-## Bin 59 - IC Sockets
+## Bin 59 - Dual Row Male Headers
 
-- [[empty]]
+- [[dual-row-male-headers-01-various]] - 50+ various lengths
 
 ## Bin 60
 
