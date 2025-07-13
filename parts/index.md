@@ -305,6 +305,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[dual-row-40pin-female-headers]]
 - [[dual-row-male-headers-01-various]]
 - [[single-row-female-stacking-headers-various]]
+- [[single-row-male-headers-01-various]]
 - [[single-row-male-stacking-headers]]
 - [[specific-01-spacing-headers-collection]]
 - [[various-female-headers-01-spacing]]

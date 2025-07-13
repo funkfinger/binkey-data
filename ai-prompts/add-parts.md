@@ -44,6 +44,9 @@ Please add the following parts that are uncheck in this file. Please check off t
 - Bin 60
   - [x] Single row female stacking headers 0.1" spacing various lengths (50+)
 
+- Bin 62
+  - [x] Single row male headers 0.1" spacing various lengths (50+)
+
 # Cabinet 2
 
 - Bin 5
