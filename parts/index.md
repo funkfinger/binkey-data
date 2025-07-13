@@ -302,6 +302,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[2-pin-female-stacking-headers]]
 - [[dual-row-40pin-female-headers]]
 - [[single-row-male-stacking-headers]]
+- [[various-female-headers-01-spacing]]
 - [[wurth-61202021621-20pin-header]]
 
 ### IC Sockets

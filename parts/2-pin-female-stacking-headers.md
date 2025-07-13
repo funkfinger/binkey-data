@@ -15,13 +15,26 @@ power: Variable
 interface: [Through-hole, Stacking]
 connectivity: [PCB, Breadboard, Shields, Modules]
 compatibility: [Arduino, Raspberry Pi, Development boards, Power connections]
-location: [Cabinet-3/Bin-43/Section-A]
+location: [Cabinet-3/Bin-45/Section-A]
 quantity: 30+
 status: available
 price_range: $0.05-0.25 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic component)
-tags: [headers, connectors, stacking, female, 2-pin, pcb, power, arduino, cabinet-3, bin-43, status-available]
+tags:
+  [
+    headers,
+    connectors,
+    stacking,
+    female,
+    2-pin,
+    pcb,
+    power,
+    arduino,
+    cabinet-3,
+    bin-45,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
@@ -29,7 +42,7 @@ date_added: 2025-01-13
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 43, Section A
+- **Location**: Cabinet-3, Bin 45, Section A
 - **Category**: Connectors & Cables - Header Connectors
 - **Type**: 2-Pin Female Stacking Headers
 - **Package**: Through-hole
@@ -46,13 +59,15 @@ date_added: 2025-01-13
 ## Specifications
 
 ### Electrical Characteristics
+
 - **Voltage Rating**: 250V AC/DC (typical)
 - **Current Rating**: 3A per pin (typical)
 - **Contact Resistance**: <20mΩ (typical)
 - **Insulation Resistance**: >1000MΩ
 - **Dielectric Strength**: 1000V AC (typical)
 
-### Physical Characteristics  
+### Physical Characteristics
+
 - **Pitch**: 0.1" (2.54mm) standard spacing
 - **Pin Count**: 2 pins
 - **Socket Diameter**: 0.025" (0.64mm) typical
@@ -62,6 +77,7 @@ date_added: 2025-01-13
 - **Mounting**: Through-hole
 
 ### Key Features
+
 - Female sockets extend both above and below insulator
 - Standard 0.1" (2.54mm) pitch spacing
 - Stackable design for multi-level connections
@@ -73,6 +89,7 @@ date_added: 2025-01-13
 ## Applications
 
 Common use cases and applications for this component:
+
 - Power distribution (VCC/GND connections)
 - I2C bus connections (SDA/SCL)
 - Sensor power and signal interfaces
@@ -85,6 +102,7 @@ Common use cases and applications for this component:
 ## Pin Configurations
 
 Typical 2-pin header applications:
+
 - **Power**: VCC + GND
 - **I2C**: SDA + SCL
 - **Serial**: TX + RX (or with separate GND)
@@ -95,6 +113,7 @@ Typical 2-pin header applications:
 ## Circuit Examples
 
 ### Power Distribution
+
 ```
 Main PCB Power Rails
     ↓ (2-pin male headers)
@@ -106,6 +125,7 @@ Additional modules
 ```
 
 ### I2C Bus Distribution
+
 ```
 Microcontroller I2C (SDA/SCL)
     ↓
@@ -119,6 +139,7 @@ Additional I2C devices
 ## Installation Examples
 
 ### Power Rail Stacking
+
 ```cpp
 // Example: Power distribution using 2-pin stacking headers
 
@@ -136,6 +157,7 @@ Additional I2C devices
 ```
 
 ### Sensor Interface Chain
+
 ```
 Base Controller
 ├── I2C Master (SDA/SCL)
@@ -155,6 +177,7 @@ Sensor Module 2
 ## Technical Notes
 
 Important technical considerations, limitations, or special requirements:
+
 - **Current Capacity**: Ensure adequate current rating for power applications
 - **Voltage Drop**: Consider voltage drop across multiple stacked connections
 - **Signal Integrity**: Suitable for low-speed digital and analog signals
@@ -167,6 +190,7 @@ Important technical considerations, limitations, or special requirements:
 ## Assembly Tips
 
 Best practices for using 2-pin female stacking headers:
+
 - **Pre-fit Test**: Always test-fit before soldering
 - **Polarity Marking**: Mark pin 1 or polarity on PCB silkscreen
 - **Strain Relief**: Provide strain relief for wire connections
@@ -178,6 +202,7 @@ Best practices for using 2-pin female stacking headers:
 ## Power Applications
 
 Considerations for power distribution:
+
 - **Current Rating**: Verify current capacity for application
 - **Voltage Drop**: Calculate total voltage drop in stacked system
 - **Wire Sizing**: Use appropriate wire gauge for current
@@ -188,6 +213,7 @@ Considerations for power distribution:
 ## Compatibility
 
 Compatible with:
+
 - Standard 0.1" pitch male headers
 - Dupont jumper wires
 - Breadboard connections
@@ -197,7 +223,7 @@ Compatible with:
 
 ## Tags
 
-headers, connectors, stacking, female, 2-pin, pcb, power, arduino #cabinet-3 #bin-43 #status-available
+headers, connectors, stacking, female, 2-pin, pcb, power, arduino #cabinet-3 #bin-45 #status-available
 
 ## Notes
 

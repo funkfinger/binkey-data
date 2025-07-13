@@ -15,13 +15,25 @@ power: Variable
 interface: [Through-hole, Stacking]
 connectivity: [PCB, Breadboard, Shields, Modules]
 compatibility: [Arduino, Raspberry Pi, Development boards, Shields]
-location: [Cabinet-3/Bin-43/Section-B]
+location: [Cabinet-3/Bin-45/Section-B]
 quantity: 30+
 status: available
 price_range: $0.10-0.50 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic component)
-tags: [headers, connectors, stacking, male, single-row, pcb, arduino, cabinet-3, bin-43, status-available]
+tags:
+  [
+    headers,
+    connectors,
+    stacking,
+    male,
+    single-row,
+    pcb,
+    arduino,
+    cabinet-3,
+    bin-45,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
@@ -29,7 +41,7 @@ date_added: 2025-01-13
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 43, Section B
+- **Location**: Cabinet-3, Bin 45, Section B
 - **Category**: Connectors & Cables - Header Connectors
 - **Type**: Single Row Male Stacking Headers
 - **Package**: Through-hole
@@ -45,13 +57,15 @@ Single row male stacking headers are versatile PCB connectors that allow for bot
 ## Specifications
 
 ### Electrical Characteristics
+
 - **Voltage Rating**: 250V AC/DC (typical)
 - **Current Rating**: 3A per pin (typical)
 - **Contact Resistance**: <20mΩ (typical)
 - **Insulation Resistance**: >1000MΩ
 - **Dielectric Strength**: 1000V AC (typical)
 
-### Physical Characteristics  
+### Physical Characteristics
+
 - **Pitch**: 0.1" (2.54mm) standard spacing
 - **Pin Diameter**: 0.025" (0.64mm) typical
 - **Insulator Material**: Black plastic (typically nylon or PBT)
@@ -60,6 +74,7 @@ Single row male stacking headers are versatile PCB connectors that allow for bot
 - **Mounting**: Through-hole
 
 ### Key Features
+
 - Male pins extend both above and below insulator
 - Standard 0.1" (2.54mm) pitch spacing
 - Stackable design for multi-level connections
@@ -70,6 +85,7 @@ Single row male stacking headers are versatile PCB connectors that allow for bot
 ## Applications
 
 Common use cases and applications for this component:
+
 - Arduino shield stacking
 - Raspberry Pi HAT connections
 - Development board prototyping
@@ -82,6 +98,7 @@ Common use cases and applications for this component:
 ## Pin Configurations
 
 Common single row stacking header configurations:
+
 - **6-pin**: Small modules, sensors
 - **8-pin**: Basic shields, breakout boards
 - **10-pin**: Standard development headers
@@ -91,6 +108,7 @@ Common single row stacking header configurations:
 ## Circuit Examples
 
 ### Arduino Shield Stacking
+
 ```
 Arduino Uno
     ↓ (Female headers on shield)
@@ -102,6 +120,7 @@ Shield 3
 ```
 
 ### Raspberry Pi HAT Connection
+
 ```
 Raspberry Pi GPIO (40-pin)
     ↓
@@ -115,6 +134,7 @@ Additional modules
 ## Installation Examples
 
 ### Basic Shield Stacking Setup
+
 ```cpp
 // Example: Using stacking headers for Arduino sensor shield
 
@@ -131,6 +151,7 @@ Additional modules
 ```
 
 ### Modular System Design
+
 ```
 Base PCB
 ├── Power distribution
@@ -151,6 +172,7 @@ Module 2 (stacked on Module 1)
 ## Technical Notes
 
 Important technical considerations, limitations, or special requirements:
+
 - **Pin Length**: Ensure adequate pin length for both bottom mounting and top connections
 - **Current Capacity**: Consider current rating when stacking multiple high-power modules
 - **Signal Integrity**: Long stacking chains may affect high-frequency signals
@@ -163,6 +185,7 @@ Important technical considerations, limitations, or special requirements:
 ## Assembly Tips
 
 Best practices for using stacking headers:
+
 - **Pre-fit Test**: Always test-fit components before soldering
 - **Alignment Jigs**: Use breadboards or fixtures to maintain alignment during soldering
 - **Soldering Order**: Solder from bottom to top in stacked assemblies
@@ -173,6 +196,7 @@ Best practices for using stacking headers:
 ## Compatibility
 
 Compatible with:
+
 - Arduino Uno, Mega, Leonardo shields
 - Raspberry Pi HATs and expansion boards
 - BeagleBone capes
@@ -182,7 +206,7 @@ Compatible with:
 
 ## Tags
 
-headers, connectors, stacking, male, single-row, pcb, arduino #cabinet-3 #bin-43 #status-available
+headers, connectors, stacking, male, single-row, pcb, arduino #cabinet-3 #bin-45 #status-available
 
 ## Notes
 

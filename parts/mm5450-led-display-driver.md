@@ -14,14 +14,25 @@ current: 25mA per output (typical)
 power: Low power CMOS technology
 interface: [Serial Data Interface, LED Display Control]
 connectivity: [Through-hole pins, Surface mount]
-compatibility: [LED matrices, Seven-segment displays, Bar graphs, Custom LED arrays]
-location: [Cabinet-3/Bin-49/Section-A]
+compatibility:
+  [LED matrices, Seven-segment displays, Bar graphs, Custom LED arrays]
+location: [Cabinet-3/Bin-43/Section-A]
 quantity: 5
 status: available
 price_range: $8.00-15.00
 datasheet: https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005651A.pdf
 product_url: https://www.microchip.com/en-us/product/mm5450
-tags: [led-driver, display-driver, serial-interface, 35-output, microchip-technology, cabinet-3, bin-49, status-available]
+tags:
+  [
+    led-driver,
+    display-driver,
+    serial-interface,
+    35-output,
+    microchip-technology,
+    cabinet-3,
+    bin-43,
+    status-available,
+  ]
 date_added: 2025-01-13
 ---
 
@@ -29,7 +40,7 @@ date_added: 2025-01-13
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 49, Section A
+- **Location**: Cabinet-3, Bin 43, Section A
 - **Category**: LED Drivers
 - **Brand**: Microchip Technology (formerly Micrel)
 - **Part Number**: MM5450
@@ -47,6 +58,7 @@ The MM5450 is a 35-output LED display driver designed to control large LED array
 ## Specifications
 
 ### Electrical Characteristics
+
 - **Supply Voltage**: 4.5V to 13.2V
 - **Output Current**: 25mA per output (typical)
 - **Total Outputs**: 35 individual LED drivers
@@ -56,13 +68,15 @@ The MM5450 is a 35-output LED display driver designed to control large LED array
 - **Quiescent Current**: Low power CMOS consumption
 - **Operating Temperature**: 0°C to +70°C (commercial)
 
-### Physical Characteristics  
+### Physical Characteristics
+
 - **Package Options**: 40-pin DIP, 44-pin PLCC
 - **DIP Dimensions**: 0.600" (15.24mm) width
 - **Pin Pitch**: 0.100" (2.54mm) for DIP
 - **Lead Material**: Standard DIP/PLCC leads
 
 ### Key Features
+
 - 35 independent LED output drivers
 - Serial data interface for easy control
 - Built-in current regulation for each output
@@ -102,18 +116,19 @@ VSS │20               21│ BRIGHTNESS
 
 ## Pin Descriptions
 
-| Pin | Name | Description |
-|-----|------|-------------|
-| 1-18, 22-39 | OUT1-OUT35 | LED output drivers |
-| 19  | CLK  | Serial clock input |
-| 20  | VSS  | Ground (negative supply) |
-| 21  | BRIGHTNESS | Brightness control input |
-| 22  | DATA | Serial data input |
-| 40  | VDD  | Positive power supply |
+| Pin         | Name       | Description              |
+| ----------- | ---------- | ------------------------ |
+| 1-18, 22-39 | OUT1-OUT35 | LED output drivers       |
+| 19          | CLK        | Serial clock input       |
+| 20          | VSS        | Ground (negative supply) |
+| 21          | BRIGHTNESS | Brightness control input |
+| 22          | DATA       | Serial data input        |
+| 40          | VDD        | Positive power supply    |
 
 ## Applications
 
 Common use cases for the MM5450:
+
 - LED dot matrix displays
 - Large seven-segment displays
 - LED bar graphs and level meters
@@ -126,6 +141,7 @@ Common use cases for the MM5450:
 ## Circuit Examples
 
 ### Basic LED Matrix Interface
+
 ```
 Microcontroller:
 Digital Pin 8 ---- CLK (Pin 19) - Serial Clock
@@ -138,6 +154,7 @@ Each Output (OUT1-OUT35) ---- Current Limiting Resistor ---- LED ---- Ground
 ```
 
 ### 7-Segment Display Driver
+
 ```
 OUT1-OUT7 ---- Segments A-G of first digit
 OUT8-OUT14 ---- Segments A-G of second digit
@@ -147,6 +164,7 @@ OUT29-OUT35 ---- Additional segments or decimal points
 ```
 
 ### LED Bar Graph
+
 ```
 OUT1 ---- LED1 (lowest level)
 OUT2 ---- LED2
@@ -158,6 +176,7 @@ Each LED with appropriate current limiting resistor
 ## Programming Examples
 
 ### Arduino Basic Control
+
 ```cpp
 #define CLK_PIN 8
 #define DATA_PIN 9
@@ -167,7 +186,7 @@ void setup() {
   pinMode(CLK_PIN, OUTPUT);
   pinMode(DATA_PIN, OUTPUT);
   pinMode(BRIGHTNESS_PIN, OUTPUT);
-  
+
   // Set brightness (PWM)
   analogWrite(BRIGHTNESS_PIN, 128); // 50% brightness
 }
@@ -175,7 +194,7 @@ void setup() {
 void sendData(uint64_t data) {
   // MM5450 requires 36 bits (start bit + 35 data bits)
   uint64_t dataToSend = (1ULL << 35) | data; // Add start bit
-  
+
   for(int i = 35; i >= 0; i--) {
     digitalWrite(CLK_PIN, LOW);
     digitalWrite(DATA_PIN, (dataToSend >> i) & 1);
@@ -183,7 +202,7 @@ void sendData(uint64_t data) {
     digitalWrite(CLK_PIN, HIGH);
     delayMicroseconds(1);
   }
-  
+
   digitalWrite(CLK_PIN, LOW);
   digitalWrite(DATA_PIN, LOW);
 }
@@ -194,11 +213,11 @@ void loop() {
     sendData(1ULL << i);
     delay(100);
   }
-  
+
   // All LEDs on
   sendData(0x7FFFFFFFFULL); // All 35 bits set
   delay(1000);
-  
+
   // All LEDs off
   sendData(0);
   delay(1000);
@@ -206,15 +225,16 @@ void loop() {
 ```
 
 ### LED Bar Graph Display
+
 ```cpp
 void displayBarGraph(int level) {
   // level: 0-35 (number of LEDs to light up)
   uint64_t pattern = 0;
-  
+
   for(int i = 0; i < level && i < 35; i++) {
     pattern |= (1ULL << i);
   }
-  
+
   sendData(pattern);
 }
 
@@ -224,7 +244,7 @@ void loop() {
     displayBarGraph(level);
     delay(50);
   }
-  
+
   for(int level = 35; level >= 0; level--) {
     displayBarGraph(level);
     delay(50);
@@ -233,6 +253,7 @@ void loop() {
 ```
 
 ### 7-Segment Display
+
 ```cpp
 // 7-segment patterns (A-G segments)
 uint8_t digitPatterns[10] = {
@@ -251,17 +272,17 @@ uint8_t digitPatterns[10] = {
 void displayNumber(int number) {
   uint64_t pattern = 0;
   int digit = 0;
-  
+
   // Extract digits and create pattern
   do {
     int d = number % 10;
     number /= 10;
-    
+
     // Place digit pattern in appropriate position
     pattern |= ((uint64_t)digitPatterns[d]) << (digit * 7);
     digit++;
   } while(number > 0 && digit < 5); // Max 5 digits
-  
+
   sendData(pattern);
 }
 ```
@@ -269,6 +290,7 @@ void displayNumber(int number) {
 ## Technical Notes
 
 Important considerations for the MM5450:
+
 - **Serial Protocol**: Requires 36-bit data frame (start bit + 35 data bits)
 - **Current Limiting**: Use appropriate resistors for LED current limiting
 - **Power Supply**: Ensure adequate current capability for all active LEDs
@@ -279,12 +301,14 @@ Important considerations for the MM5450:
 ## Design Considerations
 
 ### LED Current Management
+
 - **Current Limiting**: Calculate resistor values for desired LED current
 - **Power Dissipation**: Monitor total power consumption with multiple LEDs
 - **Supply Current**: Ensure power supply can handle peak current demands
 - **Thermal Design**: Provide adequate heat sinking for high current applications
 
 ### Display Design
+
 - **Multiplexing**: Can be used with multiplexed displays for even larger arrays
 - **Brightness Control**: Implement PWM brightness control for user adjustment
 - **Pattern Storage**: Store display patterns in microcontroller memory
@@ -292,7 +316,7 @@ Important considerations for the MM5450:
 
 ## Tags
 
-led-driver, display-driver, serial-interface, 35-output, microchip-technology #cabinet-3 #bin-49 #status-available
+led-driver, display-driver, serial-interface, 35-output, microchip-technology #cabinet-3 #bin-43 #status-available
 
 ## Notes
 

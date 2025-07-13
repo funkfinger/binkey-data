@@ -22,6 +22,9 @@ Please add the following parts that are uncheck in this file. Please check off t
 - Bin 44
   - [x] Dual row 40-pin female headers (20+)
 
+- Bin 46
+  - [x] Various single row and double row 0.1" spacing female headers
+
 # Cabinet 2
 
 - Bin 5
