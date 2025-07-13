@@ -2,9 +2,9 @@
 title: Cabinet 4 Inventory
 description: Electronics component inventory for Cabinet 4 - Test Equipment and Tools
 cabinet: 4
-bin_capacity: 44
-total_bins: 44
-populated_bins: 11
+bin_capacity: 24
+total_bins: 24
+populated_bins: 15
 last_updated: 2025-01-13
 categories:
   [
@@ -115,98 +115,20 @@ Cabinet 4 contains electronic test equipment, measurement instruments, and speci
 
 - [[empty]]
 
-## Bin 21
+## Bin 21 - Nixie Power Supplies
 
-- [[empty]]
+- [[nk01b-nixie-power-supply]] - 2
+- [[nch6100hv-nixie-power-supply]] - 2
+- [[Nixie Mammoth HV Power Supply]] - 1
 
-## Bin 22
+## Bin 22 - Nixie Tubes
 
-- [[empty]]
+- [[in-18-nixie-tubes]] - 6
 
-## Bin 23
+## Bin 23 - Relays
 
-- [[empty]]
+- [[relays-mixed-collection]] - Various
 
-## Bin 24
+## Bin 24 - Limit Switches
 
-- [[empty]]
-
-## Bin 25
-
-- [[empty]]
-
-## Bin 26
-
-- [[empty]]
-
-## Bin 27
-
-- [[empty]]
-
-## Bin 28
-
-- [[empty]]
-
-## Bin 29
-
-- [[empty]]
-
-## Bin 30
-
-- [[empty]]
-
-## Bin 31
-
-- [[empty]]
-
-## Bin 32
-
-- [[empty]]
-
-## Bin 33
-
-- [[empty]]
-
-## Bin 34
-
-- [[empty]]
-
-## Bin 35
-
-- [[empty]]
-
-## Bin 36
-
-- [[empty]]
-
-## Bin 37
-
-- [[empty]]
-
-## Bin 38
-
-- [[empty]]
-
-## Bin 39
-
-- [[empty]]
-
-## Bin 40
-
-- [[empty]]
-
-## Bin 41
-
-- [[empty]]
-
-## Bin 42
-
-- [[empty]]
-
-## Bin 43
-
-- [[empty]]
-
-## Bin 44
-
-- [[empty]]
+- [[limit-switches-collection]] - ~30 (mixed types)

@@ -299,6 +299,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### LED Matrices & Visual Displays
 
+- [[in-18-nixie-tubes]]
 - [[led-matrices-displays]]
 
 ## Prototyping & Development
@@ -317,6 +318,8 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Voltage Regulators
 
+- [[nch6100hv-nixie-power-supply]]
+- [[nk01b-nixie-power-supply]]
 - [[ua723cn-voltage-regulator]]
 - [[voltage-regulators-boost-converters]]
 - [[power-management-modules]]
@@ -468,6 +471,8 @@ This folder contains detailed specifications for each individual electronic comp
 ### Relays & Switches
 
 - [[laa110-optomos-relay]]
+- [[limit-switches-collection]]
+- [[relays-mixed-collection]]
 
 ### Unidentified ICs
 

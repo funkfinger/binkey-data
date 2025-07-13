@@ -9,7 +9,7 @@ last_updated: 2025-01-13
 
 # Akro Mills Cabinet System
 
-The Akro Mills cabinet system provides organized storage for electronics components across multiple specialized cabinets. Each cabinet contains 44-64 small bins for precise component organization and easy access.
+The Akro Mills cabinet system provides organized storage for electronics components across multiple specialized cabinets. Each cabinet contains 24-64 small bins for precise component organization and easy access.
 
 ## Cabinet Overview
 
@@ -90,7 +90,7 @@ Specialized components focusing on sensors, interconnect cables, and advanced el
 
 ### [[am-cabinet-4|Akro Mills Cabinet 4]] - Test Equipment & Tools
 
-**44 bins total | 1 populated bin**
+**24 bins total | 15 populated bins**
 
 Specialized test equipment, measurement instruments, and electronic tools for component testing and circuit analysis.
 
@@ -113,7 +113,7 @@ Specialized test equipment, measurement instruments, and electronic tools for co
 
 ### Bin Numbering
 
-- Each cabinet uses sequential bin numbering (1-44 or 1-50)
+- Each cabinet uses sequential bin numbering (1-24, 1-44, or 1-64 depending on cabinet)
 - Empty bins are clearly marked as `[[empty]]`
 - Bins include descriptive headers indicating contents
 
@@ -144,10 +144,10 @@ Specialized test equipment, measurement instruments, and electronic tools for co
 | [[am-cabinet-1]] | Development Boards & LEDs | 44        | 44 bins (100%) |
 | [[am-cabinet-2]] | Passive Components        | 44        | 41 bins (93%)  |
 | [[am-cabinet-3]] | Sensors & Specialty       | 64        | 13 bins (20%)  |
-| [[am-cabinet-4]] | Test Equipment & Tools    | 44        | 11 bins (25%)  |
+| [[am-cabinet-4]] | Test Equipment & Tools    | 24        | 15 bins (63%)  |
 
-**Total System Capacity**: 196 bins across 4 cabinets
-**Current Utilization**: 109 populated bins (56% utilization)
+**Total System Capacity**: 176 bins across 4 cabinets
+**Current Utilization**: 113 populated bins (64% utilization)
 
 ---
 
