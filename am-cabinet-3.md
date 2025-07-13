@@ -213,9 +213,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section B: [[pc817x2nsz9f-optocoupler]] - 49
 - Section C: [[tl074cn-quad-jfet-opamp]] - 16
 
-## Bin 38
+## Bin 38 - I/O Expander ICs
 
-- [[empty]]
+- Section A: [[mcp23017-e-sp-io-expander]] - 24
 
 ## Bin 39
 

@@ -341,6 +341,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[pc817x2nsz9f-optocoupler]]
 
+### Interface ICs
+
+- [[mcp23017-e-sp-io-expander]]
+
 ### Unidentified ICs
 
 - [[unidentified-dip-ic-chips]]
