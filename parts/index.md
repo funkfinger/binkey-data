@@ -32,6 +32,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[ht16k33-led-backpack]]
 - [[is31fl3731-led-matrix-driver]]
 - [[max7219cng-led-matrix-driver]]
+- [[mm5450-led-display-driver]]
 - [[tlc5940-led-driver]]
 
 ## Programming & Debugging Tools
@@ -339,6 +340,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[cd4510-bcd-up-down-counter]]
 - [[cd4511-bcd-7segment-decoder]]
 - [[lm3909n-led-flasher]]
+- [[nte955mc-cmos-timing-circuit]]
+- [[sn74hc595n-shift-register]]
 - [[sn74hct14n-hex-schmitt-trigger]]
 - [[ti-logic-gate-snosbq4f]]
 
@@ -349,7 +352,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Op-Amp ICs
 
+- [[lm13700n-dual-ota]]
+- [[lm324n-quad-opamp]]
 - [[lm741-op-amp]]
+- [[mcp6232-e-p-dual-rail-to-rail-opamp]]
+- [[tl072cp-dual-jfet-opamp]]
+- [[tl072ip-dual-jfet-opamp-industrial]]
 - [[tl074cn-quad-jfet-opamp]]
 
 ### Isolators & Optocouplers
@@ -359,8 +367,13 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Interface ICs
 
+- [[max232cpe-rs232-line-driver]]
 - [[mcp23008-e-p-io-expander]]
 - [[mcp23017-e-sp-io-expander]]
+
+### Relays & Switches
+
+- [[laa110-optomos-relay]]
 
 ### Unidentified ICs
 

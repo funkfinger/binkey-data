@@ -176,20 +176,24 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[adafruit-vl53l0x-time-of-flight-sensor]] - Adafruit VL53L0X Time of Flight Distance Sensor (1)
 
-## Bin 32
+## Bin 32 - Operational Amplifiers
 
-- [[operational-amplifiers-collection-bin32]] - Operational Amplifiers Collection (15+)
+- Section A: [[lm13700n-dual-ota]] - 9
+- Section B: [[tl072cp-dual-jfet-opamp]] - 25, [[tl072ip-dual-jfet-opamp-industrial]] - 8
+- Section D: [[mcp6232-e-p-dual-rail-to-rail-opamp]] - 26
 
 ## Bin 33 - Logic ICs and Digital Potentiometers
 
 - Section A: [[motorola-mc68hc68t1p-rtc]] - 1, [[lm3909n-led-flasher]] - 1
 - Section B: [[motorola-mc14584b-hex-schmitt-trigger]] - 1
 - Section C: [[motorola-mc14001bcp-quad-nor-gate]] - 1
-- Section D: [[dallas-ds1267-100-dual-digital-potentiometer]] - 1
+- Section D: [[dallas-ds1267-100-dual-digital-potentiometer]] - 1, [[ls7210-quadrature-encoder-decoder]] - 1
 - Section E: [[sn74hct573n-octal-transparent-latch]] - 1
-- Section F: [[cd4071-quad-or-gate]] - 1, [[cd4026-decade-counter-7segment]] - 1
+- Section F: [[cd4071-quad-or-gate]] - 1, [[cd4026-decade-counter-7segment]] - 1, [[nte955mc-cmos-timing-circuit]] - 1
 - Section G: [[ti-logic-gate-snosbq4f]] - 3, [[ua723cn-voltage-regulator]] - 1
 - Section H: [[cd4017-decade-counter]] - 2
+- Section I: [[max232cpe-rs232-line-driver]] - 1
+- Section J: [[laa110-optomos-relay]] - 2, [[lm324n-quad-opamp]] - 1
 
 ## Bin 34 - CMOS Logic ICs
 
@@ -222,6 +226,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - Section A: [[mcp23017-e-sp-io-expander]] - 24
 - Section B: [[mcp23008-e-p-io-expander]] - 14
+- Section C: [[sn74hc595n-shift-register]] - 52
 
 ## Bin 39 - Display Driver ICs
 
@@ -269,9 +274,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[empty]]
 
-## Bin 49
+## Bin 49 - LED Display Drivers
 
-- [[empty]]
+- Section A: [[mm5450-led-display-driver]] - 5
 
 ## Bin 50
 
