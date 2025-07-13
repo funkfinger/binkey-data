@@ -313,9 +313,10 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[empty]]
 
-## Bin 57 - Terminal Blocks
+## Bin 57 - Connection Components
 
 - Section A: [[adafruit-2137-terminal-block-4pin]] - 20+
+- Section B: [[4-pin-single-row-female-headers-01]] - 50+
 
 ## Bin 58
 
