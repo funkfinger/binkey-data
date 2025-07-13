@@ -274,8 +274,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[empty]]
 
-## Bin 48 - Fine-Pitch Headers
+## Bin 48 - Header Collection
 
+- Section A: [[specific-01-spacing-headers-collection]] - Various counts
 - Section B: [[1mm-spacing-dual-row-female-headers]] - 15
 
 ## Bin 49 - LED Display Drivers

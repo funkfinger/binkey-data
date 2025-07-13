@@ -26,6 +26,12 @@ Please add the following parts that are uncheck in this file. Please check off t
   - [x] Various single row and double row 0.1" spacing female headers
 
 - Bin 48
+  - [x] Specific 0.1" spacing headers collection - Section A
+    - 5x 40-pin dual row female headers
+    - 20x 16-pin single row headers
+    - 10x 6-pin dual row female headers
+    - 5x 6-pin single row headers
+    - 7x 12-pin single row headers
   - [x] 1mm spacing dual row female headers (15) - Section B
 
 # Cabinet 2
