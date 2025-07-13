@@ -216,6 +216,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ## Bin 38 - I/O Expander ICs
 
 - Section A: [[mcp23017-e-sp-io-expander]] - 24
+- Section B: [[mcp23008-e-p-io-expander]] - 14
 
 ## Bin 39
 

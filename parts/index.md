@@ -343,6 +343,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Interface ICs
 
+- [[mcp23008-e-p-io-expander]]
 - [[mcp23017-e-sp-io-expander]]
 
 ### Unidentified ICs
