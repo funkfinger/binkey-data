@@ -19,6 +19,9 @@ Please add the following parts that are uncheck in this file. Please check off t
   - [x] 2-pin female stacking headers (30+) - Section A
   - [x] Single row male stacking headers (30+) - Section B
 
+- Bin 44
+  - [x] Dual row 40-pin female headers (20+)
+
 # Cabinet 2
 
 - Bin 5
