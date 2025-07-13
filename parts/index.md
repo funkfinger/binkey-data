@@ -299,6 +299,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Header Connectors
 
+- [[single-row-male-stacking-headers]]
 - [[wurth-61202021621-20pin-header]]
 
 ### IC Sockets

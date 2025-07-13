@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 15
+populated_bins: 16
 last_updated: 2025-01-12
 categories:
   [
@@ -253,9 +253,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section B: [[k155na1-nixie-driver]] - 10
 - Section C: [[sfc441be-nixie-driver]] - 2
 
-## Bin 43
+## Bin 43 - Header Connectors
 
-- [[empty]]
+- Section B: [[single-row-male-stacking-headers]] - 30+
 
 ## Bin 44
 

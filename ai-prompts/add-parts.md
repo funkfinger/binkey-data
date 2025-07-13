@@ -15,6 +15,9 @@ Please add the following parts that are uncheck in this file. Please check off t
   - [x] K155NA1 Soviet Nixie Tube Drivers (10) - Section B
   - [x] SFC441BE SESCOSEM Nixie Tube Drivers (2) - Section C
 
+- Bin 43
+  - [x] Single row male stacking headers (30+) - Section B
+
 # Cabinet 2
 
 - Bin 5
