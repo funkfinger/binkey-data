@@ -41,7 +41,7 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[resistor-arrays-networks]] - 4610X-R2R-103LF (20)
 - [[resistor-arrays-networks]] - 77081103P (3)
 - [[resistor-arrays-networks]] - L081S221LF (20+)
-- [[resistor-arrays-networks]] - Assorted Arrays (10+)
+- [[sprague-914c331x2sr-resistor-array]] - 3
 
 ## Bin 6 - Trim Potentiometers
 

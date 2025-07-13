@@ -208,6 +208,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[axial-through-hole-resistors]]
 - [[resistor-arrays-networks]]
+- [[sprague-914c331x2sr-resistor-array]]
 
 ### Potentiometers
 
