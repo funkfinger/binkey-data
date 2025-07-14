@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 4
-last_updated: 2025-01-14
+populated_bins: 11
+last_updated: 2025-07-13
 categories:
   [
     electrical-connectors,
@@ -60,37 +60,45 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 - [[empty]]
 
-## Bin 9
+## Bin 9 - Toggle Switches
 
-- [[empty]]
+- [[mts-103-toggle-switches]] - 10
+- [[twidec-mts-123-momentary-switches]] - 6
 
-## Bin 10
+## Bin 10 - Vintage Toggle Switches
 
-- [[empty]]
+- [[vintage-toggle-switches-collection]] - Large variety
 
-## Bin 11
+## Bin 11 - DPDT Toggle Switches
 
-- [[empty]]
+- [[taiss-mts-202-dpdt-switches]] - 30
 
-## Bin 12
+## Bin 12 - Touch Sensors And Push Buttons
 
-- [[empty]]
+### Section A
 
-## Bin 13
+- [[aceirmc-tactile-pushbutton-switches]] - 20
 
-- [[empty]]
+### Section B
 
-## Bin 14
+- [[adafruit-at42qt1010-touch-sensors]] - 3
 
-- [[empty]]
+## Bin 13 - Momentary Push Button Switches
 
-## Bin 15
+- [[qteatak-tactile-switch-assortment]] - Multiple types (Part 1)
+- [[adafruit-plastic-button-caps]] - 15
 
-- [[empty]]
+## Bin 14 - Momentary Push Button Switches
 
-## Bin 16
+- [[qteatak-tactile-switch-assortment]] - Multiple types (Part 2)
 
-- [[empty]]
+## Bin 15 - Unpopulated PCBs
+
+- [[unpopulated-personal-circuit-boards]] - Various boards
+
+## Bin 16 - SMT Breakout Boards
+
+- [[adafruit-smt-breakout-boards]] - Various types
 
 ## Bin 17
 
@@ -108,13 +116,20 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 - [[empty]]
 
-## Bin 21
+## Bin 21 - Test & Interface Components
 
-- [[empty]]
+### Section A
 
-## Bin 22
+- [[pogo-pins-variety]] - Various types
 
-- [[empty]]
+### Section B
+
+- [[wwzmdib-logic-level-shifters]] - 20
+
+## Bin 22 - IC Sockets
+
+- [[adafruit-40pin-zif-socket]] - 3
+- [[40pin-wire-wrap-dip-socket]] - 1
 
 ## Bin 23
 

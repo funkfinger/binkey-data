@@ -80,6 +80,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[hiletgo-lm393-soil-moisture-sensor-5pcs]]
 - [[hiletgo-lm393-rain-sensor-3pcs]]
+- [[adafruit-at42qt1010-touch-sensors]]
 
 ## LED Controllers
 
@@ -88,6 +89,13 @@ This folder contains detailed specifications for each individual electronic comp
 ## Switches & Vintage Components
 
 - [[bcd-mechanical-numeric-selector-switches]]
+- [[mts-103-toggle-switches]]
+- [[twidec-mts-123-momentary-switches]]
+- [[taiss-mts-202-dpdt-switches]]
+- [[aceirmc-tactile-pushbutton-switches]]
+- [[qteatak-tactile-switch-assortment]]
+- [[adafruit-plastic-button-caps]]
+- [[vintage-toggle-switches-collection]]
 
 ## Mechanical Components
 
@@ -311,6 +319,11 @@ This folder contains detailed specifications for each individual electronic comp
 ### Prototyping Boards & Breadboards
 
 - [[prototyping-boards-breadboards]]
+- [[unpopulated-personal-circuit-boards]]
+
+### SMT Breakout Boards
+
+- [[adafruit-smt-breakout-boards]]
 
 ## Wireless & Communication
 
@@ -393,6 +406,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[20-pin-dip-ic-sockets]]
 - [[24-pin-dip-ic-sockets]]
 - [[28-pin-dip-ic-sockets]]
+- [[40pin-wire-wrap-dip-socket]]
+- [[adafruit-40pin-zif-socket]]
 
 ### Tube Sockets
 
@@ -401,6 +416,10 @@ This folder contains detailed specifications for each individual electronic comp
 ### Terminal Blocks
 
 - [[adafruit-2137-terminal-block-4pin]]
+
+### Test & Programming Connectors
+
+- [[pogo-pins-variety]]
 
 ## Surface Mount Technology (SMT)
 
@@ -486,6 +505,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[max232cpe-rs232-line-driver]]
 - [[mcp23008-e-p-io-expander]]
 - [[mcp23017-e-sp-io-expander]]
+- [[wwzmdib-logic-level-shifters]]
 
 ### Relays & Switches
 
