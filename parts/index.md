@@ -61,6 +61,8 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[fnrsi-lcr-p1-transistor-meter]]
 - [[electro-mechanical-counter-units]]
+- [[elecan-bnc-rca-adapters]]
+- [[assorted-testing-probes]]
 
 ## Building Components & Mechanical Parts
 
@@ -357,6 +359,16 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[crimp-connectors]]
 - [[zh-15-4pin-jst-connector-set]]
+
+### Dupont Connectors
+
+- [[pzsmocn-2pin-dupont-connectors]]
+- [[pzsmocn-4pin-dupont-connectors]]
+
+### Electrical Connectors & Splicing
+
+- [[wago-221-412-splicing-connectors]]
+- [[wago-221-413-splicing-connectors]]
 
 ### Header Connectors
 

@@ -18,6 +18,7 @@ Welcome to the **binkey-data** electronics component inventory system! This comp
 - **[[am-cabinet-2|📦 Cabinet 2]]** - Passive Components (41/44 bins)
 - **[[am-cabinet-3|📦 Cabinet 3]]** - Sensors & Specialty (13/64 bins)
 - **[[am-cabinet-4|📦 Cabinet 4]]** - Test Equipment & Tools (11/44 bins)
+- **[[am-cabinet-5|📦 Cabinet 5]]** - Electrical Connectors & Wiring (4/64 bins)
 
 ### 🔍 **Browse Components**
 
