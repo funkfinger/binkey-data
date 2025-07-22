@@ -385,17 +385,29 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Header Connectors
 
+#### Female Headers (Consolidated)
+
+- [[female-headers-consolidated]] - **Complete collection overview with all locations**
+
+#### Female Headers (Individual)
+
 - [[1mm-spacing-dual-row-female-headers]]
 - [[2-pin-female-stacking-headers]]
 - [[4-pin-single-row-female-headers-01]]
 - [[dual-row-40pin-female-headers]]
-- [[dual-row-male-headers-01-various]]
-- [[dual-row-male-headers-01-various-bin62]]
 - [[single-row-female-stacking-headers-various]]
-- [[single-row-male-headers-01-various]]
-- [[single-row-male-stacking-headers]]
 - [[specific-01-spacing-headers-collection]]
 - [[various-female-headers-01-spacing]]
+
+#### Male Headers
+
+- [[dual-row-male-headers-01-various]]
+- [[dual-row-male-headers-01-various-bin62]]
+- [[single-row-male-headers-01-various]]
+- [[single-row-male-stacking-headers]]
+
+#### Specialized Connectors
+
 - [[16-pin-idc-ribbon-socket-through-hole-mount]]
 
 ### IC Sockets
