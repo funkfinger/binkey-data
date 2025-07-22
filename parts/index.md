@@ -399,7 +399,11 @@ This folder contains detailed specifications for each individual electronic comp
 - [[specific-01-spacing-headers-collection]]
 - [[various-female-headers-01-spacing]]
 
-#### Male Headers
+#### Male Headers (Consolidated)
+
+- [[male-headers-consolidated]] - **Complete collection overview with all locations**
+
+#### Male Headers (Individual)
 
 - [[dual-row-male-headers-01-various]]
 - [[dual-row-male-headers-01-various-bin62]]
