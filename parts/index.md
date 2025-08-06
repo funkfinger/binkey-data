@@ -51,6 +51,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[cnv-sop16-programming-adapter]]
 - [[jtag-to-swd-adapter]]
+- [[lilygo-t-u2t-usb-ttl-programmer]]
 - [[swd-cable-breakout]]
 - [[segger-jlink-edu-mini]]
 - [[pomona-5253-socket-adapter]]

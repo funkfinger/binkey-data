@@ -47,6 +47,7 @@ tags: [cabinet, inventory, electronics, components]
 - [[swd-cable-breakout]] - 1
 - [[segger-jlink-edu-mini]] - 1
 - [[pomona-5253-socket-adapter]] - 1
+- [[lilygo-t-u2t-usb-ttl-programmer]] - 1
 
 ## Bin 6 - LED Displays
 
