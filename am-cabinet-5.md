@@ -137,9 +137,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 - [[adafruit-40pin-zif-socket]] - 3
 - [[40pin-wire-wrap-dip-socket]] - 1
 
-## Bin 23
+## Bin 23 - Push Button Switches
 
-- [[empty]]
+### Section A - White LED Push Switches
+
+- [[white-push-switch-momentary-spdt-led]] - 8
 
 ## Bin 24
 
