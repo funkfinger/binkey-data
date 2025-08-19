@@ -2,9 +2,9 @@
 title: Akro-Mils Cabinet 7
 type: cabinet
 cabinet_number: 7
-total_bins: 64
+total_bins: 44
 populated_bins: 1
-description: Akro-Mils storage cabinet with 64 small bins for electronic components, connectors, and small parts
+description: Akro-Mils storage cabinet with 44 bins (32 small, 12 large) for electronic components, connectors, and audio parts
 tags: [cabinet, storage, akro-mils, connectors, audio, eurorack]
 ---
 
@@ -12,19 +12,20 @@ tags: [cabinet, storage, akro-mils, connectors, audio, eurorack]
 
 ## Overview
 
-Cabinet 7 is an Akro-Mils storage cabinet containing 64 small bins arranged in an 8x8 configuration. This cabinet is designated for connectors, audio jacks, and related components, with a focus on Eurorack modular synthesizer parts and general audio connectivity components.
+Cabinet 7 is an Akro-Mils storage cabinet with the same configuration as Cabinets 1 and 2, containing 44 bins total. The first 32 bins are small bins suitable for smaller components, while bins 33-44 are large bins for bigger items. This cabinet is designated for connectors, audio jacks, and related components, with a focus on Eurorack modular synthesizer parts and general audio connectivity components.
 
 ## Cabinet Configuration
 
-- **Total Bins**: 64 (8 rows × 8 columns)
+- **Total Bins**: 44
+- **Small Bins**: 32 (Bins 1-32)
+- **Large Bins**: 12 (Bins 33-44)
 - **Populated Bins**: 1
-- **Empty Bins**: 63
-- **Bin Size**: Small
+- **Empty Bins**: 43
 - **Primary Use**: Connectors, audio jacks, Eurorack components
 
 ## Bin Contents
 
-### Row 1 (Bins 1-8)
+### Small Bins (1-32)
 
 ## Bin 1
 
@@ -58,8 +59,6 @@ Cabinet 7 is an Akro-Mils storage cabinet containing 64 small bins arranged in a
 
 - [[empty]]
 
-### Row 2 (Bins 9-16)
-
 ## Bin 9 - Thonkiconn Jacks
 
 - [[pj-3001f-thonkiconn-35mm-mono-jack]] - 30+
@@ -91,8 +90,6 @@ Cabinet 7 is an Akro-Mils storage cabinet containing 64 small bins arranged in a
 ## Bin 16
 
 - [[empty]]
-
-### Row 3 (Bins 17-24)
 
 ## Bin 17
 
@@ -126,8 +123,6 @@ Cabinet 7 is an Akro-Mils storage cabinet containing 64 small bins arranged in a
 
 - [[empty]]
 
-### Row 4 (Bins 25-32)
-
 ## Bin 25
 
 - [[empty]]
@@ -160,7 +155,7 @@ Cabinet 7 is an Akro-Mils storage cabinet containing 64 small bins arranged in a
 
 - [[empty]]
 
-### Row 5 (Bins 33-40)
+### Large Bins (33-44)
 
 ## Bin 33
 
@@ -194,8 +189,6 @@ Cabinet 7 is an Akro-Mils storage cabinet containing 64 small bins arranged in a
 
 - [[empty]]
 
-### Row 6 (Bins 41-48)
-
 ## Bin 41
 
 - [[empty]]
@@ -209,90 +202,6 @@ Cabinet 7 is an Akro-Mils storage cabinet containing 64 small bins arranged in a
 - [[empty]]
 
 ## Bin 44
-
-- [[empty]]
-
-## Bin 45
-
-- [[empty]]
-
-## Bin 46
-
-- [[empty]]
-
-## Bin 47
-
-- [[empty]]
-
-## Bin 48
-
-- [[empty]]
-
-### Row 7 (Bins 49-56)
-
-## Bin 49
-
-- [[empty]]
-
-## Bin 50
-
-- [[empty]]
-
-## Bin 51
-
-- [[empty]]
-
-## Bin 52
-
-- [[empty]]
-
-## Bin 53
-
-- [[empty]]
-
-## Bin 54
-
-- [[empty]]
-
-## Bin 55
-
-- [[empty]]
-
-## Bin 56
-
-- [[empty]]
-
-### Row 8 (Bins 57-64)
-
-## Bin 57
-
-- [[empty]]
-
-## Bin 58
-
-- [[empty]]
-
-## Bin 59
-
-- [[empty]]
-
-## Bin 60
-
-- [[empty]]
-
-## Bin 61
-
-- [[empty]]
-
-## Bin 62
-
-- [[empty]]
-
-## Bin 63
-
-- [[empty]]
-
-## Bin 64
 
 - [[empty]]
 
