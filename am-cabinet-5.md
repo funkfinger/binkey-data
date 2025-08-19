@@ -48,13 +48,21 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 - [[elecan-bnc-rca-adapters]] - 6
 - [[assorted-testing-probes]] - Assorted
 
-## Bin 6
+## Bin 6 - Control Knobs
 
-- [[empty]]
+### Section A - Black Knobs with White Top
 
-## Bin 7
+- [[black-knob-white-top-15x15mm-6mm-shaft]] - 10
 
-- [[empty]]
+## Bin 7 - Premium Knobs
+
+### Section A - Wood Knobs
+
+- [[wood-ebony-dome-knob-20x17mm-6mm-shaft]] - 4
+
+### Section B - Aluminum Knobs
+
+- [[black-knurled-aluminum-knob-17x20mm-6mm-shaft]] - 10
 
 ## Bin 8
 

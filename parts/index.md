@@ -559,6 +559,14 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[usb-c-to-usb-a-adapter-pack]]
 
+## Hardware & Mechanical
+
+### Knobs & Controls
+
+- [[black-knob-white-top-15x15mm-6mm-shaft]]
+- [[wood-ebony-dome-knob-20x17mm-6mm-shaft]]
+- [[black-knurled-aluminum-knob-17x20mm-6mm-shaft]]
+
 ## Search by Tags
 
 ### By Category
