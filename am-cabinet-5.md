@@ -92,7 +92,13 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 - [[qteatak-tactile-switch-assortment]] - Multiple types (Part 2)
 
-## Bin 15 - Unpopulated PCBs
+## Bin 15 - Mixed Components
+
+### Section A - Tact Switches
+
+- [[6x6mm-tact-switches-13mm]] - 20+
+
+### Section B - Unpopulated PCBs
 
 - [[unpopulated-personal-circuit-boards]] - Various boards
 

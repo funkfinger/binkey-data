@@ -89,6 +89,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Switches & Vintage Components
 
+- [[6x6mm-tact-switches-13mm]]
 - [[bcd-mechanical-numeric-selector-switches]]
 - [[mts-103-toggle-switches]]
 - [[twidec-mts-123-momentary-switches]]
