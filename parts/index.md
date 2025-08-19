@@ -371,6 +371,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Connectors & Cables
 
+### Audio Jacks
+
+- [[pj-3001f-thonkiconn-35mm-mono-jack]]
+
 ### Crimp Connectors
 
 - [[crimp-connectors]]
