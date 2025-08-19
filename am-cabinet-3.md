@@ -331,9 +331,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[single-row-female-stacking-headers-various]] - 50+ various lengths
 
-## Bin 61 - IC Sockets
+## Bin 61 - 7-Pin Female Headers
 
-- [[empty]]
+- [[7-pin-single-row-female-headers]] - 20+
 
 ## Bin 62 - Male Headers Collection
 
