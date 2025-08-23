@@ -645,6 +645,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Computer Hardware Screws
 
 - [[computer-screws-motherboard-standoffs-assortment-400pcs]]
+- [[csdtylh-m3-motherboard-standoffs-screws-nuts-kit-320pcs]]
 
 ## Sealing & Gaskets
 
