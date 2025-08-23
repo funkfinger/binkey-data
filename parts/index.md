@@ -476,6 +476,12 @@ This folder contains detailed specifications for each individual electronic comp
 - [[temperature-environmental-sensors-collection]]
 - [[moisture-water-sensors-collection]]
 
+## Electromechanical Components
+
+### Ultrasonic Devices
+
+- [[buz-mist-20-ultrasonic-mist-maker]]
+
 ## Integrated Circuits
 
 ### Memory ICs

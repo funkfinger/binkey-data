@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 20
+populated_bins: 21
 last_updated: 2025-01-23
 categories:
   [
@@ -15,6 +15,7 @@ categories:
     wago-connectors,
     led-accessories,
     hardware-fasteners,
+    electromechanical,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -191,7 +192,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 30
 
-- [[empty]]
+- [[buz-mist-20-ultrasonic-mist-maker]] - 4
 
 ## Bin 31
 
