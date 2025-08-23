@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 26
+populated_bins: 28
 last_updated: 2025-01-23
 categories:
   [
@@ -21,6 +21,7 @@ categories:
     infrared,
     mechanical,
     adhesive-bumpers,
+    terminal-blocks,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -228,11 +229,12 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 37
 
-- [[empty]]
+- [[26mm-round-screw-in-rubber-feet]] - 6
 
 ## Bin 38
 
-- [[empty]]
+- [[8-position-wire-to-board-terminal-strips-0-2-spacing]] - 7
+- [[16-position-screw-terminal-strips-0-2-spacing]] - 6
 
 ## Bin 39
 

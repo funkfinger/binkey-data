@@ -397,6 +397,11 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[pj-3001f-thonkiconn-35mm-mono-jack]]
 
+### Terminal Blocks
+
+- [[8-position-wire-to-board-terminal-strips-0-2-spacing]]
+- [[16-position-screw-terminal-strips-0-2-spacing]]
+
 ### Crimp Connectors
 
 - [[crimp-connectors]]
@@ -593,6 +598,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[adhesive-rubber-bumpers-feet-various]]
 - [[adhesive-15mm-round-rubber-bumpers]]
+
+### Screw-In Feet
+
+- [[26mm-round-screw-in-rubber-feet]]
 
 ### Knobs & Controls
 
