@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 40
+populated_bins: 42
 last_updated: 2025-01-23
 categories:
   [
@@ -32,6 +32,8 @@ categories:
     metric-fasteners,
     long-fasteners,
     computer-hardware-screws,
+    m4-fasteners,
+    self-tapping-screws,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -307,11 +309,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 52
 
-- [[empty]]
+- [[m4-hex-head-screws-nuts-8-20mm-various]] - Various
 
 ## Bin 53
 
-- [[empty]]
+- [[meiyyj-phillips-truss-head-self-tapping-screws-450pcs]] - 450 pieces
 
 ## Bin 54
 

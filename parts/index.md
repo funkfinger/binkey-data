@@ -636,6 +636,11 @@ This folder contains detailed specifications for each individual electronic comp
 - [[paxcoo-metal-swivel-lanyard-snap-hooks]]
 - [[m3-hex-head-screws-nuts-assortment-various]]
 - [[m3-hex-head-screws-nuts-long-various]]
+- [[m4-hex-head-screws-nuts-8-20mm-various]]
+
+### Self-Tapping Screws
+
+- [[meiyyj-phillips-truss-head-self-tapping-screws-450pcs]]
 
 ### Computer Hardware Screws
 
