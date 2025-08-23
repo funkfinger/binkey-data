@@ -92,7 +92,7 @@ This ultrasonic mist maker/humidifier is a ceramic transducer device designed to
 
 ## Image
 
-_Image needed: White ceramic ultrasonic mist maker disc, 20mm diameter, with metal contacts and ceramic surface for water atomization._
+![BUZ-MIST-20 Ultrasonic Mist Maker](../attachments/buz-mist-20-ultrasonic-mist-maker.png)
 
 **Visual Description**: This ultrasonic mist maker appears as a small white ceramic disc approximately 20mm in diameter. It features a smooth ceramic surface for water contact and metal electrical contacts for connection to the driving circuit. The device is designed to be partially submerged in water to create ultrasonic vibrations that atomize water into fine mist.
 
