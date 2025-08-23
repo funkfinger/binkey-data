@@ -639,6 +639,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
 - [[paxcoo-metal-swivel-lanyard-snap-hooks]]
 - [[m3-hex-head-screws-nuts-assortment-various]]
+- [[m3-hex-head-screws-5-15mm-various]]
 - [[m3-hex-head-screws-nuts-long-various]]
 - [[m4-hex-head-screws-nuts-8-20mm-various]]
 
