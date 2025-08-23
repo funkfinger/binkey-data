@@ -646,6 +646,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[computer-screws-motherboard-standoffs-assortment-400pcs]]
 - [[csdtylh-m3-motherboard-standoffs-screws-nuts-kit-320pcs]]
+- [[hvazi-m2-5-brass-spacer-standoff-kit-160pcs]]
 
 ## Sealing & Gaskets
 

@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 43
+populated_bins: 44
 last_updated: 2025-01-23
 categories:
   [
@@ -322,7 +322,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 55
 
-- [[empty]]
+- [[hvazi-m2-5-brass-spacer-standoff-kit-160pcs]] - 160 pieces
 
 ## Bin 56
 
