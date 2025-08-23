@@ -102,6 +102,13 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Mechanical Components
 
+### Bearing Balls
+
+- [[pgn-1-inch-chrome-steel-bearing-balls]]
+- [[pgn-3-4-inch-chrome-steel-bearing-balls]]
+
+### Timing Belts & Loops
+
 - [[scstyle-gt2-timing-belt-5m]]
 - [[bemonoc-2gt-timing-belt-loops-various]]
 
