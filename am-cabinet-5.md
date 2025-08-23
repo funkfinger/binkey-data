@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 38
+populated_bins: 40
 last_updated: 2025-01-23
 categories:
   [
@@ -30,6 +30,8 @@ categories:
     bearings,
     precision-bearings,
     metric-fasteners,
+    long-fasteners,
+    computer-hardware-screws,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -297,11 +299,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 50
 
-- [[empty]]
+- [[m3-hex-head-screws-nuts-long-various]] - Various
 
 ## Bin 51
 
-- [[empty]]
+- [[computer-screws-motherboard-standoffs-assortment-400pcs]] - 400 pieces (10 sections)
 
 ## Bin 52
 

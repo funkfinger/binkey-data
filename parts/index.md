@@ -635,6 +635,11 @@ This folder contains detailed specifications for each individual electronic comp
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
 - [[paxcoo-metal-swivel-lanyard-snap-hooks]]
 - [[m3-hex-head-screws-nuts-assortment-various]]
+- [[m3-hex-head-screws-nuts-long-various]]
+
+### Computer Hardware Screws
+
+- [[computer-screws-motherboard-standoffs-assortment-400pcs]]
 
 ## Sealing & Gaskets
 
