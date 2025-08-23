@@ -114,6 +114,8 @@ This folder contains detailed specifications for each individual electronic comp
 ### Bearings
 
 - [[various-608-style-ball-bearings-50]]
+- [[trb-rc-6702-2rs-ball-bearings-20]]
+- [[trb-rc-mr115-2rs-ball-bearings-12]]
 
 ### Timing Belts & Loops
 
@@ -632,6 +634,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
 - [[paxcoo-metal-swivel-lanyard-snap-hooks]]
+- [[m3-hex-head-screws-nuts-assortment-various]]
 
 ## Sealing & Gaskets
 
