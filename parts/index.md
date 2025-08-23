@@ -312,6 +312,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Infrared Devices
 
 - [[adafruit-389-mini-remote-control]]
+- [[gp1u5-sharp-ir-detector]]
 
 ### Magnetic Sensors
 

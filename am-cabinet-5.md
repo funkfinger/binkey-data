@@ -205,6 +205,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 ## Bin 32
 
 - [[adafruit-389-mini-remote-control]] - 3
+- [[gp1u5-sharp-ir-detector]] - 1
 
 ## Bin 33
 
