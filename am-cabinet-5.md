@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 24
+populated_bins: 26
 last_updated: 2025-01-23
 categories:
   [
@@ -20,6 +20,7 @@ categories:
     wearables,
     infrared,
     mechanical,
+    adhesive-bumpers,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -219,11 +220,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 35
 
-- [[empty]]
+- [[adhesive-rubber-bumpers-feet-various]] - 20+
 
 ## Bin 36
 
-- [[empty]]
+- [[adhesive-15mm-round-rubber-bumpers]] - 20+
 
 ## Bin 37
 

@@ -589,6 +589,11 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Hardware & Mechanical
 
+### Adhesive Bumpers & Feet
+
+- [[adhesive-rubber-bumpers-feet-various]]
+- [[adhesive-15mm-round-rubber-bumpers]]
+
 ### Knobs & Controls
 
 - [[black-knob-white-top-15x15mm-6mm-shaft]]
