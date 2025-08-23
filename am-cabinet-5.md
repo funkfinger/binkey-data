@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 11
+populated_bins: 19
 last_updated: 2025-07-13
 categories:
   [
@@ -13,6 +13,7 @@ categories:
     wiring-components,
     lever-nuts,
     wago-connectors,
+    led-accessories,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -155,13 +156,19 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 - [[empty]]
 
-## Bin 25
+## Bin 25 - LED Extrusion Hardware
 
-- [[empty]]
+- [[led-extrusion-endcaps-clips-hardware]] - Various types
 
-## Bin 26
+## Bin 26 - LED Strip Connectors
 
-- [[empty]]
+### Section A
+
+- [[jackyled-4pin-led-connectors-clips]] - 20 packs + 22 clips
+
+### Section B
+
+- [[3pin-led-strip-connectors-28pcs]] - 28 pieces
 
 ## Bin 27
 

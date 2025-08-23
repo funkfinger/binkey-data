@@ -18,9 +18,21 @@ status: active
 
 # USB-C to USB-A Adapter Pack
 
-## Overview
+## Details
 
-This pack of USB-C to USB-A adapters provides a convenient solution for connecting USB-C devices to traditional USB-A ports. These compact adapters enable compatibility between newer USB-C devices and older USB-A infrastructure, making them essential for transitioning between different USB standards.
+- **Location**: Cabinet-5, Bin 26
+- **Category**: USB Adapters
+- **Brand**: Various
+- **Part Number**: USB-C-TO-USB-A-ADAPTER-PACK
+- **Package**: Multi-pack Collection
+- **Quantity**: 10+
+- **Status**: Available
+- **Price Range**: $8-15
+- **Product URL**: https://a.co/d/j4NGutU
+
+## Description
+
+A pack of 10+ USB-C female to USB-A male adapters designed to connect USB-A devices and cables to USB-C ports. These compact adapters are essential for bridging the gap between older USB-A peripherals and modern devices with USB-C ports. The pack typically includes multiple adapters in different colors for easy identification and organization.
 
 ## Specifications
 
