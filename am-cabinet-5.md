@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 29
+populated_bins: 31
 last_updated: 2025-01-23
 categories:
   [
@@ -22,6 +22,7 @@ categories:
     mechanical,
     adhesive-bumpers,
     terminal-blocks,
+    tools-supplies,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -246,11 +247,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 41
 
-- [[empty]]
+- [[zippo-flints-6-pack-36-total]] - 36
 
 ## Bin 42
 
-- [[empty]]
+- [[derby-extra-double-edge-razor-blades-20]] - 20
 
 ## Bin 43
 

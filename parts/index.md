@@ -615,6 +615,16 @@ This folder contains detailed specifications for each individual electronic comp
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
 - [[paxcoo-metal-swivel-lanyard-snap-hooks]]
 
+## Tools & Supplies
+
+### Lighter Supplies
+
+- [[zippo-flints-6-pack-36-total]]
+
+### Shaving Supplies
+
+- [[derby-extra-double-edge-razor-blades-20]]
+
 ## Search by Tags
 
 ### By Category
