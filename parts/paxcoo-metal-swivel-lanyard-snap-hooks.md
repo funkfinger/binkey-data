@@ -21,7 +21,19 @@ status: available
 price_range: $8-15
 datasheet: N/A
 product_url: https://a.co/d/0aAYn38
-tags: [snap-hooks, swivel-hooks, lanyard-hardware, key-rings, crafts, hardware, fasteners, cabinet-5, bin-27, status-available]
+tags:
+  [
+    snap-hooks,
+    swivel-hooks,
+    lanyard-hardware,
+    key-rings,
+    crafts,
+    hardware,
+    fasteners,
+    cabinet-5,
+    bin-27,
+    status-available,
+  ]
 date_added: 2025-01-23
 ---
 
@@ -68,7 +80,9 @@ These metal swivel lanyard snap hooks are versatile hardware components designed
 
 ## Image
 
-![Paxcoo Metal Swivel Lanyard Snap Hooks](../attachments/paxcoo-swivel-snap-hooks.jpg)
+_Image needed: Metal swivel snap hooks with key rings, approximately 1.3 inches (33mm) long, zinc alloy construction with silver finish. Bulk pack of 100 pieces._
+
+**Visual Description**: These swivel snap hooks feature a lobster claw-style clasp mechanism with a rotating swivel base to prevent tangling. Each hook has an integrated split key ring attached to the swivel end. The zinc alloy construction provides a durable silver-colored finish suitable for professional applications.
 
 ## Applications
 

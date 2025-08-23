@@ -21,7 +21,19 @@ status: available
 price_range: $8-12
 datasheet: N/A
 product_url: https://a.co/d/1oupcB0
-tags: [screw-eye-pins, hooks, jewelry-making, crafts, diy, hardware, fasteners, cabinet-5, bin-27, status-available]
+tags:
+  [
+    screw-eye-pins,
+    hooks,
+    jewelry-making,
+    crafts,
+    diy,
+    hardware,
+    fasteners,
+    cabinet-5,
+    bin-27,
+    status-available,
+  ]
 date_added: 2025-01-23
 ---
 
@@ -66,7 +78,9 @@ These mini metal screw eye pins hooks are essential hardware components for arts
 
 ## Image
 
-![Axe Sickle Mini Metal Screw Eye Pins Hooks](../attachments/axe-sickle-screw-eye-pins-hooks.jpg)
+_Image needed: Small silver metal screw eye pins with threaded shaft and circular eye loop, approximately 18mm long x 5mm eye diameter. Bulk pack of 500 pieces._
+
+**Visual Description**: These mini screw eye pins appear as small silver-colored metal pins with a sharp threaded point on one end and a small circular loop (eye) on the other end. The threaded shaft allows them to be screwed into materials, while the eye provides an attachment point for chains, jump rings, or other findings.
 
 ## Applications
 
