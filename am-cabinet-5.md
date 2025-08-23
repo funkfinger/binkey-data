@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 28
+populated_bins: 29
 last_updated: 2025-01-23
 categories:
   [
@@ -238,7 +238,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 39
 
-- [[empty]]
+- [[various-wire-terminal-blocks]] - Various
 
 ## Bin 40
 

@@ -401,6 +401,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[8-position-wire-to-board-terminal-strips-0-2-spacing]]
 - [[16-position-screw-terminal-strips-0-2-spacing]]
+- [[various-wire-terminal-blocks]]
 
 ### Crimp Connectors
 
