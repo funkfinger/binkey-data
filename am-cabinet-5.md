@@ -36,6 +36,9 @@ categories:
     self-tapping-screws,
     motherboard-hardware,
     t-slot-hardware,
+    washers,
+    cable-clips,
+    cable-management,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -330,6 +333,18 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 ### Section A
 
 - [[helifouner-m3-t-slot-nuts-2020-series-50plus]] - 50+ pieces
+
+### Section B
+
+- [[m3-small-washers-40plus]] - 40+ pieces
+
+### Section C
+
+- [[nail-in-cable-clips-15plus]] - 15+ pieces
+
+### Section D
+
+- [[square-m2-5-slot-nuts-50plus]] - 50+ pieces
 
 ## Bin 57
 

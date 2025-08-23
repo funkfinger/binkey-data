@@ -609,6 +609,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[motor-and-jst-cables]]
 
+### Cable Management
+
+- [[nail-in-cable-clips-15plus]]
+
 ## Adapters & Cables
 
 - [[usb-c-to-usb-a-adapter-pack]]
@@ -647,10 +651,12 @@ This folder contains detailed specifications for each individual electronic comp
 - [[computer-screws-motherboard-standoffs-assortment-400pcs]]
 - [[csdtylh-m3-motherboard-standoffs-screws-nuts-kit-320pcs]]
 - [[hvazi-m2-5-brass-spacer-standoff-kit-160pcs]]
+- [[m3-small-washers-40plus]]
 
 ### T-Slot Hardware
 
 - [[helifouner-m3-t-slot-nuts-2020-series-50plus]]
+- [[square-m2-5-slot-nuts-50plus]]
 
 ## Sealing & Gaskets
 
