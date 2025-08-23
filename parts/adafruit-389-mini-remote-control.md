@@ -36,6 +36,7 @@ tags:
     status-available,
   ]
 date_added: 2025-01-23
+added_date: 2025-01-23
 ---
 
 # Adafruit 389 Mini Remote Control
@@ -115,7 +116,7 @@ Common use cases and applications for this component:
 ```
 IR Receiver (TSOP38238) connections:
 - VCC → 3.3V or 5V
-- GND → Ground  
+- GND → Ground
 - OUT → Digital Pin (e.g., Pin 2)
 ```
 

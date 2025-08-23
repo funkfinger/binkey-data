@@ -23,13 +23,14 @@ datasheet: ${22:URL to datasheet (optional)}
 product_url: ${23:URL to product page (optional)}
 tags: [${24:tag1, tag2, tag3}, cabinet-${16}, bin-${17}, status-${20}]
 date_added: ${25:YYYY-MM-DD}
+added_date: ${26:YYYY-MM-DD}
 ---
 
-# ${26:Component Name}
+# ${27:Component Name}
 
 ## Details
 
-- **Location**: Cabinet-${16:X}, Bin ${17:Y}${27:, Section Z}
+- **Location**: Cabinet-${16:X}, Bin ${17:Y}${28:, Section Z}
 - **Category**: ${1:Category Name}
 - **Brand**: ${3:Brand Name}
 - **Part Number**: ${4:Part Number}
@@ -37,16 +38,16 @@ date_added: ${25:YYYY-MM-DD}
 - **Quantity**: ${19:1}
 - **Status**: ${20:Status}
 - **Price Range**: ${21:Price Range}
-${28:- **Datasheet**: [${4:Part Number} Datasheet](${22:datasheet-url})}
-  ${29:- **Product URL**: ${23:product-url}}
+${29:- **Datasheet**: [${4:Part Number} Datasheet](${22:datasheet-url})}
+  ${30:- **Product URL**: ${23:product-url}}
 
 ## Description
 
-${30:Detailed description of the component, its purpose, key features, and typical applications. Include what makes this component unique or particularly useful.}
+${31:Detailed description of the component, its purpose, key features, and typical applications. Include what makes this component unique or particularly useful.}
 
 ## Specifications
 
-${31:### Electrical Characteristics
+${32:### Electrical Characteristics
 
 - **Operating Voltage**: ${10:Voltage}
 - **Current**: ${11:Current}
@@ -57,68 +58,68 @@ ${31:### Electrical Characteristics
 
 - **Package**: ${8:Package Type}
 - **Dimensions**: ${9:Dimensions}
-- **Weight**: ${32:Weight (optional)}
-- **Operating Temperature**: ${33:Temperature range}
+- **Weight**: ${33:Weight (optional)}
+- **Operating Temperature**: ${34:Temperature range}
 
 ### Key Features
 
-- ${34:Feature 1}
-- ${35:Feature 2}
-- ${36:Feature 3}}
+- ${35:Feature 1}
+- ${36:Feature 2}
+- ${37:Feature 3}}
 
 ## Image
 
-![${37:Descriptive alt text}](../attachments/${38:image-filename.jpg})
+![${38:Descriptive alt text}](../attachments/${39:image-filename.jpg})
 
-${39:## Pinout Diagram
+${40:## Pinout Diagram
 
-![${40:Component Name} Pinout](../attachments/${41:pinout-image.png})
+![${41:Component Name} Pinout](../attachments/${42:pinout-image.png})
 
 ## Pin Descriptions
 
-${42:Detailed pin descriptions if applicable}}
+${43:Detailed pin descriptions if applicable}}
 
-${43:## Applications
+${44:## Applications
 
-${44:Common use cases and applications for this component:}
+${45:Common use cases and applications for this component:}
 
-- ${45:Application 1}
-- ${46:Application 2}
-- ${47:Application 3}}
+- ${46:Application 1}
+- ${47:Application 2}
+- ${48:Application 3}}
 
-${48:## Circuit Examples
+${49:## Circuit Examples
 
-${49:### Basic Usage Circuit
+${50:### Basic Usage Circuit
 
 ```
-${50:Simple circuit example or connection diagram}
+${51:Simple circuit example or connection diagram}
 ```
 
 ### Advanced Usage
 
 ````
-${51:More complex usage example}
+${52:More complex usage example}
 ```}}
 
-${52:## Programming Examples
+${53:## Programming Examples
 
-${53:### Arduino Example
+${54:### Arduino Example
 ```cpp
-${54:Arduino code example}
+${55:Arduino code example}
 ````
 
 ### CircuitPython Example
 
 ````python
-${55:CircuitPython code example}
+${56:CircuitPython code example}
 ```}}
 
-${56:## Technical Notes
+${57:## Technical Notes
 
-${57:Important technical considerations, limitations, or special requirements:}
-- ${58:Note 1}
-- ${59:Note 2}
-- ${60:Note 3}}
+${58:Important technical considerations, limitations, or special requirements:}
+- ${59:Note 1}
+- ${60:Note 2}
+- ${61:Note 3}}
 
 ## Tags
 
@@ -126,5 +127,5 @@ ${24:tag1, tag2, tag3} #cabinet-${16} #bin-${17} #status-${20}
 
 ## Notes
 
-${61:Additional notes, compatibility information, alternatives, or usage tips. Include any special handling requirements or known issues.}
+${62:Additional notes, compatibility information, alternatives, or usage tips. Include any special handling requirements or known issues.}
 ````

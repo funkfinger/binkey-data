@@ -35,6 +35,7 @@ tags:
     status-available,
   ]
 date_added: 2025-01-23
+added_date: 2025-01-23
 ---
 
 # 8 Position Wire to Board Terminal Strips 0.2" Spacing

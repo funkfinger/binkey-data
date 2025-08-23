@@ -35,6 +35,7 @@ tags:
     status-available,
   ]
 date_added: 2025-01-23
+added_date: 2025-01-23
 ---
 
 # Adafruit 1170 Magnetic Pin Back

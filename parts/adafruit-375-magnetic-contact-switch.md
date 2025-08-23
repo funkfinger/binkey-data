@@ -35,6 +35,7 @@ tags:
     status-available,
   ]
 date_added: 2025-01-23
+added_date: 2025-01-23
 ---
 
 # Adafruit 375 Magnetic Contact Switch (Door Sensor)

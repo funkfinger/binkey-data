@@ -36,6 +36,7 @@ tags:
     status-available,
   ]
 date_added: 2025-01-23
+added_date: 2025-01-23
 ---
 
 # PGN 1 Inch Precision Chrome Steel Bearing Balls G25
