@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 31
+populated_bins: 33
 last_updated: 2025-01-23
 categories:
   [
@@ -23,6 +23,7 @@ categories:
     adhesive-bumpers,
     terminal-blocks,
     tools-supplies,
+    servo-accessories,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -255,11 +256,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 43
 
-- [[empty]]
+- [[bates-single-edge-straight-razor-blades-20]] - 20+
 
 ## Bin 44
 
-- [[empty]]
+- [[various-plastic-servo-motor-horns-50]] - 50+
 
 ## Bin 45
 

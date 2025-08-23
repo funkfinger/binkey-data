@@ -107,6 +107,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[pgn-1-inch-chrome-steel-bearing-balls]]
 - [[pgn-3-4-inch-chrome-steel-bearing-balls]]
 
+### Servo Accessories
+
+- [[various-plastic-servo-motor-horns-50]]
+
 ### Timing Belts & Loops
 
 - [[scstyle-gt2-timing-belt-5m]]
@@ -624,6 +628,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Shaving Supplies
 
 - [[derby-extra-double-edge-razor-blades-20]]
+- [[bates-single-edge-straight-razor-blades-20]]
 
 ## Search by Tags
 
