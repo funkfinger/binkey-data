@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 33
+populated_bins: 34
 last_updated: 2025-01-23
 categories:
   [
@@ -24,6 +24,8 @@ categories:
     terminal-blocks,
     tools-supplies,
     servo-accessories,
+    thermal-management,
+    jumpers-shunts,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -264,7 +266,13 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 45
 
-- [[empty]]
+### Section B
+
+- [[california-jos-2-54mm-jumper-caps-30]] - 30+
+
+### Section D
+
+- [[wayintop-to-220-heatsink-insulator-kits-8]] - 8
 
 ## Bin 46
 

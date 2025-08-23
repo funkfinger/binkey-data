@@ -116,6 +116,12 @@ This folder contains detailed specifications for each individual electronic comp
 - [[scstyle-gt2-timing-belt-5m]]
 - [[bemonoc-2gt-timing-belt-loops-various]]
 
+## Thermal Management
+
+### Heatsinks & Insulators
+
+- [[wayintop-to-220-heatsink-insulator-kits-8]]
+
 ## Networking Components
 
 - [[dslrkit-active-poe-splitter-48v-5v]]
@@ -421,6 +427,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[wago-221-412-splicing-connectors]]
 - [[wago-221-413-splicing-connectors]]
+
+### Jumpers & Shunts
+
+- [[california-jos-2-54mm-jumper-caps-30]]
 
 ### Header Connectors
 
