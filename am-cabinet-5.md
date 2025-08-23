@@ -173,6 +173,10 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 27
 
+### Section A
+
+- [[paxcoo-metal-swivel-lanyard-snap-hooks]] - 100
+
 ### Section B
 
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]] - 500

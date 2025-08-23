@@ -570,6 +570,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Fasteners & Hardware
 
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
+- [[paxcoo-metal-swivel-lanyard-snap-hooks]]
 
 ## Search by Tags
 
