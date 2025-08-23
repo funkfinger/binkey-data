@@ -648,6 +648,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[csdtylh-m3-motherboard-standoffs-screws-nuts-kit-320pcs]]
 - [[hvazi-m2-5-brass-spacer-standoff-kit-160pcs]]
 
+### T-Slot Hardware
+
+- [[helifouner-m3-t-slot-nuts-2020-series-50plus]]
+
 ## Sealing & Gaskets
 
 ### O-Rings & Seals
