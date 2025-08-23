@@ -88,7 +88,7 @@ This magnetic contact switch is essentially a reed switch encased in an ABS plas
 
 ## Image
 
-_Image needed: White ABS plastic magnetic contact switch with two components - reed switch unit and separate magnet, showing mounting tabs and wire leads._
+![Adafruit 375 Magnetic Contact Switch](../attachments/adafruit-375-magnetic-contact-switch.jpg)
 
 **Visual Description**: This magnetic contact switch consists of two white ABS plastic components. The larger component houses the reed switch with two wire leads extending from it, while the smaller component contains the magnet. Both pieces have mounting tabs with screw holes for secure installation on doors, drawers, or other surfaces.
 

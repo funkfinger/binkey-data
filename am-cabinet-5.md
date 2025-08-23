@@ -17,6 +17,7 @@ categories:
     hardware-fasteners,
     electromechanical,
     sensors,
+    wearables,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -198,6 +199,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 ## Bin 31
 
 - [[adafruit-375-magnetic-contact-switch]] - 1
+- [[adafruit-1170-magnetic-pin-back]] - 1
 
 ## Bin 32
 

@@ -313,6 +313,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[adafruit-375-magnetic-contact-switch]]
 
+## Wearables & Accessories
+
+### Mounting Hardware
+
+- [[adafruit-1170-magnetic-pin-back]]
+
 ## Displays
 
 ### LED Matrices & Visual Displays
