@@ -567,6 +567,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[wood-ebony-dome-knob-20x17mm-6mm-shaft]]
 - [[black-knurled-aluminum-knob-17x20mm-6mm-shaft]]
 
+### Fasteners & Hardware
+
+- [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
+
 ## Search by Tags
 
 ### By Category

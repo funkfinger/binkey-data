@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 19
-last_updated: 2025-07-13
+populated_bins: 20
+last_updated: 2025-01-23
 categories:
   [
     electrical-connectors,
@@ -14,6 +14,7 @@ categories:
     lever-nuts,
     wago-connectors,
     led-accessories,
+    hardware-fasteners,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -172,7 +173,9 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 27
 
-- [[empty]]
+### Section B
+
+- [[axe-sickle-mini-metal-screw-eye-pins-hooks]] - 500
 
 ## Bin 28
 
