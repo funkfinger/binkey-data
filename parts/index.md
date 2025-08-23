@@ -309,6 +309,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[rotary-encoders-input-devices]]
 
+### Infrared Devices
+
+- [[adafruit-389-mini-remote-control]]
+
 ### Magnetic Sensors
 
 - [[adafruit-375-magnetic-contact-switch]]
