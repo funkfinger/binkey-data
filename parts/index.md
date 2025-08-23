@@ -111,6 +111,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[various-plastic-servo-motor-horns-50]]
 
+### Bearings
+
+- [[various-608-style-ball-bearings-50]]
+
 ### Timing Belts & Loops
 
 - [[scstyle-gt2-timing-belt-5m]]
@@ -628,6 +632,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
 - [[paxcoo-metal-swivel-lanyard-snap-hooks]]
+
+## Sealing & Gaskets
+
+### O-Rings & Seals
+
+- [[ocgig-o-ring-gasket-assortment-various]]
 
 ## Tools & Supplies
 

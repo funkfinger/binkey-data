@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 34
+populated_bins: 36
 last_updated: 2025-01-23
 categories:
   [
@@ -26,6 +26,8 @@ categories:
     servo-accessories,
     thermal-management,
     jumpers-shunts,
+    sealing-gaskets,
+    bearings,
   ]
 tags: [cabinet, inventory, electronics, connectors, wiring, electrical]
 ---
@@ -276,11 +278,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 46
 
-- [[empty]]
+- [[ocgig-o-ring-gasket-assortment-various]] - Various
 
 ## Bin 47
 
-- [[empty]]
+- [[various-608-style-ball-bearings-50]] - 50+
 
 ## Bin 48
 
