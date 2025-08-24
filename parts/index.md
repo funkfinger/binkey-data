@@ -634,30 +634,22 @@ This folder contains detailed specifications for each individual electronic comp
 - [[wood-ebony-dome-knob-20x17mm-6mm-shaft]]
 - [[black-knurled-aluminum-knob-17x20mm-6mm-shaft]]
 
-### Fasteners & Hardware
+### Machine Screws, Nuts & Washers
+
+- [[machine-screws-nuts-washers-universal]]
+
+### Specialty Fasteners
 
 - [[axe-sickle-mini-metal-screw-eye-pins-hooks]]
 - [[paxcoo-metal-swivel-lanyard-snap-hooks]]
-- [[m3-hex-head-screws-nuts-assortment-various]]
-- [[m3-hex-head-screws-5-15mm-various]]
-- [[m3-hex-head-screws-nuts-long-various]]
-- [[m4-hex-head-screws-nuts-8-20mm-various]]
 
 ### Self-Tapping Screws
 
 - [[meiyyj-phillips-truss-head-self-tapping-screws-450pcs]]
 
-### Computer Hardware Screws
-
-- [[computer-screws-motherboard-standoffs-assortment-400pcs]]
-- [[csdtylh-m3-motherboard-standoffs-screws-nuts-kit-320pcs]]
-- [[hvazi-m2-5-brass-spacer-standoff-kit-160pcs]]
-- [[m3-small-washers-40plus]]
-
 ### T-Slot Hardware
 
 - [[helifouner-m3-t-slot-nuts-2020-series-50plus]]
-- [[square-m2-5-slot-nuts-50plus]]
 
 ## Sealing & Gaskets
 

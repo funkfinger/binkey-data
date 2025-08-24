@@ -302,19 +302,19 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 49
 
-- [[m3-hex-head-screws-nuts-assortment-various]] - Various
+- [[machine-screws-nuts-washers-universal]] - M3 hex head screws & nuts (various lengths, 304 stainless steel)
 
 ## Bin 50
 
-- [[m3-hex-head-screws-nuts-long-various]] - Various
+- [[machine-screws-nuts-washers-universal]] - M3 hex head screws & nuts (long lengths 20-30mm)
 
 ## Bin 51
 
-- [[computer-screws-motherboard-standoffs-assortment-400pcs]] - 400 pieces (10 sections)
+- [[machine-screws-nuts-washers-universal]] - Computer hardware screws & standoffs (400 pieces, 10 sections)
 
 ## Bin 52
 
-- [[m4-hex-head-screws-nuts-8-20mm-various]] - Various
+- [[machine-screws-nuts-washers-universal]] - M4 hex head screws & nuts (8-20mm lengths)
 
 ## Bin 53
 
@@ -322,11 +322,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 54
 
-- [[csdtylh-m3-motherboard-standoffs-screws-nuts-kit-320pcs]] - 320 pieces (6 sections)
+- [[machine-screws-nuts-washers-universal]] - M3 motherboard standoffs kit (320 pieces, 6 sections)
 
 ## Bin 55
 
-- [[hvazi-m2-5-brass-spacer-standoff-kit-160pcs]] - 160 pieces
+- [[machine-screws-nuts-washers-universal]] - M2.5 brass spacer standoff kit (160 pieces)
 
 ## Bin 56
 
@@ -336,7 +336,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ### Section B
 
-- [[m3-small-washers-40plus]] - 40+ pieces
+- [[machine-screws-nuts-washers-universal]] - M3 small washers (40+ pieces)
 
 ### Section C
 
@@ -344,11 +344,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ### Section D
 
-- [[square-m2-5-slot-nuts-50plus]] - 50+ pieces
+- [[machine-screws-nuts-washers-universal]] - Square M2.5 slot nuts (50+ pieces)
 
 ## Bin 57
 
-- [[m3-hex-head-screws-5-15mm-various]] - Various lengths (5-15mm)
+- [[machine-screws-nuts-washers-universal]] - M3 hex head screws (5-15mm lengths)
 
 ## Bin 58
 
