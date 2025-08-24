@@ -147,6 +147,17 @@ This universal inventory page consolidates all fastening hardware across Cabinet
 - **Quantity**: 50+ pieces
 - **Applications**: Heavy-duty fastening, structural applications, larger assemblies
 
+### Bin 61 - M5 Button Head Machine Screws
+
+#### Section B - M5 Button Head Screws 8-10mm (50+ pieces)
+
+- **Contents**: M5 button head machine screws
+- **Head Type**: Button head (rounded, low profile)
+- **Lengths**: 8-10mm (short to medium for M5)
+- **Material**: Steel or stainless steel
+- **Thread**: M5 x 0.8mm pitch
+- **Applications**: Heavy-duty assemblies, structural applications, compact M5 fastening
+
 ### Bin 64 - M2.5 Hex Head & Button Head Screws & Nuts (5-25mm)
 
 - **Contents**: M2.5 hex socket cap screws, button head screws, and hex nuts
@@ -267,7 +278,7 @@ This universal inventory page consolidates all fastening hardware across Cabinet
 - **Drive**: Internal hex socket (Allen key)
 - **Profile**: Low-profile rounded head, lower than cap head
 - **Standard**: ISO 7380 or DIN 7991
-- **Locations**: Bin 64 (M2.5)
+- **Locations**: Bins 61-B (M5), 64 (M2.5)
 - **Applications**: Aesthetic applications, minimal protrusion required
 
 ### Phillips Head
@@ -375,7 +386,7 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 
 - **Electronics/Circuit Boards**: Bins 55 (M2.5), 57 (M3 short), 56-B (washers)
 - **Computer Building**: Bins 51 (complete kit), 54 (motherboard kit)
-- **General Assembly**: Bins 49 (M3 various), 52 (M4), 50 (M3 long)
+- **General Assembly**: Bins 49 (M3 various), 52 (M4), 50 (M3 long), 59 (M5 hex head), 61-B (M5 button head)
 - **Precision Work**: Bins 55 (M2.5), 56-D (slot nuts), 58-E (M2.5 25mm), 64 (M2.5 comprehensive)
 - **Load Distribution**: Bins 56-B (M3 washers), 58-A (M2.5 washers)
 - **Wood/Construction**: Bins 58-B (#6 flat head), 58-D (#6 button head 3/4"), 58-F (#6 button head 1")
@@ -386,7 +397,7 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 - **M2.5**: Bins 55 (complete kit), 56-D (slot nuts), 58-A (washers), 58-E (25mm long), 64 (hex/button head 5-25mm)
 - **M3**: Bins 49 (various), 50 (long), 54 (motherboard), 56-B (washers), 57 (short)
 - **M4**: Bin 52 (8-20mm lengths)
-- **M5**: Bin 59 (12mm black hex head screws)
+- **M5**: Bins 59 (12mm black hex head screws), 61-B (8-10mm button head screws)
 - **#6**: Bins 58-B (3/4" flat head), 58-D (3/4" button head), 58-F (1" button head)
 - **3mm Plastic**: Bin 61-A (12-20mm self-tapping plastic screws)
 - **Computer**: Bin 51 (#6-32, M3, M2, various)
