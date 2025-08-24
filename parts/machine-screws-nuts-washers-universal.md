@@ -4,8 +4,8 @@ category: Hardware & Fasteners
 subcategory: Machine Screws & Hardware
 brand: Various
 part_number: UNIVERSAL
-model: Machine Screws, Nuts, and Washers - Universal Inventory
-description: Comprehensive inventory of machine screws, nuts, washers, and related hardware across multiple bins and thread sizes
+model: Machine Screws, Nuts, Washers & Construction Fasteners - Universal Inventory
+description: Comprehensive inventory of machine screws, nuts, washers, wood screws, and construction fasteners across multiple bins and thread sizes
 manufacturer: Various
 package: Multiple assortments and individual components
 size: M2.5, M3, M4, and computer hardware sizes
@@ -30,6 +30,8 @@ tags:
     nuts,
     washers,
     standoffs,
+    wood-screws,
+    construction-fasteners,
     metric-hardware,
     computer-hardware,
     universal-inventory,
@@ -40,13 +42,13 @@ date_added: 2025-01-23
 added_date: 2025-01-23
 ---
 
-# Machine Screws, Nuts, and Washers - Universal Inventory
+# Machine Screws, Nuts, Washers & Construction Fasteners - Universal Inventory
 
 ## Overview
 
-This universal inventory page consolidates all machine screws, nuts, washers, and related hardware components across Cabinet-5. The collection spans multiple thread sizes (M2.5, M3, M4) and various head types, providing comprehensive fastening solutions for electronics, mechanical assemblies, and computer hardware applications.
+This universal inventory page consolidates all fastening hardware across Cabinet-5, including machine screws, nuts, washers, wood screws, and construction fasteners. The collection spans multiple thread sizes (M2.5, M3, M4, M5) and various head types, providing comprehensive fastening solutions for electronics, mechanical assemblies, computer hardware, and construction applications.
 
-## Inventory by Location
+## Machine Screws & Hardware Inventory by Location
 
 ### Bin 49 - M3 Hex Head Screws & Nuts (Various Lengths)
 
@@ -120,7 +122,7 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Quantity**: Various
 - **Applications**: Electronics assembly, compact assemblies, circuit boards
 
-### Bin 58 - M2.5 Washers & #6 Phillips Flat Head Screws
+### Bin 58 - M2.5 Machine Hardware & Washers
 
 #### Section A - M2.5 Washers (100+ pieces)
 
@@ -129,22 +131,6 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Material**: Steel or zinc-plated steel
 - **Applications**: Surface protection, load distribution for M2.5 fasteners
 
-#### Section B - #6 3/4" Phillips Flat Head Screws (30+ pieces)
-
-- **Contents**: #6-32 x 3/4" Phillips flat head screws (wood/sheet metal screws)
-- **Head Type**: Phillips flat head (countersunk)
-- **Length**: 3/4" (19mm)
-- **Material**: Steel construction
-- **Applications**: Wood assembly, sheet metal, general construction
-
-#### Section D - #6 3/4" Phillips Button Head Screws (30+ pieces)
-
-- **Contents**: #6 x 3/4" Phillips button head screws (wood/sheet metal screws)
-- **Head Type**: Phillips button head (rounded, low profile)
-- **Length**: 3/4" (19mm)
-- **Material**: Steel construction
-- **Applications**: Wood assembly where flush mounting not required, decorative applications
-
 #### Section E - M2.5 Button Head & Hex Head Machine Screws 25mm (40+ pieces)
 
 - **Contents**: M2.5 x 25mm button head and hex socket cap screws
@@ -152,14 +138,6 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Length**: 25mm (extended length for M2.5)
 - **Material**: Steel or stainless steel
 - **Applications**: Deep M2.5 assemblies, extended reach precision work
-
-#### Section F - #6 1" Phillips Button Head Screws (30+ pieces)
-
-- **Contents**: #6 x 1" Phillips button head screws (wood/sheet metal screws)
-- **Head Type**: Phillips button head (rounded, low profile)
-- **Length**: 1" (25mm)
-- **Material**: Steel construction
-- **Applications**: Thicker wood assembly, extended reach construction applications
 
 ### Bin 59 - M5 Hex Head Screws (12mm)
 
@@ -177,6 +155,34 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Material**: Steel or stainless steel
 - **Quantity**: Various assortment
 - **Applications**: Small electronics, precision assemblies, miniature mechanical projects
+
+## Wood/Construction Screws Inventory by Location
+
+### Bin 58 - #6 Phillips Wood/Construction Screws
+
+#### Section B - #6 3/4" Phillips Flat Head Screws (30+ pieces)
+
+- **Contents**: #6 x 3/4" Phillips flat head screws (wood/sheet metal screws)
+- **Head Type**: Phillips flat head (countersunk)
+- **Length**: 3/4" (19mm)
+- **Material**: Steel construction
+- **Applications**: Wood assembly, sheet metal, general construction
+
+#### Section D - #6 3/4" Phillips Button Head Screws (30+ pieces)
+
+- **Contents**: #6 x 3/4" Phillips button head screws (wood/sheet metal screws)
+- **Head Type**: Phillips button head (rounded, low profile)
+- **Length**: 3/4" (19mm)
+- **Material**: Steel construction
+- **Applications**: Wood assembly where flush mounting not required, decorative applications
+
+#### Section F - #6 1" Phillips Button Head Screws (30+ pieces)
+
+- **Contents**: #6 x 1" Phillips button head screws (wood/sheet metal screws)
+- **Head Type**: Phillips button head (rounded, low profile)
+- **Length**: 1" (25mm)
+- **Material**: Steel construction
+- **Applications**: Thicker wood assembly, extended reach construction applications
 
 ## Thread Specifications
 
