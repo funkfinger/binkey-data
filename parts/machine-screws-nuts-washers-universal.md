@@ -207,6 +207,15 @@ This universal inventory page consolidates all fastening hardware across Cabinet
 - **Thread Type**: Self-tapping for plastic materials
 - **Applications**: Plastic assembly, electronics enclosures, non-metallic assemblies
 
+### Bin 63 - #8 Phillips Wood/Construction Screws
+
+- **Contents**: #8 Phillips button head and flat head screws (wood/sheet metal screws)
+- **Head Types**: Phillips button head (rounded) and flat head (countersunk)
+- **Lengths**: 3/4" to 1.5" (19-38mm range)
+- **Material**: Steel construction
+- **Thread Type**: Self-tapping for wood, sheet metal, and general construction
+- **Applications**: Heavy-duty wood assembly, thick materials, structural construction
+
 ## Thread Specifications
 
 ### M2.5 Threading
@@ -263,6 +272,15 @@ This universal inventory page consolidates all fastening hardware across Cabinet
 - **Head**: Button head (rounded, low profile)
 - **Material**: Plastic construction
 - **Applications**: Plastic assembly, electronics enclosures, non-metallic assemblies
+
+### #8 Wood/Sheet Metal Screws
+
+- **Thread Size**: #8 (4.2mm nominal diameter)
+- **Thread Type**: Self-tapping (wood/sheet metal screws)
+- **Drive**: Phillips cross-slot
+- **Head Types**: Button head (rounded) and flat head (countersunk)
+- **Material**: Steel construction
+- **Applications**: Heavy-duty wood assembly, thick materials, structural construction
 
 ## Head Types Available
 
@@ -389,7 +407,7 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 - **General Assembly**: Bins 49 (M3 various), 52 (M4), 50 (M3 long), 59 (M5 hex head), 61-B (M5 button head)
 - **Precision Work**: Bins 55 (M2.5), 56-D (slot nuts), 58-E (M2.5 25mm), 64 (M2.5 comprehensive)
 - **Load Distribution**: Bins 56-B (M3 washers), 58-A (M2.5 washers)
-- **Wood/Construction**: Bins 58-B (#6 flat head), 58-D (#6 button head 3/4"), 58-F (#6 button head 1")
+- **Wood/Construction**: Bins 58-B (#6 flat head), 58-D (#6 button head 3/4"), 58-F (#6 button head 1"), 63 (#8 heavy-duty)
 - **Plastic Assembly**: Bin 61-A (3mm plastic self-tapping screws)
 
 ### By Thread Size
@@ -399,6 +417,7 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 - **M4**: Bin 52 (8-20mm lengths)
 - **M5**: Bins 59 (12mm black hex head screws), 61-B (8-10mm button head screws)
 - **#6**: Bins 58-B (3/4" flat head), 58-D (3/4" button head), 58-F (1" button head)
+- **#8**: Bin 63 (3/4"-1.5" button head and flat head screws)
 - **3mm Plastic**: Bin 61-A (12-20mm self-tapping plastic screws)
 - **Computer**: Bin 51 (#6-32, M3, M2, various)
 
