@@ -120,6 +120,23 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Quantity**: Various
 - **Applications**: Electronics assembly, compact assemblies, circuit boards
 
+### Bin 58 - M2.5 Washers & #6 Phillips Flat Head Screws
+
+#### Section A - M2.5 Washers (100+ pieces)
+
+- **Type**: M2.5 washers for load distribution
+- **Size**: 2.7mm inner diameter, ~6mm outer diameter
+- **Material**: Steel or zinc-plated steel
+- **Applications**: Surface protection, load distribution for M2.5 fasteners
+
+#### Section B - #6 3/4" Phillips Flat Head Screws (30+ pieces)
+
+- **Contents**: #6-32 x 3/4" Phillips flat head screws (wood/sheet metal screws)
+- **Head Type**: Phillips flat head (countersunk)
+- **Length**: 3/4" (19mm)
+- **Material**: Steel construction
+- **Applications**: Wood assembly, sheet metal, general construction
+
 ### Bin 59 - M5 Hex Head Screws (12mm)
 
 - **Contents**: M5 hex socket cap screws
@@ -177,6 +194,14 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **M2 x 0.4mm**: M.2 NVMe SSD mounting
 - **Various**: Fan screws, case screws, thumb screws
 
+### #6 Wood/Sheet Metal Screws
+
+- **Thread Size**: #6 (3.5mm nominal diameter)
+- **Thread Type**: Self-tapping (wood/sheet metal screws)
+- **Drive**: Phillips cross-slot
+- **Head**: Flat head (countersunk)
+- **Applications**: Wood assembly, sheet metal, general construction
+
 ## Head Types Available
 
 ### Hex Socket Cap Head
@@ -199,6 +224,14 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Drive**: Phillips cross-slot
 - **Profile**: Flat head or pan head
 - **Applications**: M2.5 standoff kit (Bin 55)
+
+### Phillips Flat Head (Countersunk)
+
+- **Drive**: Phillips cross-slot
+- **Profile**: Flat head designed to sit flush with surface
+- **Standard**: Various (wood screws, sheet metal screws)
+- **Locations**: Bin 58-B (#6 screws)
+- **Applications**: Wood assembly, sheet metal, general construction
 
 ### Computer Hardware Heads
 
@@ -285,14 +318,16 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 - **Computer Building**: Bins 51 (complete kit), 54 (motherboard kit)
 - **General Assembly**: Bins 49 (M3 various), 52 (M4), 50 (M3 long)
 - **Precision Work**: Bins 55 (M2.5), 56-D (slot nuts), 64 (M2.5 comprehensive)
-- **Load Distribution**: Bin 56-B (M3 washers)
+- **Load Distribution**: Bins 56-B (M3 washers), 58-A (M2.5 washers)
+- **Wood/Construction**: Bin 58-B (#6 Phillips flat head screws)
 
 ### By Thread Size
 
-- **M2.5**: Bins 55 (complete kit), 56-D (slot nuts), 64 (hex/button head 5-25mm)
+- **M2.5**: Bins 55 (complete kit), 56-D (slot nuts), 58-A (washers), 64 (hex/button head 5-25mm)
 - **M3**: Bins 49 (various), 50 (long), 54 (motherboard), 56-B (washers), 57 (short)
 - **M4**: Bin 52 (8-20mm lengths)
 - **M5**: Bin 59 (12mm black hex head screws)
+- **#6**: Bin 58-B (3/4" Phillips flat head screws)
 - **Computer**: Bin 51 (#6-32, M3, M2, various)
 
 ### Torque Specifications (Typical)

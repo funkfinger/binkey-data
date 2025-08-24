@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 48
+populated_bins: 49
 last_updated: 2025-01-23
 categories:
   [
@@ -352,7 +352,13 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 58
 
-- [[empty]]
+### Section A
+
+- [[machine-screws-nuts-washers-universal]] - M2.5 washers (100+ pieces)
+
+### Section B
+
+- [[machine-screws-nuts-washers-universal]] - #6 3/4" Phillips flat head screws (30+ pieces)
 
 ## Bin 59
 
