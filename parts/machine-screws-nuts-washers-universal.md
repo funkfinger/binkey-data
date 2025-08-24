@@ -120,6 +120,14 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Quantity**: Various
 - **Applications**: Electronics assembly, compact assemblies, circuit boards
 
+### Bin 59 - M5 Hex Head Screws (12mm)
+
+- **Contents**: M5 hex socket cap screws
+- **Length**: 12mm
+- **Material**: Steel (black finish)
+- **Quantity**: 50+ pieces
+- **Applications**: Heavy-duty fastening, structural applications, larger assemblies
+
 ## Thread Specifications
 
 ### M2.5 Threading
@@ -145,6 +153,14 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Hex Key Size**: 3mm (for cap screws)
 - **Nut Size**: 7mm across flats
 - **Applications**: Heavy-duty fastening, structural applications
+
+### M5 Threading
+
+- **Nominal Diameter**: 5mm
+- **Thread Pitch**: 0.8mm
+- **Hex Key Size**: 4mm (for cap screws)
+- **Nut Size**: 8mm across flats
+- **Applications**: Heavy-duty fastening, structural applications, larger assemblies
 
 ### Computer Hardware Threading
 
@@ -259,6 +275,7 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 - **M2.5**: Bins 55 (complete kit), 56-D (slot nuts)
 - **M3**: Bins 49 (various), 50 (long), 54 (motherboard), 56-B (washers), 57 (short)
 - **M4**: Bin 52 (8-20mm lengths)
+- **M5**: Bin 59 (12mm black hex head screws)
 - **Computer**: Bin 51 (#6-32, M3, M2, various)
 
 ### Torque Specifications (Typical)
@@ -266,6 +283,7 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 - **M2.5**: 0.8-1.2 Nm
 - **M3**: 1.5-2.5 Nm
 - **M4**: 3.0-4.5 Nm
+- **M5**: 5.0-7.5 Nm
 - **Computer Hardware**: 0.5-2.0 Nm (varies by application)
 
 ## Notes
