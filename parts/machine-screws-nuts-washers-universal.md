@@ -128,6 +128,15 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Quantity**: 50+ pieces
 - **Applications**: Heavy-duty fastening, structural applications, larger assemblies
 
+### Bin 64 - M2.5 Hex Head & Button Head Screws & Nuts (5-25mm)
+
+- **Contents**: M2.5 hex socket cap screws, button head screws, and hex nuts
+- **Head Types**: Hex socket cap head, button head (low profile)
+- **Lengths**: 5-25mm (comprehensive range)
+- **Material**: Steel or stainless steel
+- **Quantity**: Various assortment
+- **Applications**: Small electronics, precision assemblies, miniature mechanical projects
+
 ## Thread Specifications
 
 ### M2.5 Threading
@@ -175,7 +184,15 @@ This universal inventory page consolidates all machine screws, nuts, washers, an
 - **Drive**: Internal hex socket (Allen key)
 - **Profile**: Low-profile cylindrical head
 - **Standard**: ISO 4762 or DIN 912
-- **Locations**: Bins 49, 50, 52, 57
+- **Locations**: Bins 49, 50, 52, 57, 59, 64
+
+### Button Head (Socket Head)
+
+- **Drive**: Internal hex socket (Allen key)
+- **Profile**: Low-profile rounded head, lower than cap head
+- **Standard**: ISO 7380 or DIN 7991
+- **Locations**: Bin 64 (M2.5)
+- **Applications**: Aesthetic applications, minimal protrusion required
 
 ### Phillips Head
 
@@ -267,12 +284,12 @@ machine-screws, hex-head-screws, nuts, washers, standoffs, metric-hardware, comp
 - **Electronics/Circuit Boards**: Bins 55 (M2.5), 57 (M3 short), 56-B (washers)
 - **Computer Building**: Bins 51 (complete kit), 54 (motherboard kit)
 - **General Assembly**: Bins 49 (M3 various), 52 (M4), 50 (M3 long)
-- **Precision Work**: Bins 55 (M2.5), 56-D (slot nuts)
+- **Precision Work**: Bins 55 (M2.5), 56-D (slot nuts), 64 (M2.5 comprehensive)
 - **Load Distribution**: Bin 56-B (M3 washers)
 
 ### By Thread Size
 
-- **M2.5**: Bins 55 (complete kit), 56-D (slot nuts)
+- **M2.5**: Bins 55 (complete kit), 56-D (slot nuts), 64 (hex/button head 5-25mm)
 - **M3**: Bins 49 (various), 50 (long), 54 (motherboard), 56-B (washers), 57 (short)
 - **M4**: Bin 52 (8-20mm lengths)
 - **M5**: Bin 59 (12mm black hex head screws)
