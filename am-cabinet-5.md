@@ -360,6 +360,18 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 - [[machine-screws-nuts-washers-universal]] - #6 3/4" Phillips flat head screws (30+ pieces)
 
+### Section D
+
+- [[machine-screws-nuts-washers-universal]] - #6 3/4" Phillips button head screws (30+ pieces)
+
+### Section E
+
+- [[machine-screws-nuts-washers-universal]] - M2.5 button head & hex head machine screws 25mm (40+ pieces)
+
+### Section F
+
+- [[machine-screws-nuts-washers-universal]] - #6 1" Phillips button head screws (30+ pieces)
+
 ## Bin 59
 
 - [[machine-screws-nuts-washers-universal]] - M5 hex head screws (12mm, black, 50+ pieces)
