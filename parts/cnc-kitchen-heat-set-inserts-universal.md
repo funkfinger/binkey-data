@@ -22,7 +22,10 @@ quantity: 300 total (100 each type)
 status: available
 price_range: professional
 datasheet: N/A
-product_url: https://cnckitchen.store/
+product_url:
+  - https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs
+  - https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces
+  - https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces
 tags:
   - heat-set-inserts
   - threaded-inserts
@@ -43,7 +46,7 @@ added_date: 2025-01-27
 
 **Location**: [[am-cabinet-5]] - Bin 40 (Sections A, D, F)  
 **Quantity**: 300 total pieces (100 each type)  
-**Status**: Available  
+**Status**: Available
 
 ## Description
 
@@ -52,6 +55,7 @@ Professional-grade heat-set inserts from CNC Kitchen designed specifically for 3
 ## Specifications
 
 ### Section F - M2.5 x 4mm Standard (100 pieces)
+
 - **Thread Size**: M2.5 x 0.45mm pitch
 - **Length**: 4.0mm (standard)
 - **Material**: High-quality brass (Lead & Cadmium free)
@@ -61,6 +65,7 @@ Professional-grade heat-set inserts from CNC Kitchen designed specifically for 3
 - **Hole Depth**: 4.5mm minimum
 
 ### Section A - M3 x 3mm Short (100 pieces)
+
 - **Thread Size**: M3 x 0.5mm pitch
 - **Length**: 3.0mm (short version)
 - **Material**: High-quality brass (Lead & Cadmium free)
@@ -70,6 +75,7 @@ Professional-grade heat-set inserts from CNC Kitchen designed specifically for 3
 - **Hole Depth**: 3.5mm minimum
 
 ### Section D - M3 x 5.7mm Standard (100 pieces)
+
 - **Thread Size**: M3 x 0.5mm pitch
 - **Length**: 5.7mm (standard)
 - **Material**: High-quality brass (Lead & Cadmium free)
@@ -82,14 +88,30 @@ Professional-grade heat-set inserts from CNC Kitchen designed specifically for 3
 
 _Images to be added - CNC Kitchen heat-set inserts in brass finish_
 
+## Product Links
+
+### Section F - M2.5 x 4mm Standard
+
+- **CNC Kitchen Store**: [M2.5 Standard Threaded Insert (100 pcs)](https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs)
+
+### Section A - M3 x 3mm Short
+
+- **CNC Kitchen Store**: [M3 x 3 Short Heat-Set Insert (100 pieces)](https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces)
+
+### Section D - M3 x 5.7mm Standard
+
+- **CNC Kitchen Store**: [M3 x 5.7 Heat-Set Insert (100 pieces)](https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces)
+
 ## Installation Guide
 
 ### Required Tools
+
 - Soldering iron (15-25W recommended)
 - Needle-nose pliers or insert installation tool
 - Drill bits (3.7mm for M2.5, 4.5mm for M3)
 
 ### Installation Process
+
 1. **Drill Hole**: Use specified drill bit size for clean, straight hole
 2. **Heat Insert**: Place insert on soldering iron tip
 3. **Install**: Gently press heated insert into hole until flush
@@ -99,6 +121,7 @@ _Images to be added - CNC Kitchen heat-set inserts in brass finish_
 ## Applications
 
 ### M2.5 Applications
+
 - Small electronics enclosures
 - Precision mechanical assemblies
 - Miniature project boxes
@@ -106,6 +129,7 @@ _Images to be added - CNC Kitchen heat-set inserts in brass finish_
 - Small prototype assemblies
 
 ### M3 Applications
+
 - General 3D printed assemblies
 - Electronics project boxes
 - Mechanical prototypes
@@ -123,18 +147,21 @@ N/A - Mechanical fastener
 ## Technical Notes
 
 ### Material Compatibility
+
 - **PLA**: Excellent - low melting point, easy installation
 - **ABS**: Good - higher temperature tolerance
 - **PETG**: Excellent - chemical resistance, clarity
 - **Other Thermoplastics**: Compatible with most common 3D printing materials
 
 ### Installation Tips
+
 - **Temperature Control**: Use moderate heat to avoid damaging plastic
 - **Alignment**: Ensure insert is perpendicular to surface
 - **Depth Control**: Install flush with surface for best results
 - **Cooling**: Allow complete cooling before applying load
 
 ### Quality Features
+
 - **Lead & Cadmium Free**: Safe for all applications
 - **Double Knurling**: Superior pull-out resistance
 - **Pilot End**: Self-centering for easy installation
@@ -145,10 +172,10 @@ N/A - Mechanical fastener
 Based on CNC Kitchen specifications:
 
 | Insert Size | Hole Diameter | Hole Depth (Min) | Thread Pitch |
-|-------------|---------------|-------------------|--------------|
-| M2.5 x 4mm  | 3.7mm        | 4.5mm            | 0.45mm       |
-| M3 x 3mm    | 4.5mm        | 3.5mm            | 0.5mm        |
-| M3 x 5.7mm  | 4.5mm        | 6.2mm            | 0.5mm        |
+| ----------- | ------------- | ---------------- | ------------ |
+| M2.5 x 4mm  | 3.7mm         | 4.5mm            | 0.45mm       |
+| M3 x 3mm    | 4.5mm         | 3.5mm            | 0.5mm        |
+| M3 x 5.7mm  | 4.5mm         | 6.2mm            | 0.5mm        |
 
 ## Tags
 
