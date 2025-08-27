@@ -637,6 +637,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Machine Screws, Nuts, Washers & Construction Fasteners
 
 - [[machine-screws-nuts-washers-universal]]
+- [[uxcell-m3x10mm-knurled-thumb-screws]]
 
 ### Specialty Fasteners
 

@@ -279,6 +279,10 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 45
 
+### Section A
+
+- [[uxcell-m3x10mm-knurled-thumb-screws]] - 6
+
 ### Section B
 
 - [[california-jos-2-54mm-jumper-caps-30]] - 30+

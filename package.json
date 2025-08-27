@@ -21,7 +21,13 @@
     "pages:deploy": "npm run pages:build && gh-pages -d web/public",
     "pages:preview": "npm run pages:build && cd web && npm run serve",
     "github:deploy": "./scripts/deploy-to-github-pages.sh",
-    "github:quick": "./scripts/deploy-to-github-pages.sh 'Quick update'"
+    "github:quick": "./scripts/deploy-to-github-pages.sh 'Quick update'",
+    "validate": "node scripts/validate-inventory.js",
+    "search:index": "node scripts/generate-search-index.js",
+    "analytics": "node scripts/generate-analytics.js",
+    "health-check": "npm run validate && npm run analytics",
+    "backup": "node scripts/backup-inventory.js",
+    "full-build": "npm run validate && npm run search:index && npm run analytics && npm run pages:build"
   },
   "keywords": [
     "electronics",
