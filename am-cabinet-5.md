@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 51
+populated_bins: 52
 last_updated: 2025-01-23
 categories:
   [
@@ -259,7 +259,17 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 40
 
-- [[empty]]
+### Section A
+
+- [[cnc-kitchen-heat-set-inserts-universal]] - M3 x 3mm short heat-set inserts (100 pieces)
+
+### Section D
+
+- [[cnc-kitchen-heat-set-inserts-universal]] - M3 x 5.7mm standard heat-set inserts (100 pieces)
+
+### Section F
+
+- [[cnc-kitchen-heat-set-inserts-universal]] - M2.5 x 4mm standard heat-set inserts (100 pieces)
 
 ## Bin 41
 
