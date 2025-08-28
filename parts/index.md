@@ -433,6 +433,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[wago-221-412-splicing-connectors]]
 - [[wago-221-413-splicing-connectors]]
+- [[ge-extension-cord-plug-replacement-54266]]
 
 ### Jumpers & Shunts
 
@@ -639,6 +640,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[machine-screws-nuts-washers-universal]]
 - [[uxcell-m3x10mm-knurled-thumb-screws]]
 - [[cnc-kitchen-heat-set-inserts-universal]]
+- [[hilitchi-m2-hex-socket-head-cap-screws-nuts-kit]]
 
 ### Specialty Fasteners
 

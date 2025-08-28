@@ -234,7 +234,21 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 34
 
-- [[empty]]
+### Section A
+
+- [[helifouner-m3-t-slot-nuts-2020-series-50plus]] - 50+ pieces
+
+### Section B
+
+- [[machine-screws-nuts-washers-universal]] - M3 small washers (40+ pieces)
+
+### Section C
+
+- [[nail-in-cable-clips-15plus]] - 15+ pieces
+
+### Section D
+
+- [[machine-screws-nuts-washers-universal]] - Square M2.5 slot nuts (50+ pieces)
 
 ## Bin 35
 
@@ -344,21 +358,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 56
 
-### Section A
-
-- [[helifouner-m3-t-slot-nuts-2020-series-50plus]] - 50+ pieces
-
-### Section B
-
-- [[machine-screws-nuts-washers-universal]] - M3 small washers (40+ pieces)
-
-### Section C
-
-- [[nail-in-cable-clips-15plus]] - 15+ pieces
-
-### Section D
-
-- [[machine-screws-nuts-washers-universal]] - Square M2.5 slot nuts (50+ pieces)
+- [[hilitchi-m2-hex-socket-head-cap-screws-nuts-kit]] - 210 pieces
 
 ## Bin 57
 

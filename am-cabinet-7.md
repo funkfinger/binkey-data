@@ -3,7 +3,7 @@ title: Akro-Mils Cabinet 7
 type: cabinet
 cabinet_number: 7
 total_bins: 44
-populated_bins: 1
+populated_bins: 2
 description: Akro-Mils storage cabinet with 44 bins (32 small, 12 large) for electronic components, connectors, and audio parts
 tags: [cabinet, storage, akro-mils, connectors, audio, eurorack]
 ---
@@ -129,7 +129,9 @@ Cabinet 7 is an Akro-Mils storage cabinet with the same configuration as Cabinet
 
 ## Bin 26
 
-- [[empty]]
+### Section B
+
+- [[ge-extension-cord-plug-replacement-54266]] - 1 pack (2 plugs)
 
 ## Bin 27
 
