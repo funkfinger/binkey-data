@@ -6,13 +6,37 @@ manufacturer: Various
 part_number: CAPACITOR-MIXED-COLLECTION
 category: passive-components
 subcategory: capacitors
-tags: [capacitors, ceramic, electrolytic, tantalum, film, bypass, decoupling, filtering, energy-storage]
+tags:
+  [
+    capacitors,
+    ceramic,
+    electrolytic,
+    tantalum,
+    film,
+    bypass,
+    decoupling,
+    filtering,
+    energy-storage,
+  ]
 total_quantity: 500+
 location: [cabinet-2-bin-12]
 price: 0.25
 currency: USD
 date_added: 2025-01-09
 status: active
+values_present:
+  [
+    "1 uF",
+    "2.2 uF",
+    "3.3 uF",
+    "4.7 uF",
+    "10 uF",
+    "15 uF",
+    "22 uF",
+    "33 uF",
+    "47 uF",
+    "100 uF",
+  ]
 ---
 
 # Capacitors - Mixed Collection
@@ -25,18 +49,32 @@ This collection contains various types of capacitors commonly used in electronic
 
 ### Bin 12 - Mixed Capacitors (Cabinet 2)
 
-| Type | Value Range | Voltage Range | Package | Quantity | Applications |
-|------|-------------|---------------|---------|----------|--------------|
-| Ceramic (MLCC) | 1pF - 10µF | 16V - 100V | 0603, 0805, 1206 | 200+ | Decoupling, filtering |
-| Electrolytic | 1µF - 1000µF | 6.3V - 50V | Radial, Axial | 150+ | Power supply filtering |
-| Tantalum | 0.1µF - 100µF | 6.3V - 35V | SMD, Radial | 100+ | Low ESR applications |
-| Film/Polyester | 1nF - 1µF | 50V - 400V | Radial | 50+ | Audio, precision timing |
+| Type           | Value Range   | Voltage Range | Package          | Quantity | Applications            |
+| -------------- | ------------- | ------------- | ---------------- | -------- | ----------------------- |
+| Ceramic (MLCC) | 1pF - 10µF    | 16V - 100V    | 0603, 0805, 1206 | 200+     | Decoupling, filtering   |
+| Electrolytic   | 1µF - 1000µF  | 6.3V - 50V    | Radial, Axial    | 150+     | Power supply filtering  |
+| Tantalum       | 0.1µF - 100µF | 6.3V - 35V    | SMD, Radial      | 100+     | Low ESR applications    |
+| Film/Polyester | 1nF - 1µF     | 50V - 400V    | Radial           | 50+      | Audio, precision timing |
+
+## Specific Values Present (uF)
+
+- 1 uF
+- 2.2 uF
+- 3.3 uF
+- 4.7 uF
+- 10 uF
+- 15 uF
+- 22 uF
+- 33 uF
+- 47 uF
+- 100 uF
 
 ## Technical Specifications
 
 ### Ceramic Capacitors (MLCC)
 
 #### Common Values and Characteristics
+
 - **Capacitance Range**: 1pF to 10µF
 - **Voltage Ratings**: 16V, 25V, 50V, 100V
 - **Tolerance**: ±5%, ±10%, ±20%
@@ -44,12 +82,14 @@ This collection contains various types of capacitors commonly used in electronic
 - **Package Sizes**: 0603, 0805, 1206, 1210
 
 #### Dielectric Types
+
 - **C0G/NP0**: Ultra-stable, low loss, ±30ppm/°C
 - **X7R**: Stable, general purpose, ±15% over temperature
 - **X5R**: Compact, moderate stability, ±15% over temperature
 - **Y5V**: High capacitance, -82% to +22% over temperature
 
 #### Key Features
+
 - **Low ESR**: Excellent for high-frequency applications
 - **Small Size**: Compact surface mount packages
 - **High Reliability**: Long life and stable performance
@@ -59,6 +99,7 @@ This collection contains various types of capacitors commonly used in electronic
 ### Electrolytic Capacitors
 
 #### Common Values and Characteristics
+
 - **Capacitance Range**: 1µF to 1000µF
 - **Voltage Ratings**: 6.3V, 10V, 16V, 25V, 35V, 50V
 - **Tolerance**: ±20% typical
@@ -66,6 +107,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Package Types**: Radial leaded, axial leaded
 
 #### Key Features
+
 - **High Capacitance**: Large capacitance values in small packages
 - **Polarized**: Must observe correct polarity
 - **Low Cost**: Economical for bulk capacitance
@@ -73,6 +115,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Limited Life**: Electrolyte can dry out over time
 
 #### Applications
+
 - **Power Supply Filtering**: Smoothing rectified AC
 - **Energy Storage**: Temporary energy storage
 - **Coupling**: AC coupling in audio circuits
@@ -82,6 +125,7 @@ This collection contains various types of capacitors commonly used in electronic
 ### Tantalum Capacitors
 
 #### Common Values and Characteristics
+
 - **Capacitance Range**: 0.1µF to 100µF
 - **Voltage Ratings**: 6.3V, 10V, 16V, 25V, 35V
 - **Tolerance**: ±10%, ±20%
@@ -89,6 +133,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Package Types**: SMD (A, B, C, D cases), radial leaded
 
 #### Key Features
+
 - **Low ESR**: Excellent for switching power supplies
 - **Stable**: Good temperature and frequency stability
 - **Compact**: High capacitance density
@@ -96,6 +141,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Reliable**: Long life and stable performance
 
 #### Applications
+
 - **Power Supply Decoupling**: Low ESR filtering
 - **Switching Regulators**: Input/output filtering
 - **Digital Circuits**: Power supply decoupling
@@ -105,6 +151,7 @@ This collection contains various types of capacitors commonly used in electronic
 ### Film/Polyester Capacitors
 
 #### Common Values and Characteristics
+
 - **Capacitance Range**: 1nF to 1µF
 - **Voltage Ratings**: 50V, 100V, 250V, 400V
 - **Tolerance**: ±5%, ±10%
@@ -112,6 +159,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Package Types**: Radial leaded, axial leaded
 
 #### Key Features
+
 - **Non-Polarized**: Can be used in either direction
 - **Low Loss**: Excellent for AC applications
 - **Stable**: Good temperature and frequency stability
@@ -119,6 +167,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Long Life**: Excellent long-term stability
 
 #### Applications
+
 - **Audio Coupling**: Audio signal coupling
 - **Timing**: Precision timing circuits
 - **Filtering**: AC line filtering
@@ -128,6 +177,7 @@ This collection contains various types of capacitors commonly used in electronic
 ## Applications by Type
 
 ### Power Supply Applications
+
 - **Input Filtering**: Large electrolytics for bulk filtering
 - **Output Filtering**: Low ESR tantalums for clean output
 - **Decoupling**: Ceramic capacitors for high-frequency noise
@@ -135,6 +185,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Energy Storage**: Large electrolytics for energy buffering
 
 ### Digital Circuit Applications
+
 - **Power Decoupling**: Ceramic capacitors near IC power pins
 - **Bypass Filtering**: High-frequency noise suppression
 - **Clock Circuits**: Precision timing with film capacitors
@@ -142,6 +193,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **EMI Suppression**: Filtering electromagnetic interference
 
 ### Analog Circuit Applications
+
 - **Audio Coupling**: Film capacitors for audio signals
 - **Filter Networks**: Active and passive filter designs
 - **Integrators**: Op-amp integrator circuits
@@ -149,6 +201,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Oscillators**: Frequency determining elements
 
 ### Motor and Power Applications
+
 - **Motor Starting**: Electrolytic start capacitors
 - **Power Factor Correction**: Film capacitors for PFC
 - **Snubber Circuits**: Transient suppression
@@ -158,6 +211,7 @@ This collection contains various types of capacitors commonly used in electronic
 ## Selection Guidelines
 
 ### Capacitance Value Selection
+
 - **Power Supply**: 10-100µF per amp of load current
 - **Decoupling**: 0.1µF ceramic near each IC
 - **Bypass**: 10-100nF for high-frequency bypass
@@ -165,6 +219,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Coupling**: High enough to pass lowest frequency
 
 ### Voltage Rating Selection
+
 - **Safety Margin**: Use 2x operating voltage minimum
 - **Derating**: Apply voltage derating for reliability
 - **Transients**: Consider voltage spikes and transients
@@ -172,6 +227,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Application**: Higher voltage for switching applications
 
 ### Dielectric Selection
+
 - **Stability Required**: Use C0G/NP0 for precision
 - **General Purpose**: X7R for most applications
 - **High Capacitance**: X5R or Y5V for bulk capacitance
@@ -181,6 +237,7 @@ This collection contains various types of capacitors commonly used in electronic
 ## Design Considerations
 
 ### Frequency Response
+
 - **ESR**: Lower ESR for high-frequency applications
 - **ESL**: Lower ESL for switching applications
 - **Self-Resonance**: Avoid operation near self-resonant frequency
@@ -188,6 +245,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Layout**: Minimize trace inductance
 
 ### Temperature Effects
+
 - **Capacitance Change**: Consider temperature coefficient
 - **Voltage Derating**: Reduce voltage rating at high temperature
 - **ESR Changes**: ESR typically increases at low temperature
@@ -195,6 +253,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Thermal Cycling**: Consider thermal stress effects
 
 ### Reliability Considerations
+
 - **Voltage Stress**: Operate well below rated voltage
 - **Current Stress**: Consider ripple current ratings
 - **Temperature**: Operate within temperature limits
@@ -204,6 +263,7 @@ This collection contains various types of capacitors commonly used in electronic
 ## Testing and Verification
 
 ### Basic Testing
+
 - **Capacitance**: Measure capacitance value
 - **ESR**: Measure equivalent series resistance
 - **Leakage**: Test leakage current (polarized types)
@@ -211,6 +271,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Polarity**: Check polarity marking (if applicable)
 
 ### Advanced Testing
+
 - **Frequency Response**: Measure impedance vs. frequency
 - **Temperature**: Test capacitance vs. temperature
 - **Life Testing**: Extended operation at rated conditions
@@ -218,6 +279,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Dielectric Absorption**: Test for precision applications
 
 ### Quality Control
+
 - **Visual Inspection**: Check for physical damage
 - **Marking Verification**: Confirm value and voltage markings
 - **Lead Condition**: Check lead integrity and coating
@@ -227,6 +289,7 @@ This collection contains various types of capacitors commonly used in electronic
 ## Installation Guidelines
 
 ### PCB Layout
+
 - **Placement**: Place decoupling caps close to IC power pins
 - **Via Placement**: Use vias to connect to power planes
 - **Trace Width**: Use adequate trace width for current
@@ -234,6 +297,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Thermal Relief**: Use thermal relief for high-current applications
 
 ### Soldering Guidelines
+
 - **Temperature**: Use appropriate soldering temperature
 - **Time**: Minimize time at temperature
 - **Flux**: Use appropriate flux for component type
@@ -241,6 +305,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Inspection**: Inspect solder joints for quality
 
 ### Handling Precautions
+
 - **ESD**: Use ESD precautions for sensitive types
 - **Polarity**: Observe polarity for polarized types
 - **Mechanical**: Avoid excessive mechanical stress
@@ -250,6 +315,7 @@ This collection contains various types of capacitors commonly used in electronic
 ## Troubleshooting
 
 ### Common Issues
+
 - **Open Circuit**: Check for broken internal connections
 - **Short Circuit**: Check for dielectric breakdown
 - **High ESR**: May indicate aging or damage
@@ -257,6 +323,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Wrong Value**: Verify capacitance measurement
 
 ### Failure Modes
+
 - **Electrolytic Drying**: Capacitance loss, high ESR
 - **Dielectric Breakdown**: Short circuit failure
 - **Lead Fatigue**: Open circuit from mechanical stress
@@ -264,6 +331,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Reverse Polarity**: Damage from incorrect polarity
 
 ### Replacement Guidelines
+
 - **Same Type**: Use same dielectric type when possible
 - **Voltage Rating**: Equal or higher voltage rating
 - **Capacitance**: Match capacitance value closely
@@ -273,6 +341,7 @@ This collection contains various types of capacitors commonly used in electronic
 ## Storage and Handling
 
 ### Storage Conditions
+
 - **Temperature**: Store at room temperature
 - **Humidity**: Low humidity environment preferred
 - **Organization**: Sort by type, value, and voltage
@@ -280,6 +349,7 @@ This collection contains various types of capacitors commonly used in electronic
 - **Inventory**: Maintain accurate inventory records
 
 ### Handling Guidelines
+
 - **ESD Protection**: Use ESD precautions
 - **Mechanical Care**: Avoid bending leads excessively
 - **Polarity**: Mark polarity clearly for polarized types

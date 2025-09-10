@@ -5,7 +5,7 @@ cabinet: 2
 bin_capacity: 44
 total_bins: 44
 populated_bins: 41
-last_updated: 2025-01-09
+last_updated: 2025-09-06
 ---
 
 # Akro Mills Cabinet 2 - Passive Components
@@ -93,9 +93,16 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 - [[voltage-regulators-boost-converters]] - Step-up Modules (4)
 - [[voltage-regulators-boost-converters]] - Various Voltage Regulators (5)
 
-## Bin 14 - Battery Holders (Original Organization)
+## Bin 14 - Power Management Components
 
-- [[empty]]
+### Section A
+
+- [[aceirmc-usb-pd-decoy-trigger]] - ACEIRMC Type-C QC AFC PD2.0 PD3.0 Fast Charge Decoy Trigger (4)
+- [[devmo-lm2596-buck-converter]] - DEVMO LM2596 DC-DC Step Down Variable Voltage Regulator (3)
+
+### Section B
+
+- [[devmo-lm2596-buck-converter]] - DEVMO LM2596 DC-DC Step Down Variable Voltage Regulator (6)
 
 ## Bin 15 - Buck Converters & Power Modules (Your Organization)
 
@@ -135,9 +142,9 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[capacitors-mixed-collection]] - 100µF Through Hole Capacitors (20+)
 
-## Bin 21 - Battery Holders
+## Bin 21 - Capacitor Kit
 
-- [[battery-products]] - BH23APC A23 Battery Holders (10)
+- [[assorted-capacitor-kit]] - Assorted Small-Value Capacitor Kit (various)
 
 ## Bin 22 - Barrel Connectors
 
@@ -232,7 +239,7 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 ## Bin 40 - Mechanical Keyboard Components & Li-Po Charging
 
 - [[mechanical-keyboard-components]] - Kailh Switch Sockets MX-compatible (50+)
-- [[battery-charging-boards]] - Various Li-Po Charging Boards (25+)
+- [[battery-charging-boards-lipo]] - Various Li-Po Charging Boards (25+)
 
 ## Bin 41 - Crimp-able Connectors
 

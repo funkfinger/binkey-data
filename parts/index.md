@@ -244,6 +244,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[seeed-xiao-mg24-sense]]
 - [[seeed-xiao-samd21]]
 - [[adafruit-qt-py-esp32-s2]]
+- [[arduino-pro-micro]]
+
 - [[adafruit-qt-py-esp32-pico]]
 - [[adafruit-qt-py-samd21]]
 - [[wemos-esp32-s2-mini]]
@@ -389,7 +391,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### Battery Charging & Power Management
 
-- [[battery-charging-boards]]
+- [[battery-charging-boards-lipo]]
 
 ## Passive Components
 
@@ -398,6 +400,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[large-capacitors]]
 
 ### Variable Resistors
+
+- [[assorted-capacitor-kit]]
 
 - [[potentiometers-variable-resistors]]
 
@@ -671,6 +675,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[derby-extra-double-edge-razor-blades-20]]
 - [[bates-single-edge-straight-razor-blades-20]]
+
+### Heat Shrink Tubing
+
+- [[various-small-heat-shrink-tubing]]
 
 ## Search by Tags
 

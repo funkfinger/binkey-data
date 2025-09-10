@@ -25,6 +25,7 @@ location:
     cabinet-2-bin-30,
     cabinet-2-bin-31,
     cabinet-2-bin-36,
+    cabinet-3-bin-20,
   ]
 price: 2.00
 currency: USD

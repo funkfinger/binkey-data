@@ -155,6 +155,7 @@ tags: [cabinet, inventory, electronics, components]
 
 - [[d1-mini-nodemcu-esp8266-wifi]]
 - [[sparkfun-qwiic-pro-micro-usb-c]]
+- [[arduino-pro-micro]] - 1
 
 ## Bin 26 - RISC-V, ESP32 & ARM Microcontrollers
 

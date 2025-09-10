@@ -6,7 +6,18 @@ manufacturer: Various
 part_number: BATTERY-CHARGING-BOARDS-MIXED
 category: power
 subcategory: charging-circuits
-tags: [battery-charging, lipo-charger, power-management, usb-charging, tp4056, mcp73831, charging-circuit, portable-power, battery-management]
+tags:
+  [
+    battery-charging,
+    lipo-charger,
+    power-management,
+    usb-charging,
+    tp4056,
+    mcp73831,
+    charging-circuit,
+    portable-power,
+    battery-management,
+  ]
 total_quantity: 25+
 location: [cabinet-2-bin-40]
 price: 5.00
@@ -15,7 +26,7 @@ date_added: 2025-01-09
 status: active
 ---
 
-# Battery Charging Boards & Power Management
+# Li-po (LiPo) Battery Charging Boards & Power Management
 
 ## Overview
 
@@ -25,15 +36,16 @@ This collection contains battery charging boards and power management modules fo
 
 ### Bin 40 - Battery Charging Boards (Cabinet 2)
 
-| Type | Battery Type | Input | Output | Current | Protection | Quantity | Applications |
-|------|--------------|-------|--------|---------|------------|----------|--------------|
-| Various Charging Boards | Li-Po/Li-Ion | USB 5V | 4.2V | 500mA-1A | Yes | 25+ | Portable devices |
+| Type                    | Battery Type | Input  | Output | Current  | Protection | Quantity | Applications     |
+| ----------------------- | ------------ | ------ | ------ | -------- | ---------- | -------- | ---------------- |
+| Various Charging Boards | Li-Po/Li-Ion | USB 5V | 4.2V   | 500mA-1A | Yes        | 25+      | Portable devices |
 
 ## Technical Specifications
 
 ### Common Charging IC Types
 
 #### TP4056 Charging Boards
+
 - **Input Voltage**: 4V to 8V (5V USB typical)
 - **Charging Voltage**: 4.2V ±1% (Li-Po/Li-Ion)
 - **Charging Current**: 1A maximum (adjustable with resistor)
@@ -43,6 +55,7 @@ This collection contains battery charging boards and power management modules fo
 - **Package**: SOP-8 or DFN package on breakout board
 
 #### MCP73831 Charging Boards
+
 - **Input Voltage**: 3.75V to 6V
 - **Charging Voltage**: 4.2V ±0.75%
 - **Charging Current**: 500mA maximum (programmable)
@@ -52,6 +65,7 @@ This collection contains battery charging boards and power management modules fo
 - **Package**: SOT-23-5 on breakout board
 
 #### BQ24074 Advanced Charging Boards
+
 - **Input Voltage**: 4.35V to 6.45V
 - **Charging Voltage**: 4.2V (programmable)
 - **Charging Current**: 1.5A maximum
@@ -63,6 +77,7 @@ This collection contains battery charging boards and power management modules fo
 ### Common Board Features
 
 #### Protection Circuits
+
 - **Overvoltage Protection**: Input overvoltage protection
 - **Overcurrent Protection**: Charging current limiting
 - **Thermal Protection**: Automatic thermal shutdown
@@ -70,6 +85,7 @@ This collection contains battery charging boards and power management modules fo
 - **Short Circuit**: Output short circuit protection
 
 #### Status Indication
+
 - **Charging LED**: Red LED indicates charging in progress
 - **Full Charge LED**: Green LED indicates charge complete
 - **Power LED**: Blue LED indicates input power present
@@ -77,6 +93,7 @@ This collection contains battery charging boards and power management modules fo
 - **Multi-color LEDs**: Single LED with color change
 
 #### Connectors and Interfaces
+
 - **USB Input**: Micro-USB or USB-C input connector
 - **Battery Output**: JST-PH connector or solder pads
 - **Load Output**: Some boards provide load output
@@ -86,6 +103,7 @@ This collection contains battery charging boards and power management modules fo
 ## Charging Specifications
 
 ### Li-Po/Li-Ion Charging Profile
+
 - **Pre-charge**: 100mA at low battery voltage (<3V)
 - **Constant Current**: Full current until 4.2V reached
 - **Constant Voltage**: 4.2V maintained until current drops
@@ -93,6 +111,7 @@ This collection contains battery charging boards and power management modules fo
 - **Safety Timer**: 5-8 hour safety timeout
 
 ### Charging Current Selection
+
 - **1C Rate**: Battery capacity in mA (e.g., 1000mAh = 1A)
 - **0.5C Rate**: Half battery capacity (safer, longer life)
 - **Fast Charging**: Up to 2C for some battery types
@@ -100,6 +119,7 @@ This collection contains battery charging boards and power management modules fo
 - **Battery Specification**: Follow battery manufacturer recommendations
 
 ### Temperature Considerations
+
 - **Charging Range**: 0°C to 45°C for Li-Po/Li-Ion
 - **Thermal Monitoring**: Monitor battery temperature during charge
 - **Ambient Temperature**: Consider ambient temperature effects
@@ -109,6 +129,7 @@ This collection contains battery charging boards and power management modules fo
 ## Applications
 
 ### Portable Electronics
+
 - **IoT Devices**: Rechargeable sensor nodes and data loggers
 - **Wearable Electronics**: Smartwatches, fitness trackers, LED clothing
 - **Portable Audio**: Bluetooth speakers, headphones, amplifiers
@@ -116,6 +137,7 @@ This collection contains battery charging boards and power management modules fo
 - **Emergency Devices**: Flashlights, radios, backup power
 
 ### Maker and DIY Projects
+
 - **Arduino Projects**: Battery-powered microcontroller projects
 - **Raspberry Pi**: Portable Pi projects with rechargeable power
 - **Robot Projects**: Mobile robots with rechargeable batteries
@@ -123,6 +145,7 @@ This collection contains battery charging boards and power management modules fo
 - **Educational Projects**: STEM learning with battery technology
 
 ### Professional Applications
+
 - **Prototyping**: Product development with rechargeable power
 - **Test Equipment**: Portable test and measurement devices
 - **Field Equipment**: Remote monitoring and data collection
@@ -130,6 +153,7 @@ This collection contains battery charging boards and power management modules fo
 - **Industrial**: Portable industrial control and monitoring
 
 ### Backup Power Systems
+
 - **UPS Systems**: Uninterruptible power supplies
 - **Emergency Lighting**: Emergency and exit lighting
 - **Communication**: Backup power for communication systems
@@ -139,6 +163,7 @@ This collection contains battery charging boards and power management modules fo
 ## Design Guidelines
 
 ### Power System Design
+
 - **Power Budget**: Calculate total power consumption
 - **Battery Capacity**: Size battery for required runtime
 - **Charging Time**: Calculate charging time requirements
@@ -146,6 +171,7 @@ This collection contains battery charging boards and power management modules fo
 - **Efficiency**: Account for charging and conversion losses
 
 ### Thermal Management
+
 - **Heat Dissipation**: Provide adequate heat sinking
 - **Airflow**: Ensure adequate airflow for cooling
 - **Component Placement**: Keep heat-sensitive components away
@@ -153,6 +179,7 @@ This collection contains battery charging boards and power management modules fo
 - **Derating**: Derate current at high ambient temperatures
 
 ### Safety Design
+
 - **Fusing**: Include appropriate fusing for protection
 - **Isolation**: Provide isolation between input and output
 - **Enclosure**: Use appropriate enclosure for safety
@@ -162,6 +189,7 @@ This collection contains battery charging boards and power management modules fo
 ## Installation Guidelines
 
 ### PCB Integration
+
 - **Footprint**: Use recommended PCB footprint
 - **Ground Plane**: Provide solid ground plane
 - **Trace Width**: Use adequate trace width for current
@@ -169,6 +197,7 @@ This collection contains battery charging boards and power management modules fo
 - **Component Placement**: Optimize component placement
 
 ### Connector Wiring
+
 - **Wire Gauge**: Use appropriate wire gauge for current
 - **Connector Rating**: Ensure connectors rated for current
 - **Strain Relief**: Provide strain relief for connections
@@ -176,6 +205,7 @@ This collection contains battery charging boards and power management modules fo
 - **Insulation**: Ensure proper wire insulation
 
 ### Mechanical Mounting
+
 - **Secure Mounting**: Mount boards securely to prevent damage
 - **Vibration**: Consider vibration resistance
 - **Access**: Provide access for status LEDs
@@ -185,6 +215,7 @@ This collection contains battery charging boards and power management modules fo
 ## Safety Considerations
 
 ### Electrical Safety
+
 - **Input Protection**: Protect against input overvoltage
 - **Output Protection**: Protect against output short circuits
 - **Isolation**: Maintain proper isolation where required
@@ -192,6 +223,7 @@ This collection contains battery charging boards and power management modules fo
 - **Current Limiting**: Implement appropriate current limiting
 
 ### Battery Safety
+
 - **Proper Batteries**: Use only appropriate battery types
 - **Temperature Monitoring**: Monitor battery temperature
 - **Ventilation**: Provide adequate ventilation
@@ -199,6 +231,7 @@ This collection contains battery charging boards and power management modules fo
 - **Emergency Procedures**: Have emergency procedures ready
 
 ### Chemical Safety
+
 - **Electrolyte**: Be aware of battery electrolyte hazards
 - **Disposal**: Dispose of batteries properly
 - **Spill Cleanup**: Have spill cleanup procedures
@@ -208,6 +241,7 @@ This collection contains battery charging boards and power management modules fo
 ## Testing and Validation
 
 ### Functional Testing
+
 - **Charging Test**: Verify proper charging operation
 - **Termination Test**: Test charge termination
 - **Protection Test**: Test protection circuits
@@ -215,6 +249,7 @@ This collection contains battery charging boards and power management modules fo
 - **Temperature Test**: Test thermal protection
 
 ### Performance Testing
+
 - **Efficiency Test**: Measure charging efficiency
 - **Ripple Test**: Measure output voltage ripple
 - **Load Test**: Test under various load conditions
@@ -222,6 +257,7 @@ This collection contains battery charging boards and power management modules fo
 - **Life Test**: Long-term reliability testing
 
 ### Safety Testing
+
 - **Overvoltage Test**: Test overvoltage protection
 - **Overcurrent Test**: Test overcurrent protection
 - **Short Circuit Test**: Test short circuit protection
@@ -231,6 +267,7 @@ This collection contains battery charging boards and power management modules fo
 ## Troubleshooting
 
 ### Common Issues
+
 - **No Charging**: Check input voltage and connections
 - **Slow Charging**: Verify charging current settings
 - **Overheating**: Check thermal design and current limits
@@ -238,6 +275,7 @@ This collection contains battery charging boards and power management modules fo
 - **Status LED Issues**: Check LED connections and drivers
 
 ### Diagnostic Procedures
+
 - **Voltage Measurement**: Measure input and output voltages
 - **Current Measurement**: Measure charging current
 - **Temperature Measurement**: Monitor component temperatures
@@ -245,6 +283,7 @@ This collection contains battery charging boards and power management modules fo
 - **Component Testing**: Test individual components
 
 ### Repair and Replacement
+
 - **Component Replacement**: Replace failed components
 - **Board Replacement**: Replace entire board if necessary
 - **Upgrade**: Consider upgraded replacement boards

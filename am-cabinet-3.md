@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 23
-last_updated: 2025-01-12
+populated_bins: 25
+last_updated: 2025-09-06
 categories:
   [
     thermistors,
@@ -115,7 +115,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[misc-wireless-boards]] - Various Wireless Development Boards (10+)
 
-## Bin 20 - Empty
+## Bin 20 - Battery Holders
+
+- [[battery-products]] - BH23APC A23 Battery Holders (10)
 
 ## Bin 21 - RF Antennas
 
@@ -141,7 +143,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 25
 
-- [[empty]]
+- [[various-small-heat-shrink-tubing]] - Various Small Size Heat Shrink Tubing (assortment)
 
 ## Bin 26
 
