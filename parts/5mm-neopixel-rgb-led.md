@@ -5,7 +5,7 @@ subcategory: Addressable LED
 size: 5mm
 color: rgb
 technology: addressable
-location: [Cabinet-1/Bin-10]
+location: [Cabinet-1/Bin-10/Section-B]
 quantity: 5
 status: available
 price_range: $1-3
@@ -16,7 +16,7 @@ tags: [neopixel, led, rgb, 5mm, addressable]
 
 ## Details
 
-- **Location**: Cabinet-1, Bin 10
+- **Location**: Cabinet-1, Bin 10, Section B
 - **Category**: Neopixel LEDs
 - **Size**: 5mm
 - **Type**: Addressable RGB

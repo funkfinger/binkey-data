@@ -68,7 +68,13 @@ tags: [cabinet, inventory, electronics, components]
 - [[5mm-led-blue]] - 10
 - [[5mm-led-white]] - 10
 
-## Bin 10 - Neopixel LEDs
+## Bin 10 - LEDs
+
+### Section A - Special Effect
+
+- [[5mm-rgb-fast-blinking-led]] - 30+
+
+### Section B - Neopixel LEDs
 
 - [[5mm-neopixel-rgb-led]] - 5
 

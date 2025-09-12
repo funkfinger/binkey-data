@@ -182,6 +182,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[3mm-rectangular-warm-white-led]]
 - [[3mm-rectangular-white-led]]
 
+- [[5mm-rgb-fast-blinking-led]]
+
 ## RGB & Addressable LEDs
 
 - [[8mm-large-rgb-led]]
