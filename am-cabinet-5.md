@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 5 - Electrical Connecto
 cabinet: 5
 bin_capacity: 64
 total_bins: 64
-populated_bins: 52
-last_updated: 2025-01-23
+populated_bins: 53
+last_updated: 2025-09-12
 categories:
   [
     electrical-connectors,
@@ -177,9 +177,9 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 - [[white-push-switch-momentary-spdt-led]] - 8
 
-## Bin 24
+## Bin 24 - Tactile Switch Kits
 
-- [[empty]]
+- [[bojack-6x6mm-tactile-switch-assortment-200pcs]] - 200 (10 values)
 
 ## Bin 25 - LED Extrusion Hardware
 

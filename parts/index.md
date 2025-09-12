@@ -99,6 +99,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[qteatak-tactile-switch-assortment]]
 - [[adafruit-plastic-button-caps]]
 - [[vintage-toggle-switches-collection]]
+- [[bojack-6x6mm-tactile-switch-assortment-200pcs]]
 
 ## Mechanical Components
 
