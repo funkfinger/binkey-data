@@ -68,8 +68,13 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 ## Bin 9 - Rectifier & Switching Diodes
 
-- [[diodes-mixed-collection]] - 1N5807 Rectifier Diodes (20+)
+### Section A
+
 - [[diodes-mixed-collection]] - 1N4148 Switching Diodes (20+)
+
+### Section B
+
+- [[diodes-mixed-collection]] - 1N5807 Rectifier Diodes (20+)
 
 ## Bin 10 - Schottky Diodes
 
