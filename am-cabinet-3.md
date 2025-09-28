@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 25
-last_updated: 2025-09-06
+populated_bins: 26
+last_updated: 2025-09-19
 categories:
   [
     thermistors,
@@ -344,3 +344,8 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ## Bin 63 - Dual Row Male Headers
 
 - [[dual-row-male-headers-01-various]] - 50+ various lengths
+
+## Bin 64 - Single Row Female Headers (0.1")
+
+- Section A: [[5-pin-single-row-female-headers-01]] - 100
+- Section B: [[3-pin-single-row-female-headers-01]] - 50

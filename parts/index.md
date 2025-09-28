@@ -463,6 +463,9 @@ This folder contains detailed specifications for each individual electronic comp
 - [[specific-01-spacing-headers-collection]]
 - [[various-female-headers-01-spacing]]
 
+- [[3-pin-single-row-female-headers-01]]
+- [[5-pin-single-row-female-headers-01]]
+
 #### Male Headers (Consolidated)
 
 - [[male-headers-consolidated]] - **Complete collection overview with all locations**
