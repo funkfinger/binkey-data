@@ -3,12 +3,12 @@ type: hardware
 category: fasteners
 subcategory: heat-set-inserts
 brand: CNC Kitchen
-part_number: M2.5-M3-heat-set-inserts
-model: Heat Set Inserts - M2.5 & M3 Universal Collection
-description: CNC Kitchen heat-set inserts for 3D printed parts - M2.5 standard and M3 short/standard versions
+part_number: M2.5-M3-M4-heat-set-inserts
+model: Heat Set Inserts - M2.5, M3 & M4 Universal Collection
+description: CNC Kitchen heat-set inserts for 3D printed parts - M2.5 standard, M3 short/standard, and M4 short versions
 manufacturer: CNC Kitchen
 package: 100 pieces each
-size: M2.5 x 4mm, M3 x 3mm, M3 x 5.7mm
+size: M2.5 x 4mm, M3 x 3mm, M3 x 5.7mm, M4 x 4.0mm
 voltage: N/A
 current: N/A
 power: N/A
@@ -18,7 +18,7 @@ compatibility: 3D printed thermoplastics (PLA, ABS, PETG)
 location:
   - cabinet-5
   - bin-40
-quantity: 300 total (100 each type)
+quantity: 400 total (100 each type)
 status: available
 price_range: professional
 datasheet: N/A
@@ -26,6 +26,7 @@ product_url:
   - https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs
   - https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces
   - https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces
+  - https://cnckitchen.store/products/heat-set-insert-m4-x-4-short-version-100-pieces
 tags:
   - heat-set-inserts
   - threaded-inserts
@@ -35,6 +36,7 @@ tags:
   - thermoplastics
   - m2.5
   - m3
+  - m4
   - professional-grade
 date_added: 2025-01-27
 added_date: 2025-01-27
@@ -44,8 +46,8 @@ added_date: 2025-01-27
 
 ## Details
 
-**Location**: [[am-cabinet-5]] - Bin 40 (Sections A, D, F)  
-**Quantity**: 300 total pieces (100 each type)  
+**Location**: [[am-cabinet-5]] - Bin 40 (Sections A, D, E, F)
+**Quantity**: 400 total pieces (100 each type)
 **Status**: Available
 
 ## Description
@@ -84,6 +86,16 @@ Professional-grade heat-set inserts from CNC Kitchen designed specifically for 3
 - **Hole Size**: 4.5mm diameter
 - **Hole Depth**: 6.2mm minimum
 
+### Section E - M4 x 4.0mm Short (100 pieces)
+
+- **Thread Size**: M4 x 0.7mm pitch
+- **Length**: 4.0mm (short version)
+- **Material**: High-quality brass (Lead & Cadmium free)
+- **Knurling**: Double knurling for secure retention
+- **Pilot End**: Allows easy alignment during installation
+- **Hole Size**: 5.0mm diameter
+- **Hole Depth**: 4.5mm minimum
+
 ## Image
 
 _Images to be added - CNC Kitchen heat-set inserts in brass finish_
@@ -101,6 +113,10 @@ _Images to be added - CNC Kitchen heat-set inserts in brass finish_
 ### Section D - M3 x 5.7mm Standard
 
 - **CNC Kitchen Store**: [M3 x 5.7 Heat-Set Insert (100 pieces)](https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces)
+
+### Section E - M4 x 4.0mm Short
+
+- **CNC Kitchen Store**: [M4 x 4.0 Heat-Set Insert (100 pieces)](https://cnckitchen.store/products/heat-set-insert-m4-x-4-short-version-100-pieces)
 
 ## Installation Guide
 
@@ -176,6 +192,7 @@ Based on CNC Kitchen specifications:
 | M2.5 x 4mm  | 3.7mm         | 4.5mm            | 0.45mm       |
 | M3 x 3mm    | 4.5mm         | 3.5mm            | 0.5mm        |
 | M3 x 5.7mm  | 4.5mm         | 6.2mm            | 0.5mm        |
+| M4 x 4.0mm  | 5.0mm         | 4.5mm            | 0.7mm        |
 
 ## Tags
 

@@ -281,6 +281,10 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 - [[cnc-kitchen-heat-set-inserts-universal]] - M3 x 5.7mm standard heat-set inserts (100 pieces)
 
+### Section E
+
+- [[cnc-kitchen-heat-set-inserts-universal]] - M4 x 4.0mm short heat-set inserts (100 pieces)
+
 ### Section F
 
 - [[cnc-kitchen-heat-set-inserts-universal]] - M2.5 x 4mm standard heat-set inserts (100 pieces)
