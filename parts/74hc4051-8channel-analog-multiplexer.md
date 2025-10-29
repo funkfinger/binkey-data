@@ -70,26 +70,26 @@ The 74HC4051 is a CMOS 8-Channel Analog Multiplexer/Demultiplexer that functions
 ```
     74HC4051
     ┌─────────────┐
-Y7  │1          16│ NC
-Y6  │2          15│ Z
-Y5  │3          14│ VCC
-Y4  │4          13│ INH
-Y3  │5          12│ S0
-Y2  │6          11│ S1
-Y1  │7          10│ S2
-GND │8           9│ Y0
+A4  │1          16│ VCC
+A6  │2          15│ A2
+A   │3          14│ A1
+A7  │4          13│ A0
+A5  │5          12│ A3
+E   │6          11│ S0
+VEE │7          10│ S1
+GND │8           9│ S2
     └─────────────┘
 ```
 
 ### Pin Descriptions
 
-- **VCC (Pin 14)**: Positive supply voltage (+2V to +6V)
+- **VCC (Pin 16)**: Positive supply voltage (+2V to +6V)
 - **GND (Pin 8)**: Ground (0V)
-- **Y0-Y7 (Pins 9,7,6,5,4,3,2,1)**: Eight analog input/output channels
-- **Z (Pin 15)**: Common input/output terminal
-- **S0-S2 (Pins 12,11,10)**: 3-bit address inputs for channel selection
-- **INH (Pin 13)**: Inhibit input (active high disables all channels)
-- **NC (Pin 16)**: No connection
+- **VEE (Pin 7)**: Negative supply voltage (typically connected to GND)
+- **A (Pin 3)**: Common input/output terminal (multiplexer output)
+- **A0-A7 (Pins 13,14,15,12,1,2,4,5)**: Eight analog input/output channels
+- **S0-S2 (Pins 11,10,9)**: 3-bit address inputs for channel selection
+- **E (Pin 6)**: Enable/Inhibit input (active low enables multiplexer)
 
 ## Channel Selection
 
@@ -97,19 +97,19 @@ GND │8           9│ Y0
 
 | S2  | S1  | S0  | Selected Channel |
 | --- | --- | --- | ---------------- |
-| 0   | 0   | 0   | Y0 (Pin 9)       |
-| 0   | 0   | 1   | Y1 (Pin 7)       |
-| 0   | 1   | 0   | Y2 (Pin 6)       |
-| 0   | 1   | 1   | Y3 (Pin 5)       |
-| 1   | 0   | 0   | Y4 (Pin 4)       |
-| 1   | 0   | 1   | Y5 (Pin 3)       |
-| 1   | 1   | 0   | Y6 (Pin 2)       |
-| 1   | 1   | 1   | Y7 (Pin 1)       |
+| 0   | 0   | 0   | A0 (Pin 13)      |
+| 0   | 0   | 1   | A1 (Pin 14)      |
+| 0   | 1   | 0   | A2 (Pin 15)      |
+| 0   | 1   | 1   | A3 (Pin 12)      |
+| 1   | 0   | 0   | A4 (Pin 1)       |
+| 1   | 0   | 1   | A5 (Pin 5)       |
+| 1   | 1   | 0   | A6 (Pin 2)       |
+| 1   | 1   | 1   | A7 (Pin 4)       |
 
 ### Enable Control
 
-- **INH = 0 (Low)**: Multiplexer enabled, selected channel connected to Z
-- **INH = 1 (High)**: All channels disabled, Z is in high-impedance state
+- **E = 0 (Low)**: Multiplexer enabled, selected channel connected to A
+- **E = 1 (High)**: All channels disabled, A is in high-impedance state
 
 ## Operation Modes
 
