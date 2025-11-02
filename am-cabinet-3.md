@@ -183,6 +183,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - Section A: [[lm13700n-dual-ota]] - 9
 - Section B: [[tl072cp-dual-jfet-opamp]] - 25, [[tl072ip-dual-jfet-opamp-industrial]] - 8
+- Section C: [[mcp6002-dual-opamp]] - 25
 - Section D: [[mcp6232-e-p-dual-rail-to-rail-opamp]] - 26
 
 ## Bin 33 - Logic ICs and Digital Potentiometers
@@ -225,6 +226,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section B: [[pc817x2nsz9f-optocoupler]] - 49
 - Section C: [[tl074cn-quad-jfet-opamp]] - 16
 - Section D: [[3-pin-dip-opto-isolators-mixed]] - 14
+- Section E: [[dac8552-dual-dac]] - 4
 
 ## Bin 38 - I/O Expander ICs
 

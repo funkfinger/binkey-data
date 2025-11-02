@@ -574,10 +574,15 @@ This folder contains detailed specifications for each individual electronic comp
 - [[lm13700n-dual-ota]]
 - [[lm324n-quad-opamp]]
 - [[lm741-op-amp]]
+- [[mcp6002-dual-opamp]]
 - [[mcp6232-e-p-dual-rail-to-rail-opamp]]
 - [[tl072cp-dual-jfet-opamp]]
 - [[tl072ip-dual-jfet-opamp-industrial]]
 - [[tl074cn-quad-jfet-opamp]]
+
+### Digital-to-Analog Converters
+
+- [[dac8552-dual-dac]]
 
 ### Isolators & Optocouplers
 
