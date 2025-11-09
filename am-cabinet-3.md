@@ -228,6 +228,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section C: [[tl074cn-quad-jfet-opamp]] - 16
 - Section D: [[3-pin-dip-opto-isolators-mixed]] - 14
 - Section E: [[dac8552-dual-dac]] - 4
+- Section F: [[opa2171-dual-opamp]] - 8
 
 ## Bin 38 - I/O Expander ICs
 

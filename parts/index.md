@@ -592,6 +592,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[lm741-op-amp]]
 - [[mcp6002-dual-opamp]]
 - [[mcp6232-e-p-dual-rail-to-rail-opamp]]
+- [[opa2171-dual-opamp]]
 - [[tl072cp-dual-jfet-opamp]]
 - [[tl072ip-dual-jfet-opamp-industrial]]
 - [[tl074cn-quad-jfet-opamp]]
