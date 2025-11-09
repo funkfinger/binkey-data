@@ -367,6 +367,12 @@ This folder contains detailed specifications for each individual electronic comp
 - [[murata-cstce20m0v53-ceramic-resonator]]
 - [[murata-cstcr4m00g53-ceramic-resonator]]
 
+## Interface & Expansion
+
+### I/O Expanders
+
+- [[tca6424a-io-expander]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
