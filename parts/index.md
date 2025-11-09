@@ -348,6 +348,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Microcontrollers
 
+### AVR - ATmega
+
+- [[atmega328pb-microcontroller]]
+
 ### AVR - ATtiny
 
 - [[attiny4313-su-microcontroller]]

@@ -39,6 +39,7 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 - Container K: [[murata-cstce20m0v53-ceramic-resonator]] - 10
 - Container L: [[murata-cstcr4m00g53-ceramic-resonator]] - 10
 - Container M: [[tca6424a-io-expander]] - 10
+- Container N: [[atmega328pb-microcontroller]] - 9
 
 ## Bin 2
 
