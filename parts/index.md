@@ -173,6 +173,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[5mm-led-red]]
 - [[5mm-led-blue]]
 - [[5mm-led-white]]
+- [[wurth-elektronik-3mm-round-led-wl-tmrc]]
 
 ## Special Effect LEDs
 

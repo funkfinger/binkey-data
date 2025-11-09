@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 26
-last_updated: 2025-09-19
+populated_bins: 27
+last_updated: 2025-11-03
 categories:
   [
     thermistors,
@@ -135,11 +135,12 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - [[lm7824t-voltage-regulator]] - LM7824T +24V Voltage Regulators (2)
 - [[ld1117av18-voltage-regulator]] - LD1117AV18 1.8V Voltage Regulators (12)
 
-## Bin 24 - Power Transistors
+## Bin 24 - Power Transistors & Voltage Regulators
 
-- [[power-transistors-collection]] - TIP120 Darlington Transistors (5+)
-- [[power-transistors-collection]] - IRF840PBF Power MOSFETs (5+)
-- [[power-transistors-collection]] - FQPF9N90CT Power MOSFETs (5+)
+- Section A: [[power-transistors-collection]] - TIP120 Darlington Transistors (5+)
+- Section B: [[power-transistors-collection]] - IRF840PBF Power MOSFETs (5+)
+- Section C: [[power-transistors-collection]] - FQPF9N90CT Power MOSFETs (5+)
+- Section D: [[lm317t-voltage-regulator]] - LM317T Adjustable Voltage Regulators (5)
 
 ## Bin 25
 

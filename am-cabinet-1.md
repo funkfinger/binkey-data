@@ -99,10 +99,14 @@ tags: [cabinet, inventory, electronics, components]
 
 - [[rgb-neopixel-led-rings]] - 3
 
-## Bin 15 - Alpha Numeric Displays
+## Bin 15 - Alpha Numeric Displays & 3mm LEDs
 
 - [[14-segment-led-ht16k33-backpack]] - 1
 - [[quad-alphanumeric-display-white]] - 2
+
+### Section B - 3mm Round LEDs
+
+- [[wurth-elektronik-3mm-round-led-wl-tmrc]] - 50 (Green), 50 (Red)
 
 ## Bin 16 - Featherwings
 
