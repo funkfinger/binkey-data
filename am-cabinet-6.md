@@ -27,6 +27,7 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 ## Bin 1 - MOSFETs
 
 - Container A: [[ao3401a-p-channel-mosfet]] - 20+
+- Container B: [[2n7002-n-channel-mosfet]] - 20+
 
 ## Bin 2
 

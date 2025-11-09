@@ -332,6 +332,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 ### MOSFETs
 
+- [[2n7002-n-channel-mosfet]]
 - [[ao3401a-p-channel-mosfet]]
 
 ### Transistors
