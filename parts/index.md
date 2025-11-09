@@ -346,6 +346,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[adafruit-4763-gd25q16-spi-flash]]
 
+## Microcontrollers
+
+### AVR - ATtiny
+
+- [[attiny4313-su-microcontroller]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
