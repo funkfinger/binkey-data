@@ -364,6 +364,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Ceramic Resonators
 
 - [[murata-cstcr6m29g53-ceramic-resonator]]
+- [[murata-cstce20m0v53-ceramic-resonator]]
 
 ### Transistors
 
