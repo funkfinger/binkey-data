@@ -33,6 +33,7 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 - Container E: [[signal-diodes-smt-generic]] - 20+
 - Container F: [[adafruit-4763-gd25q16-spi-flash]] - 5
 - Container G: [[attiny4313-su-microcontroller]] - 10
+- Container H: [[attiny85-microcontroller]] - 10
 
 ## Bin 2
 

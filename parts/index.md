@@ -351,6 +351,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### AVR - ATtiny
 
 - [[attiny4313-su-microcontroller]]
+- [[attiny85-microcontroller]]
 
 ### Transistors
 
