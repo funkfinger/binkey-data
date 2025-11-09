@@ -340,6 +340,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[signal-diodes-smt-generic]]
 
+## Memory & Storage
+
+### Flash Memory - SPI
+
+- [[adafruit-4763-gd25q16-spi-flash]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
