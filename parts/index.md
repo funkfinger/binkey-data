@@ -330,6 +330,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Discrete Semiconductors
 
+### MOSFETs
+
+- [[ao3401a-p-channel-mosfet]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]

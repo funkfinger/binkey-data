@@ -6,13 +6,7 @@ bin_capacity: 24
 total_bins: 24
 populated_bins: 0
 last_updated: 2025-11-09
-categories:
-  [
-    smt-storage,
-    component-containers,
-    parts-organizers,
-    smt-devices,
-  ]
+categories: [smt-storage, component-containers, parts-organizers, smt-devices]
 tags: [cabinet, inventory, electronics, smt, storage, containers]
 ---
 
@@ -30,9 +24,9 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 
 ---
 
-## Bin 1
+## Bin 1 - MOSFETs
 
-- [[empty]]
+- Container A: [[ao3401a-p-channel-mosfet]] - 20+
 
 ## Bin 2
 
@@ -125,4 +119,3 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 ## Bin 24
 
 - [[empty]]
-
