@@ -66,6 +66,10 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[potentiometers-trim-pots]] - 500KΩ Through-hole Pots (10+)
 
+### Section B - 10K Rotary Potentiometers
+
+- [[same-sky-ptn091-10k-rotary-potentiometer]] - 20
+
 ## Bin 9 - Rectifier & Switching Diodes
 
 ### Section A

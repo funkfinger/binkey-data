@@ -311,6 +311,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Potentiometers
 
 - [[potentiometers-trim-pots]]
+- [[same-sky-ptn091-10k-rotary-potentiometer]]
 
 ### Diodes
 
