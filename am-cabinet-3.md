@@ -321,9 +321,15 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[16-pin-idc-ribbon-socket-through-hole-mount]] - 15+
 
-## Bin 56
+## Bin 56 - JST XH Series Headers
 
-- [[empty]]
+### Section A - Vertical Headers
+
+- [[jst-b4b-xh-a-vertical-header-4pin]] - 30
+
+### Section B - Right-Angle Headers
+
+- [[jst-s4b-xh-a-1-right-angle-header-4pin]] - 30
 
 ## Bin 57 - Connection Components
 

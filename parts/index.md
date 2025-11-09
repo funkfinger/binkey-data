@@ -459,6 +459,11 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[wurth-elektronik-wr-phd-dual-socket-header-10pin]]
 
+#### JST XH Series Headers
+
+- [[jst-b4b-xh-a-vertical-header-4pin]]
+- [[jst-s4b-xh-a-1-right-angle-header-4pin]]
+
 #### Female Headers (Consolidated)
 
 - [[female-headers-consolidated]] - **Complete collection overview with all locations**
