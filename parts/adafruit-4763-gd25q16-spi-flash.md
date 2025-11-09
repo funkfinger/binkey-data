@@ -20,7 +20,21 @@ status: available
 price_range: $3.95-5.00 each
 datasheet: https://cdn-shop.adafruit.com/product-files/4763/4763_GD25Q16CTIGR.pdf
 product_url: https://www.adafruit.com/product/4763
-tags: [flash-memory, spi, gd25q16, 2mb, storage, soic-8, circuitpython, arduino, adafruit, cabinet-6, bin-1, status-available]
+tags:
+  [
+    flash-memory,
+    spi,
+    gd25q16,
+    2mb,
+    storage,
+    soic-8,
+    circuitpython,
+    arduino,
+    adafruit,
+    cabinet-6,
+    bin-1,
+    status-available,
+  ]
 date_added: 2025-11-09
 added_date: 2025-11-09
 ---
@@ -77,6 +91,7 @@ The Adafruit 4763 is a GigaDevice GD25Q16C SPI Flash memory chip providing 2 MBy
 ### Pin Configuration
 
 Standard SOIC-8 SPI Flash pinout:
+
 ```
 Pin 1: CS (Chip Select)
 Pin 2: DO (Data Out / MISO)
@@ -87,6 +102,10 @@ Pin 6: CLK (Clock)
 Pin 7: HOLD (Hold)
 Pin 8: VCC (Power Supply +3.3V)
 ```
+
+## Image
+
+![Adafruit 4763 GD25Q16 SPI Flash Chip](../attachments/adafruit-4763-gd25q16-spi-flash.jpg)
 
 ## Applications
 
@@ -115,6 +134,7 @@ Pin 8: VCC (Power Supply +3.3V)
 ### Basic SPI Connection
 
 Connect to microcontroller SPI bus:
+
 - CS to GPIO pin (chip select)
 - DO to MISO (Master In, Slave Out)
 - DI to MOSI (Master Out, Slave In)
@@ -161,4 +181,3 @@ flash-memory, spi, gd25q16, 2mb, storage, soic-8, circuitpython, arduino, adafru
 ## Notes
 
 Excellent SPI Flash memory chips for CircuitPython and Arduino projects. The 2MB capacity is suitable for data logging, configuration storage, and firmware updates. Stock of 5 units provides good supply for multiple projects. These chips are widely used in Adafruit products and are well-documented with excellent library support.
-
