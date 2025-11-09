@@ -24,7 +24,7 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 
 ---
 
-## Bin 1 - MOSFETs, Diodes, Memory, Microcontrollers & Sensors
+## Bin 1 - MOSFETs, Diodes, Memory, Microcontrollers, Sensors & Timing
 
 - Container A: [[ao3401a-p-channel-mosfet]] - 20+
 - Container B: [[2n7002-n-channel-mosfet]] - 20+
@@ -35,6 +35,7 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 - Container G: [[attiny4313-su-microcontroller]] - 10
 - Container H: [[attiny85-microcontroller]] - 10
 - Container I: [[at42qt1010-touch-sensor]] - 20+
+- Container J: [[murata-cstcr6m29g53-ceramic-resonator]] - 10
 
 ## Bin 2
 

@@ -359,6 +359,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[at42qt1010-touch-sensor]]
 
+## Frequency Control & Timing
+
+### Ceramic Resonators
+
+- [[murata-cstcr6m29g53-ceramic-resonator]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
