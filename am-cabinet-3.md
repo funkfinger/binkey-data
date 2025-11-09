@@ -277,9 +277,15 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - [[various-female-headers-01-spacing]] - Various counts
 - [[1mm-spacing-dual-row-female-headers]] - 15
 
-## Bin 47
+## Bin 47 - Connectors & Headers
 
-- [[empty]]
+### Section A - microSD Card Connectors
+
+- [[aces-msdv-2008-microsd-card-connector]] - 9
+
+### Section B - Dual Socket Headers
+
+- [[wurth-elektronik-wr-phd-dual-socket-header-10pin]] - 30
 
 ## Bin 48 - Header Collection
 

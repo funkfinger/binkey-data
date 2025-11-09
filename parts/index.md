@@ -448,7 +448,15 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[california-jos-2-54mm-jumper-caps-30]]
 
+### Card Connectors
+
+- [[aces-msdv-2008-microsd-card-connector]]
+
 ### Header Connectors
+
+#### Socket Headers
+
+- [[wurth-elektronik-wr-phd-dual-socket-header-10pin]]
 
 #### Female Headers (Consolidated)
 
