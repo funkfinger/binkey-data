@@ -336,6 +336,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[ao3401a-p-channel-mosfet]]
 - [[ssm3j328r-p-channel-mosfet]]
 
+### Diodes - Signal/Switching
+
+- [[signal-diodes-smt-generic]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
