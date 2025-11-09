@@ -377,6 +377,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[tca6424a-io-expander]]
 
+## Power Management
+
+### Timers & Controllers
+
+- [[tpl5111-nano-power-timer]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
