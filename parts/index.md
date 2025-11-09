@@ -353,6 +353,12 @@ This folder contains detailed specifications for each individual electronic comp
 - [[attiny4313-su-microcontroller]]
 - [[attiny85-microcontroller]]
 
+## Sensors
+
+### Touch Sensors
+
+- [[at42qt1010-touch-sensor]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
