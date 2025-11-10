@@ -24,13 +24,13 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 
 ---
 
-## Bin 1 - MOSFETs, Diodes, Memory, Microcontrollers, Sensors, Timing & Interface
+## Bin 1 - MOSFETs, Transistors, Memory, Microcontrollers, Sensors, Timing & Interface
 
 - Container A: [[ao3401a-p-channel-mosfet]] - 20+
 - Container B: [[2n7002-n-channel-mosfet]] - 20+
 - Container C: [[ssm3j328r-p-channel-mosfet]] - 20+
-- Container D: [[signal-diodes-smt-generic]] - 20+
-- Container E: [[signal-diodes-smt-generic]] - 20+
+- Container D: [[mmbt3904tt1g-smt-npn-transistor]] - 20+
+- Container E: [[empty]]
 - Container F: [[adafruit-4763-gd25q16-spi-flash]] - 5
 - Container G: [[attiny4313-su-microcontroller]] - 10
 - Container H: [[attiny85-microcontroller]] - 10
@@ -42,9 +42,10 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 - Container N: [[atmega328pb-microcontroller]] - 9
 - Container O: [[tpl5111-nano-power-timer]] - 9
 
-## Bin 2
+## Bin 2 - Signal Diodes
 
-- [[empty]]
+- Container D: [[signal-diodes-smt-generic]] - 20+
+- Container E: [[signal-diodes-smt-generic]] - 20+
 
 ## Bin 3
 
