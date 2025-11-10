@@ -389,6 +389,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[kailh-hot-swappable-socket-cpg151101s11]]
 
+## Switches
+
+### Slide Switches
+
+- [[uxcell-a13070200ux0807-smt-slide-switch]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]

@@ -42,6 +42,7 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 - Container N: [[atmega328pb-microcontroller]] - 9
 - Container O: [[tpl5111-nano-power-timer]] - 9
 - Container P: [[kailh-hot-swappable-socket-cpg151101s11]] - 50
+- Container Q: [[uxcell-a13070200ux0807-smt-slide-switch]] - 20+
 
 ## Bin 2 - Signal Diodes
 
