@@ -395,6 +395,18 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[uxcell-a13070200ux0807-smt-slide-switch]]
 
+## Resistors
+
+### SMT Resistors
+
+- [[smt-resistors-consolidated]]
+- [[smt-resistor-47-ohm]]
+- [[smt-resistor-100-ohm]]
+- [[smt-resistor-470-ohm]]
+- [[smt-resistor-1k-ohm]]
+- [[smt-resistor-10k-ohm]]
+- [[smt-resistor-10.2k-ohm]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]

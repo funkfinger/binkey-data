@@ -44,10 +44,23 @@ Cabinet 6 is an Akro Mills storage cabinet with 24 bins dedicated to organizing 
 - Container P: [[kailh-hot-swappable-socket-cpg151101s11]] - 50
 - Container Q: [[uxcell-a13070200ux0807-smt-slide-switch]] - 20+
 
-## Bin 2 - Signal Diodes
+## Bin 2 - Signal Diodes & SMT Resistors
 
+- Container A: [[empty]]
+- Container B: [[empty]]
+- Container C: [[empty]]
 - Container D: [[signal-diodes-smt-generic]] - 20+
 - Container E: [[signal-diodes-smt-generic]] - 20+
+- Container F: [[smt-resistor-47-ohm]] - 20+
+- Container G: [[smt-resistor-100-ohm]] - 20+
+- Container H: [[smt-resistor-470-ohm]] - 20+
+- Container I: [[smt-resistor-1k-ohm]] - 20+
+- Container J: [[smt-resistor-10k-ohm]] - 20+
+- Container K: [[smt-resistor-10.2k-ohm]] - 20+
+- Container L: [[empty]]
+- Container M: [[empty]]
+- Container N: [[empty]]
+- Container O: [[empty]]
 
 ## Bin 3
 
