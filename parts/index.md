@@ -383,6 +383,12 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[tpl5111-nano-power-timer]]
 
+## Connectors & Sockets
+
+### Mechanical Keyboard Sockets
+
+- [[kailh-hot-swappable-socket-cpg151101s11]]
+
 ### Transistors
 
 - [[transistors-bipolar-bjt]]
