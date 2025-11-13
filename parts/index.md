@@ -570,6 +570,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[single-row-male-headers-01-various]]
 - [[single-row-male-stacking-headers]]
 
+#### Fine-Pitch Male Headers
+
+- [[05mm-pitch-dual-row-male-headers]] - 1.27mm (0.5mm) pitch, 50-pin dual row
+
 #### Specialized Connectors
 
 - [[16-pin-idc-ribbon-socket-through-hole-mount]]
