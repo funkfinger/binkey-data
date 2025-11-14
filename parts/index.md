@@ -505,6 +505,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[8-position-wire-to-board-terminal-strips-0-2-spacing]]
 - [[16-position-screw-terminal-strips-0-2-spacing]]
 - [[various-wire-terminal-blocks]]
+- [[tugermoola-72pcs-screw-terminal-blocks-assortment]] - 5mm pitch, 2-pin/3-pin/4-pin assortment
 
 ### Crimp Connectors
 

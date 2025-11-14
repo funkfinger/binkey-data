@@ -259,10 +259,11 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 ## Bin 36
 
 - [[adhesive-15mm-round-rubber-bumpers]] - 20+
+- [[26mm-round-screw-in-rubber-feet]] - 6
 
 ## Bin 37
 
-- [[26mm-round-screw-in-rubber-feet]] - 6
+- [[tugermoola-72pcs-screw-terminal-blocks-assortment]] - 4-pin blocks (24 units)
 
 ## Bin 38
 
@@ -272,6 +273,7 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 ## Bin 39
 
 - [[various-wire-terminal-blocks]] - Various
+- [[tugermoola-72pcs-screw-terminal-blocks-assortment]] - 2-pin & 3-pin blocks (48 units)
 
 ## Bin 40
 
