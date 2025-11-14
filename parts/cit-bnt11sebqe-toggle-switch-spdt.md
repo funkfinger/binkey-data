@@ -20,9 +20,22 @@ location: [Cabinet-5/Bin-17/Section-A]
 quantity: 10
 status: available
 price_range: $2.00-2.50 each
-datasheet: https://www.digikey.com/en/products/detail/cit-relay-and-switch/BNT11SEBQE/12503398
+datasheet: https://www.digikey.com/en/products/detail/cit-relay-and-witch/BNT11SEBQE/12503398
 product_url: https://www.digikey.com/en/products/detail/cit-relay-and-switch/BNT11SEBQE/12503398
-tags: [switch, toggle, spdt, 3a, 120v, panel-mount, through-hole, digikey, cabinet-5, bin-17, status-available]
+tags:
+  [
+    switch,
+    toggle,
+    spdt,
+    3a,
+    120v,
+    panel-mount,
+    through-hole,
+    digikey,
+    cabinet-5,
+    bin-17,
+    status-available,
+  ]
 date_added: 2025-11-09
 added_date: 2025-11-09
 ---
@@ -69,6 +82,7 @@ The CIT BNT11SEBQE is a panel-mount toggle switch with SPDT (Single Pole Double 
 ### Pin Configuration
 
 SPDT configuration provides:
+
 - **Common (C)**: Center contact
 - **Normally Open (NO)**: Contact 1
 - **Normally Closed (NC)**: Contact 2
@@ -88,6 +102,7 @@ SPDT configuration provides:
 ### Basic On/Off Switch
 
 Connect power supply through the switch:
+
 - Common pin to power source
 - NO pin to load
 - NC pin to alternative load (if needed)
@@ -95,6 +110,7 @@ Connect power supply through the switch:
 ### Changeover Configuration
 
 Use SPDT capability to switch between two circuits:
+
 - Common pin to signal source
 - NO pin to Circuit A
 - NC pin to Circuit B
@@ -116,4 +132,3 @@ switch, toggle, spdt, 3a, 120v, panel-mount, through-hole, digikey, cabinet-5, b
 ## Notes
 
 Reliable toggle switches for general-purpose switching applications. The SPDT configuration provides flexibility for switching between two circuits. Stock of 10 units provides good supply for multiple projects or control systems.
-

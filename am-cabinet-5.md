@@ -142,9 +142,13 @@ Cabinet 5 contains electrical connectors, splicing connectors, and wiring compon
 
 ## Bin 17 - Toggle Switches
 
-### Section A - SPDT Toggle Switches
+### Section A - SPDT Toggle Switches (Lug Hole/Panel Mount)
 
 - [[cit-bnt11sebqe-toggle-switch-spdt]] - 10
+
+### Section B - SPDT Toggle Switches (Through-Hole PCB Mount)
+
+- [[cit-bnt11secqe-toggle-switch-spdt-through-hole]] - 10
 
 ## Bin 18
 

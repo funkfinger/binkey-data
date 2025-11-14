@@ -93,7 +93,8 @@ This folder contains detailed specifications for each individual electronic comp
 - [[white-push-switch-momentary-spdt-led]]
 - [[bcd-mechanical-numeric-selector-switches]]
 - [[mts-103-toggle-switches]]
-- [[cit-bnt11sebqe-toggle-switch-spdt]]
+- [[cit-bnt11sebqe-toggle-switch-spdt]] - Lug hole/panel mount
+- [[cit-bnt11secqe-toggle-switch-spdt-through-hole]] - Through-hole PCB mount
 - [[twidec-mts-123-momentary-switches]]
 - [[taiss-mts-202-dpdt-switches]]
 - [[aceirmc-tactile-pushbutton-switches]]
