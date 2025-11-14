@@ -15,7 +15,7 @@ power: N/A
 interface: [Screw Mount]
 connectivity: [Threaded Insert]
 compatibility: [Electronics Enclosures, Furniture, Equipment, Project Cases]
-location: [Cabinet-5/Bin-37]
+location: [Cabinet-5/Bin-36]
 quantity: 6
 status: available
 price_range: $8-12
@@ -31,7 +31,7 @@ tags:
     furniture-feet,
     threaded-mount,
     cabinet-5,
-    bin-37,
+    bin-36,
     status-available,
   ]
 date_added: 2025-01-23
@@ -42,7 +42,7 @@ added_date: 2025-01-23
 
 ## Details
 
-- **Location**: Cabinet-5, Bin 37
+- **Location**: Cabinet-5, Bin 36
 - **Category**: Hardware & Fasteners
 - **Brand**: Various manufacturers
 - **Model**: 26mm Round Screw-In Rubber Feet
@@ -142,7 +142,7 @@ Important technical considerations and usage tips:
 
 ## Tags
 
-rubber-feet, screw-in, 26mm-round, equipment-feet, vibration-dampening, furniture-feet, threaded-mount #cabinet-5 #bin-37 #status-available
+rubber-feet, screw-in, 26mm-round, equipment-feet, vibration-dampening, furniture-feet, threaded-mount #cabinet-5 #bin-36 #status-available
 
 ## Notes
 
