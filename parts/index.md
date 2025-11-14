@@ -321,6 +321,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Capacitors
 
 - [[capacitors-mixed-collection]]
+- [[10uf-100v-non-polarized-electrolytic-capacitor]] - 100 pieces (10µF/100V non-polarized)
 
 ## Timing Components
 

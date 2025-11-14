@@ -150,6 +150,7 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 ## Bin 20 - Through Hole Capacitors (Large Values)
 
 - [[capacitors-mixed-collection]] - 100µF Through Hole Capacitors (20+)
+- [[10uf-100v-non-polarized-electrolytic-capacitor]] - 100 (10 packs of 10)
 
 ## Bin 21 - Capacitor Kit
 
