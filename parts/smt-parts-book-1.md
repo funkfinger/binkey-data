@@ -62,6 +62,23 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 1-4  | [[smt-resistor-100-ohm-1-percent]] | 100      | 100Ω 1% precision SMT resistors |
 | 5-12 | Empty                              | -        | Available for future components |
 
+### Page 10
+
+| Slot | Component          | Details                |
+| ---- | ------------------ | ---------------------- |
+| 1    | 0Ω Jumper Resistor | Zero ohm jumper/bridge |
+| 2    | 1Ω Resistor        | 1Ω precision resistor  |
+| 3    | 4.7Ω Resistor      | 4.7Ω resistor          |
+| 4    | 10Ω Resistor       | 10Ω resistor           |
+| 5    | 22Ω Resistor       | 22Ω resistor           |
+| 6    | 39Ω Resistor       | 39Ω resistor           |
+| 7    | 47Ω Resistor       | 47Ω resistor           |
+| 8    | 68Ω Resistor       | 68Ω resistor           |
+| 9    | 75Ω Resistor       | 75Ω resistor           |
+| 10   | 100Ω Resistor      | 100Ω resistor          |
+| 11   | 120Ω Resistor      | 120Ω resistor          |
+| 12   | 150Ω Resistor      | 150Ω resistor          |
+
 ## Storage Notes
 
 - Keep sleeves in protective case to prevent damage
