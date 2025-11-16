@@ -175,6 +175,23 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 11   | 4.7nF Cap | 4.7nF capacitor |
 | 12   | 6.8nF Cap | 6.8nF capacitor |
 
+### Page 18
+
+| Slot | Component | Details         |
+| ---- | --------- | --------------- |
+| 1    | 10nF Cap  | 10nF capacitor  |
+| 2    | 15nF Cap  | 15nF capacitor  |
+| 3    | 22nF Cap  | 22nF capacitor  |
+| 4    | 33nF Cap  | 33nF capacitor  |
+| 5    | 47nF Cap  | 47nF capacitor  |
+| 6    | 68nF Cap  | 68nF capacitor  |
+| 7    | 100nF Cap | 100nF capacitor |
+| 8    | 1µF Cap   | 1µF capacitor   |
+| 9    | 1µF Cap   | 1µF capacitor   |
+| 10   | 1µF Cap   | 1µF capacitor   |
+| 11   | 1µF Cap   | 1µF capacitor   |
+| 12   | 1µF Cap   | 1µF capacitor   |
+
 ## Storage Notes
 
 - Keep sleeves in protective case to prevent damage
