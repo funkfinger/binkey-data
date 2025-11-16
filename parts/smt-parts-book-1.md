@@ -55,6 +55,13 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 5    | [[mcp73831t-2aci-ot-li-ion-charger]]       | 20       | Single-cell Li-Ion/LiPo battery charger      |
 | 6-12 | Empty                                      | -        | Available for future components              |
 
+### Page 8
+
+| Slot | Component                    | Quantity | Details                                                                                                                          |
+| ---- | ---------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1-4  | RGB Slow-Changing LED (0807) | 4        | 0807 RGB slow-changing SMT LEDs - [Lighthouse LEDs](https://lighthouseleds.com/0807-rgb-slow-changing-led-smd-ultra-bright.html) |
+| 5-12 | Empty                        | -        | Available for future components                                                                                                  |
+
 ### Page 9
 
 | Slot | Component                          | Quantity | Details                         |
