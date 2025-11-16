@@ -96,6 +96,23 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 11   | 2.2kΩ Resistor | 2.2kΩ resistor |
 | 12   | 3.3kΩ Resistor | 3.3kΩ resistor |
 
+### Page 12
+
+| Slot | Component      | Details        |
+| ---- | -------------- | -------------- |
+| 1    | 3.9kΩ Resistor | 3.9kΩ resistor |
+| 2    | 4.7kΩ Resistor | 4.7kΩ resistor |
+| 3    | 5.6kΩ Resistor | 5.6kΩ resistor |
+| 4    | 6.8kΩ Resistor | 6.8kΩ resistor |
+| 5    | 8.2kΩ Resistor | 8.2kΩ resistor |
+| 6    | 10kΩ Resistor  | 10kΩ resistor  |
+| 7    | 12kΩ Resistor  | 12kΩ resistor  |
+| 8    | 22kΩ Resistor  | 22kΩ resistor  |
+| 9    | 33kΩ Resistor  | 33kΩ resistor  |
+| 10   | 39kΩ Resistor  | 39kΩ resistor  |
+| 11   | 47kΩ Resistor  | 47kΩ resistor  |
+| 12   | 56kΩ Resistor  | 56kΩ resistor  |
+
 ## Storage Notes
 
 - Keep sleeves in protective case to prevent damage
