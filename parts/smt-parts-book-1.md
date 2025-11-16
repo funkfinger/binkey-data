@@ -141,6 +141,23 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 5    | 10MΩ Resistor  | 10MΩ resistor  |
 | 6-12 | Empty          | Available      |
 
+### Page 16
+
+| Slot | Component | Details         |
+| ---- | --------- | --------------- |
+| 1    | 2.2pF Cap | 2.2pF capacitor |
+| 2    | 3.3pF Cap | 3.3pF capacitor |
+| 3    | 4.7pF Cap | 4.7pF capacitor |
+| 4    | 6.8pF Cap | 6.8pF capacitor |
+| 5    | 8pF Cap   | 8pF capacitor   |
+| 6    | 10pF Cap  | 10pF capacitor  |
+| 7    | 12pF Cap  | 12pF capacitor  |
+| 8    | 15pF Cap  | 15pF capacitor  |
+| 9    | 22pF Cap  | 22pF capacitor  |
+| 10   | 33pF Cap  | 33pF capacitor  |
+| 11   | 47pF Cap  | 47pF capacitor  |
+| 12   | 68pF Cap  | 68pF capacitor  |
+
 ## Storage Notes
 
 - Keep sleeves in protective case to prevent damage
