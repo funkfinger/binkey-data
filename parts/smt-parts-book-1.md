@@ -113,6 +113,23 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 11   | 47kΩ Resistor  | 47kΩ resistor  |
 | 12   | 56kΩ Resistor  | 56kΩ resistor  |
 
+### Page 13
+
+| Slot | Component      | Details        |
+| ---- | -------------- | -------------- |
+| 1    | 68kΩ Resistor  | 68kΩ resistor  |
+| 2    | 100kΩ Resistor | 100kΩ resistor |
+| 3    | 120kΩ Resistor | 120kΩ resistor |
+| 4    | 150kΩ Resistor | 150kΩ resistor |
+| 5    | 180kΩ Resistor | 180kΩ resistor |
+| 6    | 220kΩ Resistor | 220kΩ resistor |
+| 7    | 270kΩ Resistor | 270kΩ resistor |
+| 8    | 330kΩ Resistor | 330kΩ resistor |
+| 9    | 390kΩ Resistor | 390kΩ resistor |
+| 10   | 470kΩ Resistor | 470kΩ resistor |
+| 11   | 560kΩ Resistor | 560kΩ resistor |
+| 12   | 680kΩ Resistor | 680kΩ resistor |
+
 ## Storage Notes
 
 - Keep sleeves in protective case to prevent damage
