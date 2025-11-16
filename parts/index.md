@@ -404,6 +404,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[smt-resistors-consolidated]]
 - [[smt-resistor-47-ohm]]
 - [[smt-resistor-100-ohm]]
+- [[smt-resistor-100-ohm-1-percent]]
 - [[smt-resistor-470-ohm]]
 - [[smt-resistor-1k-ohm]]
 - [[smt-resistor-10k-ohm]]
