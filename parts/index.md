@@ -606,6 +606,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 ## Surface Mount Technology (SMT)
 
+### SMT Parts Books
+
+- [[smt-parts-book-1]]
+
 ### SMT Passive Components
 
 - [[smt-components-resistors-capacitors]]
@@ -613,6 +617,13 @@ This folder contains detailed specifications for each individual electronic comp
 ### SMT Optoelectronics
 
 - [[smt-leds]]
+
+### SMT Voltage Regulators & Power Management
+
+- [[zr431lf02ta-adjustable-shunt-regulator]]
+- [[mmbz5240blt1g-10v-zener-diode]]
+- [[mic2860-2pyc6-tr-buck-converter]]
+- [[mcp73831t-2aci-ot-li-ion-charger]]
 
 ## Temperature Sensors
 
