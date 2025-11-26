@@ -14,15 +14,27 @@ current: Low power consumption
 power: Precision analog output
 interface: [SPI Serial Interface, Analog Output]
 connectivity: [SPI, Through-hole compatible]
-compatibility: [Precision measurement, Audio applications, Instrumentation, Control systems]
+compatibility:
+  [Precision measurement, Audio applications, Instrumentation, Control systems]
 location: [Cabinet-3/Bin-37/Section-E]
 quantity: 4
 status: available
 price_range: $3.50-7.00
-datasheet: https://www.ti.com/lit/gpn/dac8552
+datasheet: https://www.ti.com/lit/ds/symlink/dac8552.pdf?ts=1763243567055&ref_url=https%253A%252F%252Fwww.google.com%252F
 product_url: https://www.ti.com/product/DAC8552
 supplier: Texas Instruments
-tags: [dac, 16-bit, dual-channel, spi, precision, texas-instruments, cabinet-3, bin-37, status-available]
+tags:
+  [
+    dac,
+    16-bit,
+    dual-channel,
+    spi,
+    precision,
+    texas-instruments,
+    cabinet-3,
+    bin-37,
+    status-available,
+  ]
 date_added: 2025-11-02
 added_date: 2025-11-02
 ---
@@ -39,7 +51,7 @@ added_date: 2025-11-02
 - **Quantity**: 4
 - **Status**: Available
 - **Price Range**: $3.50-7.00
-- **Datasheet**: [DAC8552 Datasheet](https://www.ti.com/lit/gpn/dac8552)
+- **Datasheet**: [DAC8552 Datasheet](https://www.ti.com/lit/ds/symlink/dac8552.pdf?ts=1763243567055&ref_url=https%253A%252F%252Fwww.google.com%252F)
 - **Product URL**: [TI Product Page](https://www.ti.com/product/DAC8552)
 
 ## Description
@@ -49,6 +61,7 @@ The DAC8552IDGKR is a 16-bit, dual-channel, ultralow glitch voltage output digit
 ## Specifications
 
 ### Electrical Characteristics
+
 - **Resolution**: 16-bit
 - **Channels**: 2 independent channels
 - **Supply Voltage**: 2.7V to 5.5V single supply
@@ -58,13 +71,15 @@ The DAC8552IDGKR is a 16-bit, dual-channel, ultralow glitch voltage output digit
 - **Relative Accuracy**: 4 LSB typical
 - **Operating Temperature**: -40°C to +105°C
 
-### Physical Characteristics  
+### Physical Characteristics
+
 - **Package**: VSSOP (DGK) 8-pin
 - **Dimensions**: 3.0mm x 3.0mm
 - **Pin Pitch**: 0.65mm
 - **Lead Material**: Nickel/Palladium/Gold (NiPdAu)
 
 ### Key Features
+
 - Dual independent 16-bit DAC channels
 - SPI serial interface
 - Ultralow glitch voltage output
@@ -88,20 +103,21 @@ DIN │4          5│ OUTB
 
 ## Pin Descriptions
 
-| Pin | Name | Description |
-|-----|------|-------------|
-| 1   | GND  | Ground |
+| Pin | Name | Description              |
+| --- | ---- | ------------------------ |
+| 1   | GND  | Ground                   |
 | 2   | CS   | Chip Select (active low) |
-| 3   | CLK  | Serial Clock Input |
-| 4   | DIN  | Serial Data Input |
-| 5   | OUTB | Analog Output Channel B |
-| 6   | VREF | Reference Voltage Input |
-| 7   | OUTA | Analog Output Channel A |
-| 8   | VDD  | Positive Power Supply |
+| 3   | CLK  | Serial Clock Input       |
+| 4   | DIN  | Serial Data Input        |
+| 5   | OUTB | Analog Output Channel B  |
+| 6   | VREF | Reference Voltage Input  |
+| 7   | OUTA | Analog Output Channel A  |
+| 8   | VDD  | Positive Power Supply    |
 
 ## Applications
 
 Common use cases for the DAC8552IDGKR:
+
 - Precision measurement systems
 - Audio signal generation
 - Instrumentation and test equipment
@@ -114,6 +130,7 @@ Common use cases for the DAC8552IDGKR:
 ## Technical Notes
 
 Important considerations for the DAC8552IDGKR:
+
 - **Precision**: 16-bit resolution for high-accuracy applications
 - **Ultralow Glitch**: Minimizes transient errors during switching
 - **SPI Interface**: Standard serial protocol for easy microcontroller integration
@@ -125,17 +142,20 @@ Important considerations for the DAC8552IDGKR:
 ## Design Considerations
 
 ### Power Supply
+
 - Single 2.7V to 5.5V supply
 - Bypass capacitors recommended on VDD and VREF
 - Ground plane recommended for low noise
 
 ### SPI Interface
+
 - Standard SPI protocol compatible with most microcontrollers
 - CS must be low during data transfer
 - 16-bit data format per channel
 - Typical clock frequency: up to 30 MHz
 
 ### Output Configuration
+
 - Rail-to-rail output capability
 - Output impedance: ~1kΩ typical
 - May require buffering for low-impedance loads
@@ -149,3 +169,4 @@ dac, 16-bit, dual-channel, spi, precision, texas-instruments #cabinet-3 #bin-37 
 
 Precision dual DAC suitable for audio, instrumentation, and control applications requiring 16-bit resolution and low glitch performance.
 
+**Chip Markings**: TI SA / D82

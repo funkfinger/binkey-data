@@ -14,8 +14,15 @@ current: N/A
 power: N/A
 interface: [T-Slot Sliding, Threaded Fastening]
 connectivity: [Aluminum Profile Assembly, Modular Framing]
-compatibility: [2020 Aluminum Extrusion, Modular Frames, 3D Printer Frames, CNC Machines, Industrial Automation]
-location: [Cabinet-5/Bin-56/Section-A]
+compatibility:
+  [
+    2020 Aluminum Extrusion,
+    Modular Frames,
+    3D Printer Frames,
+    CNC Machines,
+    Industrial Automation,
+  ]
+location: [Cabinet-5/Bin-34/Section-A]
 quantity: 50+
 status: available
 price_range: $10-15
@@ -31,7 +38,7 @@ tags:
     modular-framing,
     aluminum-extrusion,
     cabinet-5,
-    bin-56,
+    bin-34,
     section-a,
     status-available,
   ]
@@ -43,7 +50,7 @@ added_date: 2025-01-23
 
 ## Details
 
-- **Location**: Cabinet-5, Bin 56, Section A
+- **Location**: Cabinet-5, Bin 34, Section A
 - **Category**: Hardware & Fasteners
 - **Brand**: HELIFOUNER
 - **Model**: HELIFOUNER M3 T Nuts for 2020 Series Aluminum Profile
@@ -92,24 +99,28 @@ _Image needed: HELIFOUNER M3 T-slot nuts showing T-shaped profile and M3 threadi
 Common use cases and applications for these components:
 
 ### 3D Printer Construction:
+
 - Frame assembly for RepRap and custom 3D printers
 - Bed mounting and adjustment mechanisms
 - Extruder and hotend mounting systems
 - Enclosure construction
 
 ### CNC Machine Building:
+
 - Machine frame construction
 - Spoilboard mounting systems
 - Tool holder and accessory mounting
 - Enclosure and safety barrier assembly
 
 ### Industrial Automation:
+
 - Conveyor system construction
 - Machine guarding and safety barriers
 - Workstation and fixture assembly
 - Modular equipment mounting
 
 ### General Applications:
+
 - Modular shelving and storage systems
 - Workbench and table construction
 - Display and exhibition frameworks
@@ -148,7 +159,7 @@ Important technical considerations and usage tips:
 
 ## Tags
 
-t-slot-nuts, m3-threading, helifouner, 2020-aluminum-profile, sliding-nuts, modular-framing, aluminum-extrusion #cabinet-5 #bin-56 #section-a #status-available
+t-slot-nuts, m3-threading, helifouner, 2020-aluminum-profile, sliding-nuts, modular-framing, aluminum-extrusion #cabinet-5 #bin-34 #section-a #status-available
 
 ## Notes
 
