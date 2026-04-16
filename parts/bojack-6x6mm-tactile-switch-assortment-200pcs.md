@@ -20,8 +20,8 @@ quantity: 200 (10 values)
 status: available
 price_range: $8-12
 product_url: https://www.amazon.com/dp/B07ZBHXBZ4
-image:  ../attachments/bojack-6x6mm-tactile-switch-assortment-200pcs.jpg
- tags: [bojack, tactile-switch, tact-switch, 6x6mm, assortment, 4-pin, momentary, through-hole, pcb-mount, kit, cabinet-5, bin-24, status-available]
+image: ../attachments/bojack-6x6mm-tactile-switch-assortment-200pcs.jpg
+tags: [bojack, tactile-switch, tact-switch, 6x6mm, assortment, 4-pin, momentary, through-hole, pcb-mount, kit, cabinet-5, bin-24, status-available]
 date_added: 2025-09-12
 added_date: 2025-09-12
 ---
