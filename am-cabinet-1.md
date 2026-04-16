@@ -190,6 +190,7 @@ tags: [cabinet, inventory, electronics, components]
 - [[itsybitsy-nrf52840-express]] - 1
 - [[bbc-microbit]] - 1
 - [[particle-photon-headers]] - 1
+- [[seeed-xiao-ra4m1]] - 2
 
 ## Bin 29 - Feather Boards
 
