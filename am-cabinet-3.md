@@ -5,7 +5,7 @@ cabinet: 3
 bin_capacity: 64
 total_bins: 64
 populated_bins: 27
-last_updated: 2025-11-03
+last_updated: 2026-04-27
 categories:
   [
     thermistors,
@@ -278,6 +278,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - [[various-female-headers-01-spacing]] - Various counts
 - [[1mm-spacing-dual-row-female-headers]] - 15
 
+<<<<<<< HEAD
 ### Section C - Fine-Pitch Male Headers
 
 - [[05mm-pitch-dual-row-male-headers]] - 10
@@ -291,6 +292,11 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ### Section B - Dual Socket Headers
 
 - [[wurth-elektronik-wr-phd-dual-socket-header-10pin]] - 30
+=======
+## Bin 47 - ADC ICs
+
+- [[mcp3208-ci-sl-adc]] - MCP3208-CI/SL 8-Ch 12-Bit SPI ADC (10)
+>>>>>>> bb9b85b (Add MCP3208-CI/SL ADC to Cabinet 3 Bin 47)
 
 ## Bin 48 - Header Collection
 

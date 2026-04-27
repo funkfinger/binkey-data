@@ -659,6 +659,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[24lc08b-p-eeprom]]
 
+### ADC & DAC ICs
+
+- [[mcp3208-ci-sl-adc]]
+
 ### Logic ICs & Counters
 
 - [[cd4017-decade-counter]]
