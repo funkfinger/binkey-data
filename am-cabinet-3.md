@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 27
+populated_bins: 28
 last_updated: 2026-04-27
 categories:
   [
@@ -229,11 +229,12 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section D: [[3-pin-dip-opto-isolators-mixed]] - 14
 - Section E: [[dac8552-dual-dac]] - 4
 - Section F: [[opa2171-dual-opamp]] - 8
+- Section G: [[mcp4921-e-sn-dac]] - MCP4921-E/SN 12-Bit Single-Ch SPI DAC (15)
 
 ## Bin 38 - I/O Expander ICs
 
 - Section A: [[mcp23017-e-sp-io-expander]] - 24
-- Section B: [[mcp23008-e-p-io-expander]] - 14
+- Section B: [[mcp23008-e-p-io-expander]] - 26
 - Section C: [[sn74hc595n-shift-register]] - 52
 
 ## Bin 39 - Display Driver ICs
@@ -253,6 +254,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - Section A: [[sn74hct14n-hex-schmitt-trigger]] - 14 (Digikey sourced)
 - Section B: [[sn74hct14n-hex-schmitt-trigger]] - 27 (non-Digikey sourced)
+- Section C: [[cd40106be-hex-schmitt-trigger-inverter]] - 17
 
 ## Bin 42 - Memory & Display Driver ICs
 
@@ -278,12 +280,11 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - [[various-female-headers-01-spacing]] - Various counts
 - [[1mm-spacing-dual-row-female-headers]] - 15
 
-<<<<<<< HEAD
 ### Section C - Fine-Pitch Male Headers
 
 - [[05mm-pitch-dual-row-male-headers]] - 10
 
-## Bin 47 - Connectors & Headers
+## Bin 47 - ADC & Connectors
 
 ### Section A - microSD Card Connectors
 
@@ -292,19 +293,18 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ### Section B - Dual Socket Headers
 
 - [[wurth-elektronik-wr-phd-dual-socket-header-10pin]] - 30
-=======
-## Bin 47 - ADC ICs
+
+### Section C - ADC ICs
 
 - [[mcp3208-ci-sl-adc]] - MCP3208-CI/SL 8-Ch 12-Bit SPI ADC (10)
->>>>>>> bb9b85b (Add MCP3208-CI/SL ADC to Cabinet 3 Bin 47)
 
 ## Bin 48 - Header Collection
 
 - Section A: [[specific-01-spacing-headers-collection]] - Various counts
 
-## Bin 49
+## Bin 49 - DAC ICs
 
-- [[empty]]
+- [[mcp4921-e-sn-dac]] - MCP4921-E/SN 12-Bit SPI DAC (15)
 
 ## Bin 50
 

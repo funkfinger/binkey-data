@@ -6,20 +6,20 @@ brand: Texas Instruments
 part_number: CD40106BE
 size: DIP-14
 color: Black
-location: [Cabinet-3/Bin-34/Section-A]
-quantity: 9
+location: [Cabinet-3/Bin-41/Section-C]
+quantity: 17
 status: available
 price_range: $0.50-1.00
-tags: [logic-gate, inverter, schmitt-trigger, hex-inverter, cmos, texas-instruments, dip-14, cabinet-3, bin-34, section-a, status-available]
+tags: [logic-gate, inverter, schmitt-trigger, hex-inverter, cmos, texas-instruments, dip-14, cabinet-3, bin-41, section-c, status-available]
 ---
 
 # CD40106BE Hex Schmitt-Trigger Inverter
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 34, Section A
+- **Location**: Cabinet-3, Bin 41, Section C
 - **Category**: Logic Gates
-- **Quantity**: 9
+- **Quantity**: 17
 - **Status**: Available
 - **Package**: 14-pin DIP (Dual In-line Package)
 - **Datasheet**: [CD40106B Datasheet](https://www.ti.com/lit/gpn/cd40106b)
@@ -136,7 +136,7 @@ The Schmitt-trigger inputs provide different switching thresholds:
 
 ## Tags
 
-logic-gate, inverter, schmitt-trigger, hex-inverter, cmos, texas-instruments, dip-14 #cabinet-3 #bin-34 #section-a #status-available
+logic-gate, inverter, schmitt-trigger, hex-inverter, cmos, texas-instruments, dip-14 #cabinet-3 #bin-41 #section-c #status-available
 
 ## Notes
 
@@ -153,3 +153,8 @@ Modern alternatives include:
 - **CD40106B**: Improved version with better specifications
 
 The CD40106BE is particularly valued for its ability to convert slowly changing or noisy analog signals into clean digital outputs, making it essential for signal conditioning applications and robust digital circuit design.
+
+### Acquisition History
+
+- **Initial stock (9 units)**: Earlier acquisition
+- **2026-04-27 (+8 units)**: Picked up at swap meet — total now 17 units

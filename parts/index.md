@@ -662,12 +662,14 @@ This folder contains detailed specifications for each individual electronic comp
 ### ADC & DAC ICs
 
 - [[mcp3208-ci-sl-adc]]
+- [[mcp4921-e-sn-dac]]
 
 ### Logic ICs & Counters
 
 - [[cd4017-decade-counter]]
 - [[cd4026-decade-counter-7segment]]
 - [[cd4040be-12bit-binary-counter]]
+- [[cd40106be-hex-schmitt-trigger-inverter]]
 - [[cd4049-hex-inverting-buffer]]
 - [[cd4050-cmos-hex-buffer]]
 - [[cd4071-quad-or-gate]]
@@ -700,6 +702,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Digital-to-Analog Converters
 
 - [[dac8552-dual-dac]]
+- [[mcp4921-e-sn-dac]]
 
 ### Isolators & Optocouplers
 
