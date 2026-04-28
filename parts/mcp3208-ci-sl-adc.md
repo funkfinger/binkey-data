@@ -15,13 +15,13 @@ power: Low power with shutdown mode
 interface: [SPI]
 connectivity: [Surface-mount pins]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers]
-location: [Cabinet-3/Bin-47]
+location: [Cabinet-3/Bin-37/Section-E]
 quantity: 10
 status: available
 price_range: $3.50-4.50
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/21298E.pdf
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/MCP3208-CI-SL/305929
-tags: [adc, analog-to-digital, spi, 12-bit, 8-channel, microchip, mcp3208, soic, cabinet-3, bin-47, status-available]
+tags: [adc, analog-to-digital, spi, 12-bit, 8-channel, microchip, mcp3208, soic, cabinet-3, bin-37, status-available]
 date_added: 2026-04-27
 added_date: 2026-04-27
 ---
@@ -30,7 +30,7 @@ added_date: 2026-04-27
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 47
+- **Location**: Cabinet-3, Bin 37, Section E
 - **Category**: Integrated Circuits
 - **Brand**: Microchip Technology
 - **Part Number**: MCP3208-CI/SL

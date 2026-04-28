@@ -5,7 +5,7 @@ cabinet: 3
 bin_capacity: 64
 total_bins: 64
 populated_bins: 28
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 categories:
   [
     thermistors,
@@ -227,7 +227,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section B: [[pc817x2nsz9f-optocoupler]] - 49
 - Section C: [[tl074cn-quad-jfet-opamp]] - 16
 - Section D: [[3-pin-dip-opto-isolators-mixed]] - 14
-- Section E: [[dac8552-dual-dac]] - 4
+- Section E: [[dac8552-dual-dac]] - 4, [[mcp3208-ci-sl-adc]] - 10
 - Section F: [[opa2171-dual-opamp]] - 8
 - Section G: [[mcp4921-e-sn-dac]] - MCP4921-E/SN 12-Bit Single-Ch SPI DAC (15)
 
@@ -284,7 +284,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[05mm-pitch-dual-row-male-headers]] - 10
 
-## Bin 47 - ADC & Connectors
+## Bin 47 - Connectors
 
 ### Section A - microSD Card Connectors
 
@@ -293,10 +293,6 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ### Section B - Dual Socket Headers
 
 - [[wurth-elektronik-wr-phd-dual-socket-header-10pin]] - 30
-
-### Section C - ADC ICs
-
-- [[mcp3208-ci-sl-adc]] - MCP3208-CI/SL 8-Ch 12-Bit SPI ADC (10)
 
 ## Bin 48 - Header Collection
 
