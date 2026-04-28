@@ -16,7 +16,7 @@ interface: [I2C]
 connectivity: [Through-hole pins]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers]
 location: [Cabinet-3/Bin-38/Section-B]
-quantity: 14
+quantity: 26
 status: available
 price_range: $1.17-1.54
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf
@@ -34,7 +34,7 @@ date_added: 2025-01-12
 - **Brand**: Microchip Technology
 - **Part Number**: MCP23008-E/P
 - **Package**: 18-PDIP
-- **Quantity**: 14
+- **Quantity**: 26
 - **Status**: Available
 - **Price Range**: $1.17-1.54
 - **Datasheet**: [MCP23008 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf)
@@ -173,4 +173,4 @@ io-expander, interface-ic, i2c, gpio, microchip, mcp23008 #cabinet-3 #bin-38 #st
 
 ## Notes
 
-The MCP23008 is the perfect choice when you need to add a moderate number of GPIO pins (8) to your microcontroller project without using many pins on your main controller. It's particularly useful for smaller projects where the 16-pin MCP23017 would be overkill. The I2C interface makes it easy to integrate, and the ability to chain up to 8 devices means you can potentially add 64 GPIO pins using only two wires from your microcontroller. Having 14 of these ICs provides excellent flexibility for various small to medium-scale I/O expansion needs.
+The MCP23008 is the perfect choice when you need to add a moderate number of GPIO pins (8) to your microcontroller project without using many pins on your main controller. It's particularly useful for smaller projects where the 16-pin MCP23017 would be overkill. The I2C interface makes it easy to integrate, and the ability to chain up to 8 devices means you can potentially add 64 GPIO pins using only two wires from your microcontroller. Having 26 of these ICs provides excellent flexibility for various small to medium-scale I/O expansion needs.
