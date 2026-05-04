@@ -664,6 +664,10 @@ This folder contains detailed specifications for each individual electronic comp
 - [[mcp3208-ci-sl-adc]]
 - [[mcp4921-e-sn-dac]]
 
+### Voltage Reference ICs
+
+- [[ref3040aidbzr-vref]]
+
 ### Logic ICs & Counters
 
 - [[cd4017-decade-counter]]

@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 28
-last_updated: 2026-04-28
+populated_bins: 29
+last_updated: 2026-05-04
 categories:
   [
     thermistors,
@@ -302,9 +302,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[mcp4921-e-sn-dac]] - MCP4921-E/SN 12-Bit SPI DAC (15)
 
-## Bin 50
+## Bin 50 - Voltage Reference ICs
 
-- [[empty]]
+- [[ref3040aidbzr-vref]] - REF3040AIDBZR 4.096V ±0.2% Precision Voltage Reference (10)
 
 ## Bin 51
 
