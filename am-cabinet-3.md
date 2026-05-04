@@ -304,7 +304,12 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 ## Bin 50 - Voltage Reference ICs
 
-- [[ref3040aidbzr-vref]] - REF3040AIDBZR 4.096V ±0.2% Precision Voltage Reference (10)
+- Section A: [[ref3040aidbzr-vref]] - REF3040AIDBZR 4.096V ±0.2% Precision Voltage Reference (10)
+- Section B: [[empty]]
+- Section C: [[empty]]
+- Section D: [[empty]]
+- Section E: [[empty]]
+- Section F: [[empty]]
 
 ## Bin 51
 

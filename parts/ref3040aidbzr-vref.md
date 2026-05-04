@@ -15,7 +15,7 @@ power: Low power
 interface: [Analog]
 connectivity: [Surface-mount pins]
 compatibility: [Microcontrollers, ADCs, DACs, Precision analog circuits]
-location: [Cabinet-3/Bin-50]
+location: [Cabinet-3/Bin-50/Section-A]
 quantity: 10
 status: available
 price_range: $0.35-0.40
@@ -30,7 +30,7 @@ added_date: 2026-05-04
 
 ## Details
 
-- **Location**: Cabinet-3, Bin 50
+- **Location**: Cabinet-3, Bin 50, Section A
 - **Category**: Integrated Circuits — Voltage Reference ICs
 - **Brand**: Texas Instruments
 - **Part Number**: REF3040AIDBZR
