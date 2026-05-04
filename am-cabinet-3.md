@@ -4,7 +4,7 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 29
+populated_bins: 28
 last_updated: 2026-05-04
 categories:
   [
@@ -298,9 +298,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - Section A: [[specific-01-spacing-headers-collection]] - Various counts
 
-## Bin 49 - DAC ICs
+## Bin 49
 
-- [[mcp4921-e-sn-dac]] - MCP4921-E/SN 12-Bit SPI DAC (15)
+- [[empty]]
 
 ## Bin 50 - Voltage Reference ICs
 
