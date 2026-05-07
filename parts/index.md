@@ -581,6 +581,7 @@ This folder contains detailed specifications for each individual electronic comp
 #### Specialized Connectors
 
 - [[16-pin-idc-ribbon-socket-through-hole-mount]]
+- [[10pin-2x5-shrouded-idc-male-header]]
 
 ### IC Sockets
 

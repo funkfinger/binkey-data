@@ -5,7 +5,7 @@ cabinet: 3
 bin_capacity: 64
 total_bins: 64
 populated_bins: 28
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 categories:
   [
     thermistors,
@@ -265,6 +265,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ## Bin 43 - Header Connectors
 
 - Section A: [[mm5450-led-display-driver]] - 5
+- Section B: [[10pin-2x5-shrouded-idc-male-header]] - 10-Pin Shrouded IDC Male Box Header (9)
 
 ## Bin 44 - GPIO Headers
 
