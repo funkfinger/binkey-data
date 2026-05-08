@@ -3,7 +3,7 @@ title: Akro-Mils Cabinet 7
 type: cabinet
 cabinet_number: 7
 total_bins: 44
-populated_bins: 2
+populated_bins: 4
 description: Akro-Mils storage cabinet with 44 bins (32 small, 12 large) for electronic components, connectors, and audio parts
 tags: [cabinet, storage, akro-mils, connectors, audio, eurorack]
 ---
@@ -83,13 +83,18 @@ Cabinet 7 is an Akro-Mils storage cabinet with the same configuration as Cabinet
 
 - [[empty]]
 
-## Bin 15
+## Bin 15 - Encoder Knobs
 
-- [[empty]]
+- Section A: [[tayda-a-6887-black-encoder-knob-d-shaft]] - Black Rotary Encoder Knob D-Shaft 6x4.5mm (10)
+- Section B: [[tayda-a-7022-green-encoder-knob-d-shaft]] - Green Rotary Encoder Knob D-Shaft 6x4.5mm (10)
 
-## Bin 16
+## Bin 16 - Potentiometer Knobs
 
-- [[empty]]
+- Section A: [[tayda-a-5480-black-knob-green-top-15x15mm]] - Black Knob Green Top 15x15mm Split Shaft (10)
+- Section B: [[tayda-a-5118-pink-plastic-knob-pointer]] - Pink Plastic Knob with Pointer (10)
+- Section C: [[tayda-a-5116-orange-plastic-knob-pointer]] - Orange Plastic Knob with Pointer (10)
+- Section D: [[tayda-a-6071-black-knob-white-indicator-16x15mm]] - Black Knob White Indicator 16x15mm (10)
+- Section E: [[tayda-a-5479-black-knob-white-top-15x15mm]] - Black Knob White Top 15x15mm Split Shaft (10)
 
 ## Bin 17
 

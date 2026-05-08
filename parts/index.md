@@ -314,6 +314,7 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[potentiometers-trim-pots]]
 - [[same-sky-ptn091-10k-rotary-potentiometer]]
+- [[tayda-a-6333-100k-linear-pot-14mm-spline]]
 
 ### Diodes
 
@@ -419,6 +420,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Encoders & Input Devices
 
 - [[rotary-encoders-input-devices]]
+- [[tayda-a-6331-rotary-encoder-11mm-20det-switch]]
 
 ### Infrared Devices
 
@@ -774,6 +776,13 @@ This folder contains detailed specifications for each individual electronic comp
 - [[black-knob-white-top-15x15mm-6mm-shaft]]
 - [[wood-ebony-dome-knob-20x17mm-6mm-shaft]]
 - [[black-knurled-aluminum-knob-17x20mm-6mm-shaft]]
+- [[tayda-a-5479-black-knob-white-top-15x15mm]]
+- [[tayda-a-5480-black-knob-green-top-15x15mm]]
+- [[tayda-a-5118-pink-plastic-knob-pointer]]
+- [[tayda-a-5116-orange-plastic-knob-pointer]]
+- [[tayda-a-6071-black-knob-white-indicator-16x15mm]]
+- [[tayda-a-6887-black-encoder-knob-d-shaft]]
+- [[tayda-a-7022-green-encoder-knob-d-shaft]]
 
 ### Machine Screws, Nuts, Washers & Construction Fasteners
 

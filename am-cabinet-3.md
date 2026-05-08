@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 3 - Sensors, Cables, an
 cabinet: 3
 bin_capacity: 64
 total_bins: 64
-populated_bins: 28
-last_updated: 2026-05-05
+populated_bins: 29
+last_updated: 2026-05-07
 categories:
   [
     thermistors,
@@ -52,9 +52,9 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 
 - [[motor-and-jst-cables]] - Stepper Motor 4-Conductor Cables (4+)
 
-## Bin 7
+## Bin 7 - Potentiometers
 
-- [[empty]]
+- [[tayda-a-6333-100k-linear-pot-14mm-spline]] - Rotary 100K OHM Linear Taper 14mm Pot Spline Shaft (10)
 
 ## Bin 8 - JST Cables
 
@@ -186,6 +186,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 - Section B: [[tl072cp-dual-jfet-opamp]] - 25, [[tl072ip-dual-jfet-opamp-industrial]] - 8
 - Section C: [[mcp6002-dual-opamp]] - 25
 - Section D: [[mcp6232-e-p-dual-rail-to-rail-opamp]] - 26
+- Section E: [[tayda-a-6331-rotary-encoder-11mm-20det-switch]] - Rotary Encoder 11mm 20 Detents D-Shaft with Switch (10)
 
 ## Bin 33 - Logic ICs and Digital Potentiometers
 
