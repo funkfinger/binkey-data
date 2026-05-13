@@ -55,12 +55,19 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 5    | [[mcp73831t-2aci-ot-li-ion-charger]]       | 20       | Single-cell Li-Ion/LiPo battery charger      |
 | 6-12 | Empty                                      | -        | Available for future components              |
 
+### Page 6
+
+| Slot | Component                      | Quantity | Details                                      |
+| ---- | ------------------------------ | -------- | -------------------------------------------- |
+| 1-12 | Various Single Color SMT LEDs  | Many     | Assorted single-color SMT LEDs, ~0804 package (yellow, blue, green, and others) |
+
 ### Page 8
 
-| Slot | Component                    | Quantity | Details                                                                                                                          |
-| ---- | ---------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1-4  | RGB Slow-Changing LED (0807) | 4        | 0807 RGB slow-changing SMT LEDs - [Lighthouse LEDs](https://lighthouseleds.com/0807-rgb-slow-changing-led-smd-ultra-bright.html) |
-| 5-12 | Empty                        | -        | Available for future components                                                                                                  |
+| Slot | Component                        | Quantity | Details                                                                                                                          |
+| ---- | -------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1-4  | Slow Color-Changing SMT LED      | ~40      | 0804 slow RGB color-changing SMT LEDs                                                                                            |
+| 5-8  | Warm White Blinking SMT LED      | ~40      | 0804 warm white blinking SMT LEDs                                                                                                |
+| 9-12 | Cool White SMT LED               | ~40      | 0804 cool white SMT LEDs                                                                                                         |
 
 ### Page 9
 
