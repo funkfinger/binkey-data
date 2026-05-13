@@ -613,6 +613,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### SMT Parts Books
 
 - [[smt-parts-book-1]]
+- [[smt-parts-book-2]]
 
 ### SMT Passive Components
 
