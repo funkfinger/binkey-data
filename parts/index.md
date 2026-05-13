@@ -811,6 +811,10 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[ocgig-o-ring-gasket-assortment-various]]
 
+## Component Sets & Kits
+
+- [[component-sets]]
+
 ## Tools & Supplies
 
 ### Lighter Supplies
