@@ -137,8 +137,15 @@
   background-color: var(--highlight);
   border-radius: 4px;
   font-size: 0.78rem;
-  color: var(--darkgray);
+  color: var(--secondary) !important;
   white-space: nowrap;
+  text-decoration: none;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--secondary) 15%, transparent);
+    color: var(--secondary) !important;
+    text-decoration: underline;
+  }
 }
 
 // Quantity

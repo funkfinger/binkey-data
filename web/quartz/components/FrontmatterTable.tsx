@@ -155,9 +155,14 @@ function FrontmatterTable({ fileData }: QuartzComponentProps) {
       const tags: string[] = Array.isArray(raw) ? raw.map(String) : String(raw).split(",").map((t) => t.trim())
       cell = (
         <td class="fm-value fm-tags">
-          {tags.map((tag) => (
-            <span class="fm-tag">{tag}</span>
-          ))}
+          {tags.map((tag) => {
+            const tagSlug = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
+            return (
+              <a href={tagSlug} class="internal fm-tag">
+                {tag}
+              </a>
+            )
+          })}
         </td>
       )
     } else if (field === "quantity") {
