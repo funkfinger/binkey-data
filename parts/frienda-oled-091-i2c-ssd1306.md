@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: OLED Displays
 subcategory: I2C OLED Module
-brand: Frienda
 part_number: B08CDN5PSJ
 size: 0.91 inch
 color: blue
@@ -11,24 +10,15 @@ driver: SSD1306
 interface: I2C
 voltage: 3.3V-5V
 current: 20mA
-location: [Cabinet-1/Bin-21]
+location: Cabinet-1/Bin-21
 quantity: 5
 status: available
-price_range: $12-15
 tags: [oled-display, i2c, ssd1306, blue, 128x32, frienda, arduino, raspberry-pi]
+price: $12-15
+manufacturer: Frienda
 ---
 
 # Frienda 0.91" I2C OLED Display Module
-
-## Details
-
-- **Location**: Cabinet-1, Bin 21
-- **Category**: OLED Displays
-- **Type**: I2C OLED Display Module
-- **Size**: 0.91 inch diagonal
-- **Resolution**: 128x32 pixels
-- **Quantity**: 5
-- **Product URL**: https://www.amazon.com/Pieces-Display-Module-SSD1306-3-3V-5V/dp/B08CDN5PSJ
 
 ## Description
 

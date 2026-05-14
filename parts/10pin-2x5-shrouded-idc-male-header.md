@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: IDC Headers
-brand: Generic
 part_number: 2x5-shrouded-idc-male-header
 model: 10-Pin 2x5 Shrouded IDC Male Box Header
 description: 10-pin (2x5) shrouded male IDC box header, 2.54mm pitch, through-hole, for Eurorack power and ribbon cable connections
@@ -15,31 +14,17 @@ power: N/A
 interface: [IDC, Ribbon Cable]
 connectivity: [Through-hole pins]
 compatibility: [Eurorack power bus, AVR ISP, ribbon cable assemblies, development boards]
-location: [Cabinet-3/Bin-43/Section-B]
+location: Cabinet-3/Bin-43/Section-B
 quantity: 9
 status: available
-price_range: $0.15-0.30
 datasheet: https://www.on-shore.com/wp-content/uploads/2019/02/302-S10X.pdf
 product_url: https://www.digikey.com/en/products/detail/on-shore-technology-inc/302-S101/2178422
 tags: [idc, shrouded, box-header, male, 2x5, 10-pin, eurorack, ribbon-cable, through-hole, cabinet-3, bin-43, status-available]
 date_added: 2026-05-04
-added_date: 2026-05-04
+price: $0.15-0.30
 ---
 
 # 10-Pin 2x5 Shrouded IDC Male Box Header
-
-## Details
-
-- **Location**: Cabinet-3, Bin 43, Section B
-- **Category**: Connectors & Cables — IDC Headers
-- **Brand**: Generic
-- **Part Number**: 2x5-shrouded-idc-male-header
-- **Package**: Through-hole, 4-wall shrouded
-- **Quantity**: 9
-- **Status**: Available
-- **Price Range**: $0.15–0.30
-- **Datasheet**: [On Shore 302-S101 Datasheet](https://www.on-shore.com/wp-content/uploads/2019/02/302-S10X.pdf)
-- **Product URL**: [DigiKey 302-S101](https://www.digikey.com/en/products/detail/on-shore-technology-inc/302-S101/2178422)
 
 ## Description
 

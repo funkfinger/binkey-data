@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Controls
 subcategory: Vintage Toggle Switches
-brand: Various
 part_number: VINTAGE-TOGGLE-MIX
 model: Mixed Vintage Collection
 description: Large variety of vintage toggle switches from various manufacturers and eras
@@ -15,29 +14,17 @@ power: Various
 interface: [SPST, SPDT, DPDT, Various configurations]
 connectivity: [Panel mount, Various terminal types]
 compatibility: [Vintage equipment, Restoration projects, Industrial applications]
-location: [Cabinet-5/Bin-10]
+location: Cabinet-5/Bin-10
 quantity: Large variety
 status: available
-price_range: $50-100
 datasheet: N/A
 product_url: N/A
 tags: [vintage, toggle-switches, military, industrial, restoration, mixed, collection, cabinet-5, bin-10, status-available]
 date_added: 2025-01-14
+price: $50-100
 ---
 
 # Vintage Toggle Switches Collection
-
-## Details
-
-- **Location**: Cabinet-5, Bin 10
-- **Category**: Switches & Controls
-- **Brand**: Various
-- **Part Number**: VINTAGE-TOGGLE-MIX
-- **Model**: Mixed Vintage Collection
-- **Package**: Mixed Collection
-- **Quantity**: Large variety of vintage switches
-- **Status**: Available
-- **Price Range**: $50-100 (estimated collection value)
 
 ## Description
 

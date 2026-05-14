@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2350 Development Board
-brand: Raspberry Pi Foundation
 part_number: 6087
 model: Raspberry Pi Pico 2W
 microcontroller: RP2350
@@ -24,40 +23,15 @@ wifi: true
 bluetooth_le: true
 bluetooth_classic: true
 form_factor: Pico
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 3
 status: available
-price_range: $7
-tags:
-  [
-    microcontroller,
-    rp2350,
-    pico,
-    raspberry-pi,
-    wifi,
-    bluetooth-le,
-    bluetooth-classic,
-    circuitpython,
-    micropython,
-    arduino,
-    dual-architecture,
-    wireless,
-    iot,
-  ]
+tags: [microcontroller, rp2350, pico, raspberry-pi, wifi, bluetooth-le, bluetooth-classic, circuitpython, micropython, arduino, dual-architecture, wireless, iot]
+price: $7
+manufacturer: Raspberry Pi Foundation
 ---
 
 # Raspberry Pi Pico 2W
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2350 Development Board with WiFi & Bluetooth (Pico Form Factor)
-- **Microcontroller**: RP2350 (Dual ARM Cortex-M33 or RISC-V Hazard3 @ 150MHz)
-- **Brand**: Raspberry Pi Foundation
-- **Part Number**: 6087
-- **Quantity**: 3
-- **Product URL**: https://www.adafruit.com/product/6087
 
 ## Description
 

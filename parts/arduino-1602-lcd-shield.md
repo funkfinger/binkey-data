@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: Arduino 1602 LCD Shield
 description: Arduino shield with 16x2 character LCD display and 5-button keypad using single analog pin
 manufacturer: ITEAD Studio
@@ -8,14 +8,14 @@ category: shields
 subcategory: display-shields
 tags: [lcd-shield, 1602, display, keypad, arduino, character-display, blue-backlight]
 quantity: 2
-location: [cabinet-1-bin-42]
-datasheet_url: ftp://imall.iteadstudio.com/IM120417018_Arduino_1602_LCD_Shield/DS_IM120417018_Arduino1602LCDShield.pdf
-purchase_url: http://imall.iteadstudio.com/im120417018.html
+location: Cabinet-1/Bin-42
 price: 15.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/arduino-1602-lcd-shield.jpg
+product_url: http://imall.iteadstudio.com/im120417018.html
+datasheet: ftp://imall.iteadstudio.com/IM120417018_Arduino_1602_LCD_Shield/DS_IM120417018_Arduino1602LCDShield.pdf
 ---
 
 # Arduino 1602 LCD Shield

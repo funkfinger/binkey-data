@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Power Management
 subcategory: DC-DC Converters
-brand: Microchip Technology
 part_number: MIC2860-2PYC6-TR
 description: High-efficiency synchronous step-down DC-DC converter, 6-pin SOT-23
 manufacturer: Microchip Technology
@@ -11,19 +10,14 @@ voltage: 2.5V to 5.5V input
 current: Up to 1.5A continuous output
 power: High efficiency up to 95%
 interface: Synchronous buck converter with integrated MOSFETs
-location: [SMT-Parts-Book-1/Page-5/Slot-4]
+location: SMT-Parts-Book-1/Page-5/Slot-4
 quantity: 20
 status: available
-price_range: $0.75-1.50 each
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/MIC2860-2PYC6-TR/2657509
 tags: [smt, buck-converter, dc-dc-converter, power-management, synchronous, microchip, sot-23, battery-powered]
 date_added: 2025-11-16
-added_date: 2025-11-16
+price: $0.75-1.50 each
 ---
-
-## Details
-
-The MIC2860-2PYC6-TR is a high-efficiency synchronous step-down DC-DC converter from Microchip Technology. It features integrated synchronous MOSFETs for minimal external component count and is ideal for battery-powered applications.
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Microcontrollers
 subcategory: AVR - ATtiny
-brand: Microchip Technology
 part_number: ATTINY85-10SU
 model: ATtiny85
 description: 8-bit AVR RISC microcontroller, 8KB Flash, 512B SRAM, 512B EEPROM, 20MHz, 8-pin SOIC package
@@ -10,33 +9,15 @@ manufacturer: Microchip Technology
 package: SOIC-8
 voltage: 1.8V-5.5V
 current: 5mA (typical active), 20µA (idle)
-location: [Cabinet-6/Bin-1/Container-H]
+location: Cabinet-6/Bin-1/Container-H
 quantity: 10
 status: available
-price_range: $0.90-1.30 each
 datasheet: https://ww1.microchip.com/downloads/en/devicedoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf
 product_url: https://www.microchip.com/en-us/product/attiny85
-tags:
-  [
-    microcontroller,
-    avr,
-    attiny,
-    8-bit,
-    8kb-flash,
-    20mhz,
-    soic-8,
-    microchip,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [microcontroller, avr, attiny, 8-bit, 8kb-flash, 20mhz, soic-8, microchip, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.90-1.30 each
 ---
-
-## Details
-
-The ATtiny85 is a high-performance, low-power 8-bit microcontroller based on the AVR RISC architecture. It's one of the most popular tiny microcontrollers for hobbyist and professional projects due to its small size, low cost, and rich feature set.
 
 ## Description
 

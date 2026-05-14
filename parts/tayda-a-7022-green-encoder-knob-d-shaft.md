@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Knobs & Controls
 subcategory: Encoder Knobs
-brand: Tayda Electronics
 part_number: A-7022
 model: Green Rotary Encoder Knob D Shaft 6x4.5mm
 description: Green soft-touch rubber encoder knob, 15mm dia x 16.1mm, for 6mm D-shaft rotary encoders
@@ -15,30 +14,17 @@ power: N/A
 interface: [Mechanical]
 connectivity: [6mm D-shaft]
 compatibility: [EC11 encoders, 6mm D-shaft rotary encoders, Tayda A-6331]
-location: [Cabinet-7/Bin-15/Section-B]
+location: Cabinet-7/Bin-15/Section-B
 quantity: 10
 status: available
-price_range: $0.40
 datasheet: N/A
 product_url: https://www.taydaelectronics.com/green-rotary-encoder-knob-7022.html
 tags: [knob, encoder-knob, d-shaft, rubber, soft-touch, green, 6mm, eurorack, cabinet-7, bin-15, status-available]
 date_added: 2026-05-07
-added_date: 2026-05-07
+price: $0.40
 ---
 
 # Tayda A-7022 - Green Rotary Encoder Knob, D-Shaft 6x4.5mm
-
-## Details
-
-- **Location**: Cabinet-7, Bin 15, Section B
-- **Category**: Knobs & Controls — Encoder Knobs
-- **Brand**: Tayda Electronics
-- **Part Number**: A-7022
-- **Package**: Push-fit knob
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $0.40
-- **Product URL**: [Tayda A-7022](https://www.taydaelectronics.com/green-rotary-encoder-knob-7022.html)
 
 ## Description
 

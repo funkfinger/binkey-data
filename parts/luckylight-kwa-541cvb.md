@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Alphanumeric Displays
 subcategory: LED Character Display
-brand: Lucky Light
 part_number: KWA-541CVB
 size: 0.54 inch
 color: red
@@ -17,21 +16,12 @@ wavelength: 624nm
 location: [Cabinet-1/Bin-17, Cabinet-1/Bin-18, Cabinet-1/Bin-19]
 quantity: 8
 status: available
-price_range: $3-6
 tags: [led-display, alphanumeric, red, 14-segment, lucky-light, common-cathode]
+price: $3-6
+manufacturer: Lucky Light
 ---
 
 # Lucky Light KWA-541CVB Red Alphanumeric Display
-
-## Details
-
-- **Location**: Cabinet-1, Bin 17 (2 units), Bin 18 (2 units) & Bin 19 (4 units)
-- **Category**: Alphanumeric Displays
-- **Type**: 14-Segment LED Character Display
-- **Color**: Red
-- **Size**: 0.54 inch (13.60mm) character height
-- **Quantity**: 8 total
-- **Product URL**: https://www.luckylight.cn/en/products/led-display/alphanumeric/kwa-541cvb/
 
 ## Description
 

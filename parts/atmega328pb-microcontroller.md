@@ -1,43 +1,22 @@
 ---
-type: electronic-component
+type: ic
 category: Microcontrollers
 subcategory: AVR - ATmega
-brand: Microchip (Atmel)
 part_number: ATMEGA328PB
 model: ATMEGA328PB-AU
 description: 8-bit AVR RISC microcontroller with 32KB Flash, 2KB SRAM, 1KB EEPROM, TQFP-32 package
 manufacturer: Microchip Technology (formerly Atmel)
 package: TQFP-32 (32-pin Thin Quad Flat Pack)
 voltage: 1.8V-5.5V
-location: [Cabinet-6/Bin-1/Container-N]
+location: Cabinet-6/Bin-1/Container-N
 quantity: 9
 status: available
-price_range: $2.00-3.50 each
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf
 product_url: https://www.microchip.com/en-us/product/atmega328pb
-tags:
-  [
-    atmega328pb,
-    avr,
-    microcontroller,
-    8-bit,
-    risc,
-    32kb-flash,
-    tqfp-32,
-    microchip,
-    atmel,
-    smt,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [atmega328pb, avr, microcontroller, 8-bit, risc, 32kb-flash, tqfp-32, microchip, atmel, smt, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $2.00-3.50 each
 ---
-
-## Details
-
-The Microchip ATMEGA328PB is an 8-bit AVR RISC microcontroller featuring 32KB of In-System Programmable Flash memory, 2KB of SRAM, and 1KB of EEPROM. This enhanced version of the popular ATmega328P includes additional features such as a second UART, additional SPI port, and improved analog capabilities. The TQFP-32 surface-mount package makes it ideal for compact embedded applications.
 
 ## Description
 

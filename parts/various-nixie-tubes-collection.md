@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Display
 subcategory: Nixie Tube
-brand: Soviet/Russian
 part_number: Various
 model: Mixed Nixie Tube Collection
 description: Assorted vintage Soviet-era nixie tubes of various sizes and types
@@ -15,29 +14,17 @@ power: Low power consumption per digit
 interface: [High voltage anode/cathode]
 connectivity: [Multi-pin tube bases (9-13 pins typical)]
 compatibility: [Nixie clock circuits, High voltage displays, Vintage electronics]
-location: [Cabinet-4/Bin-20/Section-B]
+location: Cabinet-4/Bin-20/Section-B
 quantity: 12
 status: available
-price_range: $8-25 each (varies by type)
 datasheet: Soviet-era tube specifications
-product_url: 
+product_url:
 tags: [nixie, display, tube, soviet, vintage, mixed-collection, cabinet-4, bin-20, status-available]
 date_added: 2025-01-13
+price: $8-25 each (varies by type)
 ---
 
 # Various Nixie Tubes Collection
-
-## Details
-
-- **Location**: Cabinet-4, Bin 20, Section B
-- **Category**: Display
-- **Brand**: Soviet/Russian
-- **Part Number**: Various
-- **Package**: Glass tubes with multi-pin bases
-- **Quantity**: 12 (mixed types)
-- **Status**: available
-- **Price Range**: $8-25 each (varies by type)
-- **Datasheet**: Soviet-era tube specifications
 
 ## Description
 

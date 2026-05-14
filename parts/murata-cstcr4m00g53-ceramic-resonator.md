@@ -1,41 +1,22 @@
 ---
-type: electronic-component
+type: other
 category: Frequency Control & Timing
 subcategory: Ceramic Resonators
-brand: Murata Electronics
 part_number: CSTCR4M00G53-R0
 model: CSTCR4M00G53
 description: Ceramic resonator 4MHz with built-in 15pF capacitor, SMD package, frequency control and timing applications
 manufacturer: Murata Electronics
 package: SMD
 voltage: 2.5V ±10%
-location: [Cabinet-6/Bin-1/Container-L]
+location: Cabinet-6/Bin-1/Container-L
 quantity: 10
 status: available
-price_range: $0.10-0.20 each
 datasheet: https://www.murata.com/en-eu/products/productdetail?partno=CSTCR4M00G53-R0
 product_url: https://www.digikey.com/en/products/detail/murata-electronics/CSTCR4M00G53-R0/584408
-tags:
-  [
-    ceramic-resonator,
-    frequency-control,
-    timing,
-    4mhz,
-    murata,
-    ceralock,
-    smd,
-    15pf,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [ceramic-resonator, frequency-control, timing, 4mhz, murata, ceralock, smd, 15pf, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.10-0.20 each
 ---
-
-## Details
-
-The Murata CSTCR4M00G53-R0 is a ceramic resonator from the CERALOCK® series designed for frequency control and timing applications. It features a built-in 15pF capacitor, eliminating the need for external load capacitors in many applications. This SMD component is ideal for microcontroller clock circuits and timing applications requiring 4MHz operation.
 
 ## Description
 

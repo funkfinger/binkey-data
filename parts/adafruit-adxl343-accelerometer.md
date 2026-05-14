@@ -6,14 +6,13 @@ manufacturer: Adafruit Industries
 category: sensors
 subcategory: motion-sensors
 quantity: 2
-location: 
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $7.50
+location: Cabinet-3/Bin-28
 datasheet: https://learn.adafruit.com/adxl343-breakout-learning-guide
-purchase_url: https://www.adafruit.com/product/4097
 purchase_date: 2024-12-15
 tags: [accelerometer, motion-sensor, 3-axis, i2c, spi, low-power, tap-detection]
+price: $7.50
+product_url: https://www.adafruit.com/product/4097
+type: module
 ---
 
 # Adafruit ADXL343 Accelerometer

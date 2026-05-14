@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Logic ICs
 subcategory: Oscillators
-brand: National Semiconductor
 part_number: LM3909N
 model: LM3909N
 description: Low voltage LED flasher and oscillator IC capable of operating from single 1.5V battery
@@ -15,30 +14,17 @@ power: Ultra-low power design for long battery life
 interface: [LED Driver, Oscillator]
 connectivity: [Through-hole pins]
 compatibility: [LEDs, Battery circuits, Low voltage applications]
-location: [Cabinet-3/Bin-33/Section-A]
+location: Cabinet-3/Bin-33/Section-A
 quantity: 1
 status: available
-price_range: $5.00-15.00 (vintage/rare component)
 datasheet: https://www.national.com/ds/LM/LM3909.pdf
 product_url: https://www.ti.com/product/LM3909 (discontinued)
 tags: [led-flasher, oscillator, low-voltage, vintage-ic, national-semiconductor, battery-operated, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $5.00-15.00 (vintage/rare component)
 ---
 
 # LM3909N - Low Voltage LED Flasher/Oscillator
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section A
-- **Category**: Logic ICs
-- **Brand**: National Semiconductor (vintage)
-- **Part Number**: LM3909N
-- **Package**: 8-DIP
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $5.00-15.00 (vintage/rare component)
-- **Datasheet**: [LM3909 Datasheet](https://www.national.com/ds/LM/LM3909.pdf)
-- **Product URL**: https://www.ti.com/product/LM3909 (discontinued)
 
 ## Description
 

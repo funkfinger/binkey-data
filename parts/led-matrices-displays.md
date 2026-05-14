@@ -1,32 +1,18 @@
 ---
-type: part
+type: passive
 title: LED Matrices & Display Modules
 description: Collection of LED matrices and display modules including NeoPixel RGB matrices for visual displays, animations, and user interface applications
 manufacturer: Various
 part_number: LED-MATRICES-MIXED
 category: displays
 subcategory: led-matrices
-tags:
-  [
-    led-matrix,
-    neopixel,
-    rgb,
-    ws2812,
-    sk6812,
-    addressable,
-    display,
-    animation,
-    visual,
-    8x8,
-    matrix,
-    adafruit,
-  ]
+tags: [led-matrix, neopixel, rgb, ws2812, sk6812, addressable, display, animation, visual, 8x8, matrix, adafruit]
 total_quantity: 4
-location: [cabinet-2-bin-33]
+location: Cabinet-2/Bin-33
 price: 34.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # LED Matrices & Display Modules

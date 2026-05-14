@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Alphanumeric Displays
 subcategory: LED Character Display
-brand: Yetda
 part_number: S-10012RSK11
 size: 0.5 inch
 color: red
@@ -11,26 +10,17 @@ characters: 1
 interface: parallel
 voltage: 5V
 current: 20mA per segment
-location: [Cabinet-1/Bin-17]
+location: Cabinet-1/Bin-17
 quantity: 8
 status: available
-price_range: $2-5
 tags: [led-display, alphanumeric, red, 14-segment, yetda, strawberry-linux]
+price: $2-5
+manufacturer: Yetda
 ---
 
 # Yetda Red Alphanumeric Display
 
 ![](../attachments/2025-06-21-00-43-19.png)
-
-## Details
-
-- **Location**: Cabinet-1, Bin 17
-- **Category**: Alphanumeric Displays
-- **Type**: 14-Segment LED Character Display
-- **Color**: Red
-- **Size**: 0.5 inch character height
-- **Quantity**: 8
-- **Datasheet**: https://strawberry-linux.com/pub/yetda%20red%20alphanumeric%20S-10012RSK11.pdf
 
 ## Description
 

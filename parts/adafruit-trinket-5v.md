@@ -1,31 +1,21 @@
 ---
-type: part
+type: ic
 title: Adafruit Trinket - Mini Microcontroller - 5V Logic
 description: Tiny microcontroller board based on ATtiny85 with USB bootloader and 5V logic level
 manufacturer: Adafruit
 part_number: 1501
 category: microcontrollers
 subcategory: trinket-boards
-tags:
-  [
-    trinket,
-    attiny85,
-    microcontroller,
-    mini,
-    usb,
-    5v,
-    arduino-compatible,
-    deprecated,
-  ]
+tags: [trinket, attiny85, microcontroller, mini, usb, 5v, arduino-compatible, deprecated]
 quantity: 2
-location: [cabinet-1-bin-41]
-datasheet_url: https://learn.adafruit.com/introducing-trinket/downloads
-purchase_url: https://www.adafruit.com/product/1501
+location: Cabinet-1/Bin-41
 price: 6.95
 currency: USD
 date_added: 2025-01-09
-status: deprecated
+status: out-of-stock
 image: attachments/adafruit-trinket-5v.jpg
+product_url: https://www.adafruit.com/product/1501
+datasheet: https://learn.adafruit.com/introducing-trinket/downloads
 ---
 
 # Adafruit Trinket - Mini Microcontroller - 5V Logic

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Decoders/Drivers
-brand: Texas Instruments
 part_number: CD4511
 model: CD4511
 description: CMOS BCD to 7-segment latch/decoder/driver IC
@@ -15,42 +14,17 @@ power: Low power consumption
 interface: [Digital Logic, BCD Input, 7-Segment Output]
 connectivity: [Through-hole pins]
 compatibility: [CMOS Logic, Common-cathode 7-segment displays]
-location: [Cabinet-3/Bin-35/Section-A]
+location: Cabinet-3/Bin-35/Section-A
 quantity: 40
 status: available
-price_range: $0.50-1.50
 datasheet: https://www.ti.com/lit/ds/symlink/cd4511b.pdf
 product_url: https://www.ti.com/product/CD4511B
-tags:
-  [
-    logic-ic,
-    decoder,
-    driver,
-    bcd-decoder,
-    7-segment,
-    cmos,
-    texas-instruments,
-    cabinet-3,
-    bin-35,
-    status-available,
-  ]
+tags: [logic-ic, decoder, driver, bcd-decoder, 7-segment, cmos, texas-instruments, cabinet-3, bin-35, status-available]
 date_added: 2025-01-12
+price: $0.50-1.50
 ---
 
 # CD4511 - BCD to 7-Segment Decoder/Driver
-
-## Details
-
-- **Location**: Cabinet-3, Bin 35, Section A
-- **Category**: Logic ICs
-- **Brand**: Texas Instruments
-- **Part Number**: CD4511
-- **Package**: 16-DIP
-- **Quantity**: 40
-- **Status**: Available
-- **Price Range**: $0.50-1.50
-- **Datasheet**: [CD4511B Datasheet](https://www.ti.com/lit/ds/symlink/cd4511b.pdf)
-- **Product URL**: https://www.ti.com/product/CD4511B
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: ESP8266 Development Board
-brand: Adafruit
 part_number: 2471
 model: HUZZAH ESP8266 Breakout
 microcontroller: ESP8266
@@ -21,25 +20,15 @@ dimensions: 25.4mm x 50.8mm
 weight: 8g
 wifi: true
 form_factor: Breakout Board
-location: [Cabinet-1/Bin-30]
+location: Cabinet-1/Bin-30
 quantity: 4
 status: available
-price_range: $9-10
 tags: [microcontroller, esp8266, huzzah, wifi, breakout, adafruit, arduino, nodemcu, lua, iot]
+price: $9-10
+manufacturer: Adafruit
 ---
 
 # Adafruit HUZZAH ESP8266 Breakout
-
-## Details
-
-- **Location**: Cabinet-1, Bin 30
-- **Category**: Microcontroller Boards
-- **Type**: ESP8266 Development Board (Breakout Board)
-- **Microcontroller**: ESP8266 (Xtensa LX106 @ 80MHz)
-- **Brand**: Adafruit
-- **Part Number**: 2471
-- **Quantity**: 4
-- **Product URL**: https://www.adafruit.com/product/2471
 
 ## Description
 

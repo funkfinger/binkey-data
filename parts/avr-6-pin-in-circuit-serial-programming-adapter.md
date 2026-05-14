@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: AVR 6 Pin In-Circuit Serial Programming Adapter
 description: Breadboard-friendly breakout adapter for 6-pin AVR ISP/ICSP programming with 2x3 IDC header and breadboard pins
 manufacturer: Generic
@@ -8,13 +8,13 @@ category: programming-tools
 subcategory: programming-adapters
 tags: [avr, icsp, isp, programming, adapter, breadboard, arduino, atmega, attiny, 6-pin, debugging]
 quantity: 1
-location: [cabinet-1-bin-37]
-datasheet_url: https://learn.adafruit.com/program-an-avr-or-arduino-using-raspberry-pi-gpio-pins
-purchase_url: https://www.adafruit.com/product/1465
+location: Cabinet-1/Bin-37
 price: 0.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/1465
+datasheet: https://learn.adafruit.com/program-an-avr-or-arduino-using-raspberry-pi-gpio-pins
 ---
 
 # AVR 6 Pin In-Circuit Serial Programming Adapter

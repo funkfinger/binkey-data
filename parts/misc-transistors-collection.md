@@ -1,27 +1,19 @@
 ---
-type: electronic-component
+type: other
 category: Semiconductors
 subcategory: Transistors
 description: Collection of miscellaneous transistors for various electronic applications
 functions: [amplification, switching, signal-processing]
 transistor_types: [bjt, mosfet, jfet, darlington]
 packages: [TO-92, TO-220, SOT-23, TO-3, surface-mount]
-location: [Cabinet-3/Bin-21]
+location: Cabinet-3/Bin-21
 quantity: 50+
 status: available
-price_range: $0.10-5.00
 tags: [transistors, bjt, mosfet, amplifier, switching, npn, pnp, n-channel, p-channel]
+price: $0.10-5.00
 ---
 
 # Miscellaneous Transistors Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bin 21
-- **Category**: Semiconductors
-- **Type**: Mixed transistor collection
-- **Total Quantity**: 50+ transistors
-- **Applications**: Amplification, switching, signal processing, power control
 
 ## Description
 

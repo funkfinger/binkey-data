@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Electrical Connectors
 subcategory: Splicing Connectors
-brand: WAGO
 part_number: 221-412
 model: 221-412
 description: 2-Conductor Compact Splicing Connectors with lever operation for tool-free wire connections
@@ -15,29 +14,17 @@ power: 4000W
 interface: [Lever-operated, Tool-free]
 connectivity: [Wire-to-wire splicing]
 compatibility: [12-24 AWG solid and stranded wire]
-location: [Cabinet-5/Bin-1]
+location: Cabinet-5/Bin-1
 quantity: 30
 status: available
-price_range: $28-30
 datasheet: https://www.wago.com/us/wire-splicing-connectors/compact-splicing-connector/p/221-412
 product_url: https://a.co/d/2Be7dj3
 tags: [wago, lever-nuts, splicing-connectors, electrical-connectors, wire-nuts, tool-free, cabinet-5, bin-1, status-available]
 date_added: 2025-01-14
+price: $28-30
 ---
 
 # WAGO 221-412 2-Conductor Compact Splicing Connectors
-
-## Details
-
-- **Location**: Cabinet-5, Bin 1
-- **Category**: Electrical Connectors
-- **Brand**: WAGO
-- **Part Number**: 221-412
-- **Package**: Compact Lever-Nut
-- **Quantity**: 30
-- **Status**: Available
-- **Price Range**: $28-30 (pack of 100)
-- **Product URL**: https://a.co/d/2Be7dj3
 
 ## Description
 

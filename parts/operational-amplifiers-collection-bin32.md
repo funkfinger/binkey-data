@@ -6,12 +6,10 @@ manufacturer: Various (Microchip, Texas Instruments, Analog Devices)
 category: components
 subcategory: analog-ics
 quantity: 15+
-location: 
-  - Cabinet-3
-  - Bin-32
-cost_per_unit: $3.50
+location: Cabinet-3/Bin-32
 purchase_date: 2024-12-15
 tags: [op-amp, operational-amplifier, analog, precision, audio, instrumentation]
+price: $3.50
 ---
 
 # Operational Amplifiers Collection - Bin 32

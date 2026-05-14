@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: Various
 model: Single Row Male Stacking Headers
 description: Single Row Male Stacking Headers for PCB Connections
@@ -15,40 +14,17 @@ power: Variable
 interface: [Through-hole, Stacking]
 connectivity: [PCB, Breadboard, Shields, Modules]
 compatibility: [Arduino, Raspberry Pi, Development boards, Shields]
-location: [Cabinet-3/Bin-45/Section-B]
+location: Cabinet-3/Bin-45/Section-B
 quantity: 30+
 status: available
-price_range: $0.10-0.50 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic component)
-tags:
-  [
-    headers,
-    connectors,
-    stacking,
-    male,
-    single-row,
-    pcb,
-    arduino,
-    cabinet-3,
-    bin-45,
-    status-available,
-  ]
+tags: [headers, connectors, stacking, male, single-row, pcb, arduino, cabinet-3, bin-45, status-available]
 date_added: 2025-01-13
+price: $0.10-0.50 per piece
 ---
 
 # Single Row Male Stacking Headers
-
-## Details
-
-- **Location**: Cabinet-3, Bin 45, Section B
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: Single Row Male Stacking Headers
-- **Package**: Through-hole
-- **Quantity**: 30+
-- **Status**: Available
-- **Pitch**: 0.1" (2.54mm) standard
-- **Gender**: Male (pins)
 
 ## Description
 

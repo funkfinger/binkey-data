@@ -1,5 +1,5 @@
 ---
-type: electronic-component
+type: ic
 category: Power Management
 subcategory: Voltage Regulators
 brands: [Texas-Instruments, STMicroelectronics]
@@ -7,22 +7,14 @@ description: Collection of linear and switching voltage regulators from TI and S
 functions: [voltage-regulation, power-conversion, power-supply]
 regulator_types: [linear, switching, adjustable, fixed]
 packages: [TO-220, TO-92, SOT-223, DPAK, SOIC]
-location: [Cabinet-3/Bin-23]
+location: Cabinet-3/Bin-23
 quantity: 25+
 status: available
-price_range: $0.50-10.00
 tags: [voltage-regulator, lm7805, lm317, l7805, ld1117, lm2596, power-supply, linear, switching]
+price: $0.50-10.00
 ---
 
 # Voltage Regulators Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bin 23
-- **Category**: Power Management
-- **Brands**: Texas Instruments, STMicroelectronics
-- **Total Quantity**: 25+ regulators
-- **Applications**: Power supply design, voltage conversion, circuit protection
 
 ## Description
 

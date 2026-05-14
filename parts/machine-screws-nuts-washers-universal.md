@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Fasteners
 subcategory: Machine Screws & Hardware
-brand: Various
 part_number: UNIVERSAL
 model: Machine Screws, Nuts, Washers & Construction Fasteners - Universal Inventory
 description: Comprehensive inventory of machine screws, nuts, washers, wood screws, and construction fasteners across multiple bins and thread sizes
@@ -12,34 +11,17 @@ size: M2.5, M3, M4, and computer hardware sizes
 voltage: N/A
 current: N/A
 power: N/A
-interface:
-  [Hex Socket Drive, Phillips Drive, Threaded Fastening, Load Distribution]
+interface: [Hex Socket Drive, Phillips Drive, Threaded Fastening, Load Distribution]
 connectivity: [Threaded Fastening, Component Assembly, Load Distribution]
-compatibility:
-  [Electronics, Mechanical Assembly, Computer Hardware, General Purpose]
-location: [Cabinet-5/Multiple-Bins]
+compatibility: [Electronics, Mechanical Assembly, Computer Hardware, General Purpose]
+location: Cabinet-5/Multiple-Bins
 quantity: Various quantities across multiple locations
 status: available
-price_range: $3-30
 datasheet: N/A
 product_url: Various
-tags:
-  [
-    machine-screws,
-    hex-head-screws,
-    nuts,
-    washers,
-    standoffs,
-    wood-screws,
-    construction-fasteners,
-    metric-hardware,
-    computer-hardware,
-    universal-inventory,
-    cabinet-5,
-    status-available,
-  ]
+tags: [machine-screws, hex-head-screws, nuts, washers, standoffs, wood-screws, construction-fasteners, metric-hardware, computer-hardware, universal-inventory, cabinet-5, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $3-30
 ---
 
 # Machine Screws, Nuts, Washers & Construction Fasteners - Universal Inventory

@@ -3,15 +3,13 @@ title: LM317T Adjustable Positive Linear Voltage Regulator
 description: Texas Instruments LM317T adjustable positive linear voltage regulator in TO-220 package
 manufacturer: Texas Instruments
 part_number: LM317T
-datasheet_url: https://www.ti.com/lit/ds/symlink/lm317.pdf
 supplier: Digikey
 supplier_part_number: LM317T/NOPB-ND
-supplier_url: https://www.digikey.com/en/products/detail/texas-instruments/LM317T-NOPB/363396
 quantity: 5
-location: 
-  - cabinet: 3
-  - bin: 24
-  - section: D
+location:
+- "{'cabinet': 3}"
+- "{'bin': 24}"
+- "{'section': 'D'}"
 package: TO-220
 voltage_output_min: 1.25V
 voltage_output_max: 37V
@@ -25,6 +23,8 @@ operating_temp_max: 125°C
 tags: [voltage-regulator, adjustable-regulator, linear-regulator, positive-voltage, to-220, texas-instruments, lm317]
 categories: [power-management, voltage-regulators, adjustable-regulators]
 date_added: 2025-11-03
+product_url: https://www.digikey.com/en/products/detail/texas-instruments/LM317T-NOPB/363396
+datasheet: https://www.ti.com/lit/ds/symlink/lm317.pdf
 ---
 
 # LM317T Adjustable Positive Linear Voltage Regulator

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: kit
 category: Enclosures
 subcategory: Acrylic Enclosure Kit
-brand: Adafruit
 part_number: 4238
 model: PyGamer Acrylic Enclosure Kit
 description: Laser-cut acrylic enclosure kit for Adafruit PyGamer handheld gaming console
@@ -15,29 +14,17 @@ power: N/A
 interface: [Mechanical Assembly]
 connectivity: [M3 Screws]
 compatibility: [Adafruit PyGamer]
-location: [Cabinet-4/Bin-9]
+location: Cabinet-4/Bin-9
 quantity: 2
 status: available
-price_range: $12.50
-datasheet: 
+datasheet:
 product_url: https://www.adafruit.com/product/4238
 tags: [enclosure, acrylic, pygamer, laser-cut, protection, gaming, cabinet-4, bin-9, status-available]
 date_added: 2025-01-13
+price: $12.50
 ---
 
 # Adafruit PyGamer Acrylic Enclosure Kit
-
-## Details
-
-- **Location**: Cabinet 4, Bin 9
-- **Category**: Enclosures
-- **Brand**: Adafruit
-- **Part Number**: 4238
-- **Package**: Acrylic Kit
-- **Quantity**: 2
-- **Status**: Available
-- **Price Range**: $12.50
-- **Product URL**: https://www.adafruit.com/product/4238
 
 ## Description
 

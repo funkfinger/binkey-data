@@ -1,32 +1,19 @@
 ---
-type: part
+type: other
 title: Adafruit EdgeBadge - TensorFlow Lite for Microcontrollers
 description: Machine learning development board with SAMD51 processor, PDM microphone, 1.8" TFT display, and TensorFlow Lite support
 manufacturer: Adafruit
 part_number: 4400
 category: development-boards
 subcategory: machine-learning-boards
-tags:
-  [
-    edgebadge,
-    machine-learning,
-    tensorflow-lite,
-    samd51,
-    microphone,
-    pdm,
-    tft,
-    display,
-    ml,
-    ai,
-    voice-recognition,
-  ]
+tags: [edgebadge, machine-learning, tensorflow-lite, samd51, microphone, pdm, tft, display, ml, ai, voice-recognition]
 quantity: 1
-location: [cabinet-1-bin-36]
-purchase_url: https://www.adafruit.com/product/4400
+location: Cabinet-1/Bin-36
 price: 35.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4400
 ---
 
 # Adafruit EdgeBadge - TensorFlow Lite for Microcontrollers

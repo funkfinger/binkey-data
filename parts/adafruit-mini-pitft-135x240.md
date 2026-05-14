@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: TFT Displays
 subcategory: Color TFT Module
-brand: Adafruit
 part_number: 4393
 size: 1.14 inch
 color: full-color
@@ -11,23 +10,15 @@ driver: ST7789
 interface: SPI
 voltage: 3.3V-5V
 current: 50mA
-location: [Cabinet-1/Bin-21]
+location: Cabinet-1/Bin-21
 quantity: 1
 status: available
-price_range: $9-10
 tags: [tft-display, spi, st7789, color, raspberry-pi, adafruit, pitft, stemma-qt]
+price: $9-10
+manufacturer: Adafruit
 ---
 
 # Adafruit Mini PiTFT - 135x240 Color TFT Add-on for Raspberry Pi
-
-## Details
-- **Location**: Cabinet-1, Bin 21
-- **Category**: TFT Displays
-- **Type**: Color TFT Display Module
-- **Size**: 1.14 inch diagonal
-- **Resolution**: 135x240 pixels
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/4393
 
 ## Description
 Adafruit Mini PiTFT is a compact full-color TFT display designed specifically for Raspberry Pi computers. Features a 240x135 pixel IPS display with excellent visibility at all angles, two tactile buttons, and a STEMMA QT connector for easy sensor integration.

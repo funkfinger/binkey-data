@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: Various
 model: 1mm Spacing Dual Row Female Headers
 description: Fine Pitch 1mm Spacing Dual Row Female Headers for High-Density Connections
@@ -14,44 +13,18 @@ current: 1A per pin (typical)
 power: Variable
 interface: [Through-hole, SMT, Fine-pitch]
 connectivity: [PCB, High-density modules, Fine-pitch cables]
-compatibility:
-  [Fine-pitch male headers, Ribbon cables, High-density applications]
-location: [Cabinet-3/Bin-46/Section-B]
+compatibility: [Fine-pitch male headers, Ribbon cables, High-density applications]
+location: Cabinet-3/Bin-46/Section-B
 quantity: 15
 status: available
-price_range: $0.50-3.00 per piece
 datasheet: Generic fine-pitch connector specifications
 product_url: N/A (generic component)
-tags:
-  [
-    headers,
-    connectors,
-    female,
-    dual-row,
-    1mm-spacing,
-    fine-pitch,
-    high-density,
-    pcb,
-    cabinet-3,
-    bin-46,
-    status-available,
-  ]
+tags: [headers, connectors, female, dual-row, 1mm-spacing, fine-pitch, high-density, pcb, cabinet-3, bin-46, status-available]
 date_added: 2025-01-13
+price: $0.50-3.00 per piece
 ---
 
 # 1mm Spacing Dual Row Female Headers
-
-## Details
-
-- **Location**: Cabinet-3, Bin 48, Section B
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: 1mm Spacing Dual Row Female Headers
-- **Package**: Through-hole/SMT
-- **Quantity**: 15
-- **Status**: Available
-- **Pitch**: 1.0mm fine spacing
-- **Gender**: Female (sockets)
-- **Configuration**: Dual row
 
 ## Description
 

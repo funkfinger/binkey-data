@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: Circuit Playground TFT Gizmo - Bolt-on Display + Audio Amplifier
 description: 1.54" 240x240 IPS TFT display with audio amplifier and STEMMA connectors that bolts onto Circuit Playground boards
 manufacturer: Adafruit
@@ -8,14 +8,14 @@ category: accessories
 subcategory: display-accessories
 tags: [tft-gizmo, circuit-playground, display, tft, audio-amplifier, stemma, ips-display]
 quantity: 1
-location: [cabinet-1-bin-44]
-datasheet_url: https://learn.adafruit.com/adafruit-tft-gizmo
-purchase_url: https://www.adafruit.com/product/4367
+location: Cabinet-1/Bin-44
 price: 19.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/circuit-playground-tft-gizmo.jpg
+product_url: https://www.adafruit.com/product/4367
+datasheet: https://learn.adafruit.com/adafruit-tft-gizmo
 ---
 
 # Circuit Playground TFT Gizmo - Bolt-on Display + Audio Amplifier

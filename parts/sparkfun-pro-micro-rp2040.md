@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2040 Development Board
-brand: SparkFun
 part_number: DEV-18288
 model: Pro Micro - RP2040
 microcontroller: RP2040
@@ -22,25 +21,15 @@ weight: 4.5g
 usb_native: true
 qwiic: true
 form_factor: Pro Micro Compatible
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 3
 status: available
-price_range: $11-12
 tags: [microcontroller, rp2040, pro-micro, qwiic, usb-c, sparkfun, circuitpython, micropython, ws2812]
+price: $11-12
+manufacturer: SparkFun
 ---
 
 # SparkFun Pro Micro - RP2040
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2040 Development Board (Pro Micro Compatible)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 133MHz)
-- **Brand**: SparkFun
-- **Part Number**: DEV-18288
-- **Quantity**: 3
-- **Product URL**: https://www.sparkfun.com/sparkfun-pro-micro-rp2040.html
 
 ## Description
 

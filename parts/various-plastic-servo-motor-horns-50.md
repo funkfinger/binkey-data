@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Mechanical Components
 subcategory: Servo Accessories
-brand: Various
 part_number: N/A
 model: Various Plastic Servo Motor Horns
 description: Assorted collection of plastic servo horns in different configurations for RC servos
@@ -15,42 +14,17 @@ power: N/A
 interface: [Servo Spline Mount]
 connectivity: [Mechanical Linkage]
 compatibility: [Standard RC Servos, 24T/25T Splines, Robotics Applications]
-location: [Cabinet-5/Bin-44]
+location: Cabinet-5/Bin-44
 quantity: 50+
 status: available
-price_range: $15-25
 datasheet: N/A
 product_url: N/A
-tags:
-  [
-    servo-horns,
-    plastic-horns,
-    rc-servos,
-    servo-accessories,
-    mechanical-linkage,
-    robotics,
-    control-surfaces,
-    various-types,
-    cabinet-5,
-    bin-44,
-    status-available,
-  ]
+tags: [servo-horns, plastic-horns, rc-servos, servo-accessories, mechanical-linkage, robotics, control-surfaces, various-types, cabinet-5, bin-44, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $15-25
 ---
 
 # Various Plastic Servo Motor Horns
-
-## Details
-
-- **Location**: Cabinet-5, Bin 44
-- **Category**: Mechanical Components
-- **Brand**: Various manufacturers
-- **Model**: Various Plastic Servo Motor Horns
-- **Package**: Individual pieces
-- **Quantity**: 50+ pieces
-- **Status**: Available
-- **Price Range**: $15-25
 
 ## Description
 

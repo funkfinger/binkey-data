@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Knobs & Controls
 subcategory: Potentiometer Knobs
-brand: Tayda Electronics
 part_number: A-5116
 model: Orange Plastic Knob with Pointer
 description: Orange plastic chickenhead-style pointer knob, ~16mm dia x ~15mm H, for 6mm split-shaft potentiometers
@@ -15,30 +14,17 @@ power: N/A
 interface: [Mechanical]
 connectivity: [6mm T18 split shaft]
 compatibility: [6mm split-shaft potentiometers]
-location: [Cabinet-7/Bin-16/Section-C]
+location: Cabinet-7/Bin-16/Section-C
 quantity: 10
 status: available
-price_range: $0.22
 datasheet: N/A
 product_url: https://www.taydaelectronics.com/orange-plastic-knob-with-pointer.html
 tags: [knob, pot-knob, pointer-knob, chickenhead, orange, split-shaft, 6mm, eurorack, cabinet-7, bin-16, status-available]
 date_added: 2026-05-07
-added_date: 2026-05-07
+price: $0.22
 ---
 
 # Tayda A-5116 - Orange Plastic Knob with Pointer
-
-## Details
-
-- **Location**: Cabinet-7, Bin 16, Section C
-- **Category**: Knobs & Controls — Potentiometer Knobs
-- **Brand**: Tayda Electronics
-- **Part Number**: A-5116
-- **Package**: Push-fit knob
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $0.22
-- **Product URL**: [Tayda A-5116](https://www.taydaelectronics.com/orange-plastic-knob-with-pointer.html)
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Analog ICs
 subcategory: Timers
-brand: Various
 part_number: NE556
 model: 556
 description: Dual precision timing circuit IC (two 555 timers in one package)
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [Analog, Digital Logic]
 connectivity: [Through-hole pins]
 compatibility: [TTL, CMOS Logic]
-location: [Cabinet-3/Bin-36/Section-B]
+location: Cabinet-3/Bin-36/Section-B
 quantity: 6
 status: available
-price_range: $0.50-1.25
 datasheet: https://www.ti.com/lit/ds/symlink/ne556.pdf
 product_url: https://www.ti.com/product/NE556
 tags: [timer-ic, analog-ic, dual-timer, precision-timer, astable, monostable, 556, cabinet-3, bin-36, status-available]
 date_added: 2025-01-12
+price: $0.50-1.25
 ---
 
 # 556 Dual Timer IC - Dual Precision Timing Circuit
-
-## Details
-
-- **Location**: Cabinet-3, Bin 36, Section B
-- **Category**: Analog ICs
-- **Brand**: Various (TI, STMicroelectronics, etc.)
-- **Part Number**: NE556 / LM556
-- **Package**: 14-DIP
-- **Quantity**: 6
-- **Status**: Available
-- **Price Range**: $0.50-1.25
-- **Datasheet**: [NE556 Datasheet](https://www.ti.com/lit/ds/symlink/ne556.pdf)
-- **Product URL**: https://www.ti.com/product/NE556
 
 ## Description
 

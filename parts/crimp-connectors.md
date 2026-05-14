@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Crimp-able Connectors
 description: Collection of crimp-able connectors for custom cable assemblies, wire harnesses, and electronic connections including JST, Dupont, and other connector types
 manufacturer: Various
@@ -8,11 +8,11 @@ category: connectors
 subcategory: crimp-connectors
 tags: [crimp-connectors, jst, dupont, wire-harness, cable-assembly, custom-cables, crimping, electrical-connections]
 total_quantity: Various
-location: [cabinet-2-bin-41]
+location: Cabinet-2/Bin-41
 price: 10.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Crimp-able Connectors

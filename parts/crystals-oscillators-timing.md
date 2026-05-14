@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: Crystals, Oscillators & Timing Components
 description: Collection of timing components including crystals, oscillators, and resonators for clock generation and frequency reference applications in digital and analog circuits
 manufacturer: Various
@@ -8,11 +8,11 @@ category: timing-components
 subcategory: crystals-oscillators
 tags: [crystals, oscillators, timing, frequency-reference, clock-generation, 32khz, 8mhz, 16mhz, 20mhz, rtc, microcontroller]
 total_quantity: 50+
-location: [cabinet-2-bin-25]
+location: Cabinet-2/Bin-25
 price: 0.75
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Crystals, Oscillators & Timing Components

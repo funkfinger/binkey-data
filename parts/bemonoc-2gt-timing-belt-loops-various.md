@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Mechanical Components
 subcategory: Timing Belt Loops
-brand: BEMONOC
 part_number: 2GT-LOOPS-VARIOUS
 model: 2GT Timing Belt Closed Loop Collection (Various Sizes)
 description: Collection of various sizes of 2GT closed-loop timing belts with 6mm width for 3D printers and CNC machines
@@ -18,26 +17,14 @@ compatibility: [3D Printers, CNC Machines, GT2 Pulleys]
 location: [Cabinet-4/Bin-15, Cabinet-4/Bin-16]
 quantity: Various sizes
 status: available
-price_range: $9.99-$15.99
-datasheet: 
+datasheet:
 product_url: https://a.co/d/ipoWjoy
 tags: [timing-belt-loops, 2gt, closed-loop, 3d-printer, cnc, mechanical-drive, cabinet-4, bin-15, bin-16, status-available]
 date_added: 2025-01-13
+price: $9.99-$15.99
 ---
 
 # BEMONOC 2GT Timing Belt Closed Loop Collection (Various Sizes)
-
-## Details
-
-- **Location**: Cabinet 4, Bins 15 & 16
-- **Category**: Mechanical Components
-- **Brand**: BEMONOC
-- **Part Number**: 2GT-LOOPS-VARIOUS
-- **Package**: Various closed-loop sizes
-- **Quantity**: Various sizes distributed across two bins
-- **Status**: Available
-- **Price Range**: $9.99 - $15.99 per pack
-- **Product URL**: https://a.co/d/ipoWjoy
 
 ## Description
 

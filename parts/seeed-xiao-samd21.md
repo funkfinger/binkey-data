@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: ARM Cortex-M0+ Development Board
-brand: Seeed Technology Co., Ltd
 part_number: 102010328
 model: XIAO SAMD21
 microcontroller: ATSAMD21G18
@@ -19,25 +18,15 @@ analog_resolution: 12-bit
 dimensions: 20.0mm x 17.5mm
 weight: 2.3g
 ultra_low_power: true
-location: [Cabinet-1/Bin-26]
+location: Cabinet-1/Bin-26
 quantity: 2
 status: available
-price_range: $5-6
 tags: [microcontroller, arm, cortex-m0+, samd21, usb, xiao, seeed, arduino, circuitpython]
+price: $5-6
+manufacturer: Seeed Technology Co., Ltd
 ---
 
 # Seeed Studio XIAO SAMD21
-
-## Details
-
-- **Location**: Cabinet-1, Bin 26
-- **Category**: Microcontroller Boards
-- **Type**: ARM Cortex-M0+ Development Board
-- **Microcontroller**: ATSAMD21G18
-- **Brand**: Seeed Technology Co., Ltd
-- **Part Number**: 102010328
-- **Quantity**: 2
-- **Product URL**: https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010328/11506471
 
 ## Description
 

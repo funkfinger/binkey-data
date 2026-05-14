@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Sockets
 subcategory: IC Sockets
-brand: Generic
 part_number: DIP-24
 model: 24-Pin DIP Socket
 description: 24-pin dual in-line IC socket for through-hole integrated circuits with 0.600" row spacing
@@ -14,44 +13,16 @@ current: Rated for standard IC currents
 power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
-compatibility:
-  [
-    24-pin DIP ICs,
-    Memory chips,
-    Microcontrollers,
-    Large logic ICs,
-    Interface ICs,
-  ]
-location: [Cabinet-3/Bin-51]
+compatibility: [24-pin DIP ICs, Memory chips, Microcontrollers, Large logic ICs, Interface ICs]
+location: Cabinet-3/Bin-51
 quantity: 30+
 status: available
-price_range: $0.75-2.50
-tags:
-  [
-    ic-socket,
-    dip-socket,
-    24-pin,
-    through-hole,
-    prototyping,
-    cabinet-3,
-    bin-59,
-    status-available,
-  ]
+tags: [ic-socket, dip-socket, 24-pin, through-hole, prototyping, cabinet-3, bin-59, status-available]
 date_added: 2025-01-13
+price: $0.75-2.50
 ---
 
 # 24-Pin DIP IC Sockets
-
-## Details
-
-- **Location**: Cabinet-3, Bin 51
-- **Category**: Connectors & Sockets
-- **Brand**: Generic
-- **Part Number**: DIP-24
-- **Package**: 24-Pin DIP Socket
-- **Quantity**: 30+
-- **Status**: Available
-- **Price Range**: $0.75-2.50
 
 ## Description
 

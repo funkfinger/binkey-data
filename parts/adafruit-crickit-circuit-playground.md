@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Adafruit CRICKIT for Circuit Playground Express
 description: Creative Robotics & Interactive Construction Kit - robotics expansion board for Circuit Playground with motors, servos, and sensors
 manufacturer: Adafruit
@@ -8,14 +8,14 @@ category: accessories
 subcategory: robotics-accessories
 tags: [crickit, robotics, circuit-playground, motors, servos, seesaw, construction-kit]
 quantity: 2
-location: [cabinet-1-bin-44]
-datasheet_url: https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit
-purchase_url: https://www.adafruit.com/product/3093
+location: Cabinet-1/Bin-44
 price: 29.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/crickit-circuit-playground.jpg
+product_url: https://www.adafruit.com/product/3093
+datasheet: https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit
 ---
 
 # Adafruit CRICKIT for Circuit Playground Express

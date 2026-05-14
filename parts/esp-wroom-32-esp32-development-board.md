@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Development Boards
 subcategory: ESP32 Development Board
-brand: AITRIP
 part_number: B07WCG1PLV
 model: ESP-WROOM-32 ESP32 ESP-32S Development Board
 microcontroller: ESP32
@@ -24,39 +23,15 @@ wifi: true
 bluetooth_le: true
 bluetooth_classic: true
 form_factor: DevKit
-location: [Cabinet-1/Bin-31]
+location: Cabinet-1/Bin-31
 quantity: 2
 status: available
-price_range: $9
-tags:
-  [
-    microcontroller,
-    esp32,
-    esp-wroom-32,
-    wifi,
-    bluetooth-le,
-    bluetooth-classic,
-    aitrip,
-    arduino,
-    esp-idf,
-    dual-core,
-    iot,
-    development-board,
-  ]
+tags: [microcontroller, esp32, esp-wroom-32, wifi, bluetooth-le, bluetooth-classic, aitrip, arduino, esp-idf, dual-core, iot, development-board]
+price: $9
+manufacturer: AITRIP
 ---
 
 # ESP-WROOM-32 ESP32 ESP-32S Development Board
-
-## Details
-
-- **Location**: Cabinet-1, Bin 31
-- **Category**: Development Boards
-- **Type**: ESP32 Development Board
-- **Microcontroller**: ESP32 (Dual Xtensa LX6 @ 240MHz)
-- **Brand**: AITRIP
-- **Part Number**: B07WCG1PLV
-- **Quantity**: 2
-- **Product URL**: https://a.co/d/ciKueeW
 
 ## Description
 

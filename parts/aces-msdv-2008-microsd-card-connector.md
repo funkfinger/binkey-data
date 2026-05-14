@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Card Connectors - microSD
-brand: ACES Connectors
 part_number: MSDV-2008-AKA0T01
 model: MSDV-2008
 description: 8-position microSD card connector, vertical through-hole, gold-plated contacts
@@ -15,33 +14,17 @@ mounting: PCB Through-Hole
 interface: []
 connectivity: [microSD]
 compatibility: [microSD cards]
-location: [Cabinet-3/Bin-47/Section-A]
+location: Cabinet-3/Bin-47/Section-A
 quantity: 9
 status: available
-price_range: $0.50-0.75 each
 datasheet: https://www.acesconn.com/upload/product_file/SPEC_MSDV-2008-AKA0T01.pdf
 product_url: https://www.digikey.com/en/products/detail/aces-connectors/MSDV-2008-AKA0T01/22208758
 tags: [connector, microsd, card-connector, through-hole, vertical, digikey, cabinet-3, bin-47, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.50-0.75 each
 ---
 
 # ACES MSDV-2008 microSD Card Connector
-
-## Details
-
-- **Location**: Cabinet-3, Bin 47, Section A
-- **Category**: Connectors & Interconnects
-- **Brand**: ACES Connectors
-- **Part Number**: MSDV-2008-AKA0T01
-- **Model**: MSDV-2008
-- **Connector Type**: microSD Card
-- **Positions**: 8
-- **Quantity**: 9 units
-- **Status**: Available
-- **Price Range**: $0.50-0.75 per unit
-- **Datasheet**: [MSDV-2008-AKA0T01 Specification](https://www.acesconn.com/upload/product_file/SPEC_MSDV-2008-AKA0T01.pdf)
-- **Product URL**: [DigiKey - MSDV-2008-AKA0T01](https://www.digikey.com/en/products/detail/aces-connectors/MSDV-2008-AKA0T01/22208758)
 
 ## Description
 

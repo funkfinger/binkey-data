@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Analog ICs
 subcategory: Operational Amplifiers
-brand: Microchip Technology
 part_number: MCP6232-E/P
 model: MCP6232-E/P
 description: Dual rail-to-rail input/output operational amplifier with ultra-low power consumption for battery-operated applications
@@ -15,32 +14,18 @@ power: Ultra-low power consumption 20µA per channel
 interface: [Analog Signal Processing, Battery-Powered Applications]
 connectivity: [Through-hole pins]
 compatibility: [Low-power circuits, Battery systems, Sensor interfaces, Portable devices]
-location: [Cabinet-3/Bin-32/Section-D]
+location: Cabinet-3/Bin-32/Section-D
 quantity: 26
 status: available
-price_range: $0.50-1.00
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/20001881G%20MCP6231-20%20uA%20300%20kHz%20Rail-to-Rail%20Op%20Amp.pdf
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/MCP6232-E-P/716249
 supplier: Digikey (high reliability source)
 tags: [dual-opamp, rail-to-rail, ultra-low-power, battery-operated, microchip-technology, digikey-sourced, cabinet-3, bin-32, status-available]
 date_added: 2025-01-13
+price: $0.50-1.00
 ---
 
 # MCP6232-E/P - Dual Rail-to-Rail Ultra-Low Power Operational Amplifier
-
-## Details
-
-- **Location**: Cabinet-3, Bin 32, Section D
-- **Category**: Analog ICs
-- **Brand**: Microchip Technology
-- **Part Number**: MCP6232-E/P
-- **Package**: 8-DIP
-- **Quantity**: 26
-- **Status**: Available
-- **Price Range**: $0.50-1.00
-- **Supplier**: **Digikey (high reliability source)**
-- **Datasheet**: [MCP6232 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20001881G%20MCP6231-20%20uA%20300%20kHz%20Rail-to-Rail%20Op%20Amp.pdf)
-- **Product URL**: [Digikey Product Page](https://www.digikey.com/en/products/detail/microchip-technology/MCP6232-E-P/716249)
 
 ## Description
 

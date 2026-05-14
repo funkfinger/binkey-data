@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Terminal Blocks
-brand: Various
 part_number: N/A
 model: 8 Position Wire to Board Terminal Strips 0.2" Spacing
 description: Wire to board terminal blocks with 8 positions and 0.2 inch (5.08mm) spacing
@@ -15,42 +14,17 @@ power: High power capability
 interface: [Screw Terminal, Wire to Board]
 connectivity: [Through Hole PCB Mount]
 compatibility: [PCB Applications, Wire Connections, Industrial Control]
-location: [Cabinet-5/Bin-38]
+location: Cabinet-5/Bin-38
 quantity: 7
 status: available
-price_range: $15-25
 datasheet: N/A
 product_url: https://www.digikey.com/en/products/detail/molex/0395943011/4481297
-tags:
-  [
-    terminal-blocks,
-    wire-to-board,
-    8-position,
-    0-2-inch-spacing,
-    screw-terminals,
-    pcb-mount,
-    molex-style,
-    cabinet-5,
-    bin-38,
-    status-available,
-  ]
+tags: [terminal-blocks, wire-to-board, 8-position, 0-2-inch-spacing, screw-terminals, pcb-mount, molex-style, cabinet-5, bin-38, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $15-25
 ---
 
 # 8 Position Wire to Board Terminal Strips 0.2" Spacing
-
-## Details
-
-- **Location**: Cabinet-5, Bin 38
-- **Category**: Connectors & Interconnects
-- **Brand**: Various manufacturers (Molex-style)
-- **Model**: 8 Position Wire to Board Terminal Strips 0.2" Spacing
-- **Package**: Individual pieces
-- **Quantity**: 7
-- **Status**: Available
-- **Price Range**: $15-25
-- **Reference**: Similar to Molex 0395943011 series
 
 ## Description
 

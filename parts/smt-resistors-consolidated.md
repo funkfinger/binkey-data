@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Resistors
 subcategory: SMT Resistors
-brand: Generic
 description: Assorted SMT resistors in various standard values (47Ω, 100Ω, 470Ω, 1kΩ, 10kΩ, 10.2kΩ)
 manufacturer: Various
 package: SMT (Surface Mount Device) - 0603, 0805, or 1206
@@ -10,32 +9,10 @@ voltage: Rated for standard SMT applications
 location: [Cabinet-6/Bin-2/Container-F, Cabinet-6/Bin-2/Container-G, Cabinet-6/Bin-2/Container-H, Cabinet-6/Bin-2/Container-I, Cabinet-6/Bin-2/Container-J, Cabinet-6/Bin-2/Container-K]
 quantity: 20+ units per value
 status: available
-price_range: $0.01-0.05 each
-tags:
-  [
-    smt-resistor,
-    resistor,
-    47-ohm,
-    100-ohm,
-    470-ohm,
-    1k-ohm,
-    10k-ohm,
-    10.2k-ohm,
-    surface-mount,
-    0603,
-    0805,
-    1206,
-    cabinet-6,
-    bin-2,
-    status-available,
-  ]
+tags: [smt-resistor, resistor, 47-ohm, 100-ohm, 470-ohm, 1k-ohm, 10k-ohm, 10.2k-ohm, surface-mount, 0603, 0805, 1206, cabinet-6, bin-2, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.01-0.05 each
 ---
-
-## Details
-
-This is a consolidated inventory entry for assorted SMT (surface-mount technology) resistors in commonly used standard values. These resistors are stored in individual containers within Cabinet 6, Bin 2, organized by resistance value for easy identification and access.
 
 ## Description
 

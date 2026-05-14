@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Mechanical Components
 subcategory: Bearing Balls
-brand: PGN
 part_number: N/A
 model: 1 Inch Precision Chrome Steel Bearing Balls G25
 description: High precision chrome steel bearing balls, 1 inch diameter, G25 grade
@@ -15,43 +14,17 @@ power: N/A
 interface: [Mechanical Bearing]
 connectivity: [Direct Contact]
 compatibility: [Precision Bearings, Mechanical Systems, Industrial Applications]
-location: [Cabinet-5/Bin-33]
+location: Cabinet-5/Bin-33
 quantity: 5
 status: available
-price_range: $15-20
 datasheet: N/A
 product_url: https://a.co/d/7gPRIfd
-tags:
-  [
-    bearing-balls,
-    chrome-steel,
-    precision,
-    g25-grade,
-    aisi-52100,
-    mechanical,
-    industrial,
-    pgn,
-    cabinet-5,
-    bin-33,
-    status-available,
-  ]
+tags: [bearing-balls, chrome-steel, precision, g25-grade, aisi-52100, mechanical, industrial, pgn, cabinet-5, bin-33, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $15-20
 ---
 
 # PGN 1 Inch Precision Chrome Steel Bearing Balls G25
-
-## Details
-
-- **Location**: Cabinet-5, Bin 33
-- **Category**: Mechanical Components
-- **Brand**: PGN
-- **Model**: 1 Inch Precision Chrome Steel Bearing Balls G25
-- **Package**: Set of 5 pieces
-- **Quantity**: 5
-- **Status**: Available
-- **Price Range**: $15-20
-- **Product URL**: https://a.co/d/7gPRIfd
 
 ## Description
 

@@ -1,27 +1,20 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: RTC Module
-brand: Adafruit
 part_number: 3028
 chip: ds3231
 function: real-time-clock
 precision: high
-location: [Cabinet-1/Bin-16]
+location: Cabinet-1/Bin-16
 quantity: 5
 status: available
-price_range: $10-15
 tags: [featherwing, rtc, ds3231, real-time-clock, adafruit]
+price: $10-15
+manufacturer: Adafruit
 ---
 
 # DS3231 Precision RTC FeatherWing
-
-## Details
-
-- **Location**: Cabinet-1, Bin 16
-- **Category**: Featherwings
-- **Quantity**: 5
-- **Product URL**: https://www.adafruit.com/product/3028
 
 ## Description
 

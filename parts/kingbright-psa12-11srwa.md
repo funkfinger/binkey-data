@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Alphanumeric Displays
 subcategory: LED Character Display
-brand: Kingbright
 part_number: PSA12-11SRWA
 size: 1.2 inch
 color: red
@@ -14,24 +13,15 @@ voltage: 3.6V
 current: 10mA per segment
 luminous_intensity: 28mcd
 wavelength: 655nm
-location: [Cabinet-1/Bin-18]
+location: Cabinet-1/Bin-18
 quantity: 8
 status: available
-price_range: $7-10
 tags: [led-display, alphanumeric, red, 16-segment, kingbright, common-anode]
+price: $7-10
+manufacturer: Kingbright
 ---
 
 # Kingbright PSA12-11SRWA Red Alphanumeric Display
-
-## Details
-
-- **Location**: Cabinet-1, Bin 18
-- **Category**: Alphanumeric Displays
-- **Type**: 16-Segment LED Character Display
-- **Color**: Red
-- **Size**: 1.2 inch (30.48mm) character height
-- **Quantity**: 8
-- **Product URL**: https://www.digikey.com/en/products/detail/kingbright/psa12-11srwa/17506597
 
 ## Image
 

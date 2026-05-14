@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2040 Development Board
-brand: Adafruit
 part_number: 4900
 model: QT Py RP2040
 microcontroller: RP2040
@@ -22,36 +21,15 @@ weight: 2.2g
 usb_native: true
 stemma_qt: true
 form_factor: QT Py / Xiao Compatible
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 5
 status: available
-price_range: $9-10
-tags:
-  [
-    microcontroller,
-    rp2040,
-    qt-py,
-    stemma-qt,
-    usb-c,
-    adafruit,
-    circuitpython,
-    neopixel,
-    xiao-compatible,
-  ]
+tags: [microcontroller, rp2040, qt-py, stemma-qt, usb-c, adafruit, circuitpython, neopixel, xiao-compatible]
+price: $9-10
+manufacturer: Adafruit
 ---
 
 # Adafruit QT Py RP2040
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2040 Development Board (QT Py Form Factor)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 125MHz)
-- **Brand**: Adafruit
-- **Part Number**: 4900
-- **Quantity**: 5
-- **Product URL**: https://www.adafruit.com/product/4900
 
 ## Description
 

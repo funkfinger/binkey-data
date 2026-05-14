@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: WiFi Development Board
-brand: Adafruit
 part_number: 5325
 model: QT Py ESP32-S2
 microcontroller: ESP32-S2
@@ -21,25 +20,15 @@ dimensions: 21.8mm x 17.9mm x 5.7mm
 weight: 2.1g
 usb_native: true
 stemma_qt: true
-location: [Cabinet-1/Bin-26]
+location: Cabinet-1/Bin-26
 quantity: 10
 status: available
-price_range: $10-13
 tags: [microcontroller, esp32-s2, wifi, qt-py, stemma-qt, usb-c, adafruit, iot, circuitpython]
+price: $10-13
+manufacturer: Adafruit
 ---
 
 # Adafruit QT Py ESP32-S2 WiFi Dev Board with STEMMA QT
-
-## Details
-
-- **Location**: Cabinet-1, Bin 26
-- **Category**: Microcontroller Boards
-- **Type**: WiFi Development Board with STEMMA QT
-- **Microcontroller**: ESP32-S2
-- **Brand**: Adafruit
-- **Part Number**: 5325
-- **Quantity**: 10
-- **Product URL**: https://www.adafruit.com/product/5325
 
 ## Description
 

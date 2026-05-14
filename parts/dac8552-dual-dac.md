@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Analog ICs
 subcategory: Digital-to-Analog Converters
-brand: Texas Instruments
 part_number: DAC8552IDGKR
 model: DAC8552IDGKR
 description: 16-bit dual channel ultralow glitch voltage output digital-to-analog converter with SPI interface
@@ -14,45 +13,19 @@ current: Low power consumption
 power: Precision analog output
 interface: [SPI Serial Interface, Analog Output]
 connectivity: [SPI, Through-hole compatible]
-compatibility:
-  [Precision measurement, Audio applications, Instrumentation, Control systems]
-location: [Cabinet-3/Bin-37/Section-E]
+compatibility: [Precision measurement, Audio applications, Instrumentation, Control systems]
+location: Cabinet-3/Bin-37/Section-E
 quantity: 4
 status: available
-price_range: $3.50-7.00
 datasheet: https://www.ti.com/lit/ds/symlink/dac8552.pdf?ts=1763243567055&ref_url=https%253A%252F%252Fwww.google.com%252F
 product_url: https://www.ti.com/product/DAC8552
 supplier: Texas Instruments
-tags:
-  [
-    dac,
-    16-bit,
-    dual-channel,
-    spi,
-    precision,
-    texas-instruments,
-    cabinet-3,
-    bin-37,
-    status-available,
-  ]
+tags: [dac, 16-bit, dual-channel, spi, precision, texas-instruments, cabinet-3, bin-37, status-available]
 date_added: 2025-11-02
-added_date: 2025-11-02
+price: $3.50-7.00
 ---
 
 # DAC8552IDGKR - 16-Bit Dual Channel Digital-to-Analog Converter
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section E
-- **Category**: Analog ICs
-- **Brand**: Texas Instruments
-- **Part Number**: DAC8552IDGKR
-- **Package**: VSSOP (DGK) 8-pin
-- **Quantity**: 4
-- **Status**: Available
-- **Price Range**: $3.50-7.00
-- **Datasheet**: [DAC8552 Datasheet](https://www.ti.com/lit/ds/symlink/dac8552.pdf?ts=1763243567055&ref_url=https%253A%252F%252Fwww.google.com%252F)
-- **Product URL**: [TI Product Page](https://www.ti.com/product/DAC8552)
 
 ## Description
 

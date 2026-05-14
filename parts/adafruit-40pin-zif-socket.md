@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Connectors & Hardware
 subcategory: IC Sockets
-brand: Adafruit
 part_number: 383
 model: 40-PIN ZIF SOCKET
 description: 40-pin Zero Insertion Force (ZIF) socket for DIP packages - gold contacts
@@ -15,31 +14,17 @@ power: N/A
 interface: [40-pin DIP, ZIF mechanism]
 connectivity: [Through-hole mounting, Gold contacts]
 compatibility: [40-pin DIP ICs, Microcontrollers, Memory chips, Prototyping]
-location: [Cabinet-5/Bin-22]
+location: Cabinet-5/Bin-22
 quantity: 3
 status: available
-price_range: $4.00
 datasheet: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/780/383_Web.pdf
 product_url: https://www.digikey.com/en/products/detail/adafruit-industries-llc/383/8687218
 tags: [adafruit, zif-socket, 40-pin, dip, zero-insertion-force, gold-contacts, prototyping, cabinet-5, bin-22, status-available]
 date_added: 2025-01-14
+price: $4.00
 ---
 
 # Adafruit 40-PIN ZIF Socket
-
-## Details
-
-- **Location**: Cabinet-5, Bin 22
-- **Category**: Connectors & Hardware
-- **Brand**: Adafruit Industries LLC
-- **Part Number**: 383
-- **Model**: 40-PIN ZIF SOCKET
-- **Package**: DIP Socket
-- **Quantity**: 3 sockets
-- **Status**: Available
-- **Price Range**: $4.00 each
-- **DigiKey**: 1528-2586-ND
-- **Product URL**: https://www.digikey.com/en/products/detail/adafruit-industries-llc/383/8687218
 
 ## Description
 

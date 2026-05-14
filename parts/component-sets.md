@@ -1,30 +1,16 @@
 ---
-type: electronic-component
+type: kit
 category: Component Sets & Kits
 subcategory: Assortment Kits
-brand: Various
 part_number: COMPONENT-SETS-MIXED
 description: Through-hole component assortment kits — resistors, film capacitors, and electrolytic capacitors
 manufacturer: Various (ELEGOO, Hilitchi, Glarks)
 package: Through-hole, assorted
-location: [Component-Sets]
+location: Component-Sets
 quantity: Multiple kits
 status: available
-tags:
-  [
-    resistors,
-    capacitors,
-    film-capacitors,
-    electrolytic-capacitors,
-    assortment,
-    kit,
-    through-hole,
-    elegoo,
-    hilitchi,
-    glarks,
-  ]
+tags: [resistors, capacitors, film-capacitors, electrolytic-capacitors, assortment, kit, through-hole, elegoo, hilitchi, glarks]
 date_added: 2026-05-08
-added_date: 2026-05-08
 ---
 
 # Component Sets & Assortment Kits

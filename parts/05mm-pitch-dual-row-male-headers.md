@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors - Fine Pitch
-brand: GDQLCNXB
 part_number: GDQLCNXB
 model: 50 Way Double Row Straight Pin Male Header Strip 1.27mm Pitch
 description: 10 pieces of 50-way dual row straight pin male headers with 1.27mm (0.5mm) pitch spacing for compact PCB connections and IDC ribbon cable interfaces
@@ -15,30 +14,17 @@ power: Variable
 interface: [Through-hole, Dual Row Headers]
 connectivity: [PCB, IDC ribbon cables, Compact interfaces]
 compatibility: [Fine-pitch connectors, IDC cables, Compact development boards]
-location: [Cabinet-3/Bin-46/Section-C]
+location: Cabinet-3/Bin-46/Section-C
 quantity: 10
 status: available
-price_range: $5-15 per pack
 datasheet: Generic fine-pitch header specifications
 product_url: https://www.amazon.com/dp/B0948K51BL
 tags: [headers, connectors, male, dual-row, fine-pitch, 1.27mm, 0.5mm, compact, idc, pcb, cabinet-3, bin-46, status-available]
 date_added: 2025-11-13
-added_date: 2025-11-13
+price: $5-15 per pack
 ---
 
 # 0.5mm Pitch Dual Row Male Headers (1.27mm)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 46, Section C
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: Fine-Pitch Dual Row Male Headers
-- **Package**: Through-hole
-- **Quantity**: 10 strips
-- **Status**: Available
-- **Pitch**: 1.27mm (0.5mm) fine spacing
-- **Gender**: Male (pins)
-- **Configuration**: Dual row, 50-pin total (2x25)
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Power Management Modules
 description: Collection of voltage regulators and power management modules including linear regulators, buck converters, and step-down modules for various power supply applications
 manufacturer: Various
@@ -8,11 +8,14 @@ category: power-management
 subcategory: voltage-regulators
 tags: [power-management, voltage-regulators, ams1117, mpm3610, l78l05, buck-converters, linear-regulators, step-down]
 total_quantity: 50+
-location: [cabinet-2-bin-9, cabinet-2-bin-10, cabinet-2-bin-11]
+location:
+- Cabinet-2/Bin-9
+- Cabinet-2/Bin-10
+- Cabinet-2/Bin-11
 price: 3.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Power Management Modules

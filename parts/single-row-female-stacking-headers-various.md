@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: Various
 model: Single Row Female Stacking Headers - 0.1" Spacing Various Lengths
 description: Assorted single row female stacking headers with 0.1" pitch in various pin counts
@@ -15,29 +14,17 @@ power: Variable
 interface: [Through-hole, Stacking Headers]
 connectivity: [PCB, Breadboard, Development boards, Stackable shields]
 compatibility: [Arduino, Raspberry Pi, Standard 0.1" male headers, Shield stacking]
-location: [Cabinet-3/Bin-60]
+location: Cabinet-3/Bin-60
 quantity: 50+
 status: available
-price_range: $0.20-1.50 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic components)
 tags: [headers, connectors, female, single-row, stacking, 0.1-spacing, various-lengths, pcb, arduino, cabinet-3, bin-60, status-available]
 date_added: 2025-01-13
+price: $0.20-1.50 per piece
 ---
 
 # Single Row Female Stacking Headers - 0.1" Spacing Various Lengths
-
-## Details
-
-- **Location**: Cabinet-3, Bin 60
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: Single Row Female Stacking Headers Collection
-- **Package**: Through-hole
-- **Quantity**: 50+ in various lengths
-- **Status**: Available
-- **Pitch**: 0.1" (2.54mm) standard spacing
-- **Gender**: Female (sockets)
-- **Configuration**: Single row stacking
 
 ## Description
 

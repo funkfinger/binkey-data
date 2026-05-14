@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors
 subcategory: Power Connectors
-brand: Various
 part_number: MIXED-BARREL-CONNECTORS
 model: Various DC Barrel Connectors (Male & Female)
 description: Mixed collection of DC barrel power connectors including DIKAVS and CENTROPOWER sets
@@ -15,31 +14,17 @@ power: Up to 60W (12V x 5A)
 interface: [DC Barrel, PCB Mount, Breadboard Compatible]
 connectivity: [Barrel Jack, Screw Terminals]
 compatibility: [Arduino, Raspberry Pi, CCTV, LED Strips, General DC Power]
-location: [Cabinet-2/Bin-22]
+location: Cabinet-2/Bin-22
 quantity: Various (20+ connectors total)
 status: available
-price_range: $15-30
-datasheet: 
+datasheet:
 product_url: [https://a.co/d/1U9qh61, https://a.co/d/cSm4Pr6]
 tags: [barrel-connectors, dc-power, male-female, pcb-mount, breadboard, 5.5mm, 2.1mm, cabinet-2, bin-22, status-available]
 date_added: 2025-01-30
-added_date: 2025-01-30
+price: $15-30
 ---
 
 # Various DC Barrel Connectors Collection
-
-## Details
-
-- **Location**: Cabinet-2, Bin 22
-- **Category**: Power Connectors
-- **Brand**: Various (DIKAVS, CENTROPOWER)
-- **Package**: Mixed connector types
-- **Quantity**: Various (20+ connectors total)
-- **Status**: Available
-- **Price Range**: $15-30
-- **Product URLs**: 
-  - DIKAVS: https://a.co/d/1U9qh61
-  - CENTROPOWER: https://a.co/d/cSm4Pr6
 
 ## Description
 

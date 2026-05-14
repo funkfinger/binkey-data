@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Optical Components
 subcategory: Glass Lens
-brand: Adafruit
 part_number: 3853
 model: Convex Glass Lens with Edge - 40mm Diameter
 description: High-quality convex glass lens for electronic eyes, optical projects, and display enhancement
@@ -15,29 +14,17 @@ power: N/A
 interface: [Optical, Mechanical Mount]
 connectivity: [38mm Cutout Mount]
 compatibility: [Raspberry Pi Eyes, Electronic Eyes, TFT Displays]
-location: [Cabinet-4/Bin-9]
+location: Cabinet-4/Bin-9
 quantity: 3
 status: available
-price_range: $5.95
-datasheet: 
+datasheet:
 product_url: https://www.adafruit.com/product/3853
 tags: [optical, lens, glass, convex, eyes, display, raspberry-pi, focal, cabinet-4, bin-9, status-available]
 date_added: 2025-01-13
+price: $5.95
 ---
 
 # Adafruit Convex Glass Lens with Edge - 40mm Diameter
-
-## Details
-
-- **Location**: Cabinet 4, Bin 9
-- **Category**: Optical Components
-- **Brand**: Adafruit
-- **Part Number**: 3853
-- **Package**: Single Glass Lens
-- **Quantity**: 3
-- **Status**: Available
-- **Price Range**: $5.95
-- **Product URL**: https://www.adafruit.com/product/3853
 
 ## Description
 

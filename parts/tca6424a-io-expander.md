@@ -1,42 +1,22 @@
 ---
-type: electronic-component
+type: ic
 category: Interface & Expansion
 subcategory: I/O Expanders
-brand: Texas Instruments
 part_number: TCA6424A
 model: TCA6424ARGJR
 description: 24-bit I2C/SMBus I/O expander with 32 GPIO pins, low-voltage operation, UQFN-32 package
 manufacturer: Texas Instruments
 package: UQFN-32 (Micro QFN)
 voltage: 1.65V-5.5V
-location: [Cabinet-6/Bin-1/Container-M]
+location: Cabinet-6/Bin-1/Container-M
 quantity: 10
 status: available
-price_range: $0.50-0.80 each
 datasheet: https://www.ti.com/lit/gpn/TCA6424A
 product_url: https://www.ti.com/product/TCA6424A
-tags:
-  [
-    i2c-expander,
-    io-expander,
-    gpio-expansion,
-    24-bit,
-    smbus,
-    texas-instruments,
-    ti,
-    uqfn-32,
-    microcontroller-interface,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [i2c-expander, io-expander, gpio-expansion, 24-bit, smbus, texas-instruments, ti, uqfn-32, microcontroller-interface, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.50-0.80 each
 ---
-
-## Details
-
-The Texas Instruments TCA6424A is a low-voltage 24-bit I2C/SMBus I/O expander designed to expand the number of GPIO pins available on microcontrollers and other digital systems. It provides 24 programmable input/output pins organized as three 8-bit ports, all controlled via a simple 2-wire I2C/SMBus interface. This UQFN-32 package device is ideal for applications requiring GPIO expansion with minimal board space.
 
 ## Description
 

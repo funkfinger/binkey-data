@@ -1,8 +1,7 @@
 ---
-type: hardware
+type: mechanical
 category: fasteners
 subcategory: machine-screws
-brand: Hilitchi
 part_number: M2-hex-socket-head-cap-screws-nuts-kit
 model: 210pcs M2 Stainless Steel Hex Socket Head Cap Screws Nuts Assortment Kit
 description: Comprehensive M2 stainless steel hex socket head cap screws and nuts assortment kit with 210 pieces
@@ -15,35 +14,26 @@ power: N/A
 interface: hex socket head
 connectivity: threaded fastener
 compatibility: electronics, robotics, small machinery
-location:
-  - cabinet-5
-  - bin-56
+location: Cabinet-5/Bin-56
 quantity: 210 pieces
 status: available
-price_range: budget
 datasheet: N/A
 product_url: https://a.co/d/eyxSD6i
 tags:
-  - hex-socket-head-screws
-  - machine-screws
-  - stainless-steel
-  - m2
-  - nuts
-  - assortment-kit
-  - precision-fasteners
-  - electronics
-  - robotics
+- hex-socket-head-screws
+- machine-screws
+- stainless-steel
+- m2
+- nuts
+- assortment-kit
+- precision-fasteners
+- electronics
+- robotics
 date_added: 2025-01-27
-added_date: 2025-01-27
+price: budget
 ---
 
 # Hilitchi M2 Hex Socket Head Cap Screws Nuts Assortment Kit
-
-## Details
-
-**Location**: [[am-cabinet-5]] - Bin 56  
-**Quantity**: 210 pieces total  
-**Status**: Available  
 
 ## Description
 

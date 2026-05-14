@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RISC-V Development Board
-brand: Seeed Studio
 part_number: 113991054
 model: XIAO ESP32C3
 microcontroller: ESP32-C3
@@ -20,25 +19,15 @@ dimensions: 21.0mm x 17.5mm
 weight: 2.5g
 ultra_low_power: true
 battery_charge: true
-location: [Cabinet-1/Bin-26]
+location: Cabinet-1/Bin-26
 quantity: 7
 status: available
-price_range: $4-5
 tags: [microcontroller, risc-v, esp32c3, wifi, ble, xiao, seeed, ultra-low-power, tinyml]
+price: $4-5
+manufacturer: Seeed Studio
 ---
 
 # Seeed Studio XIAO ESP32C3
-
-## Details
-
-- **Location**: Cabinet-1, Bin 26
-- **Category**: Microcontroller Boards
-- **Type**: RISC-V Development Board with Wi-Fi & BLE
-- **Microcontroller**: ESP32-C3
-- **Brand**: Seeed Studio
-- **Part Number**: 113991054
-- **Quantity**: 7
-- **Product URL**: https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
 
 ## Description
 

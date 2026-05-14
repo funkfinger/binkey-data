@@ -1,36 +1,20 @@
 ---
-type: part
+type: module
 title: Arduino Proto Shield - Partially Populated
 description: Generic Arduino prototyping shield with some components already soldered, ready for custom circuit completion
 manufacturer: Generic
 part_number: PROTO-SHIELD-PARTIAL
 category: shields
 subcategory: prototyping-shields
-tags:
-  [
-    proto-shield,
-    arduino,
-    prototyping,
-    partially-populated,
-    generic,
-    breadboard,
-    soldering,
-  ]
+tags: [proto-shield, arduino, prototyping, partially-populated, generic, breadboard, soldering]
 quantity: 2
-location: [cabinet-1-bin-42]
-purchase_url: ""
+location: Cabinet-1/Bin-42
 price: 8.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: ""
 ---
-
-## Details
-
-- Location: Cabinet-1, Bin 42
-- Quantity: 2
-
-# Arduino Proto Shield - Partially Populated
 
 ## Overview
 

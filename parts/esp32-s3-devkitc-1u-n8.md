@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Development Boards
 subcategory: ESP32-S3 Development Board
-brand: Espressif Systems
 part_number: ESP32-S3-DEVKITC-1U-N8
 model: ESP32-S3-DEVKITC-1U-N8
 microcontroller: ESP32-S3
@@ -26,25 +25,15 @@ bluetooth_le: true
 bluetooth_classic: true
 antenna_connector: U.FL
 form_factor: DevKit
-location: [Cabinet-1/Bin-31]
+location: Cabinet-1/Bin-31
 quantity: 2
 status: available
-price_range: $13
 tags: [microcontroller, esp32-s3, devkit, wifi, bluetooth-le, bluetooth-classic, espressif, arduino, esp-idf, u-fl, dual-core, iot, development-board]
+price: $13
+manufacturer: Espressif Systems
 ---
 
 # ESP32-S3-DEVKITC-1U-N8 Development Board
-
-## Details
-
-- **Location**: Cabinet-1, Bin 31
-- **Category**: Development Boards
-- **Type**: ESP32-S3 Development Board
-- **Microcontroller**: ESP32-S3 (Dual Xtensa LX7 @ 240MHz)
-- **Brand**: Espressif Systems
-- **Part Number**: ESP32-S3-DEVKITC-1U-N8
-- **Quantity**: 2
-- **Product URL**: https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-DEVKITC-1U-N8/16162645
 
 ## Description
 

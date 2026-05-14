@@ -6,13 +6,12 @@ manufacturer: Adafruit Industries
 category: sensors
 subcategory: color-sensors
 quantity: 6
-location:
-  - Cabinet-3
-  - Bin-27
-cost_per_unit: $7.95
+location: Cabinet-3/Bin-27
 datasheet: https://learn.adafruit.com/adafruit-color-sensors/downloads
 purchase_date: 2024-12-15
 tags: [color-sensor, rgb, light-sensor, i2c, arduino, raspberry-pi, tcs34725]
+price: $7.95
+type: module
 ---
 
 # Adafruit TCS34725 RGB Color Sensor

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Temperature Sensors
 subcategory: NTC Thermistors
-brand: Cantherm
 part_number: MF58103F3380
 model: 10kΩ Glass Thermistor
 description: NTC Thermistor 10k Bead, Glass
@@ -13,30 +12,18 @@ operating_temperature: -55°C to 200°C
 power_max: 50mW
 package: Bead, Glass
 mounting: Through Hole
-location: [Cabinet-3/Bin-1]
+location: Cabinet-3/Bin-1
 quantity: 50+
 status: available
 price: $1.07
-price_range: $0.67-1.07
 tags: [thermistor, ntc, temperature, sensor, glass, bead, cantherm, 10k]
-datasheet_url: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/607/MF58_51.pdf
-digikey_url: https://www.digikey.com/en/products/detail/cantherm/MF58103F3380/1840607
 digikey_part: 317-1379-ND
+product_url: https://www.digikey.com/en/products/detail/cantherm/MF58103F3380/1840607
+datasheet: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/607/MF58_51.pdf
+manufacturer: Cantherm
 ---
 
 # 10kΩ Glass Thermistors
-
-## Details
-
-- **Location**: Cabinet-3, Bin 1
-- **Category**: Temperature Sensors
-- **Type**: NTC Thermistor
-- **Brand**: Cantherm
-- **Part Number**: MF58103F3380
-- **Series**: MF58
-- **Quantity**: 50+
-- **DigiKey Part**: 317-1379-ND
-- **DigiKey URL**: https://www.digikey.com/en/products/detail/cantherm/MF58103F3380/1840607
 
 ## Description
 

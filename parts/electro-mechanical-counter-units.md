@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Instrumentation
 subcategory: Counter
-brand: Various
 part_number: Mixed
 model: Electro-Mechanical Counter Collection
 description: Assorted vintage electro-mechanical and electronic counter units
@@ -15,29 +14,17 @@ power: 1-5W typical
 interface: [Pulse input, Reset, Output contacts]
 connectivity: [Screw terminals, Wire leads]
 compatibility: [Industrial control, Process monitoring, Hour meters]
-location: [Cabinet-4/Bin-18]
+location: Cabinet-4/Bin-18
 quantity: 8
 status: available
-price_range: $15-50 each
 datasheet: Various manufacturer specifications
-product_url: 
+product_url:
 tags: [counter, electro-mechanical, instrumentation, industrial, vintage, cabinet-4, bin-18, status-available]
 date_added: 2025-01-13
+price: $15-50 each
 ---
 
 # Electro-Mechanical Counter Units Collection
-
-## Details
-
-- **Location**: Cabinet-4, Bin 18
-- **Category**: Instrumentation
-- **Brand**: Various
-- **Part Number**: Mixed
-- **Package**: Panel mount enclosures
-- **Quantity**: 8 (mixed types)
-- **Status**: available
-- **Price Range**: $15-50 each
-- **Datasheet**: Various manufacturer specifications
 
 ## Description
 

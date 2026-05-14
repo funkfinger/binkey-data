@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Integrated Circuits
 subcategory: Display Drivers
-brand: SESCOSEM
 part_number: SFC441BE
 model: SFC 441 BE 7441A
 description: European BCD to Decimal Decoder/Driver for Nixie Tubes
@@ -15,30 +14,17 @@ power: 200mW (typical)
 interface: [TTL, BCD]
 connectivity: [Nixie Tubes, Cold Cathode Displays]
 compatibility: [SN7441 equivalent, Nixie clocks, retro displays]
-location: [Cabinet-3/Bin-42/Section-C]
+location: Cabinet-3/Bin-42/Section-C
 quantity: 2
 status: available
-price_range: Rare/Vintage
 datasheet: Limited availability (Eastern European documentation)
 product_url: N/A (vintage component)
 tags: [nixie, driver, sescosem, european, bcd-decoder, display-driver, sfc441, cabinet-3, bin-42, status-available]
 date_added: 2025-01-13
+price: Rare/Vintage
 ---
 
 # SFC441BE SESCOSEM Nixie Tube Driver
-
-## Details
-
-- **Location**: Cabinet-3, Bin 42, Section C
-- **Category**: Integrated Circuits - Display Drivers
-- **Brand**: SESCOSEM (Poland/Eastern Europe)
-- **Part Number**: SFC441BE
-- **Chip Marking**: SFC 441 BE 7441A
-- **Package**: 16-pin DIP
-- **Quantity**: 2
-- **Status**: Available
-- **Era**: 1970s-1980s (Eastern European)
-- **Equivalent**: SN7441 (functional equivalent)
 
 ## Description
 

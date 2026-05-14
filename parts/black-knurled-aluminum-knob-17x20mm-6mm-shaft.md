@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Mechanical
 subcategory: Knobs & Controls
-brand: Generic
 part_number: A0306
 model: Black Knurled Aluminum Knob 17x20mm Shaft Hole 6mm
 description: Professional black anodized aluminum knob with knurled grip surface, 17x20mm dimensions and 6mm shaft hole, designed for precision control applications and professional equipment
@@ -15,12 +14,12 @@ power: N/A (mechanical component)
 interface: [6mm Shaft, Potentiometer, Rotary Control]
 connectivity: [Potentiometers, Rotary switches, Variable resistors, Professional equipment]
 compatibility: [6mm shaft potentiometers, Professional audio, Test equipment, Industrial controls]
-location: [Cabinet-5/Bin-7/Section-B]
+location: Cabinet-5/Bin-7/Section-B
 quantity: 10
 status: available
-price_range: $1.59 per piece
 tags: [knobs, controls, hardware, mechanical, aluminum, knurled, black, 6mm-shaft, professional, precision, cabinet-5, status-available]
 date_added: 2025-08-06
+price: $1.59 per piece
 ---
 
 # Black Knurled Aluminum Knob 17x20mm Shaft Hole 6mm

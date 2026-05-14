@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Counters
-brand: Texas Instruments
 part_number: CD4510
 model: CD4510B
 description: CMOS presettable BCD up/down counter IC
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [Digital Logic, BCD Input/Output]
 connectivity: [Through-hole pins]
 compatibility: [CMOS Logic, TTL Compatible]
-location: [Cabinet-3/Bin-35/Section-B]
+location: Cabinet-3/Bin-35/Section-B
 quantity: 30
 status: available
-price_range: $0.75-1.25
 datasheet: https://www.ti.com/lit/ds/symlink/cd4510b.pdf
 product_url: https://www.ti.com/product/CD4510B
 tags: [logic-ic, counter, bcd-counter, up-down-counter, presettable, cmos, texas-instruments, cabinet-3, bin-35, status-available]
 date_added: 2025-01-12
+price: $0.75-1.25
 ---
 
 # CD4510 - CMOS Presettable BCD Up/Down Counter
-
-## Details
-
-- **Location**: Cabinet-3, Bin 35, Section B
-- **Category**: Logic ICs
-- **Brand**: Texas Instruments
-- **Part Number**: CD4510
-- **Package**: 16-DIP
-- **Quantity**: 30
-- **Status**: Available
-- **Price Range**: $0.75-1.25
-- **Datasheet**: [CD4510B Datasheet](https://www.ti.com/lit/ds/symlink/cd4510b.pdf)
-- **Product URL**: https://www.ti.com/product/CD4510B
 
 ## Description
 

@@ -1,25 +1,18 @@
 ---
-type: electronic-component
+type: passive
 category: Neopixel LEDs
 subcategory: Addressable LED
 size: 5mm
 color: rgb
 technology: addressable
-location: [Cabinet-1/Bin-10/Section-B]
+location: Cabinet-1/Bin-10/Section-B
 quantity: 5
 status: available
-price_range: $1-3
 tags: [neopixel, led, rgb, 5mm, addressable]
+price: $1-3
 ---
 
 # 5mm Neopixel RGB LED
-
-## Details
-
-- **Location**: Cabinet-1, Bin 10, Section B
-- **Category**: Neopixel LEDs
-- **Size**: 5mm
-- **Type**: Addressable RGB
 
 ## Description
 

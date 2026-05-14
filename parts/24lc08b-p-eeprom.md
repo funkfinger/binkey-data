@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Memory
 subcategory: EEPROM
-brand: Microchip Technology
 part_number: 24LC08B/P
 model: 24LC08B-P
 description: 8K-bit I2C Serial EEPROM in 8-pin DIP package
@@ -15,44 +14,20 @@ power: 5mW (typical)
 interface: [I2C]
 connectivity: [I2C Bus]
 compatibility: [Arduino, Raspberry Pi, microcontrollers]
-location: [Cabinet-3/Bin-42/Section-A]
+location: Cabinet-3/Bin-42/Section-A
 quantity: 20
 status: available
-price_range: $0.40-0.50
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/24AA08-24LC08B-24FC08-8K-I2C-Serial-EEPROM-20001710M.pdf
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/24LC08B-P/170160
-tags:
-  [
-    eeprom,
-    memory,
-    i2c,
-    serial,
-    non-volatile,
-    microchip,
-    cabinet-3,
-    bin-42,
-    status-available,
-  ]
+tags: [eeprom, memory, i2c, serial, non-volatile, microchip, cabinet-3, bin-42, status-available]
 date_added: 2025-01-13
+price: $0.40-0.50
 ---
 
 # 24LC08B-P I2C Serial EEPROM
 
 > NOTE:
 > AT24C1024B might be the correct Atmel Part Number
-
-## Details
-
-- **Location**: Cabinet-3, Bin 42, Section A
-- **Category**: Memory
-- **Brand**: Microchip Technology
-- **Part Number**: 24LC08B/P
-- **Package**: 8-PDIP
-- **Quantity**: 20
-- **Status**: Available
-- **Price Range**: $0.40-0.50
-- **Datasheet**: [24LC08B/P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/24AA08-24LC08B-24FC08-8K-I2C-Serial-EEPROM-20001710M.pdf)
-- **Product URL**: https://www.digikey.com/en/products/detail/microchip-technology/24LC08B-P/170160
 
 ## Description
 

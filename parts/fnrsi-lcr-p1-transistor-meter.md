@@ -5,25 +5,15 @@ part_number: LCR-P1
 manufacturer: FNRSI
 category: test-equipment
 subcategory: component-tester
-type: electronic-test-instrument
-location: ["cabinet-4", "bin-7"]
+type: module
+location: Cabinet-4/Bin-7
 quantity: 1
 source: Amazon
 price: $29.99
 purchase_date: 2025-01-13
-datasheet_url: ""
 product_url: "https://a.co/d/j7nKifA"
 image: "fnrsi-lcr-p1-transistor-meter.jpg"
-tags:
-  [
-    lcr-meter,
-    transistor-tester,
-    capacitor-tester,
-    esr-meter,
-    component-analyzer,
-    smd-tester,
-    test-equipment,
-  ]
+tags: [lcr-meter, transistor-tester, capacitor-tester, esr-meter, component-analyzer, smd-tester, test-equipment]
 specifications:
   power_source: "Battery Powered (300mAh rechargeable)"
   display: "Color LCD with backlight"
@@ -35,27 +25,28 @@ specifications:
     diode_forward_voltage: "<4.5V"
     zener_voltage: "0.01-4.5V, 0.01-32V"
   supported_components:
-    - "Transistors (NPN/PNP)"
-    - "Diodes"
-    - "Triodes"
-    - "Field-Effect Transistors (JFET, IGBT, MOSFET)"
-    - "Capacitors"
-    - "Inductors"
-    - "Resistors"
-    - "Voltage Regulator Diodes"
-    - "SMD Components"
+  - "Transistors (NPN/PNP)"
+  - "Diodes"
+  - "Triodes"
+  - "Field-Effect Transistors (JFET, IGBT, MOSFET)"
+  - "Capacitors"
+  - "Inductors"
+  - "Resistors"
+  - "Voltage Regulator Diodes"
+  - "SMD Components"
   features:
-    - "One-button component identification"
-    - "Anti-burn safety protection"
-    - "SMD component testing"
-    - "NEC infrared signal decoding"
-    - "USB data transfer to PC"
-    - "Excel export capability"
-    - "Replaceable test boards"
-    - "Zero insertion force socket"
+  - "One-button component identification"
+  - "Anti-burn safety protection"
+  - "SMD component testing"
+  - "NEC infrared signal decoding"
+  - "USB data transfer to PC"
+  - "Excel export capability"
+  - "Replaceable test boards"
+  - "Zero insertion force socket"
   dimensions: "Compact handheld design"
   color: "Black/Blue"
   min_operating_voltage: "0.1V DC"
+datasheet: ""
 ---
 
 # FNRSI LCR-P1 Transistor Meter

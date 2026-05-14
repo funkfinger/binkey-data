@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Fasteners
 subcategory: Screw Eye Pins
-brand: Axe Sickle
 part_number: B073PY9CVN
 model: Mini Metal Screw Eye Pins Hooks
 description: Mini metal screw eye pins hooks for arts, crafts, and DIY jewelry making
@@ -15,41 +14,17 @@ power: N/A
 interface: [Mechanical]
 connectivity: [Screw Thread, Eye Loop]
 compatibility: [Jewelry Making, Arts & Crafts, DIY Projects]
-location: [Cabinet-5/Bin-27/Section-B]
+location: Cabinet-5/Bin-27/Section-B
 quantity: 500
 status: available
-price_range: $8-12
 datasheet: N/A
 product_url: https://a.co/d/1oupcB0
-tags:
-  [
-    screw-eye-pins,
-    hooks,
-    jewelry-making,
-    crafts,
-    diy,
-    hardware,
-    fasteners,
-    cabinet-5,
-    bin-27,
-    status-available,
-  ]
+tags: [screw-eye-pins, hooks, jewelry-making, crafts, diy, hardware, fasteners, cabinet-5, bin-27, status-available]
 date_added: 2025-01-23
+price: $8-12
 ---
 
 # Axe Sickle Mini Metal Screw Eye Pins Hooks
-
-## Details
-
-- **Location**: Cabinet-5, Bin 27, Section B
-- **Category**: Hardware & Fasteners
-- **Brand**: Axe Sickle
-- **Part Number**: B073PY9CVN
-- **Package**: Bulk Pack (500 pieces)
-- **Quantity**: 500
-- **Status**: Available
-- **Price Range**: $8-12
-- **Product URL**: https://a.co/d/1oupcB0
 
 ## Description
 

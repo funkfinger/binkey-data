@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Sockets
 subcategory: IC Sockets
-brand: Generic
 part_number: DIP-8
 model: 8-Pin DIP Socket
 description: 8-pin dual in-line IC socket for through-hole integrated circuits with 0.300" row spacing
@@ -15,26 +14,15 @@ power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
 compatibility: [8-pin DIP ICs, Op-amps, Timers, Small logic ICs, Audio ICs]
-location: [Cabinet-3/Bin-53/Section-B]
+location: Cabinet-3/Bin-53/Section-B
 quantity: 20+
 status: available
-price_range: $0.25-1.00
 tags: [ic-socket, dip-socket, 8-pin, through-hole, prototyping, cabinet-3, bin-53, status-available]
 date_added: 2025-01-13
+price: $0.25-1.00
 ---
 
 # 8-Pin DIP IC Sockets
-
-## Details
-
-- **Location**: Cabinet-3, Bin 53, Section B
-- **Category**: Connectors & Sockets
-- **Brand**: Generic
-- **Part Number**: DIP-8
-- **Package**: 8-Pin DIP Socket
-- **Quantity**: 20+
-- **Status**: Available
-- **Price Range**: $0.25-1.00
 
 ## Description
 

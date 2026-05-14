@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Sockets
 subcategory: IC Sockets
-brand: Generic
 part_number: DIP-14
 model: 14-Pin DIP Socket
 description: 14-pin dual in-line IC socket for through-hole integrated circuits with 0.300" row spacing
@@ -15,26 +14,15 @@ power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
 compatibility: [14-pin DIP ICs, Op-amps, Logic ICs, Timers, Audio ICs, Comparators]
-location: [Cabinet-3/Bin-54/Section-A]
+location: Cabinet-3/Bin-54/Section-A
 quantity: 30+
 status: available
-price_range: $0.35-1.25
 tags: [ic-socket, dip-socket, 14-pin, through-hole, prototyping, cabinet-3, bin-54, status-available]
 date_added: 2025-01-13
+price: $0.35-1.25
 ---
 
 # 14-Pin DIP IC Sockets
-
-## Details
-
-- **Location**: Cabinet-3, Bin 54, Section A
-- **Category**: Connectors & Sockets
-- **Brand**: Generic
-- **Part Number**: DIP-14
-- **Package**: 14-Pin DIP Socket
-- **Quantity**: 30+
-- **Status**: Available
-- **Price Range**: $0.35-1.25
 
 ## Description
 

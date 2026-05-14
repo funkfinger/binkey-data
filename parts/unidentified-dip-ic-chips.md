@@ -1,26 +1,18 @@
 ---
-type: electronic-component
+type: other
 title: Unidentified DIP IC Chips
 description: Collection of various DIP IC chips that need identification and cataloging
 category: integrated-circuits
 subcategory: dip-ics
 manufacturer: Various
 part_number: UNKNOWN
-location: [cabinet-3-bin-33]
+location: Cabinet-3/Bin-33
 quantity: 20+
 status: todo
 tags: [todo, integrated-circuits, dip, ic, cabinet-3, bin-33, status-todo, identification-needed]
 ---
 
 # Unidentified DIP IC Chips
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33
-- **Category**: Integrated Circuits
-- **Quantity**: 20+ (estimated)
-- **Status**: TODO - Need identification
-- **Package Types**: Various DIP packages (DIP-8, DIP-14, DIP-16, etc.)
 
 ## Description
 

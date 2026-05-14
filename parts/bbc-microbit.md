@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: Educational Development Board
-brand: BBC
 part_number: 3530
 model: micro:bit
 microcontroller: nRF51822
@@ -18,37 +17,15 @@ sensors: [Accelerometer, Magnetometer, Temperature]
 buttons: 2
 dimensions: 52.0mm x 42.1mm x 11.0mm
 weight: 9.0g
-location: [Cabinet-1/Bin-28]
+location: Cabinet-1/Bin-28
 quantity: 1
 status: available
-price_range: $10-15
-tags:
-  [
-    microcontroller,
-    educational,
-    bbc,
-    microbit,
-    bluetooth-le,
-    accelerometer,
-    magnetometer,
-    led-matrix,
-    beginner-friendly,
-    discontinued,
-  ]
+tags: [microcontroller, educational, bbc, microbit, bluetooth-le, accelerometer, magnetometer, led-matrix, beginner-friendly, discontinued]
+price: $10-15
+manufacturer: BBC
 ---
 
 # BBC micro:bit
-
-## Details
-
-- **Location**: Cabinet-1, Bin 28
-- **Category**: Microcontroller Boards
-- **Type**: Educational Development Board
-- **Microcontroller**: Nordic nRF51822
-- **Brand**: BBC
-- **Part Number**: 3530 (Adafruit)
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/3530
 
 ## Description
 

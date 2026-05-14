@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Lithium Polymer (Li-Po) Batteries
 description: Collection of lithium polymer rechargeable batteries for portable electronics, robotics, and embedded systems requiring lightweight, high-capacity power sources
 manufacturer: Various
@@ -8,11 +8,11 @@ category: power
 subcategory: batteries
 tags: [lithium-polymer, lipo, rechargeable, portable-power, high-capacity, lightweight, 3.7v, battery-pack, embedded-systems, robotics]
 total_quantity: 25+
-location: [cabinet-2-bin-37]
+location: Cabinet-2/Bin-37
 price: 15.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Lithium Polymer (Li-Po) Batteries

@@ -1,5 +1,5 @@
 ---
-type: part
+type: mechanical
 title: Mechanical Keyboard Components
 description: Collection of mechanical keyboard components including Kailh switch sockets for hot-swappable keyboards and custom keyboard construction
 manufacturer: Various
@@ -8,11 +8,11 @@ category: user-interface
 subcategory: mechanical-keyboards
 tags: [mechanical-keyboard, kailh, switch-sockets, hot-swap, mx-compatible, custom-keyboard, pcb-mount]
 total_quantity: 50+
-location: [cabinet-2-bin-40]
+location: Cabinet-2/Bin-40
 price: 5.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Mechanical Keyboard Components

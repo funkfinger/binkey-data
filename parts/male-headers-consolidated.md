@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors - Consolidated
-brand: Various
 part_number: Various
 model: Male Headers - Complete Collection
 description: Comprehensive collection of all male header types including single row, dual row, and stacking variants
@@ -15,12 +14,12 @@ power: Variable
 interface: [Through-hole, Stacking, Standard Headers]
 connectivity: [PCB, Breadboard, Development boards, Female headers, Shields]
 compatibility: [Arduino, Raspberry Pi, Standard female headers, Breadboard, IDC connectors]
-location: [Cabinet-3/Multiple-Bins]
+location: Cabinet-3/Multiple-Bins
 quantity: 130+
 status: available
-price_range: $0.10-2.00 per piece
 tags: [headers, connectors, male, consolidated, collection, arduino, raspberry-pi, cabinet-3, status-available]
 date_added: 2025-07-22
+price: $0.10-2.00 per piece
 ---
 
 # Male Headers - Complete Collection

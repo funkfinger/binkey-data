@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Seven Segment Displays
 subcategory: LED Numeric Display
-brand: Generic/Vintage
 part_number: Unknown
 size: mixed
 color: red
@@ -12,24 +11,15 @@ interface: parallel
 polarity: mixed
 voltage: 5V
 current: 20mA per segment
-location: [Cabinet-1/Bin-20]
+location: Cabinet-1/Bin-20
 quantity: 28
 status: available
-price_range: vintage
 tags: [led-display, seven-segment, vintage, numeric, red, retro]
+price: vintage
+manufacturer: Generic/Vintage
 ---
 
 # Vintage Seven Segment Displays
-
-## Details
-
-- **Location**: Cabinet-1, Bin 20
-- **Category**: Seven Segment Displays
-- **Type**: 7-Segment LED Numeric Display
-- **Color**: Red (typical vintage)
-- **Size**: Mixed sizes (vintage collection)
-- **Quantity**: 28 units
-- **Era**: Vintage/Retro electronics
 
 ## Image
 

@@ -1,34 +1,19 @@
 ---
-type: part
+type: other
 title: Adafruit PyBadge for MakeCode Arcade, CircuitPython, or Arduino
 description: Compact handheld development board with SAMD51 processor, 1.8" TFT display, gaming controls, and sensors
 manufacturer: Adafruit
 part_number: 4200
 category: development-boards
 subcategory: gaming-boards
-tags:
-  [
-    pybadge,
-    gaming,
-    handheld,
-    samd51,
-    tft,
-    display,
-    accelerometer,
-    light-sensor,
-    speaker,
-    neopixel,
-    makecode,
-    circuitpython,
-    arduino,
-  ]
+tags: [pybadge, gaming, handheld, samd51, tft, display, accelerometer, light-sensor, speaker, neopixel, makecode, circuitpython, arduino]
 quantity: 1
-location: [cabinet-1-bin-36]
-purchase_url: https://www.adafruit.com/product/4200
+location: Cabinet-1/Bin-36
 price: 34.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4200
 ---
 
 # Adafruit PyBadge for MakeCode Arcade, CircuitPython, or Arduino

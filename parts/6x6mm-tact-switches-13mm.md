@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Buttons
 subcategory: Tactile Switches
-brand: Generic
 part_number: A0302
 model: 6x6mm Tact Switch 13mm Through Hole SPST-NO
 description: Standard 6x6mm tactile push button switches with 13mm actuator height, through-hole mounting, SPST normally open configuration
@@ -15,12 +14,12 @@ power: 0.6W
 interface: [Through-hole, PCB Mount]
 connectivity: [PCB, Breadboard, Perfboard]
 compatibility: [Arduino, Raspberry Pi, General electronics, Prototyping boards]
-location: [Cabinet-5/Bin-15/Section-A]
+location: Cabinet-5/Bin-15/Section-A
 quantity: 20+
 status: available
-price_range: $0.07 per piece
 tags: [switches, buttons, tactile, tact-switch, 6x6mm, 13mm, spst-no, through-hole, cabinet-5, status-available]
 date_added: 2025-08-06
+price: $0.07 per piece
 ---
 
 # 6x6mm Tact Switch 13mm Through Hole SPST-NO

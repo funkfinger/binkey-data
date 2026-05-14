@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Timing Circuits
-brand: NTE Electronics
 part_number: NTE955MC
 model: NTE955MC
 description: CMOS timing circuit IC equivalent to NE555 timer with low power consumption
@@ -15,40 +14,17 @@ power: Low power CMOS design with high efficiency
 interface: [Timing Control, PWM Generation]
 connectivity: [Through-hole pins]
 compatibility: [555 Timer circuits, CMOS Logic, Timing applications]
-location: [Cabinet-3/Bin-33/Section-F]
+location: Cabinet-3/Bin-33/Section-F
 quantity: 1
 status: available
-price_range: $1.00-3.00
 datasheet: https://lcsc.com/datasheet/lcsc_datasheet_2411200016_NTE-Electronics-NTE955MC_C6345955.pdf
 product_url: https://www.nteinc.com/
-tags:
-  [
-    timing-circuit,
-    cmos-timer,
-    555-equivalent,
-    low-power,
-    nte-electronics,
-    cabinet-3,
-    bin-33,
-    status-available,
-  ]
+tags: [timing-circuit, cmos-timer, 555-equivalent, low-power, nte-electronics, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $1.00-3.00
 ---
 
 # NTE955MC - CMOS Timing Circuit (555 Equivalent)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section F
-- **Category**: Logic ICs
-- **Brand**: NTE Electronics
-- **Part Number**: NTE955MC
-- **Package**: 8-DIP
-- **Quantity**: 2
-- **Status**: Available
-- **Price Range**: $1.00-3.00
-- **Datasheet**: [NTE955MC Datasheet](https://lcsc.com/datasheet/lcsc_datasheet_2411200016_NTE-Electronics-NTE955MC_C6345955.pdf)
-- **Product URL**: https://www.nteinc.com/
 
 ## Description
 

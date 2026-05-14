@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: LED Backpacks
 subcategory: LED Matrix Driver
-brand: Adafruit
 part_number: 2946
 driver: is31fl3731
 matrix_size: 16x9
@@ -11,24 +10,15 @@ interface: i2c
 connectors: [stemma-qt, qwiic]
 voltage: 2.7V-5.5V
 dimensions: 43.2mm x 28.0mm x 4.7mm
-location: [Cabinet-1/Bin-23]
+location: Cabinet-1/Bin-23
 quantity: 3
 status: available
-price_range: $5-6
 tags: [led-driver, is31fl3731, charlieplexed, i2c, stemma-qt, qwiic, matrix, adafruit]
+price: $5-6
+manufacturer: Adafruit
 ---
 
 # Adafruit 16x9 Charlieplexed PWM LED Matrix Driver - IS31FL3731
-
-## Details
-
-- **Location**: Cabinet-1, Bin 23
-- **Category**: LED Backpacks
-- **Type**: 16x9 Charlieplexed PWM LED Matrix Driver
-- **Driver Chip**: IS31FL3731
-- **Interface**: I2C with STEMMA QT / Qwiic connectors
-- **Quantity**: 3
-- **Product URL**: https://www.adafruit.com/product/2946
 
 ## Description
 

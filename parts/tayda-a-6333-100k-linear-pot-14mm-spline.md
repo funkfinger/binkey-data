@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Potentiometers
 subcategory: Rotary Potentiometers
-brand: Tayda Electronics
 part_number: A-6333
 model: Rotary 100K OHM Linear Taper 14mm Potentiometer Transparent Spline Shaft
 description: 100K ohm linear taper 14mm rotary potentiometer with transparent spline shaft, PCB mount
@@ -15,30 +14,17 @@ power: 0.1W
 interface: [Analog, Potentiometer]
 connectivity: [Through-hole pins]
 compatibility: [Eurorack, audio circuits, synthesizers, effect pedals]
-location: [Cabinet-3/Bin-7]
+location: Cabinet-3/Bin-7
 quantity: 10
 status: available
-price_range: $1.30
 datasheet: N/A
 product_url: https://www.taydaelectronics.com/rotary-100-ohm-linear-taper-potentiometer-14mm-spline-shaft.html
 tags: [potentiometer, pot, 100k, linear, taper, spline-shaft, 14mm, pcb-mount, eurorack, audio, cabinet-3, bin-7, status-available]
 date_added: 2026-05-07
-added_date: 2026-05-07
+price: $1.30
 ---
 
 # Tayda A-6333 - 100K Linear Taper 14mm Potentiometer, Spline Shaft
-
-## Details
-
-- **Location**: Cabinet-3, Bin 7
-- **Category**: Potentiometers — Rotary Potentiometers
-- **Brand**: Tayda Electronics
-- **Part Number**: A-6333
-- **Package**: Through-hole, PCB mount
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $1.30
-- **Product URL**: [Tayda A-6333](https://www.taydaelectronics.com/rotary-100-ohm-linear-taper-potentiometer-14mm-spline-shaft.html)
 
 ## Description
 

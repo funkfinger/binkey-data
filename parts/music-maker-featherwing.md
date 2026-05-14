@@ -1,27 +1,20 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: Audio Module
-brand: Adafruit
 part_number: 3436
 functions: [mp3-player, audio-amplifier]
 formats: [mp3, ogg, wav, midi]
 amplifier: 3w-stereo
-location: [Cabinet-1/Bin-16]
+location: Cabinet-1/Bin-16
 quantity: 1
 status: available
-price_range: $20-30
 tags: [featherwing, music-maker, mp3, audio, amplifier, stereo, adafruit]
+price: $20-30
+manufacturer: Adafruit
 ---
 
 # Music Maker FeatherWing
-
-## Details
-
-- **Location**: Cabinet-1, Bin 16
-- **Category**: Featherwings
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/3436
 
 ## Description
 

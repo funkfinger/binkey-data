@@ -1,5 +1,5 @@
 ---
-type: part
+type: ic
 title: Adafruit Metro M4 Express feat. Microchip ATSAMD51
 description: High-performance Arduino-compatible board with 120MHz Cortex M4, 512KB Flash, 192KB RAM, and 2MB QSPI Flash
 manufacturer: Adafruit
@@ -8,14 +8,14 @@ category: microcontrollers
 subcategory: metro-boards
 tags: [metro, m4, atsamd51, cortex-m4, circuitpython, arduino, 120mhz, express]
 quantity: 1
-location: [cabinet-1-bin-41]
-datasheet_url: https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51
-purchase_url: https://www.adafruit.com/product/3382
+location: Cabinet-1/Bin-41
 price: 27.50
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/adafruit-metro-m4.jpg
+product_url: https://www.adafruit.com/product/3382
+datasheet: https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51
 ---
 
 # Adafruit Metro M4 Express feat. Microchip ATSAMD51

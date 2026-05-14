@@ -1,28 +1,19 @@
 ---
-type: electronic-component
+type: module
 category: Logic Gates
 subcategory: Counter/Display Driver
-brand: Texas Instruments
 part_number: CD4026BE
 size: DIP-16
 color: Black
-location: [Cabinet-3/Bin-34/Section-B]
+location: Cabinet-3/Bin-34/Section-B
 quantity: 4
 status: available
-price_range: $1-3
 tags: [logic-gate, counter, decade-counter, 7-segment-driver, display-driver, cmos, texas-instruments, dip-16, cabinet-3, bin-34, section-b, status-available]
+price: $1-3
+manufacturer: Texas Instruments
 ---
 
 # CD4026BE Decade Counter with 7-Segment Display Driver
-
-## Details
-
-- **Location**: Cabinet-3, Bin 34, Section B
-- **Category**: Logic Gates
-- **Quantity**: 4
-- **Status**: Available
-- **Package**: 16-pin DIP (Dual In-line Package)
-- **Datasheet**: [CD4026B Datasheet](https://www.ti.com/lit/gpn/cd4026b)
 
 ## Description
 

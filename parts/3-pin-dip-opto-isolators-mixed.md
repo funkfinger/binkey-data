@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Isolators
 subcategory: Optocouplers
-brand: Various
 part_number: MIXED-3PIN-OPTO
 model: Various 3-pin DIP models
 description: Mixed collection of 3-pin DIP opto-isolators for electrical isolation applications
@@ -15,28 +14,17 @@ power: Low power consumption
 interface: [Optical Isolation]
 connectivity: [Through-hole pins]
 compatibility: [Digital circuits, Microcontrollers, Industrial control]
-location: [Cabinet-3/Bin-37/Section-D]
+location: Cabinet-3/Bin-37/Section-D
 quantity: 14
 status: available
-price_range: $0.20-1.00 (estimated)
 datasheet: Various - component-specific
 product_url: Various sources
 tags: [optocoupler, optoisolator, isolation, 3-pin, mixed-collection, various-manufacturers, cabinet-3, bin-37, status-available]
 date_added: 2025-01-13
+price: $0.20-1.00 (estimated)
 ---
 
 # 3-Pin DIP Opto-Isolators (Mixed Collection)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section D
-- **Category**: Isolators
-- **Brand**: Various
-- **Part Number**: Mixed collection
-- **Package**: 3-DIP
-- **Quantity**: 14
-- **Status**: Available
-- **Price Range**: $0.20-1.00 (estimated)
 
 ## Description
 

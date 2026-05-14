@@ -1,5 +1,5 @@
 ---
-type: part
+type: ic
 title: Adafruit Metro M0 Express - designed for CircuitPython
 description: Arduino-compatible board with ATSAMD21G18 ARM Cortex M0+, 256KB Flash, 32KB RAM, and 2MB SPI Flash
 manufacturer: Adafruit
@@ -8,14 +8,14 @@ category: microcontrollers
 subcategory: metro-boards
 tags: [metro, m0, atsamd21, cortex-m0, circuitpython, arduino, express, 48mhz]
 quantity: 1
-location: [cabinet-1-bin-41]
-datasheet_url: https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython
-purchase_url: https://www.adafruit.com/product/3505
+location: Cabinet-1/Bin-41
 price: 24.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/adafruit-metro-m0-express.jpg
+product_url: https://www.adafruit.com/product/3505
+datasheet: https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython
 ---
 
 # Adafruit Metro M0 Express - designed for CircuitPython

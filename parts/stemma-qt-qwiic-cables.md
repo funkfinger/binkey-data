@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Cables and Connectors
 subcategory: I2C Cables
-brand: Adafruit Industries
 part_numbers: [4209, 4397]
 models: [STEMMA QT to Male Headers, STEMMA QT to Female Sockets]
 description: STEMMA QT / Qwiic JST SH 4-pin Cables for I2C Connections
@@ -15,21 +14,13 @@ wire_colors: [Red - 3.3V, Black - GND, Blue - SDA, Yellow - SCL]
 location: [Cabinet-3/Bin-2, Cabinet-3/Bin-5]
 quantity: 15+
 status: available
-price_range: $0.76-0.95
 tags: [stemma-qt, qwiic, i2c, cables, jst-sh, breadboard, prototyping, adafruit]
 product_urls: [https://www.adafruit.com/product/4209, https://www.adafruit.com/product/4397]
+price: $0.76-0.95
+manufacturer: Adafruit Industries
 ---
 
 # STEMMA QT / Qwiic Cables Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bins 2 and 5
-- **Category**: Cables and Connectors
-- **Type**: I2C Connection Cables
-- **Brand**: Adafruit Industries
-- **Quantity**: 15+ cables (various types)
-- **Cable Length**: 150mm (6 inches)
 
 ## Description
 

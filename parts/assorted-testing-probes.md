@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Test Equipment
 subcategory: Test Probes
-brand: Various
 part_number: MIXED-PROBES
 model: Assorted Small Testing Probes
 description: Collection of small testing probes for electronics troubleshooting and circuit testing
@@ -15,28 +14,17 @@ power: N/A
 interface: [Banana plugs, Alligator clips, IC clips, Hook clips]
 connectivity: [Multimeter, Oscilloscope, Test equipment]
 compatibility: [Standard 4mm banana jacks, Test equipment inputs]
-location: [Cabinet-5/Bin-5]
+location: Cabinet-5/Bin-5
 quantity: Assorted
 status: available
-price_range: $10-20
 datasheet: N/A
 product_url: N/A
 tags: [test-probes, multimeter, oscilloscope, troubleshooting, electronics, mixed, assorted, cabinet-5, bin-5, status-available]
 date_added: 2025-01-14
+price: $10-20
 ---
 
 # Assorted Small Testing Probes
-
-## Details
-
-- **Location**: Cabinet-5, Bin 5
-- **Category**: Test Equipment
-- **Brand**: Various
-- **Part Number**: MIXED-PROBES
-- **Package**: Mixed Collection
-- **Quantity**: Assorted small probes
-- **Status**: Available
-- **Price Range**: $10-20 (estimated collection value)
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Controls
 subcategory: Toggle Switches
-brand: hiBCTR
 part_number: B0DTHR25QB
 model: MTS-103
 description: 3-Terminal 3-Position SPDT Toggle Switch ON/Off/ON with panel mount design
@@ -15,30 +14,17 @@ power: 750W / 750W
 interface: [SPDT, 3-Terminal]
 connectivity: [Panel mount, Screw terminals]
 compatibility: [Control panels, Electronics projects, Automotive applications]
-location: [Cabinet-5/Bin-9]
+location: Cabinet-5/Bin-9
 quantity: 10
 status: available
-price_range: $9-10
 datasheet: https://www.hibctr.com/mts-103-datasheet
 product_url: https://a.co/d/d61g7yp
 tags: [hibctr, mts-103, toggle-switch, spdt, on-off-on, 3-position, panel-mount, cabinet-5, bin-9, status-available]
 date_added: 2025-01-14
+price: $9-10
 ---
 
 # MTS-103 3-Position SPDT Toggle Switches
-
-## Details
-
-- **Location**: Cabinet-5, Bin 9
-- **Category**: Switches & Controls
-- **Brand**: hiBCTR
-- **Part Number**: B0DTHR25QB
-- **Model**: MTS-103
-- **Package**: Panel Mount Toggle Switch
-- **Quantity**: 10 switches (from 20-piece pack)
-- **Status**: Available
-- **Price Range**: $9.65 (pack of 20)
-- **Product URL**: https://a.co/d/d61g7yp
 
 ## Description
 

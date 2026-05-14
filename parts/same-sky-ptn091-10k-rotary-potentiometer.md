@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Passive Components
 subcategory: Potentiometers - Rotary
-brand: Same Sky (formerly CUI Devices)
 part_number: PTN091-V10115K1B
 model: PTN091
 description: 9.5mm vertical rotary potentiometer, 10K ohm, linear taper, 15mm knurled shaft
@@ -17,31 +16,17 @@ orientation: Vertical
 interface: []
 connectivity: []
 compatibility: []
-location: [Cabinet-2/Bin-8/Section-B]
+location: Cabinet-2/Bin-8/Section-B
 quantity: 20
 status: available
-price_range: $1.50-2.00 each
 datasheet: https://www.sameskydevices.com/catalog/motion-and-control/potentiometers
 product_url: https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PTN091-V10115K1B/24767636
 tags: [potentiometer, rotary, 10k, through-hole, knurled-shaft, linear-taper, digikey, cabinet-2, bin-8, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $1.50-2.00 each
 ---
 
 # Same Sky PTN091 10K Rotary Potentiometer
-
-## Details
-
-- **Location**: Cabinet-2, Bin 8, Section B
-- **Category**: Passive Components
-- **Brand**: Same Sky (formerly CUI Devices)
-- **Part Number**: PTN091-V10115K1B
-- **Model**: PTN091
-- **Resistance**: 10kΩ
-- **Quantity**: 20 units
-- **Status**: Available
-- **Price Range**: $1.50-2.00 per unit
-- **Product URL**: [DigiKey - PTN091-V10115K1B](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PTN091-V10115K1B/24767636)
 
 ## Description
 

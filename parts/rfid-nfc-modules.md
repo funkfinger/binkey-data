@@ -1,33 +1,18 @@
 ---
-type: part
+type: module
 title: RFID & NFC Modules
 description: Collection of RFID and NFC reader/writer modules for contactless identification, access control, and data transfer applications including RC522 and ST25DV modules
 manufacturer: Various
 part_number: RFID-NFC-MODULES-MIXED
 category: wireless
 subcategory: rfid-nfc
-tags:
-  [
-    rfid,
-    nfc,
-    rc522,
-    st25dv,
-    mfrc522,
-    contactless,
-    identification,
-    access-control,
-    mifare,
-    iso15693,
-    i2c,
-    spi,
-    stemma-qt,
-  ]
+tags: [rfid, nfc, rc522, st25dv, mfrc522, contactless, identification, access-control, mifare, iso15693, i2c, spi, stemma-qt]
 total_quantity: 8
-location: [cabinet-2-bin-35]
+location: Cabinet-2/Bin-35
 price: 12.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # RFID & NFC Modules

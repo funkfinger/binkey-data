@@ -6,12 +6,11 @@ manufacturer: Various
 category: sensors
 subcategory: motion-sensors
 quantity: 20+
-location: 
-  - Cabinet-3
-  - Bin-26
-cost_per_unit: $0.50
+location: Cabinet-3/Bin-26
 purchase_date: 2024-12-15
 tags: [tilt-switch, motion-sensor, mechanical, orientation, gravity]
+price: $0.50
+type: module
 ---
 
 # Radial Tilt Switches

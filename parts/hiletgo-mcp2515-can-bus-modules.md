@@ -1,32 +1,23 @@
 ---
-type: electronic-component
+type: module
 category: Communication Modules
 subcategory: CAN Bus Interface
-brand: HiLetgo
 part_number: MCP2515
 model: MCP2515 CAN Bus Module TJA1050
 description: CAN Bus communication modules with MCP2515 controller and TJA1050 transceiver
 functions: [can-bus, automotive-communication, industrial-networking]
 interfaces: [SPI, CAN]
 chips: [MCP2515, TJA1050]
-location: [Cabinet-2/Bin-12]
+location: Cabinet-2/Bin-12
 quantity: 5
 status: available
-price_range: $10-15
 tags: [can-bus, mcp2515, tja1050, automotive, obd2, industrial, communication, hiletgo]
 product_url: https://a.co/d/72fPYxq
+price: $10-15
+manufacturer: HiLetgo
 ---
 
 # HiLetgo MCP2515 CAN Bus Modules
-
-## Details
-
-- **Location**: Cabinet-2, Bin 12
-- **Category**: Communication Modules
-- **Brand**: HiLetgo
-- **Model**: MCP2515 CAN Bus Module TJA1050
-- **Quantity**: 5 modules (2-pack purchased)
-- **Amazon URL**: https://a.co/d/72fPYxq
 
 ## Description
 

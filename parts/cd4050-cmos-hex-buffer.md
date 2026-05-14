@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Buffers
-brand: Various
 part_number: CD4050
 model: CD4050
 description: CMOS hex non-inverting buffer IC
@@ -15,30 +14,17 @@ power: Very low power consumption
 interface: [Digital Logic]
 connectivity: [Through-hole pins]
 compatibility: [CMOS Logic, TTL Logic]
-location: [Cabinet-3/Bin-35/Section-C]
+location: Cabinet-3/Bin-35/Section-C
 quantity: 12
 status: available
-price_range: $0.50-1.50
 datasheet: https://www.ti.com/lit/ds/symlink/cd4050b.pdf
 product_url: https://www.ti.com/product/CD4050B
 tags: [logic-ic, buffer, cmos, hex-buffer, non-inverting, cd4050, cabinet-3, bin-35, status-available]
 date_added: 2025-01-12
+price: $0.50-1.50
 ---
 
 # CD4050 - CMOS Hex Non-Inverting Buffer
-
-## Details
-
-- **Location**: Cabinet-3, Bin 35, Section C
-- **Category**: Logic ICs
-- **Brand**: Various (TI, STMicroelectronics, etc.)
-- **Part Number**: CD4050 / CD4050B
-- **Package**: 16-DIP
-- **Quantity**: 12
-- **Status**: Available
-- **Price Range**: $0.50-1.50
-- **Datasheet**: [CD4050B Datasheet](https://www.ti.com/lit/ds/symlink/cd4050b.pdf)
-- **Product URL**: https://www.ti.com/product/CD4050B
 
 ## Description
 

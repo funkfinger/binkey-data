@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: CP2102N Friend - USB to Serial Converter
 description: USB-C to serial converter breakout board with CP2102N chip, compatible with FTDI cables and Arduino programming
 manufacturer: Generic/Compatible
@@ -8,12 +8,12 @@ category: programming-tools
 subcategory: usb-serial-converters
 tags: [cp2102n, usb-serial, converter, usb-c, ftdi-compatible, arduino, programming, uart, breakout]
 quantity: 1
-location: [cabinet-1-bin-38]
-datasheet_url: https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+location: Cabinet-1/Bin-38
 price: 5.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+datasheet: https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
 ---
 
 # CP2102N Friend - USB to Serial Converter

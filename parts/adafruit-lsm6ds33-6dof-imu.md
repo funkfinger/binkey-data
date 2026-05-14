@@ -6,14 +6,13 @@ manufacturer: Adafruit Industries
 category: sensors
 subcategory: motion-sensors
 quantity: 2
-location:
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $9.95
+location: Cabinet-3/Bin-28
 datasheet: https://learn.adafruit.com/lsm6ds33-6-dof-imu=accelerometer-gyro
-purchase_url: https://www.adafruit.com/product/4480
 purchase_date: 2024-12-15
 tags: [imu, accelerometer, gyroscope, 6dof, i2c, spi, stemma-qt]
+price: $9.95
+product_url: https://www.adafruit.com/product/4480
+type: module
 ---
 
 # Adafruit LSM6DS33 6-DoF IMU

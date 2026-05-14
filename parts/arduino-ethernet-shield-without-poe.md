@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: Arduino Ethernet Shield (without PoE Module)
 description: Arduino shield providing Ethernet connectivity via W5100 chip with microSD card slot
 manufacturer: Arduino
@@ -8,13 +8,13 @@ category: shields
 subcategory: communication-shields
 tags: [ethernet-shield, w5100, networking, microsd, arduino, communication, tcp-ip]
 quantity: 1
-location: [cabinet-1-bin-42]
-datasheet_url: https://docs.arduino.cc/retired/shields/arduino-ethernet-shield-without-poe-module/
-purchase_url: ""
+location: Cabinet-1/Bin-42
 price: 45.00
 currency: USD
 date_added: 2025-01-09
-status: retired
+status: out-of-stock
+product_url: ""
+datasheet: https://docs.arduino.cc/retired/shields/arduino-ethernet-shield-without-poe-module/
 ---
 
 # Arduino Ethernet Shield (without PoE Module)

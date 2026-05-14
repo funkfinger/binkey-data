@@ -1,5 +1,5 @@
 ---
-type: part
+type: ic
 title: Circuit Playground Classic - Developers Edition
 description: Original Circuit Playground with ATmega32u4 microcontroller, sensors, LEDs, and alligator clip pads for electronics learning
 manufacturer: Adafruit
@@ -8,13 +8,13 @@ category: microcontrollers
 subcategory: circuit-playground
 tags: [circuit-playground, classic, atmega32u4, developers-edition, sensors, neopixels, educational]
 quantity: 1
-location: [cabinet-1-bin-43]
-datasheet_url: https://learn.adafruit.com/introducing-circuit-playground?view=all
-purchase_url: https://www.adafruit.com/product/3000
+location: Cabinet-1/Bin-43
 price: 19.95
 currency: USD
 date_added: 2025-01-09
-status: discontinued
+status: out-of-stock
+product_url: https://www.adafruit.com/product/3000
+datasheet: https://learn.adafruit.com/introducing-circuit-playground?view=all
 ---
 
 # Circuit Playground Classic - Developers Edition

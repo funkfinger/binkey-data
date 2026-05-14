@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: ESP32 Development Board
-brand: Adafruit
 part_number: 3405
 model: HUZZAH32 ESP32 Feather
 microcontroller: ESP32
@@ -25,25 +24,15 @@ bluetooth_le: true
 bluetooth_classic: true
 battery_charging: true
 form_factor: Feather
-location: [Cabinet-1/Bin-31]
+location: Cabinet-1/Bin-31
 quantity: 3
 status: available
-price_range: $19-20
 tags: [microcontroller, esp32, feather, huzzah32, wifi, bluetooth-le, bluetooth-classic, battery-charging, adafruit, arduino, stemma-qt, dual-core, iot]
+price: $19-20
+manufacturer: Adafruit
 ---
 
 # Adafruit HUZZAH32 ESP32 Feather Board
-
-## Details
-
-- **Location**: Cabinet-1, Bin 31
-- **Category**: Feather Boards
-- **Type**: ESP32 Development Board (Feather Form Factor)
-- **Microcontroller**: ESP32 (Dual Xtensa LX6 @ 240MHz)
-- **Brand**: Adafruit
-- **Part Number**: 3405
-- **Quantity**: 3
-- **Product URL**: https://www.adafruit.com/product/3405
 
 ## Description
 

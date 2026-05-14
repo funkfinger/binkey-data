@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Fasteners
 subcategory: Rubber Feet
-brand: Various
 part_number: N/A
 model: 26mm Round Screw-In Rubber Feet
 description: Round rubber feet with screw-in mounting, 26mm diameter for equipment and furniture
@@ -15,41 +14,17 @@ power: N/A
 interface: [Screw Mount]
 connectivity: [Threaded Insert]
 compatibility: [Electronics Enclosures, Furniture, Equipment, Project Cases]
-location: [Cabinet-5/Bin-36]
+location: Cabinet-5/Bin-36
 quantity: 6
 status: available
-price_range: $8-12
 datasheet: N/A
 product_url: N/A
-tags:
-  [
-    rubber-feet,
-    screw-in,
-    26mm-round,
-    equipment-feet,
-    vibration-dampening,
-    furniture-feet,
-    threaded-mount,
-    cabinet-5,
-    bin-36,
-    status-available,
-  ]
+tags: [rubber-feet, screw-in, 26mm-round, equipment-feet, vibration-dampening, furniture-feet, threaded-mount, cabinet-5, bin-36, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $8-12
 ---
 
 # 26mm Round Screw-In Rubber Feet
-
-## Details
-
-- **Location**: Cabinet-5, Bin 36
-- **Category**: Hardware & Fasteners
-- **Brand**: Various manufacturers
-- **Model**: 26mm Round Screw-In Rubber Feet
-- **Package**: Individual pieces
-- **Quantity**: 6
-- **Status**: Available
-- **Price Range**: $8-12
 
 ## Description
 

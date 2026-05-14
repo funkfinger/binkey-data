@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Isolators
 subcategory: Optocouplers
-brand: SHARP/Socle Technology
 part_number: PC817X2NSZ9F
 model: PC817X2NSZ9F
 description: Optoisolator 5KV 1-channel transistor output 4-DIP
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [Optical Isolation]
 connectivity: [Through-hole pins]
 compatibility: [Digital circuits, Microcontrollers, Industrial control]
-location: [Cabinet-3/Bin-37/Section-B]
+location: Cabinet-3/Bin-37/Section-B
 quantity: 49
 status: available
-price_range: $0.27-0.08 (volume pricing)
 datasheet: http://www.socle-tech.com/doc/IC%20Channel%20Product/Optoelectronic%20Components/Photocoupler/PC817X_NSZ9FSeries_SPEC.pdf
 product_url: https://www.digikey.com/en/products/detail/sharp-socle-technology/PC817X2NSZ9F/7942022
 tags: [optocoupler, optoisolator, isolation, transistor-output, sharp, socle-technology, cabinet-3, bin-37, status-available]
 date_added: 2025-01-12
+price: $0.27-0.08 (volume pricing)
 ---
 
 # PC817X2NSZ9F - Optoisolator/Optocoupler
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section B
-- **Category**: Isolators
-- **Brand**: SHARP/Socle Technology
-- **Part Number**: PC817X2NSZ9F
-- **Package**: 4-DIP
-- **Quantity**: 49
-- **Status**: Available
-- **Price Range**: $0.27-0.08 (volume pricing)
-- **Datasheet**: [PC817X2NSZ9F Datasheet](http://www.socle-tech.com/doc/IC%20Channel%20Product/Optoelectronic%20Components/Photocoupler/PC817X_NSZ9FSeries_SPEC.pdf)
-- **Product URL**: https://www.digikey.com/en/products/detail/sharp-socle-technology/PC817X2NSZ9F/7942022
 
 ## Description
 

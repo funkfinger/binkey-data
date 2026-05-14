@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Sensors
 subcategory: Weather Sensor
-brand: HiLetgo
 part_number: LM393-RAIN-3PCS
 model: LM393 Rain Drops Sensor Weather Moisture Monitor
 description: Rain detection sensor with LM393 comparator for weather monitoring and automatic rain-responsive systems
@@ -15,29 +14,17 @@ power: <75mW
 interface: [Analog Output, Digital Output, TTL]
 connectivity: [4-pin connector, VCC, GND, DO, AO]
 compatibility: [Arduino, Raspberry Pi, ESP32, Microcontrollers]
-location: [Cabinet-4/Bin-10]
+location: Cabinet-4/Bin-10
 quantity: 3
 status: available
-price_range: $6.49
-datasheet: 
+datasheet:
 product_url: https://a.co/d/dsFHUuD
 tags: [rain-sensor, weather-monitoring, lm393, arduino, automatic-systems, moisture-detection, cabinet-4, bin-10, status-available]
 date_added: 2025-01-13
+price: $6.49
 ---
 
 # HiLetgo LM393 Rain Drops Sensor Weather Moisture Monitor (3pcs)
-
-## Details
-
-- **Location**: Cabinet 4, Bin 10
-- **Category**: Sensors
-- **Brand**: HiLetgo
-- **Part Number**: LM393-RAIN-3PCS
-- **Package**: 3-piece kit
-- **Quantity**: 3 kits (9 sensors total)
-- **Status**: Available
-- **Price Range**: $6.49 per kit
-- **Product URL**: https://a.co/d/dsFHUuD
 
 ## Description
 

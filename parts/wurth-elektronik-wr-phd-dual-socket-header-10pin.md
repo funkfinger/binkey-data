@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Headers & Sockets
-brand: Würth Elektronik
 part_number: 61301021821
 model: WR-PHD
 description: 2.54mm pitch dual socket header, 10-pin (2x5), vertical, gold-plated contacts
@@ -17,34 +16,17 @@ mounting: PCB Through-Hole
 interface: []
 connectivity: []
 compatibility: []
-location: [Cabinet-3/Bin-47/Section-B]
+location: Cabinet-3/Bin-47/Section-B
 quantity: 30
 status: available
-price_range: $0.60-0.85 each
 datasheet: https://www.we-online.com/components/products/datasheet/61301021821.pdf
 product_url: https://www.digikey.com/en/products/detail/würth-elektronik/61301021821/2508630
 tags: [header, socket, dual-row, 2.54mm, 10pin, through-hole, vertical, digikey, cabinet-3, bin-47, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.60-0.85 each
 ---
 
 # Würth Elektronik WR-PHD Dual Socket Header 10-Pin
-
-## Details
-
-- **Location**: Cabinet-3, Bin 47, Section B
-- **Category**: Connectors & Interconnects
-- **Brand**: Würth Elektronik
-- **Part Number**: 61301021821
-- **Model**: WR-PHD
-- **Connector Type**: Dual Socket Header
-- **Positions**: 10 (2x5 configuration)
-- **Pitch**: 2.54mm
-- **Quantity**: 30 units
-- **Status**: Available
-- **Price Range**: $0.60-0.85 per unit
-- **Datasheet**: [WR-PHD Datasheet](https://www.we-online.com/components/products/datasheet/61301021821.pdf)
-- **Product URL**: [DigiKey - 61301021821](https://www.digikey.com/en/products/detail/würth-elektronik/61301021821/2508630)
 
 ## Description
 

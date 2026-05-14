@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: SunFounder CN0295D 1602 I2C LCD
 description: 16x2 character LCD display module with I2C interface for easy connection
 manufacturer: SunFounder
@@ -8,13 +8,13 @@ category: lcd-displays
 subcategory: character-displays
 tags: [lcd, display, i2c, character, 16x2, sunfounder, arduino, raspberry-pi]
 quantity: 2
-location: [cabinet-1-bin-34]
-datasheet_url: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5773/CN0295D%20DATASHEET.pdf
-purchase_url: https://www.digikey.com/en/products/detail/sunfounder/CN0295D/18668612
+location: Cabinet-1/Bin-34
 price: 8.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.digikey.com/en/products/detail/sunfounder/CN0295D/18668612
+datasheet: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5773/CN0295D%20DATASHEET.pdf
 ---
 
 # SunFounder CN0295D 1602 I2C LCD

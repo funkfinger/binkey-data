@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: USB LED Controller
-brand: Adafruit
 part_number: 1689
 collaboration: Scanlime
 led_support: [WS2811, WS2812, WS2812B, NeoPixel]
@@ -13,24 +12,15 @@ connectivity: [USB]
 interface: [USB, Open_Pixel_Control]
 dimensions: 20mm x 38mm
 weight: 4g
-location: [Cabinet-1/Bin-28]
+location: Cabinet-1/Bin-28
 quantity: 1
 status: available
-price_range: $20-25
 tags: [led-controller, usb, ws2812, neopixel, fadecandy, dithering, opc, art-installation, discontinued]
+price: $20-25
+manufacturer: Adafruit
 ---
 
 # FadeCandy - Dithering USB-Controlled Driver for RGB NeoPixels
-
-## Details
-
-- **Location**: Cabinet-1, Bin 28
-- **Category**: Microcontroller Boards
-- **Type**: USB LED Controller
-- **Brand**: Adafruit (collaboration with Scanlime)
-- **Part Number**: 1689
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/1689
 
 ## Description
 

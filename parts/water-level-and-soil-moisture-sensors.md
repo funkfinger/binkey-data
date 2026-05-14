@@ -6,12 +6,11 @@ manufacturer: Various (Funduino, Generic)
 category: sensors
 subcategory: environmental-sensors
 quantity: 9
-location: 
-  - Cabinet-3
-  - Bin-30
-cost_per_unit: $4.00
+location: Cabinet-3/Bin-30
 purchase_date: 2024-12-15
 tags: [water-sensor, moisture-sensor, irrigation, agriculture, analog, digital]
+price: $4.00
+type: module
 ---
 
 # Water Level and Soil Moisture Sensors

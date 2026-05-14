@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Sockets
 subcategory: IC Sockets
-brand: Generic
 part_number: DIP-16
 model: 16-Pin DIP Socket
 description: 16-pin dual in-line IC socket for through-hole integrated circuits with 0.600" row spacing
@@ -14,38 +13,16 @@ current: Rated for standard IC currents
 power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
-compatibility:
-  [16-pin DIP ICs, Logic ICs, Memory chips, Shift registers, Counters, Decoders]
-location: [Cabinet-3/Bin-52/Section-A]
+compatibility: [16-pin DIP ICs, Logic ICs, Memory chips, Shift registers, Counters, Decoders]
+location: Cabinet-3/Bin-52/Section-A
 quantity: 17
 status: available
-price_range: $0.40-1.50
-tags:
-  [
-    ic-socket,
-    dip-socket,
-    16-pin,
-    through-hole,
-    prototyping,
-    cabinet-3,
-    bin-61,
-    status-available,
-  ]
+tags: [ic-socket, dip-socket, 16-pin, through-hole, prototyping, cabinet-3, bin-61, status-available]
 date_added: 2025-01-13
+price: $0.40-1.50
 ---
 
 # 16-Pin DIP IC Sockets
-
-## Details
-
-- **Location**: Cabinet-3, Bin 52, Section A
-- **Category**: Connectors & Sockets
-- **Brand**: Generic
-- **Part Number**: DIP-16
-- **Package**: 16-Pin DIP Socket
-- **Quantity**: 17
-- **Status**: Available
-- **Price Range**: $0.40-1.50
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: WiFi Development Board
-brand: WEMOS
 model: S2 Mini
 microcontroller: ESP32-S2FN4R2
 architecture: Xtensa LX7
@@ -20,40 +19,15 @@ dimensions: 34.3mm x 25.4mm
 weight: 2.4g
 usb_native: true
 d1_mini_compatible: true
-location: [Cabinet-1/Bin-27]
+location: Cabinet-1/Bin-27
 quantity: 9
 status: available
-price_range: $1-2
-tags:
-  [
-    microcontroller,
-    esp32-s2,
-    wifi,
-    wemos,
-    s2-mini,
-    usb-c,
-    d1-mini-compatible,
-    iot,
-    micropython,
-    circuitpython,
-  ]
+tags: [microcontroller, esp32-s2, wifi, wemos, s2-mini, usb-c, d1-mini-compatible, iot, micropython, circuitpython]
+price: $1-2
+manufacturer: WEMOS
 ---
 
 # WEMOS ESP32-S2 Mini Development Board
-
-## Details
-
-- **Location**: Cabinet-1, Bin 27
-- **Category**: Microcontroller Boards
-- **Type**: WiFi Development Board
-- **Microcontroller**: ESP32-S2FN4R2
-- **Brand**: WEMOS
-- **Model**: S2 Mini
-- **Quantity**: 9
-- **Product URL**: https://www.aliexpress.com/item/1005003145192016.html
-- **Official Documentation**: https://www.wemos.cc/en/latest/s2/s2_mini.html
-- **Schematic**: https://www.wemos.cc/en/latest/_static/files/sch_s2_mini_v1.0.0.pdf
-- **Datasheet**: https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf
 
 ## Description
 

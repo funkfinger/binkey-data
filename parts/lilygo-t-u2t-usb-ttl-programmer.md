@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Programming & Debugging Tools
 subcategory: USB-Serial Converters
-brand: LILYGO
 part_number: T-U2T
 model: T-U2T USB to TTL Programmer
 description: Compact USB-C to TTL serial converter and automatic downloader for LILYGO ESP32 development boards
@@ -15,12 +14,12 @@ power: USB powered
 interface: [USB-C, TTL Serial, Auto-download circuit]
 connectivity: [USB-C male, USB-C female, TTL pins]
 compatibility: [LILYGO ESP32 boards, ESP32-S2, ESP32-S3, ESP32-C3, Arduino IDE, PlatformIO]
-location: [Cabinet-1/Bin-5]
+location: Cabinet-1/Bin-5
 quantity: 1
 status: available
-price_range: $5.69
 tags: [usb-ttl, programmer, lilygo, esp32, ch9102, auto-download, usb-c, serial-converter, cabinet-1, status-available]
 date_added: 2025-08-06
+price: $5.69
 ---
 
 # LILYGO T-U2T USB to TTL Programmer

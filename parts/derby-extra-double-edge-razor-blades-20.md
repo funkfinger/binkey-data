@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Tools & Supplies
 subcategory: Shaving Supplies
-brand: Derby
 part_number: N/A
 model: Derby Extra Double Edge Razor Blades
 description: Stainless steel double edge razor blades with polymer coating, 20 pieces
@@ -15,42 +14,17 @@ power: N/A
 interface: [Double Edge Safety Razor]
 connectivity: [Mechanical Fit]
 compatibility: [Double Edge Safety Razors, DE Razor Handles]
-location: [Cabinet-5/Bin-42]
+location: Cabinet-5/Bin-42
 quantity: 20
 status: available
-price_range: $8-15
 datasheet: N/A
 product_url: https://a.co/d/0agDJhp
-tags:
-  [
-    razor-blades,
-    double-edge,
-    derby-extra,
-    stainless-steel,
-    polymer-coated,
-    shaving,
-    safety-razor,
-    cabinet-5,
-    bin-42,
-    status-available,
-  ]
+tags: [razor-blades, double-edge, derby-extra, stainless-steel, polymer-coated, shaving, safety-razor, cabinet-5, bin-42, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $8-15
 ---
 
 # Derby Extra Double Edge Razor Blades
-
-## Details
-
-- **Location**: Cabinet-5, Bin 42
-- **Category**: Tools & Supplies
-- **Brand**: Derby
-- **Model**: Derby Extra Double Edge Razor Blades
-- **Package**: Individually wrapped blades
-- **Quantity**: 20 pieces
-- **Status**: Available
-- **Price Range**: $8-15
-- **Product URL**: https://a.co/d/0agDJhp
 
 ## Description
 

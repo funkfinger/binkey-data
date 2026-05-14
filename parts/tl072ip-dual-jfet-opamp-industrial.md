@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Analog ICs
 subcategory: Operational Amplifiers
-brand: Texas Instruments
 part_number: TL072IP
 model: TL072IP
 description: Dual JFET-input operational amplifier with industrial temperature range and low noise for precision applications
@@ -15,30 +14,17 @@ power: Low power consumption 940µA per channel
 interface: [Analog Signal Processing, Audio Amplification]
 connectivity: [Through-hole pins]
 compatibility: [Audio circuits, Precision amplifiers, Active filters, Industrial applications]
-location: [Cabinet-3/Bin-32/Section-B]
+location: Cabinet-3/Bin-32/Section-B
 quantity: 8
 status: available
-price_range: $1.50-3.50
 datasheet: https://www.ti.com/lit/ds/symlink/tl072.pdf
 product_url: https://www.ti.com/product/TL072
 tags: [dual-opamp, jfet-input, low-noise, audio-amplifier, precision-amplifier, industrial-grade, texas-instruments, cabinet-3, bin-32, status-available]
 date_added: 2025-01-13
+price: $1.50-3.50
 ---
 
 # TL072IP - Dual JFET-Input Operational Amplifier (Industrial Grade)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 32, Section B
-- **Category**: Analog ICs
-- **Brand**: Texas Instruments
-- **Part Number**: TL072IP
-- **Package**: 8-DIP
-- **Quantity**: 8
-- **Status**: Available
-- **Price Range**: $1.50-3.50
-- **Datasheet**: [TL072 Datasheet](https://www.ti.com/lit/ds/symlink/tl072.pdf)
-- **Product URL**: [TI Product Page](https://www.ti.com/product/TL072)
 
 ## Description
 

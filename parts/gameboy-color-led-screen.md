@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: GameBoy Color LED Screen
 description: Replacement or aftermarket LED screen for GameBoy Color handheld gaming console
 manufacturer: Unknown/Aftermarket
@@ -8,11 +8,11 @@ category: led-displays
 subcategory: gaming-displays
 tags: [gameboy, color, led, screen, display, gaming, handheld, replacement, retro]
 quantity: 1
-location: [cabinet-1-bin-34]
+location: Cabinet-1/Bin-34
 price: 0.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # GameBoy Color LED Screen

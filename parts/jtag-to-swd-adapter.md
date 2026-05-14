@@ -1,23 +1,17 @@
 ---
-type: electronic-component
+type: other
 category: Programming Tools
 subcategory: Debug Adapter
-brand: Adafruit
 part_number: 2094
-location: [Cabinet-1/Bin-5]
+location: Cabinet-1/Bin-5
 quantity: 1
 status: available
-price_range: $5-10
 tags: [jtag, swd, adapter, debugging, adafruit]
+price: $5-10
+manufacturer: Adafruit
 ---
 
 # JTAG to SWD Cable Adapter Board
-
-## Details
-
-- **Location**: Cabinet-1, Bin 5
-- **Category**: Programming / Debugging Tools
-- **Product URL**: https://www.adafruit.com/product/2094
 
 ## Description
 

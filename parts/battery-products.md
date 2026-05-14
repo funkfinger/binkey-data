@@ -1,36 +1,24 @@
 ---
-type: part
+type: other
 title: Battery Products
 description: Collection of battery holders and batteries including A23 holders, coin cell holders, and various battery types for portable electronics applications
 manufacturer: Various
 part_number: BATTERY-PRODUCTS-MIXED
 category: power-management
 subcategory: battery-products
-tags:
-  [
-    batteries,
-    battery-holders,
-    a23,
-    coin-cell,
-    alkaline,
-    lithium,
-    portable-power,
-    energy-storage,
-  ]
+tags: [batteries, battery-holders, a23, coin-cell, alkaline, lithium, portable-power, energy-storage]
 total_quantity: 100+
 location:
-  [
-    cabinet-2-bin-14,
-    cabinet-2-bin-15,
-    cabinet-2-bin-30,
-    cabinet-2-bin-31,
-    cabinet-2-bin-36,
-    cabinet-3-bin-20,
-  ]
+- Cabinet-2/Bin-14
+- Cabinet-2/Bin-15
+- Cabinet-2/Bin-30
+- Cabinet-2/Bin-31
+- Cabinet-2/Bin-36
+- Cabinet-3/Bin-20
 price: 2.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Battery Products

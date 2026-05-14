@@ -1,8 +1,7 @@
 ---
-type: hardware
+type: mechanical
 category: fasteners
 subcategory: thumb-screws
-brand: uxcell
 part_number: M3x10mm-knurled-thumb-screws
 model: M3x10mm Knurled Thumb Screws
 description: M3x10mm knurled thumb screws with flat knurled head, fully threaded brass construction
@@ -16,34 +15,27 @@ interface: manual (hand-tightened)
 connectivity: threaded fastener
 compatibility: M3 threaded holes and nuts
 location:
-  - cabinet-5
-  - bin-45
-  - section-a
+- Cabinet-5
+- Bin-45
+- Section-A
 quantity: 6
 status: available
-price_range: budget
 datasheet: N/A
 product_url: https://a.co/d/07eSl0e
 tags:
-  - thumb-screws
-  - knurled-head
-  - brass
-  - m3
-  - hand-tightened
-  - tool-free
-  - fasteners
-  - hardware
+- thumb-screws
+- knurled-head
+- brass
+- m3
+- hand-tightened
+- tool-free
+- fasteners
+- hardware
 date_added: 2025-01-27
-added_date: 2025-01-27
+price: budget
 ---
 
 # uxcell M3x10mm Knurled Thumb Screws
-
-## Details
-
-**Location**: [[am-cabinet-5]] - Bin 45, Section A  
-**Quantity**: 6 pieces  
-**Status**: Available
 
 ## Description
 

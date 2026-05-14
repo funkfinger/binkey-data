@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Servo Motors
 subcategory: Micro Servo
-brand: Beffkkip
 part_number: SG90-9G
 model: SG90 9g Micro Servos
 description: Beffkkip SG90 9g micro servo motors for RC robots, helicopters, airplanes, and Arduino projects
@@ -15,29 +14,17 @@ power: Variable based on load
 interface: [PWM Control, 3-wire connection]
 connectivity: [Signal, VCC, Ground]
 compatibility: [Arduino, Raspberry Pi, RC Aircraft, Robots]
-location: [Cabinet-4/Bin-19]
+location: Cabinet-4/Bin-19
 quantity: ~8
 status: available
-price_range: $7.99-$18.99
-datasheet: 
+datasheet:
 product_url: https://a.co/d/c0fgu7o
 tags: [servo-motors, sg90, micro-servo, arduino, rc-aircraft, robotics, pwm-control, cabinet-4, bin-19, status-available]
 date_added: 2025-01-13
+price: $7.99-$18.99
 ---
 
 # Beffkkip SG90 9g Micro Servos
-
-## Details
-
-- **Location**: Cabinet 4, Bin 19
-- **Category**: Servo Motors
-- **Brand**: Beffkkip
-- **Part Number**: SG90-9G
-- **Package**: Various pack sizes
-- **Quantity**: ~8 servos
-- **Status**: Available
-- **Price Range**: $7.99 (4pcs) - $18.99 (10pcs)
-- **Product URL**: https://a.co/d/c0fgu7o
 
 ## Description
 

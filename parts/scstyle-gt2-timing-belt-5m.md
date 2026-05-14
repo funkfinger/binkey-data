@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Mechanical Components
 subcategory: Timing Belt
-brand: SCStyle
 part_number: GT2-5M-6MM
 model: GT2 2mm Pitch 6mm Wide Timing Belt
 description: High-quality GT2 timing belt for 3D printers and CNC machines with 2mm pitch and 6mm width
@@ -15,29 +14,17 @@ power: N/A
 interface: [Mechanical Drive]
 connectivity: [Timing Pulleys, Drive Systems]
 compatibility: [3D Printers, CNC Machines, GT2 Pulleys]
-location: [Cabinet-4/Bin-14]
+location: Cabinet-4/Bin-14
 quantity: 5+ meters
 status: available
-price_range: $8.00-$12.00
-datasheet: 
+datasheet:
 product_url: https://a.co/d/fMQNBaa
 tags: [timing-belt, gt2, 3d-printer, cnc, mechanical-drive, cabinet-4, bin-14, status-available]
 date_added: 2025-01-13
+price: $8.00-$12.00
 ---
 
 # SCStyle GT2 2mm Pitch 6mm Wide Timing Belt (5+ meters)
-
-## Details
-
-- **Location**: Cabinet 4, Bin 14
-- **Category**: Mechanical Components
-- **Brand**: SCStyle
-- **Part Number**: GT2-5M-6MM
-- **Package**: 5+ meters continuous length
-- **Quantity**: 5+ meters
-- **Status**: Available
-- **Price Range**: $8.00 - $12.00
-- **Product URL**: https://a.co/d/fMQNBaa
 
 ## Description
 

@@ -6,14 +6,13 @@ manufacturer: Adafruit Industries
 category: sensors
 subcategory: motion-sensors
 quantity: 1
-location: 
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $9.95
+location: Cabinet-3/Bin-28
 datasheet: https://learn.adafruit.com/lsm303agr-accelerometer-magnetometer
-purchase_url: https://www.adafruit.com/product/4413
 purchase_date: 2024-12-15
 tags: [accelerometer, magnetometer, compass, 6dof, i2c, stemma-qt]
+price: $9.95
+product_url: https://www.adafruit.com/product/4413
+type: module
 ---
 
 # Adafruit LSM303AGR Accelerometer Magnetometer

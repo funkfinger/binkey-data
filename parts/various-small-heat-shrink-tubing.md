@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Tools & Supplies
 subcategory: Heat Shrink Tubing
-brand: Various
 part_number: VAR-HEAT-SHRINK-SMALL-ASSORTED
 model: Assorted Small Size Heat Shrink Tubing Kit
 description: Mixed collection of small-diameter heat shrink tubing in assorted colors and sizes for wire insulation and strain relief
@@ -15,28 +14,17 @@ power: N/A
 interface: [Wire Insulation]
 connectivity: [Wire Harnessing]
 compatibility: [Electronics wiring, cable management]
-location: [Cabinet-3/Bin-25]
+location: Cabinet-3/Bin-25
 quantity: Various (assortment)
 status: available
-price_range: $8-20
-datasheet: 
+datasheet:
 product_url: https://a.co/d/4WxfsVu
 tags: [heat-shrink, tubing, insulation, cable-management, tools-supplies, assorted, cabinet-3, bin-25, status-available]
 date_added: 2025-09-03
-added_date: 2025-09-03
+price: $8-20
 ---
 
 # Assorted Small Size Heat Shrink Tubing Kit
-
-## Details
-
-- **Location**: Cabinet-3, Bin 25
-- **Category**: Tools & Supplies — Heat Shrink Tubing
-- **Brand/Manufacturer**: Various
-- **Model**: Assorted small-diameter heat shrink tubing
-- **Quantity**: Various (assorted kit)
-- **Status**: Available
-- **Product URL**: https://a.co/d/4WxfsVu
 
 ## Description
 

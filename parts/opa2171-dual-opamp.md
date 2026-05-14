@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Analog ICs
 subcategory: Operational Amplifiers
-brand: Texas Instruments
 part_number: OPA2171AIDGKR
 model: OPA2171
 description: Dual 36V single-supply low-power general-purpose operational amplifier, VSSOP-8 package
@@ -14,32 +13,17 @@ power: 1.4mA typical per channel
 interface: [Analog Signal Processing]
 connectivity: [Surface Mount - VSSOP-8]
 compatibility: [General-purpose analog circuits, Single-supply applications]
-location: [Cabinet-3/Bin-37/Section-F]
+location: Cabinet-3/Bin-37/Section-F
 quantity: 8
 status: available
-price_range: $0.50-1.00 each
 datasheet: https://www.ti.com/lit/ds/symlink/opa2171.pdf
 product_url: https://www.digikey.com/en/products/detail/texas-instruments/OPA2171AIDGKR/3053300
 tags: [op-amp, dual-opamp, 36v, single-supply, low-power, general-purpose, vssop, surface-mount, texas-instruments, digikey, cabinet-3, bin-37, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.50-1.00 each
 ---
 
 # Texas Instruments OPA2171 Dual Op-Amp
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section F
-- **Category**: Analog ICs
-- **Brand**: Texas Instruments
-- **Part Number**: OPA2171AIDGKR
-- **Model**: OPA2171
-- **Package**: VSSOP-8 (DGK)
-- **Quantity**: 8 units
-- **Status**: Available
-- **Price Range**: $0.50-1.00 per unit
-- **Datasheet**: [OPA2171 Datasheet](https://www.ti.com/lit/ds/symlink/opa2171.pdf)
-- **Product URL**: [DigiKey - OPA2171AIDGKR](https://www.digikey.com/en/products/detail/texas-instruments/OPA2171AIDGKR/3053300)
 
 ## Description
 

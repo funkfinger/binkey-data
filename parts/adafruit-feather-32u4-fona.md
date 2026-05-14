@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: ATmega32u4 Development Board
-brand: Adafruit
 part_number: 3027
 model: Feather 32u4 FONA
 microcontroller: ATmega32u4
@@ -23,26 +22,15 @@ weight: 8.2g
 cellular: true
 battery_charging: true
 form_factor: Feather
-location: [Cabinet-1/Bin-29]
+location: Cabinet-1/Bin-29
 quantity: 2
-status: discontinued
-price_range: $44-45
+status: out-of-stock
 tags: [microcontroller, atmega32u4, feather, fona, cellular, 2g, gsm, sim800, battery-charging, adafruit, arduino, discontinued]
+price: $44-45
+manufacturer: Adafruit
 ---
 
 # Adafruit Feather 32u4 FONA
-
-## Details
-
-- **Location**: Cabinet-1, Bin 29
-- **Category**: Feather Boards
-- **Type**: ATmega32u4 Development Board with Cellular (Feather Form Factor)
-- **Microcontroller**: ATmega32u4 @ 8MHz with 3.3V logic
-- **Brand**: Adafruit
-- **Part Number**: 3027
-- **Quantity**: 2
-- **Status**: Discontinued
-- **Product URL**: https://www.adafruit.com/product/3027
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Display Drivers
 subcategory: LED Drivers
-brand: Texas Instruments
 part_number: TLC5940
 model: TLC5940PWP
 description: 16-channel LED driver with EEPROM dot correction and 12-bit grayscale PWM control
@@ -15,30 +14,17 @@ power: Constant-current sink driver
 interface: [Serial Data Interface, PWM Control]
 connectivity: [Surface-mount pins]
 compatibility: [RGB LEDs, LED strips, LED matrices, Microcontrollers]
-location: [Cabinet-3/Bin-39/Section-B]
+location: Cabinet-3/Bin-39/Section-B
 quantity: 8
 status: available
-price_range: $4.00-6.00 (estimated)
 datasheet: https://www.ti.com/lit/gpn/tlc5940
 product_url: https://www.ti.com/product/TLC5940
 tags: [led-driver, pwm-control, dot-correction, 16-channel, texas-instruments, eeprom, cabinet-3, bin-39, status-available]
 date_added: 2025-01-13
+price: $4.00-6.00 (estimated)
 ---
 
 # TLC5940 - 16-Channel LED Driver with DOT Correction
-
-## Details
-
-- **Location**: Cabinet-3, Bin 39, Section B
-- **Category**: Display Drivers
-- **Brand**: Texas Instruments
-- **Part Number**: TLC5940 / TLC5940PWP
-- **Package**: 28-HTSSOP (Surface Mount)
-- **Quantity**: 8
-- **Status**: Available
-- **Price Range**: $4.00-6.00 (estimated)
-- **Datasheet**: [TLC5940 Datasheet](https://www.ti.com/lit/gpn/tlc5940)
-- **Product URL**: https://www.ti.com/product/TLC5940
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Sealing & Gaskets
 subcategory: O-Rings & Seals
-brand: OCGIG
 part_number: N/A
 model: 225 Pcs O-Ring 18 Sizes Rubber Sealing Gasket Rings Washer Seal Assortment Set
 description: Various different sized rubber O-ring gaskets for sealing applications, 225 pieces in 18 sizes
@@ -15,44 +14,17 @@ power: N/A
 interface: [Mechanical Seal]
 connectivity: [Compression Seal]
 compatibility: [Plumbing, Automotive, General Repair, Fluid Systems]
-location: [Cabinet-5/Bin-46]
+location: Cabinet-5/Bin-46
 quantity: Various
 status: available
-price_range: $15-25
 datasheet: N/A
 product_url: https://a.co/d/4KufU5u
-tags:
-  [
-    o-rings,
-    gaskets,
-    sealing,
-    rubber-seals,
-    assortment-kit,
-    plumbing,
-    automotive,
-    repair,
-    ocgig,
-    cabinet-5,
-    bin-46,
-    status-available,
-  ]
+tags: [o-rings, gaskets, sealing, rubber-seals, assortment-kit, plumbing, automotive, repair, ocgig, cabinet-5, bin-46, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $15-25
 ---
 
 # OCGIG O-Ring Gasket Assortment - Various Sizes
-
-## Details
-
-- **Location**: Cabinet-5, Bin 46
-- **Category**: Sealing & Gaskets
-- **Brand**: OCGIG
-- **Model**: 225 Pcs O-Ring 18 Sizes Rubber Sealing Gasket Rings Washer Seal Assortment Set
-- **Package**: Assorted sizes in organized kit
-- **Quantity**: Various different sized gaskets (225 total pieces)
-- **Status**: Available
-- **Price Range**: $15-25
-- **Product URL**: https://a.co/d/4KufU5u
 
 ## Description
 

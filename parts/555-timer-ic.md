@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Analog ICs
 subcategory: Timers
-brand: Various
 part_number: NE555
 model: 555
 description: Precision timing circuit IC
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [Analog, Digital Logic]
 connectivity: [Through-hole pins]
 compatibility: [TTL, CMOS Logic]
-location: [Cabinet-3/Bin-36/Section-A]
+location: Cabinet-3/Bin-36/Section-A
 quantity: 70
 status: available
-price_range: $0.25-0.75
 datasheet: https://www.ti.com/lit/ds/symlink/ne555.pdf
 product_url: https://www.ti.com/product/NE555
 tags: [timer-ic, analog-ic, precision-timer, astable, monostable, 555, cabinet-3, bin-36, status-available]
 date_added: 2025-01-12
+price: $0.25-0.75
 ---
 
 # 555 Timer IC - Precision Timing Circuit
-
-## Details
-
-- **Location**: Cabinet-3, Bin 36, Section A
-- **Category**: Analog ICs
-- **Brand**: Various (TI, STMicroelectronics, etc.)
-- **Part Number**: NE555 / LM555
-- **Package**: 8-DIP
-- **Quantity**: 70
-- **Status**: Available
-- **Price Range**: $0.25-0.75
-- **Datasheet**: [NE555 Datasheet](https://www.ti.com/lit/ds/symlink/ne555.pdf)
-- **Product URL**: https://www.ti.com/product/NE555
 
 ## Description
 

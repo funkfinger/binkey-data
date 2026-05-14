@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2040 Development Board
-brand: Raspberry Pi Foundation
 part_number: 5525
 model: Raspberry Pi Pico H
 microcontroller: RP2040
@@ -23,38 +22,15 @@ weight: 3g
 headers_soldered: true
 debug_connector: true
 form_factor: Pico
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 1
 status: available
-price_range: $5
-tags:
-  [
-    microcontroller,
-    rp2040,
-    pico,
-    raspberry-pi,
-    headers-soldered,
-    debug-connector,
-    circuitpython,
-    micropython,
-    arduino,
-    pio,
-    dual-core,
-  ]
+tags: [microcontroller, rp2040, pico, raspberry-pi, headers-soldered, debug-connector, circuitpython, micropython, arduino, pio, dual-core]
+price: $5
+manufacturer: Raspberry Pi Foundation
 ---
 
 # Raspberry Pi Pico H - Pico with Headers Soldered
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2040 Development Board with Pre-Soldered Headers (Pico Form Factor)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 133MHz)
-- **Brand**: Raspberry Pi Foundation
-- **Part Number**: 5525
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/5525
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: WaveShare ESP32-S3-LCD-1.3
 description: ESP32-S3 development board with 1.3-inch 240×240 color LCD display, built-in ST7789V2 chip and 6-axis IMU
 manufacturer: WaveShare
@@ -8,13 +8,13 @@ category: development-boards
 subcategory: esp32-boards
 tags: [esp32-s3, lcd-display, st7789v2, imu, wifi, bluetooth, development-board, 240x240, spi]
 quantity: 2
-location: [cabinet-1-bin-40]
-datasheet_url: https://www.waveshare.com/wiki/ESP32-S3-LCD-1.3
-purchase_url: https://www.waveshare.com/product/arduino/boards-kits/esp32-s3/esp32-s3-lcd-1.3.htm
+location: Cabinet-1/Bin-40
 price: 13.99
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.waveshare.com/product/arduino/boards-kits/esp32-s3/esp32-s3-lcd-1.3.htm
+datasheet: https://www.waveshare.com/wiki/ESP32-S3-LCD-1.3
 ---
 
 # WaveShare ESP32-S3-LCD-1.3

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Interface ICs
 subcategory: I/O Expanders
-brand: Microchip Technology
 part_number: MCP23008-E/P
 model: MCP23008-E/P
 description: 8-bit I/O expander with I2C interface
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [I2C]
 connectivity: [Through-hole pins]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers]
-location: [Cabinet-3/Bin-38/Section-B]
+location: Cabinet-3/Bin-38/Section-B
 quantity: 26
 status: available
-price_range: $1.17-1.54
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/MCP23008-E-P/735951
 tags: [io-expander, interface-ic, i2c, gpio, microchip, mcp23008, cabinet-3, bin-38, status-available]
 date_added: 2025-01-12
+price: $1.17-1.54
 ---
 
 # MCP23008-E/P - 8-Bit I/O Expander with I2C Interface
-
-## Details
-
-- **Location**: Cabinet-3, Bin 38, Section B
-- **Category**: Interface ICs
-- **Brand**: Microchip Technology
-- **Part Number**: MCP23008-E/P
-- **Package**: 18-PDIP
-- **Quantity**: 26
-- **Status**: Available
-- **Price Range**: $1.17-1.54
-- **Datasheet**: [MCP23008 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf)
-- **Product URL**: https://www.digikey.com/en/products/detail/microchip-technology/MCP23008-E-P/735951
 
 ## Description
 

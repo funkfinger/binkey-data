@@ -1,28 +1,19 @@
 ---
-type: electronic-component
+type: ic
 category: Logic Gates
 subcategory: NOR Gate
-brand: Motorola
 part_number: MC14001BCP
 size: DIP-14
 color: Black
-location: [Cabinet-3/Bin-33/Section-C]
+location: Cabinet-3/Bin-33/Section-C
 quantity: 1
 status: available
-price_range: $2-8
 tags: [logic-gate, nor-gate, quad, cmos, motorola, dip-14, vintage, cabinet-3, bin-33, section-c, status-available]
+price: $2-8
+manufacturer: Motorola
 ---
 
 # Motorola MC14001BCP Quad 2-Input NOR Gate
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section C
-- **Category**: Logic Gates
-- **Quantity**: 1
-- **Status**: Available
-- **Package**: 14-pin DIP (Dual In-line Package)
-- **Series**: 4000/14000/40000 Series CMOS
 
 ## Description
 

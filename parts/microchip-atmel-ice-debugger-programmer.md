@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Microchip ATMEL-ICE Debugger and Programmer
 description: Professional debugger, emulator, and programmer for ARM and AVR microcontrollers with multiple interface support
 manufacturer: Microchip Technology
@@ -8,13 +8,13 @@ category: programming-tools
 subcategory: professional-debuggers
 tags: [atmel-ice, debugger, programmer, emulator, arm, avr, jtag, swd, pdi, awire, debugwire, microchip, professional]
 quantity: 1
-location: [cabinet-1-bin-37]
-datasheet_url: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-ICE_UserGuide.pdf
-purchase_url: https://www.digikey.com/en/products/detail/microchip-technology/ATATMEL-ICE/4753379
+location: Cabinet-1/Bin-37
 price: 101.99
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.digikey.com/en/products/detail/microchip-technology/ATATMEL-ICE/4753379
+datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-ICE_UserGuide.pdf
 ---
 
 # Microchip ATMEL-ICE Debugger and Programmer

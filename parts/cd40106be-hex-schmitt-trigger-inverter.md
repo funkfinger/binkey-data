@@ -1,29 +1,19 @@
 ---
-type: electronic-component
+type: ic
 category: Logic Gates
 subcategory: Inverter/Schmitt Trigger
-brand: Texas Instruments
 part_number: CD40106BE
 size: DIP-14
 color: Black
-location: [Cabinet-3/Bin-41/Section-C]
+location: Cabinet-3/Bin-41/Section-C
 quantity: 17
 status: available
-price_range: $0.50-1.00
 tags: [logic-gate, inverter, schmitt-trigger, hex-inverter, cmos, texas-instruments, dip-14, cabinet-3, bin-41, section-c, status-available]
+price: $0.50-1.00
+manufacturer: Texas Instruments
 ---
 
 # CD40106BE Hex Schmitt-Trigger Inverter
-
-## Details
-
-- **Location**: Cabinet-3, Bin 41, Section C
-- **Category**: Logic Gates
-- **Quantity**: 17
-- **Status**: Available
-- **Package**: 14-pin DIP (Dual In-line Package)
-- **Datasheet**: [CD40106B Datasheet](https://www.ti.com/lit/gpn/cd40106b)
-- **DigiKey**: [CD40106BE](https://www.digikey.com/en/products/detail/texas-instruments/CD40106BE/376602)
 
 ## Description
 

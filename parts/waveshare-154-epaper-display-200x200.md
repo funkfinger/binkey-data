@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: Waveshare 1.54inch E-Ink Display Module
 description: 1.54 inch E-Paper display with 200x200 resolution, SPI interface, supports partial refresh
 manufacturer: Waveshare
@@ -8,12 +8,12 @@ category: e-paper-displays
 subcategory: monochrome-epaper
 tags: [e-paper, e-ink, display, spi, 200x200, waveshare, low-power, raspberry-pi, arduino]
 quantity: 1
-location: [cabinet-1-bin-34]
-purchase_url: https://a.co/d/0YMI2AM
+location: Cabinet-1/Bin-34
 price: 18.99
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://a.co/d/0YMI2AM
 ---
 
 # Waveshare 1.54inch E-Ink Display Module

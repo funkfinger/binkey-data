@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Power Supply
 subcategory: High Voltage
-brand: Threeneurons
 part_number: NK01B
 model: NK01B
 description: High voltage power supply kit for nixie tubes and similar applications
@@ -15,30 +14,17 @@ power: 5W output (6.7W input)
 interface: [DC Input, High Voltage Output]
 connectivity: [8-pin header connector]
 compatibility: [Nixie tubes, High voltage applications]
-location: [Cabinet-4/Bin-21]
+location: Cabinet-4/Bin-21
 quantity: 2
 status: available
-price_range: $15-25
 datasheet: https://threeneurons.wordpress.com/wp-content/uploads/2022/01/hv_supply_kit_1a-1b.pdf
 product_url: https://threeneurons.wordpress.com/nixie-power-supply/hv-supply-kit/
 tags: [nixie, power-supply, high-voltage, kit, mc34063, boost-converter, cabinet-4, bin-21, status-available]
 date_added: 2025-01-13
+price: $15-25
 ---
 
 # NK01B Nixie Power Supply Kit
-
-## Details
-
-- **Location**: Cabinet-4, Bin 21
-- **Category**: Power Supply
-- **Brand**: Threeneurons
-- **Part Number**: NK01B
-- **Package**: PCB Kit
-- **Quantity**: 2
-- **Status**: available
-- **Price Range**: $15-25
-- **Datasheet**: [NK01B Datasheet](https://threeneurons.wordpress.com/wp-content/uploads/2022/01/hv_supply_kit_1a-1b.pdf)
-- **Product URL**: https://threeneurons.wordpress.com/nixie-power-supply/hv-supply-kit/
 
 ## Description
 

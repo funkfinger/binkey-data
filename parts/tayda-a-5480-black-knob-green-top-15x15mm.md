@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Knobs & Controls
 subcategory: Potentiometer Knobs
-brand: Tayda Electronics
 part_number: A-5480
 model: Black Knob Green Top 15x15mm Shaft Diameter 6.00mm Split Shaft
 description: Black ABS knob with green top cap, 15x15mm, for 6mm T18 split-shaft potentiometers
@@ -15,30 +14,17 @@ power: N/A
 interface: [Mechanical]
 connectivity: [6mm T18 split shaft]
 compatibility: [6mm split-shaft potentiometers, Tayda A-6333]
-location: [Cabinet-7/Bin-16/Section-A]
+location: Cabinet-7/Bin-16/Section-A
 quantity: 10
 status: available
-price_range: $0.37
 datasheet: N/A
 product_url: https://www.taydaelectronics.com/black-knob-green-top-shaft-diameter-6-mm-split-shaft.html
 tags: [knob, pot-knob, split-shaft, green-top, black, 15mm, abs, eurorack, cabinet-7, bin-16, status-available]
 date_added: 2026-05-07
-added_date: 2026-05-07
+price: $0.37
 ---
 
 # Tayda A-5480 - Black Knob, Green Top, 15x15mm, Split Shaft
-
-## Details
-
-- **Location**: Cabinet-7, Bin 16, Section A
-- **Category**: Knobs & Controls — Potentiometer Knobs
-- **Brand**: Tayda Electronics
-- **Part Number**: A-5480
-- **Package**: Push-fit knob
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $0.37
-- **Product URL**: [Tayda A-5480](https://www.taydaelectronics.com/black-knob-green-top-shaft-diameter-6-mm-split-shaft.html)
 
 ## Description
 

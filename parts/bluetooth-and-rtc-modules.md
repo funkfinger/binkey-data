@@ -1,5 +1,5 @@
 ---
-type: electronic-component
+type: module
 category: Wireless and Timing Modules
 subcategory: Bluetooth and RTC
 description: Collection of Bluetooth controllers and Real-Time Clock modules
@@ -7,22 +7,15 @@ brands: [Adafruit, Macetech]
 part_numbers: [1535, 1697, 3013, ChronoDot]
 functions: [bluetooth-hid, bluetooth-le, rtc, timekeeping]
 interfaces: [I2C, SPI, UART, Bluetooth]
-location: [Cabinet-2/Bin-9]
+location: Cabinet-2/Bin-9
 quantity: 5
 status: available
-price_range: $17-20
 tags: [bluetooth, rtc, timing, wireless, adafruit, macetech, ds3231]
 product_urls: [https://www.adafruit.com/product/1535, https://www.adafruit.com/product/1697, https://www.adafruit.com/product/3013, https://docs.macetech.com/doku.php/chronodot]
+price: $17-20
 ---
 
 # Bluetooth and RTC Modules Collection
-
-## Details
-
-- **Location**: Cabinet-2, Bin 9
-- **Category**: Wireless and Timing Modules
-- **Total Quantity**: 5 modules
-- **Applications**: Bluetooth connectivity, precise timekeeping
 
 ## Description
 

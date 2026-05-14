@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: LED Accessories
 subcategory: Extrusion Hardware
-brand: Various
 part_number: LED-EXTRUSION-HARDWARE-MIXED
 model: LED Extrusion Endcaps and Clips Collection
 description: Assorted LED extrusion hardware including endcaps, mounting clips, and accessories for professional LED strip installations
@@ -15,28 +14,17 @@ power: N/A
 interface: [Mechanical mounting, Snap-fit, Screw-mount]
 connectivity: [LED strip extrusions, Aluminum channels]
 compatibility: [Standard LED extrusion profiles, Various widths]
-location: [Cabinet-5/Bin-25]
+location: Cabinet-5/Bin-25
 quantity: Various
 status: available
-price_range: $0.10-$2.00
 datasheet: N/A
 product_url: N/A
 tags: [led, extrusion, endcaps, clips, mounting, hardware, aluminum, diffuser, cabinet-5, bin-25, status-available]
 date_added: 2025-01-14
+price: $0.10-$2.00
 ---
 
 # LED Extrusion Endcaps and Clip Hardware
-
-## Details
-
-- **Location**: Cabinet-5, Bin 25
-- **Category**: LED Accessories
-- **Brand**: Various
-- **Part Number**: LED-EXTRUSION-HARDWARE-MIXED
-- **Package**: Mixed Collection
-- **Quantity**: Various
-- **Status**: Available
-- **Price Range**: $0.10-$2.00
 
 ## Description
 

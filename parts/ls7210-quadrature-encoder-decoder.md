@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Encoder/Decoder
-brand: LSI Computer Systems
 part_number: LS7210
 model: LS7210
 description: 16-bit quadrature encoder decoder IC for incremental rotary encoder position sensing
@@ -15,30 +14,17 @@ power: Standard TTL logic power requirements
 interface: [Quadrature Encoder, Parallel Data Bus]
 connectivity: [Through-hole pins]
 compatibility: [TTL Logic, Incremental encoders, Motion control systems]
-location: [Cabinet-3/Bin-33/Section-D]
+location: Cabinet-3/Bin-33/Section-D
 quantity: 1
 status: available
-price_range: $10.00-25.00 (specialized IC)
 datasheet: https://www.lsicsi.com/pdfs/Data_Sheets/LS7210.pdf
 product_url: https://www.lsicsi.com/
 tags: [quadrature-decoder, encoder-interface, position-sensing, motion-control, lsi-computer-systems, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $10.00-25.00 (specialized IC)
 ---
 
 # LS7210 - Quadrature Encoder Decoder IC
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section D
-- **Category**: Logic ICs
-- **Brand**: LSI Computer Systems
-- **Part Number**: LS7210
-- **Package**: DIP (assumed)
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $10.00-25.00 (specialized IC)
-- **Datasheet**: [LS7210 Datasheet](https://www.lsicsi.com/pdfs/Data_Sheets/LS7210.pdf)
-- **Product URL**: https://www.lsicsi.com/
 
 ## Description
 

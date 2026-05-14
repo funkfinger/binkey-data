@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Passive Components
 subcategory: Capacitors
-brand: Generic
 part_number: Assorted Capacitor Kit
 model: Mixed Ceramic/Film Capacitor Assortment
 description: Assorted small-value capacitors kit with multiple values and quantities for prototyping and repairs
@@ -15,50 +14,18 @@ power: N/A
 interface: [Through-hole]
 connectivity: [Leaded]
 compatibility: [General electronics, prototyping]
-location: [Cabinet-2/Bin-21]
+location: Cabinet-2/Bin-21
 quantity: Various (kit)
 status: available
-price_range: $8-25
 datasheet:
 product_url: https://a.co/d/g7DKVBS
-values_included:
-  [
-    "1 uF",
-    "2.2 uF",
-    "3.3 uF",
-    "4.7 uF",
-    "10 uF",
-    "15 uF",
-    "22 uF",
-    "33 uF",
-    "47 uF",
-    "100 uF",
-  ]
-tags:
-  [
-    capacitors,
-    ceramic,
-    film,
-    assortment,
-    kit,
-    passive,
-    cabinet-2,
-    bin-21,
-    status-available,
-  ]
+values_included: ["1 uF", "2.2 uF", "3.3 uF", "4.7 uF", "10 uF", "15 uF", "22 uF", "33 uF", "47 uF", "100 uF"]
+tags: [capacitors, ceramic, film, assortment, kit, passive, cabinet-2, bin-21, status-available]
 date_added: 2025-09-06
-added_date: 2025-09-06
+price: $8-25
 ---
 
 # Assorted Capacitor Kit
-
-## Details
-
-- Location: Cabinet-2, Bin 21
-- Category: Passive Components → Capacitors
-- Type: Mixed-value leaded capacitors kit (ceramic/film)
-- Quantity: Various (assortment)
-- Product Link: https://a.co/d/g7DKVBS
 
 ## Image
 

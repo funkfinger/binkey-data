@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Microchip AVR Dragon Development Tool
 description: Low-cost development tool for programming and debugging AVR microcontrollers with multiple interface support
 manufacturer: Microchip Technology
@@ -8,13 +8,13 @@ category: programming-tools
 subcategory: development-tools
 tags: [avr-dragon, avr, programmer, debugger, microchip, atmel, jtag, debugwire, isp, pdi, hvsp, hvpp]
 quantity: 2
-location: [cabinet-1-bin-38]
-datasheet_url: http://ww1.microchip.com/downloads/en/DeviceDoc/doc2553.pdf
-purchase_url: https://www.microchip.com/en-us/development-tool/atavrdragon
+location: Cabinet-1/Bin-38
 price: 49.99
 currency: USD
 date_added: 2025-01-09
-status: discontinued
+status: out-of-stock
+product_url: https://www.microchip.com/en-us/development-tool/atavrdragon
+datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/doc2553.pdf
 ---
 
 # Microchip AVR Dragon Development Tool

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Power Management
 subcategory: USB Power Delivery
-brand: ACEIRMC
 part_number: ACEIRMC-4PCS-TYPE-C-QC-AFC-PD
 model: Type-C QC AFC PD2.0 PD3.0 Fast Charge Decoy Trigger
 description: USB-PD decoy trigger and polling detector module for fast charging protocols
@@ -15,30 +14,17 @@ power: Up to 100W (USB-PD 3.0 specification)
 interface: [USB-C, USB-PD]
 connectivity: [Type-C]
 compatibility: [QC, AFC, PD2.0, PD3.0, USB-PD]
-location: [Cabinet-2/Bin-14/Section-A]
+location: Cabinet-2/Bin-14/Section-A
 quantity: 4
 status: available
-price_range: $10-20
-datasheet: 
+datasheet:
 product_url: https://a.co/d/6nk2O50
 tags: [usb-pd, power-delivery, fast-charging, decoy-trigger, type-c, qc, afc, pd2.0, pd3.0, cabinet-2, bin-14, status-available]
 date_added: 2025-01-30
-added_date: 2025-01-30
+price: $10-20
 ---
 
 # ACEIRMC USB-PD Decoy Trigger Module
-
-## Details
-
-- **Location**: Cabinet-2, Bin 14, Section A
-- **Category**: Power Management
-- **Brand**: ACEIRMC
-- **Part Number**: ACEIRMC-4PCS-TYPE-C-QC-AFC-PD
-- **Package**: PCB Module
-- **Quantity**: 4
-- **Status**: Available
-- **Price Range**: $10-20
-- **Product URL**: https://a.co/d/6nk2O50
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Alphanumeric Displays
 subcategory: LED Character Display
-brand: Lucky Light
 part_number: KWA-541CWB-Y
 size: 0.54 inch
 color: white
@@ -16,22 +15,12 @@ luminous_intensity: 160mcd
 location: [Cabinet-1/Bin-17, Cabinet-1/Bin-19]
 quantity: 8
 status: available
-price_range: $3-6
-tags:
-  [led-display, alphanumeric, white, 14-segment, lucky-light, common-cathode]
+tags: [led-display, alphanumeric, white, 14-segment, lucky-light, common-cathode]
+price: $3-6
+manufacturer: Lucky Light
 ---
 
 # Lucky Light KWA-541CWB-Y White Alphanumeric Display
-
-## Details
-
-- **Location**: Cabinet-1, Bin 17 (4 units) & Bin 19 (4 units)
-- **Category**: Alphanumeric Displays
-- **Type**: 14-Segment LED Character Display
-- **Color**: White
-- **Size**: 0.54 inch (13.60mm) character height
-- **Quantity**: 8 total
-- **Product URL**: https://www.luckylight.cn/en/products/led-display/alphanumeric/kwa-541cwb-y/
 
 ## Description
 

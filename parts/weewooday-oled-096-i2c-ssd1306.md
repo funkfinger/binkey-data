@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: OLED Displays
 subcategory: I2C OLED Module
-brand: Weewooday
 part_number: B09JWN8K99
 size: 0.96 inch
 color: white
@@ -11,23 +10,15 @@ driver: SSD1306
 interface: I2C
 voltage: 3.3V-5V
 current: 20mA
-location: [Cabinet-1/Bin-21]
+location: Cabinet-1/Bin-21
 quantity: 8
 status: available
-price_range: $12-15
 tags: [oled-display, i2c, ssd1306, white, 128x64, weewooday, arduino, raspberry-pi]
+price: $12-15
+manufacturer: Weewooday
 ---
 
 # Weewooday 0.96" I2C OLED Display Module
-
-## Details
-- **Location**: Cabinet-1, Bin 21
-- **Category**: OLED Displays
-- **Type**: I2C OLED Display Module
-- **Size**: 0.96 inch diagonal
-- **Resolution**: 128x64 pixels
-- **Quantity**: 8
-- **Product URL**: https://a.co/d/f5LTPiZ
 
 ## Description
 Weewooday 5 pieces 0.96 inch OLED display module with 128x64 pixel resolution. Features SSD1306 driver chip with I2C interface for easy connection to microcontrollers. Self-illuminated OLED technology provides excellent contrast and visibility with white display color.

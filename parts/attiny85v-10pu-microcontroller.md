@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Microcontrollers
 subcategory: AVR Microcontrollers
-brand: Microchip (formerly Atmel)
 part_number: ATtiny85V-10PU
 model: ATtiny85V-10PU
 description: 8-bit AVR RISC microcontroller with 8KB Flash, low voltage operation, DIP-8 package, Arduino compatible
@@ -15,30 +14,17 @@ power: 1mW @ 1MHz, 3V typical
 interface: [SPI, I2C, ADC, PWM, USI]
 connectivity: [Through-hole pins]
 compatibility: [Arduino IDE, ATtiny Core, AVR-GCC, Atmel Studio]
-location: [Cabinet-3/Bin-40/Section-C]
+location: Cabinet-3/Bin-40/Section-C
 quantity: 38
 status: available
-price_range: $1.00-2.50
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf
 product_url: https://www.microchip.com/en-us/product/ATtiny85
 tags: [microcontroller, avr, attiny, arduino-compatible, 8-bit, low-voltage, dip-8, cabinet-3, bin-40, status-available]
 date_added: 2025-01-13
+price: $1.00-2.50
 ---
 
 # ATtiny85V-10PU - 8-bit AVR RISC Microcontroller
-
-## Details
-
-- **Location**: Cabinet-3, Bin 40, Section C
-- **Category**: Microcontrollers
-- **Brand**: Microchip Technology (formerly Atmel)
-- **Part Number**: ATtiny85V-10PU
-- **Package**: 8-DIP (Through-hole)
-- **Quantity**: 38
-- **Status**: Available
-- **Price Range**: $1.00-2.50
-- **Datasheet**: [ATtiny85 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
-- **Product URL**: https://www.microchip.com/en-us/product/ATtiny85
 
 ## Description
 

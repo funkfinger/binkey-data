@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: Bluetooth LE Development Board
-brand: Adafruit
 part_number: 4481
 model: ItsyBitsy nRF52840 Express
 microcontroller: nRF52840
@@ -20,37 +19,15 @@ pwm_outputs: 12
 dimensions: 36.0mm x 17.6mm x 5.3mm
 weight: 3.0g
 usb_native: true
-location: [Cabinet-1/Bin-28]
+location: Cabinet-1/Bin-28
 quantity: 1
 status: available
-price_range: $15-20
-tags:
-  [
-    microcontroller,
-    bluetooth-le,
-    nrf52840,
-    arm,
-    cortex-m4,
-    usb,
-    circuitpython,
-    arduino,
-    adafruit,
-    itsybitsy,
-  ]
+tags: [microcontroller, bluetooth-le, nrf52840, arm, cortex-m4, usb, circuitpython, arduino, adafruit, itsybitsy]
+price: $15-20
+manufacturer: Adafruit
 ---
 
 # Adafruit ItsyBitsy nRF52840 Express - Bluetooth LE
-
-## Details
-
-- **Location**: Cabinet-1, Bin 28
-- **Category**: Microcontroller Boards
-- **Type**: Bluetooth LE Development Board
-- **Microcontroller**: Nordic nRF52840
-- **Brand**: Adafruit
-- **Part Number**: 4481
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/4481
 
 ## Description
 

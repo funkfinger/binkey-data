@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2040 Development Board
-brand: Waveshare
 part_number: 24665
 model: RP2040-Tiny
 microcontroller: RP2040
@@ -21,25 +20,15 @@ dimensions: 21mm x 18mm
 weight: 2g
 usb_native: true
 form_factor: Ultra Compact
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 4
 status: available
-price_range: $4-5
 tags: [microcontroller, rp2040, tiny, compact, usb-c, waveshare, circuitpython, micropython, ultra-small]
+price: $4-5
+manufacturer: Waveshare
 ---
 
 # Waveshare RP2040-Tiny
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2040 Development Board (Ultra Compact)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 125MHz)
-- **Brand**: Waveshare
-- **Part Number**: 24665
-- **Quantity**: 4
-- **Product URL**: https://www.waveshare.com/rp2040-tiny.htm?sku=24665
 
 ## Description
 

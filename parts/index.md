@@ -1,35 +1,8 @@
 ---
-type: parts-index
+type: other
 title: Parts Database
 description: Comprehensive catalog of individual electronic components with detailed specifications
-categories:
-  [
-    led-backpacks,
-    programming-tools,
-    test-equipment,
-    building-components,
-    enclosures,
-    optical-components,
-    sensors,
-    environmental-monitoring,
-    led-controllers,
-    switches,
-    vintage-components,
-    mechanical-components,
-    networking-components,
-    servo-motors,
-    led-displays,
-    standard-leds,
-    special-leds,
-    rgb-leds,
-    neopixel-leds,
-    specialty-leds,
-    featherwings,
-    microcontroller-boards,
-    temperature-sensors,
-    connector-boards,
-    cables-connectors,
-  ]
+categories: [led-backpacks, programming-tools, test-equipment, building-components, enclosures, optical-components, sensors, environmental-monitoring, led-controllers, switches, vintage-components, mechanical-components, networking-components, servo-motors, led-displays, standard-leds, special-leds, rgb-leds, neopixel-leds, specialty-leds, featherwings, microcontroller-boards, temperature-sensors, connector-boards, cables-connectors]
 tags: [parts, database, components, electronics, catalog]
 ---
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Diodes
 subcategory: Zener Diodes
-brand: onsemi
 part_number: MMBZ5240BLT1G
 description: 10V Zener diode, SOT-23 package, surface mount
 manufacturer: onsemi
@@ -13,16 +12,11 @@ power: 350mW maximum dissipation
 location: [SMT-Parts-Book-1/Page-5/Slot-2, SMT-Parts-Book-1/Page-5/Slot-3]
 quantity: 40
 status: available
-price_range: $0.10-0.25 each
 product_url: https://www.digikey.com/en/products/detail/onsemi/MMBZ5240BLT1G/919669
 tags: [smt, zener-diode, 10v, voltage-regulation, overvoltage-protection, sot-23, onsemi, surface-mount]
 date_added: 2025-11-16
-added_date: 2025-11-16
+price: $0.10-0.25 each
 ---
-
-## Details
-
-The MMBZ5240BLT1G is a surface-mount Zener diode from onsemi with a nominal Zener voltage of 10V. It's ideal for voltage regulation, overvoltage protection, and reference circuits in compact SMT designs.
 
 ## Description
 

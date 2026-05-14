@@ -6,14 +6,13 @@ manufacturer: Adafruit Industries
 category: sensors
 subcategory: motion-sensors
 quantity: 2
-location:
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $4.95
+location: Cabinet-3/Bin-28
 datasheet: https://learn.adafruit.com/adafruit-lis3dh-triple-axis-accelerometer-breakout
-purchase_url: https://www.adafruit.com/product/2809
 purchase_date: 2024-12-15
 tags: [accelerometer, motion-sensor, 3-axis, i2c, spi, low-power]
+price: $4.95
+product_url: https://www.adafruit.com/product/2809
+type: module
 ---
 
 # Adafruit LIS3DH Accelerometer

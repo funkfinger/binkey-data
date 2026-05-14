@@ -1,5 +1,5 @@
 ---
-type: part
+type: dev-board
 title: Adafruit FeatherWing OLED 128x32
 description: 128x32 monochrome OLED display add-on for Feather boards with 3 user buttons
 manufacturer: Adafruit
@@ -8,12 +8,12 @@ category: featherwings
 subcategory: display-wings
 tags: [featherwing, oled, display, 128x32, i2c, ssd1306, adafruit, buttons]
 quantity: 1
-location: [cabinet-1-bin-35]
-purchase_url: https://www.adafruit.com/product/2900
+location: Cabinet-1/Bin-35
 price: 14.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/2900
 ---
 
 # Adafruit FeatherWing OLED 128x32

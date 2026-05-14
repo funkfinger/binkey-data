@@ -1,24 +1,18 @@
 ---
-type: electronic-component
+type: passive
 category: Wearable LEDs
 subcategory: Sewable LED
-brand: Adafruit
 size: small
 application: wearable
-location: [Cabinet-1/Bin-13]
+location: Cabinet-1/Bin-13
 quantity: 5
 status: available
-price_range: $1-3
 tags: [led, adafruit, sequin, wearable, sewable]
+price: $1-3
+manufacturer: Adafruit
 ---
 
 # Adafruit LED Sequin
-
-## Details
-
-- **Location**: Cabinet-1, Bin 13
-- **Category**: LEDs
-- **Brand**: Adafruit
 
 ## Description
 

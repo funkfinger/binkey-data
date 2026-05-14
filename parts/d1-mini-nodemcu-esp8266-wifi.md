@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: WiFi Development Board
-brand: Hosyond
 model: D1 Mini
 microcontroller: ESP8266
 chip: ESP-12F
@@ -18,25 +17,15 @@ analog_inputs: 1
 pwm_support: true
 dimensions: 34.2mm x 25.6mm
 weight: 3g
-location: [Cabinet-1/Bin-25]
+location: Cabinet-1/Bin-25
 quantity: 6
 status: available
-price_range: $14-15
 tags: [microcontroller, esp8266, wifi, d1-mini, nodemcu, arduino-compatible, iot, wireless]
+price: $14-15
+manufacturer: Hosyond
 ---
 
 # D1 Mini NodeMCU ESP8266 ESP-12F WiFi Module Development Board
-
-## Details
-
-- **Location**: Cabinet-1, Bin 25
-- **Category**: Microcontroller Boards
-- **Type**: WiFi Development Board
-- **Microcontroller**: ESP8266 ESP-12F
-- **Brand**: Hosyond
-- **Model**: D1 Mini
-- **Quantity**: 6
-- **Product URL**: https://a.co/d/9RKNNKX
 
 ## Description
 

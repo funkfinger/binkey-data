@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: ATSAMD21 Development Board
-brand: Adafruit
 part_number: 3403
 model: Feather M0 Express
 microcontroller: ATSAMD21G18
@@ -25,38 +24,15 @@ battery_charging: true
 neopixel: true
 rtc: true
 form_factor: Feather
-location: [Cabinet-1/Bin-29]
+location: Cabinet-1/Bin-29
 quantity: 3
 status: available
-price_range: $19-20
-tags:
-  [
-    microcontroller,
-    atsamd21,
-    feather,
-    circuitpython,
-    arduino,
-    m0-express,
-    battery-charging,
-    adafruit,
-    neopixel,
-    spi-flash,
-    uf2,
-  ]
+tags: [microcontroller, atsamd21, feather, circuitpython, arduino, m0-express, battery-charging, adafruit, neopixel, spi-flash, uf2]
+price: $19-20
+manufacturer: Adafruit
 ---
 
 # Adafruit Feather M0 Express
-
-## Details
-
-- **Location**: Cabinet-1, Bin 29
-- **Category**: Feather Boards
-- **Type**: ATSAMD21 Development Board (Feather Form Factor)
-- **Microcontroller**: ATSAMD21G18 ARM Cortex-M0+ @ 48MHz
-- **Brand**: Adafruit
-- **Part Number**: 3403
-- **Quantity**: 3
-- **Product URL**: https://www.adafruit.com/product/3403
 
 ## Description
 

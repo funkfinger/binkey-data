@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: Potentiometers & Variable Resistors
 description: Collection of potentiometers, trimpots, and variable resistors for voltage division, signal conditioning, calibration, and user interface applications
 manufacturer: Various
@@ -8,11 +8,11 @@ category: passive-components
 subcategory: variable-resistors
 tags: [potentiometers, trimpots, variable-resistors, voltage-divider, calibration, user-interface, adjustment, linear, logarithmic, rotary, slider]
 total_quantity: 25+
-location: [cabinet-2-bin-39]
+location: Cabinet-2/Bin-39
 price: 3.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Potentiometers & Variable Resistors

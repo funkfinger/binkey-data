@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: LED Controllers
 subcategory: Digital LED Controller
-brand: QuinLED
 part_number: DIG-QUAD-V3
 model: QuinLED Dig-Quad v3 Digital LED Controller
 description: ESP32-powered WiFi-connected 4-channel digital LED controller with WLED firmware for addressable LED strips
@@ -15,29 +14,17 @@ power: Variable (depends on LED load)
 interface: [WiFi, GPIO, I2C, SPI]
 connectivity: [4x LED Outputs, 6x GPIO, Power Terminals]
 compatibility: [WS2812B, SK6812, APA102, SK9822, WLED]
-location: [Cabinet-4/Bin-11]
+location: Cabinet-4/Bin-11
 quantity: 2
 status: available
-price_range: $43.00-$52.00
 datasheet: https://quinled.info/quinled-dig-quad/
 product_url: https://www.drzzs.com/shop/digquad/
 tags: [led-controller, esp32, wled, addressable-leds, wifi, quinled, digital-leds, cabinet-4, bin-11, status-available]
 date_added: 2025-01-13
+price: $43.00-$52.00
 ---
 
 # QuinLED Dig-Quad v3 Digital LED Controller
-
-## Details
-
-- **Location**: Cabinet 4, Bin 11
-- **Category**: LED Controllers
-- **Brand**: QuinLED/DrZzs
-- **Part Number**: DIG-QUAD-V3
-- **Package**: Assembled Board
-- **Quantity**: 2
-- **Status**: Available
-- **Price Range**: $43.00 - $52.00
-- **Product URL**: https://www.drzzs.com/shop/digquad/
 
 ## Description
 

@@ -6,12 +6,11 @@ manufacturer: Various (Sensirion, Adafruit, Analog Devices, Bosch)
 category: sensors
 subcategory: environmental-sensors
 quantity: 15+
-location:
-  - Cabinet-3
-  - Bin-29
-cost_per_unit: $8.00
+location: Cabinet-3/Bin-29
 purchase_date: 2024-12-15
 tags: [temperature, humidity, pressure, environmental, weather, hvac, i2c]
+price: $8.00
+type: module
 ---
 
 # Environmental Sensors Collection - Bin 29

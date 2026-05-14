@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors
 subcategory: Tube Socket
-brand: Generic
 part_number: IN-18-Socket
 model: 9-Pin Nixie Tube Socket
 description: Ceramic 9-pin socket for IN-18 nixie tubes
@@ -15,29 +14,17 @@ power: N/A (passive component)
 interface: [High voltage pins]
 connectivity: [9-pin tube socket]
 compatibility: [IN-18 nixie tubes, High voltage circuits]
-location: [Cabinet-4/Bin-20/Section-A]
+location: Cabinet-4/Bin-20/Section-A
 quantity: 8
 status: available
-price_range: $2-5 each
 datasheet: Standard tube socket specifications
-product_url: 
+product_url:
 tags: [nixie, socket, connector, tube, high-voltage, cabinet-4, bin-20, status-available]
 date_added: 2025-01-13
+price: $2-5 each
 ---
 
 # IN-18 Nixie Tube Sockets
-
-## Details
-
-- **Location**: Cabinet-4, Bin 20, Section A
-- **Category**: Connectors
-- **Brand**: Generic
-- **Part Number**: IN-18-Socket
-- **Package**: PCB mount ceramic socket
-- **Quantity**: 8
-- **Status**: available
-- **Price Range**: $2-5 each
-- **Datasheet**: Standard tube socket specifications
 
 ## Description
 

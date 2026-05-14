@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors - Consolidated
-brand: Various
 part_number: Various
 model: Female Headers - Complete Collection
 description: Comprehensive collection of all female header types including single row, dual row, stacking, and fine-pitch variants
@@ -14,25 +13,13 @@ current: 1A-3A per pin (typical)
 power: Variable
 interface: [Through-hole, SMT, Stacking, Standard Headers]
 connectivity: [PCB, Breadboard, Development boards, Modules, Shields]
-compatibility:
-  [Arduino, Raspberry Pi, Standard male headers, Jumper wires, IDC cables]
-location: [Cabinet-3/Multiple-Bins]
+compatibility: [Arduino, Raspberry Pi, Standard male headers, Jumper wires, IDC cables]
+location: Cabinet-3/Multiple-Bins
 quantity: 200+
 status: available
-price_range: $0.05-3.00 per piece
-tags:
-  [
-    headers,
-    connectors,
-    female,
-    consolidated,
-    collection,
-    arduino,
-    raspberry-pi,
-    cabinet-3,
-    status-available,
-  ]
+tags: [headers, connectors, female, consolidated, collection, arduino, raspberry-pi, cabinet-3, status-available]
 date_added: 2025-07-22
+price: $0.05-3.00 per piece
 ---
 
 # Female Headers - Complete Collection

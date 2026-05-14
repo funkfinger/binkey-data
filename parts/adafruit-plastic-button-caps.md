@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Controls
 subcategory: Button Caps & Accessories
-brand: Adafruit
 part_number: 4228
 model: Plastic Button Caps For Square Top
 description: Colorful plastic button caps for 2.4mm square top tactile switches - 8mm diameter
@@ -15,30 +14,17 @@ power: N/A
 interface: [Snap-on fit for 2.4mm square tops]
 connectivity: [Tactile switch compatibility]
 compatibility: [2.4mm square top tactile switches, PyGamer, Arduino projects]
-location: [Cabinet-5/Bin-13]
+location: Cabinet-5/Bin-13
 quantity: 15
 status: available
-price_range: $0.95
 datasheet: https://www.adafruit.com/product/4228
 product_url: https://www.adafruit.com/product/4228
 tags: [adafruit, button-caps, plastic, tactile-switch, 8mm, colorful, pygamer, arduino, cabinet-5, bin-13, status-available]
 date_added: 2025-01-14
+price: $0.95
 ---
 
 # Adafruit Plastic Button Caps For Square Top
-
-## Details
-
-- **Location**: Cabinet-5, Bin 13
-- **Category**: Switches & Controls
-- **Brand**: Adafruit Industries
-- **Part Number**: 4228
-- **Model**: Plastic Button Caps For Square Top
-- **Package**: Plastic Button Caps
-- **Quantity**: 15 caps (from 10-pack sets)
-- **Status**: Available
-- **Price Range**: $0.95 (per 10-pack)
-- **Product URL**: https://www.adafruit.com/product/4228
 
 ## Description
 

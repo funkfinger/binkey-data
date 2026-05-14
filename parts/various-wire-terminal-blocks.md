@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Terminal Blocks
-brand: Various
 part_number: N/A
 model: Various Wire Terminal Blocks
 description: Assorted collection of wire terminal blocks in different sizes and configurations
@@ -15,42 +14,17 @@ power: High power capability
 interface: [Screw Terminal, Wire to Wire]
 connectivity: [Panel Mount, PCB Mount, DIN Rail]
 compatibility: [Control Panels, Distribution Blocks, Industrial Wiring]
-location: [Cabinet-5/Bin-39]
+location: Cabinet-5/Bin-39
 quantity: Various
 status: available
-price_range: $20-40
 datasheet: N/A
 product_url: N/A
-tags:
-  [
-    terminal-blocks,
-    wire-terminals,
-    screw-terminals,
-    various-sizes,
-    panel-mount,
-    pcb-mount,
-    din-rail,
-    distribution-blocks,
-    cabinet-5,
-    bin-39,
-    status-available,
-  ]
+tags: [terminal-blocks, wire-terminals, screw-terminals, various-sizes, panel-mount, pcb-mount, din-rail, distribution-blocks, cabinet-5, bin-39, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $20-40
 ---
 
 # Various Wire Terminal Blocks
-
-## Details
-
-- **Location**: Cabinet-5, Bin 39
-- **Category**: Connectors & Interconnects
-- **Brand**: Various manufacturers
-- **Model**: Various Wire Terminal Blocks
-- **Package**: Individual pieces
-- **Quantity**: Various quantities
-- **Status**: Available
-- **Price Range**: $20-40
 
 ## Description
 

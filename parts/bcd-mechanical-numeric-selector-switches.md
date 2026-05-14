@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches
 subcategory: Numeric Selector Switch
-brand: Various
 part_number: BCD-NUMERIC-COLLECTION
 model: BCD Mechanical Numeric Selector Switches (Various Types)
 description: Collection of vintage and new BCD mechanical numeric selector switches including thumbwheel and rotary types for digital input applications
@@ -15,40 +14,17 @@ power: Low power logic switching
 interface: [BCD Output, Mechanical Input]
 connectivity: [4-bit BCD, Common terminals]
 compatibility: [TTL, CMOS, Microcontrollers, Digital Logic]
-location: [Cabinet-4/Bin-13]
+location: Cabinet-4/Bin-13
 quantity: Various
 status: available
-price_range: $0.75-$15.00
 datasheet:
 product_url: https://a.co/d/esA48em
-tags:
-  [
-    bcd-switches,
-    thumbwheel-switches,
-    numeric-selectors,
-    digital-input,
-    vintage-switches,
-    mechanical-switches,
-    cabinet-4,
-    bin-14,
-    status-available,
-  ]
+tags: [bcd-switches, thumbwheel-switches, numeric-selectors, digital-input, vintage-switches, mechanical-switches, cabinet-4, bin-14, status-available]
 date_added: 2025-01-13
+price: $0.75-$15.00
 ---
 
 # BCD Mechanical Numeric Selector Switches Collection
-
-## Details
-
-- **Location**: Cabinet 4, Bin 13
-- **Category**: Switches
-- **Brand**: Various (uxcell, vintage manufacturers)
-- **Part Number**: BCD-NUMERIC-COLLECTION
-- **Package**: Various configurations
-- **Quantity**: Various types and quantities
-- **Status**: Available
-- **Price Range**: $0.75 - $15.00 (depending on type and vintage)
-- **Product URL**: https://a.co/d/esA48em (example modern type)
 
 ## Description
 

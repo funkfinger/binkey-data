@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Discrete Semiconductors
 subcategory: MOSFETs - P-Channel
-brand: Toshiba
 part_number: SSM3J328R
 model: SSM3J328R
 description: 20V P-Channel MOSFET, 6A, SOT-23-3 package, logic-level gate drive, power management switch
@@ -14,32 +13,17 @@ power: Low power consumption
 interface: [Switching, Logic Level]
 connectivity: [Surface Mount]
 compatibility: [Power management, Load switching, General-purpose switching]
-location: [Cabinet-6/Bin-1/Container-C]
+location: Cabinet-6/Bin-1/Container-C
 quantity: 20+
 status: available
-price_range: $0.15-0.35 each
 datasheet: https://www.mouser.com/datasheet/2/408/SSM3J328R_datasheet_en_20211022-1916357.pdf
 product_url: https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/SSM3J328R-LF/2753199
 tags: [mosfet, p-channel, 20v, 6a, sot-23, logic-level, power-management, toshiba, digikey, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.15-0.35 each
 ---
 
 # Toshiba SSM3J328R P-Channel MOSFET
-
-## Details
-
-- **Location**: Cabinet-6, Bin 1, Container C
-- **Category**: Discrete Semiconductors
-- **Brand**: Toshiba Semiconductor
-- **Part Number**: SSM3J328R
-- **Model**: SSM3J328R
-- **Package**: SOT-23-3
-- **Quantity**: 20+ units
-- **Status**: Available
-- **Price Range**: $0.15-0.35 per unit
-- **Datasheet**: [SSM3J328R Datasheet](https://www.mouser.com/datasheet/2/408/SSM3J328R_datasheet_en_20211022-1916357.pdf)
-- **Product URL**: [DigiKey - SSM3J328R-LF](https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/SSM3J328R-LF/2753199)
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: Various
 model: Various Single & Double Row Female Headers
 description: Assorted Single Row and Double Row 0.1" Spacing Female Headers
@@ -15,29 +14,17 @@ power: Variable
 interface: [Through-hole, Standard Headers]
 connectivity: [PCB, Breadboard, Development boards, Modules]
 compatibility: [Arduino, Raspberry Pi, Standard 0.1" male headers, Jumper wires]
-location: [Cabinet-3/Bin-46]
+location: Cabinet-3/Bin-46
 quantity: Various
 status: available
-price_range: $0.05-1.00 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic components)
 tags: [headers, connectors, female, single-row, double-row, 0.1-spacing, pcb, arduino, cabinet-3, bin-46, status-available]
 date_added: 2025-01-13
+price: $0.05-1.00 per piece
 ---
 
 # Various Female Headers - 0.1" Spacing
-
-## Details
-
-- **Location**: Cabinet-3, Bin 46
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: Assorted Single & Double Row Female Headers
-- **Package**: Through-hole
-- **Quantity**: Various counts and configurations
-- **Status**: Available
-- **Pitch**: 0.1" (2.54mm) standard spacing
-- **Gender**: Female (sockets)
-- **Configurations**: Single row and double row varieties
 
 ## Description
 

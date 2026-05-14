@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Tools & Supplies
 subcategory: Lighter Supplies
-brand: Zippo
 part_number: 1FLT-Z
 model: Zippo Lighter 6 Flint Card (Total 36 Flints)
 description: Zippo flints in 6-pack cards for windproof lighters, 36 flints total
@@ -15,43 +14,17 @@ power: N/A
 interface: [Mechanical Ignition]
 connectivity: [Friction Strike]
 compatibility: [Zippo Lighters, Compatible Windproof Lighters]
-location: [Cabinet-5/Bin-41]
+location: Cabinet-5/Bin-41
 quantity: 36
 status: available
-price_range: $8-12
 datasheet: N/A
 product_url: https://a.co/d/am3lulo
-tags:
-  [
-    zippo-flints,
-    lighter-flints,
-    ferrocerium,
-    ignition,
-    windproof-lighters,
-    replacement-parts,
-    fire-starter,
-    cabinet-5,
-    bin-41,
-    status-available,
-  ]
+tags: [zippo-flints, lighter-flints, ferrocerium, ignition, windproof-lighters, replacement-parts, fire-starter, cabinet-5, bin-41, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $8-12
 ---
 
 # Zippo Lighter 6 Flint Card (Total 36 Flints)
-
-## Details
-
-- **Location**: Cabinet-5, Bin 41
-- **Category**: Tools & Supplies
-- **Brand**: Zippo
-- **Model**: Zippo Lighter 6 Flint Card (Total 36 Flints)
-- **Part Number**: 1FLT-Z
-- **Package**: 6 cards of 6 flints each
-- **Quantity**: 36 flints total
-- **Status**: Available
-- **Price Range**: $8-12
-- **Product URL**: https://a.co/d/am3lulo
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: Display Module
-brand: Adafruit
 part_number: 3130
 size: 0.54 inch
 color: red
@@ -14,25 +13,15 @@ form_factor: featherwing
 voltage: 3.3V-5V
 dimensions_featherwing: 51mm x 23mm x 4.2mm
 dimensions_display: 21mm x 25mm x 7mm
-location: [Cabinet-1/Bin-23]
+location: Cabinet-1/Bin-23
 quantity: 5
 status: available
-price_range: $9-10
 tags: [featherwing, led-display, alphanumeric, red, 14-segment, ht16k33, i2c, adafruit]
+price: $9-10
+manufacturer: Adafruit
 ---
 
 # Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Red
-
-## Details
-
-- **Location**: Cabinet-1, Bin 23
-- **Category**: FeatherWings
-- **Type**: Quad 14-Segment Alphanumeric Display FeatherWing
-- **Color**: Red
-- **Characters**: 4 digits (0.54" height each)
-- **Form Factor**: Feather-compatible wing
-- **Quantity**: 5
-- **Product URL**: https://www.adafruit.com/product/3130
 
 ## Description
 

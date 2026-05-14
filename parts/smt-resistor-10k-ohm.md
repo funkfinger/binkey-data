@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Resistors
 subcategory: SMT Resistors
-brand: Generic
 part_number: 10kΩ
 description: SMT resistor 10 kilohm - surface mount component for high impedance and pull-up applications
 manufacturer: Various
@@ -11,34 +10,13 @@ resistance: 10kΩ
 tolerance: ±5% or ±1%
 power_rating: 0.1W typical
 voltage: Rated for standard SMT applications
-location: [Cabinet-6/Bin-2/Container-J]
+location: Cabinet-6/Bin-2/Container-J
 quantity: 20+
 status: available
-price_range: $0.01-0.03 each
-tags:
-  [
-    smt-resistor,
-    resistor,
-    10k-ohm,
-    10k-ohm-resistor,
-    10000-ohm,
-    surface-mount,
-    0603,
-    0805,
-    1206,
-    high-impedance,
-    pull-up,
-    cabinet-6,
-    bin-2,
-    status-available,
-  ]
+tags: [smt-resistor, resistor, 10k-ohm, 10k-ohm-resistor, 10000-ohm, surface-mount, 0603, 0805, 1206, high-impedance, pull-up, cabinet-6, bin-2, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.01-0.03 each
 ---
-
-## Details
-
-10kΩ SMT resistors are commonly used for high-impedance applications, pull-up networks, and sensor biasing.
 
 ## Specifications
 

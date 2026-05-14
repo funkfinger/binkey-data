@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Fasteners
 subcategory: T-Slot Hardware
-brand: HELIFOUNER
 part_number: M3-T-NUTS-2020
 model: HELIFOUNER M3 T Nuts for 2020 Series Aluminum Profile
 description: 50+ M3 T-slot nuts for 2020 series aluminum extrusion profiles, sliding nuts for modular framing systems
@@ -14,52 +13,18 @@ current: N/A
 power: N/A
 interface: [T-Slot Sliding, Threaded Fastening]
 connectivity: [Aluminum Profile Assembly, Modular Framing]
-compatibility:
-  [
-    2020 Aluminum Extrusion,
-    Modular Frames,
-    3D Printer Frames,
-    CNC Machines,
-    Industrial Automation,
-  ]
-location: [Cabinet-5/Bin-34/Section-A]
+compatibility: [2020 Aluminum Extrusion, Modular Frames, 3D Printer Frames, CNC Machines, Industrial Automation]
+location: Cabinet-5/Bin-34/Section-A
 quantity: 50+
 status: available
-price_range: $10-15
 datasheet: N/A
 product_url: https://a.co/d/gK2f03d
-tags:
-  [
-    t-slot-nuts,
-    m3-threading,
-    helifouner,
-    2020-aluminum-profile,
-    sliding-nuts,
-    modular-framing,
-    aluminum-extrusion,
-    cabinet-5,
-    bin-34,
-    section-a,
-    status-available,
-  ]
+tags: [t-slot-nuts, m3-threading, helifouner, 2020-aluminum-profile, sliding-nuts, modular-framing, aluminum-extrusion, cabinet-5, bin-34, section-a, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $10-15
 ---
 
 # HELIFOUNER M3 T Nuts for 2020 Series Aluminum Profile - 50+ Pieces
-
-## Details
-
-- **Location**: Cabinet-5, Bin 34, Section A
-- **Category**: Hardware & Fasteners
-- **Brand**: HELIFOUNER
-- **Model**: HELIFOUNER M3 T Nuts for 2020 Series Aluminum Profile
-- **Thread Size**: M3 (3mm nominal diameter)
-- **Package**: Individual T-slot nuts
-- **Quantity**: 50+ pieces
-- **Status**: Available
-- **Price Range**: $10-15
-- **Product URL**: https://a.co/d/gK2f03d
 
 ## Description
 

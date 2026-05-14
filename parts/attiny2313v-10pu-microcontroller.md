@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Microcontrollers
 subcategory: AVR Microcontrollers
-brand: Microchip (formerly Atmel)
 part_number: ATtiny2313V-10PU
 model: ATtiny2313V-10PU
 description: 8-bit AVR RISC microcontroller with 2KB Flash, UART, low voltage operation, DIP-20 package
@@ -15,30 +14,17 @@ power: Ultra-low power with sleep modes
 interface: [UART, SPI, I2C, PWM]
 connectivity: [Through-hole pins]
 compatibility: [Arduino IDE, ATtiny Core, AVR-GCC, Atmel Studio]
-location: [Cabinet-3/Bin-40/Section-B]
+location: Cabinet-3/Bin-40/Section-B
 quantity: 17
 status: available
-price_range: $1.50-3.00
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/doc2543.pdf
 product_url: https://www.microchip.com/en-us/product/ATtiny2313
 tags: [microcontroller, avr, attiny, arduino-compatible, 8-bit, uart, low-voltage, dip-20, cabinet-3, bin-40, status-available]
 date_added: 2025-01-13
+price: $1.50-3.00
 ---
 
 # ATtiny2313V-10PU - 8-bit AVR RISC Microcontroller with UART
-
-## Details
-
-- **Location**: Cabinet-3, Bin 40, Section B
-- **Category**: Microcontrollers
-- **Brand**: Microchip Technology (formerly Atmel)
-- **Part Number**: ATtiny2313V-10PU
-- **Package**: 20-DIP (Through-hole)
-- **Quantity**: 17
-- **Status**: Available
-- **Price Range**: $1.50-3.00
-- **Datasheet**: [ATtiny2313 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/doc2543.pdf)
-- **Product URL**: https://www.microchip.com/en-us/product/ATtiny2313
 
 ## Description
 

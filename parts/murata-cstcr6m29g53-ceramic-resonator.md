@@ -1,41 +1,22 @@
 ---
-type: electronic-component
+type: other
 category: Frequency Control & Timing
 subcategory: Ceramic Resonators
-brand: Murata Electronics
 part_number: CSTCR6M29G53-R0
 model: CSTCR6M29G53
 description: Ceramic resonator 6.29MHz with built-in 15pF capacitor, SMD package, frequency control and timing applications
 manufacturer: Murata Electronics
 package: SMD
 voltage: 2.5V ±10%
-location: [Cabinet-6/Bin-1/Container-J]
+location: Cabinet-6/Bin-1/Container-J
 quantity: 10
 status: available
-price_range: $0.30-0.50 each
 datasheet: https://www.murata.com/en-us/products/timingdevice/resonator
 product_url: https://www.digikey.com/en/products/detail/murata-electronics/CSTCR6M29G53-R0/13549007
-tags:
-  [
-    ceramic-resonator,
-    frequency-control,
-    timing,
-    6-29mhz,
-    murata,
-    ceralock,
-    smd,
-    15pf,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [ceramic-resonator, frequency-control, timing, 6-29mhz, murata, ceralock, smd, 15pf, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.30-0.50 each
 ---
-
-## Details
-
-The Murata CSTCR6M29G53-R0 is a ceramic resonator from the CERALOCK® series designed for frequency control and timing applications. It features a built-in 15pF capacitor, eliminating the need for external load capacitors in many applications. This SMD component is ideal for microcontroller clock circuits and timing applications.
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Connectors & Hardware
 subcategory: IC Sockets
-brand: Various
 part_number: Various
 model: 40-Pin Wire-Wrap DIP Socket
 description: Single 40-pin wire-wrap DIP socket with extended pins for wire-wrap connections
@@ -15,30 +14,17 @@ power: N/A
 interface: [40-pin DIP, Wire-wrap pins]
 connectivity: [Through-hole mounting, Wire-wrap connections]
 compatibility: [40-pin DIP ICs, Wire-wrap construction, Prototyping]
-location: [Cabinet-5/Bin-22]
+location: Cabinet-5/Bin-22
 quantity: 1
 status: available
-price_range: $2-5
 datasheet: Various
 product_url: Various
 tags: [wire-wrap, 40-pin, dip-socket, extended-pins, prototyping, vintage, cabinet-5, bin-22, status-available]
 date_added: 2025-01-14
+price: $2-5
 ---
 
 # 40-Pin Wire-Wrap DIP Socket
-
-## Details
-
-- **Location**: Cabinet-5, Bin 22
-- **Category**: Connectors & Hardware
-- **Brand**: Various manufacturers
-- **Part Numbers**: Various
-- **Model**: 40-Pin Wire-Wrap DIP Socket
-- **Package**: DIP Socket
-- **Quantity**: 1 socket
-- **Status**: Available
-- **Price Range**: $2-5 each
-- **Type**: Wire-wrap construction socket
 
 ## Description
 

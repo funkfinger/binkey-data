@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Wearables & Accessories
 subcategory: Mounting Hardware
-brand: Adafruit
 part_number: 1170
 model: Magnetic Pin Back
 description: Two-piece magnetic pin back for wearable electronics projects
@@ -15,42 +14,17 @@ power: N/A
 interface: [Magnetic Attachment]
 connectivity: [Adhesive Strip, Rare Earth Magnets]
 compatibility: [FLORA Projects, Wearable Electronics, Fabric Mounting]
-location: [Cabinet-5/Bin-31]
+location: Cabinet-5/Bin-31
 quantity: 1
 status: available
-price_range: $1-2
 datasheet: N/A
 product_url: https://www.adafruit.com/product/1170
-tags:
-  [
-    magnetic-pin-back,
-    wearable,
-    flora,
-    mounting,
-    rare-earth-magnets,
-    adhesive,
-    adafruit,
-    cabinet-5,
-    bin-31,
-    status-available,
-  ]
+tags: [magnetic-pin-back, wearable, flora, mounting, rare-earth-magnets, adhesive, adafruit, cabinet-5, bin-31, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $1-2
 ---
 
 # Adafruit 1170 Magnetic Pin Back
-
-## Details
-
-- **Location**: Cabinet-5, Bin 31
-- **Category**: Wearables & Accessories
-- **Brand**: Adafruit Industries
-- **Part Number**: 1170
-- **Package**: Individual Unit
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $1-2
-- **Product URL**: https://www.adafruit.com/product/1170
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Special Effect LEDs
 subcategory: Blinking LED
-brand: Generic
 part_number: N/A
 model: 5mm RGB Fast Blinking LED (Auto Color Changing)
 description: 2-pin 5mm RGB LED that rapidly cycles colors (fast blinking), clear/diffused round lens
@@ -10,26 +9,16 @@ manufacturer: Generic
 package: Through-hole (THT)
 size: 5mm
 interface: [GPIO]
-location: [Cabinet-1/Bin-10/Section-A]
+location: Cabinet-1/Bin-10/Section-A
 quantity: 30+
 status: available
-price_range: $5–10 per 100-pack (est.)
 product_url: https://www.amazon.com/dp/B09TQDFQGM
 tags: [led, rgb, blinking, fast, 5mm, special-effect, cabinet-1, bin-10, section-a, status-available]
 date_added: 2025-09-12
-added_date: 2025-09-12
+price: $5–10 per 100-pack (est.)
 ---
 
 # 5mm RGB Multicolor Fast Blinking LED (2‑Pin)
-
-## Details
-
-- **Location**: Cabinet-1, Bin 10, Section A
-- **Category**: Special Effect LEDs
-- **Subcategory**: Blinking LED (Auto color-cycling)
-- **Package**: 5mm Through-hole (THT)
-- **Quantity**: 30+
-- **Product URL**: https://www.amazon.com/dp/B09TQDFQGM
 
 ## Description
 

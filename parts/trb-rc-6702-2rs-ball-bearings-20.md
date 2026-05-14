@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Mechanical Components
 subcategory: Bearings
-brand: TRB RC
 part_number: 6702-2RS
 model: TRB RC 6702-2RS Precision Ball Bearings 15x21x4mm
 description: 20+ TRB RC precision ball bearings with rubber seals, 15x21x4mm dimensions, ABEC 3 rated
@@ -15,45 +14,17 @@ power: N/A
 interface: [Shaft Mount]
 connectivity: [Mechanical Rotation]
 compatibility: [RC Vehicles, High-Speed Applications, Precision Equipment]
-location: [Cabinet-5/Bin-48]
+location: Cabinet-5/Bin-48
 quantity: 20+
 status: available
-price_range: $20-35
 datasheet: N/A
 product_url: https://a.co/d/4NmninD
-tags:
-  [
-    ball-bearings,
-    6702-2rs,
-    trb-rc,
-    precision-bearings,
-    rubber-sealed,
-    15x21x4mm,
-    abec-3,
-    chrome-steel,
-    rc-bearings,
-    cabinet-5,
-    bin-48,
-    status-available,
-  ]
+tags: [ball-bearings, 6702-2rs, trb-rc, precision-bearings, rubber-sealed, 15x21x4mm, abec-3, chrome-steel, rc-bearings, cabinet-5, bin-48, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $20-35
 ---
 
 # TRB RC 6702-2RS Precision Ball Bearings - 20+ Pieces
-
-## Details
-
-- **Location**: Cabinet-5, Bin 48
-- **Category**: Mechanical Components
-- **Brand**: TRB RC
-- **Model**: TRB RC 6702-2RS Precision Ball Bearings 15x21x4mm
-- **Part Number**: 6702-2RS
-- **Package**: Individual bearings
-- **Quantity**: 20+ pieces
-- **Status**: Available
-- **Price Range**: $20-35
-- **Product URL**: https://a.co/d/4NmninD
 
 ## Description
 

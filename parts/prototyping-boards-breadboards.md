@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Prototyping Boards & Breadboards
 description: Collection of prototyping boards, breadboards, and development platforms for circuit prototyping, testing, and permanent project construction
 manufacturer: Various
@@ -8,11 +8,13 @@ category: prototyping
 subcategory: breadboards
 tags: [prototyping, breadboard, protoboard, pcb, soldering, development, testing, snappable, perforated, through-hole]
 total_quantity: 10+
-location: [cabinet-2-bin-33, cabinet-2-bin-34]
+location:
+- Cabinet-2/Bin-33
+- Cabinet-2/Bin-34
 price: 5.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Prototyping Boards & Breadboards

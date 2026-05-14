@@ -1,32 +1,22 @@
 ---
-type: part
+type: passive
 title: Diodes - Mixed Collection
 description: Collection of various diode types including rectifier, switching, Schottky, and Zener diodes for general electronics applications
 manufacturer: Various
 part_number: DIODE-MIXED-COLLECTION
 category: passive-components
 subcategory: diodes
-tags:
-  [
-    diodes,
-    rectifier,
-    switching,
-    schottky,
-    zener,
-    1n4007,
-    1n4148,
-    1n5807,
-    bat43,
-    1n5818,
-    1n4733a,
-    1n5226b,
-  ]
+tags: [diodes, rectifier, switching, schottky, zener, 1n4007, 1n4148, 1n5807, bat43, 1n5818, 1n4733a, 1n5226b]
 total_quantity: 200+
-location: [cabinet-2-bin-6, cabinet-2-bin-8, cabinet-2-bin-9, cabinet-2-bin-10]
+location:
+- Cabinet-2/Bin-6
+- Cabinet-2/Bin-8
+- Cabinet-2/Bin-9
+- Cabinet-2/Bin-10
 price: 0.10
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Diodes - Mixed Collection

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Headers & Connectors - XH Series
-brand: JST Sales America Inc.
 part_number: B4B-XH-A
 model: XH Series
 description: JST XH 4-position vertical header, 2.5mm pitch, through-hole, shrouded
@@ -16,34 +15,17 @@ mounting: PCB Through-Hole
 interface: []
 connectivity: [XH-series]
 compatibility: [JST XH connectors]
-location: [Cabinet-3/Bin-56/Section-A]
+location: Cabinet-3/Bin-56/Section-A
 quantity: 30
 status: available
-price_range: $0.30-0.50 each
 datasheet: https://www.jst-mfg.com/product/pdf/eng/eXH.pdf
 product_url: https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047
 tags: [connector, header, jst, xh-series, 4-pin, 2.5mm, vertical, through-hole, digikey, cabinet-3, bin-56, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.30-0.50 each
 ---
 
 # JST B4B-XH-A Vertical Header 4-Pin
-
-## Details
-
-- **Location**: Cabinet-3, Bin 56, Section A
-- **Category**: Connectors & Interconnects
-- **Brand**: JST Sales America Inc.
-- **Part Number**: B4B-XH-A
-- **Model**: XH Series
-- **Connector Type**: Header - Vertical
-- **Positions**: 4
-- **Pitch**: 2.5mm (0.098")
-- **Quantity**: 30 units
-- **Status**: Available
-- **Price Range**: $0.30-0.50 per unit
-- **Datasheet**: [JST XH Connector Datasheet](https://www.jst-mfg.com/product/pdf/eng/eXH.pdf)
-- **Product URL**: [DigiKey - B4B-XH-A](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047)
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Counters
-brand: Various
 part_number: CD4017
 model: CD4017BE
 description: CMOS decade counter/divider with 10 decoded outputs for sequencing and counting applications
@@ -15,30 +14,17 @@ power: Low power with wide voltage range
 interface: [Digital Logic, Clock Input]
 connectivity: [Through-hole pins]
 compatibility: [CMOS Logic, TTL Compatible, 555 Timer, Oscillators]
-location: [Cabinet-3/Bin-33/Section-H]
+location: Cabinet-3/Bin-33/Section-H
 quantity: 2
 status: available
-price_range: $0.75-1.50
 datasheet: https://www.ti.com/lit/ds/symlink/cd4017b.pdf
 product_url: https://www.ti.com/product/CD4017B
 tags: [counter-ic, decade-counter, sequencer, cmos, cd4017, johnson-counter, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $0.75-1.50
 ---
 
 # CD4017 - CMOS Decade Counter/Divider
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section H
-- **Category**: Logic ICs
-- **Brand**: Various (TI, STMicroelectronics, etc.)
-- **Part Number**: CD4017 / CD4017BE
-- **Package**: 16-DIP
-- **Quantity**: 2
-- **Status**: Available
-- **Price Range**: $0.75-1.50
-- **Datasheet**: [CD4017B Datasheet](https://www.ti.com/lit/ds/symlink/cd4017b.pdf)
-- **Product URL**: https://www.ti.com/product/CD4017B
 
 ## Description
 

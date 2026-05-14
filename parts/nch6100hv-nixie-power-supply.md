@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Power Supply
 subcategory: High Voltage
-brand: LiebeWH
 part_number: NCH6100HV
 model: NCH6100HV
 description: High voltage DC power supply module for nixie tubes and discharge tubes
@@ -15,29 +14,17 @@ power: High voltage power supply
 interface: [DC Input, High Voltage Output, Control Pin]
 connectivity: [Screw terminals, Control pin]
 compatibility: [Nixie tubes, Discharge tubes, High voltage applications]
-location: [Cabinet-4/Bin-21]
+location: Cabinet-4/Bin-21
 quantity: 2
 status: available
-price_range: $15-20
-datasheet: 
+datasheet:
 product_url: https://a.co/d/f0lRm2y
 tags: [nixie, power-supply, high-voltage, module, discharge-tube, cabinet-4, bin-21, status-available]
 date_added: 2025-01-13
+price: $15-20
 ---
 
 # NCH6100HV High Voltage DC Power Supply Module
-
-## Details
-
-- **Location**: Cabinet-4, Bin 21
-- **Category**: Power Supply
-- **Brand**: LiebeWH
-- **Part Number**: NCH6100HV
-- **Package**: PCB Module
-- **Quantity**: 2
-- **Status**: available
-- **Price Range**: $15-20
-- **Product URL**: https://a.co/d/f0lRm2y
 
 ## Description
 

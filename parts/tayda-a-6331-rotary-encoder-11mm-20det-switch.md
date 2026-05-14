@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Encoders & Input Devices
 subcategory: Rotary Encoders
-brand: Tayda Electronics
 part_number: A-6331
 model: Rotary Encoder 11mm 20 Detents D-Shaft With Switch Vertical
 description: EC11-compatible 11mm rotary encoder, 20 detents, 6mm D-shaft, integrated push switch, vertical terminals
@@ -15,31 +14,17 @@ power: Low power
 interface: [Quadrature, GPIO]
 connectivity: [Through-hole pins]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers, Eurorack]
-location: [Cabinet-3/Bin-32/Section-E]
+location: Cabinet-3/Bin-32/Section-E
 quantity: 10
 status: available
-price_range: $1.59
 datasheet: https://www.mouser.com/datasheet/2/15/EC11-1370808.pdf
 product_url: https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-with-switch-vertical.html
 tags: [encoder, rotary-encoder, ec11, 20-detents, d-shaft, switch, quadrature, eurorack, arduino, cabinet-3, bin-32, status-available]
 date_added: 2026-05-07
-added_date: 2026-05-07
+price: $1.59
 ---
 
 # Tayda A-6331 - Rotary Encoder 11mm 20 Detents D-Shaft with Switch
-
-## Details
-
-- **Location**: Cabinet-3, Bin 32, Section E
-- **Category**: Encoders & Input Devices — Rotary Encoders
-- **Brand**: Tayda Electronics
-- **Part Number**: A-6331
-- **Package**: Through-hole, vertical terminals
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $1.59
-- **Datasheet**: [EC11 Datasheet](https://www.mouser.com/datasheet/2/15/EC11-1370808.pdf)
-- **Product URL**: [Tayda A-6331](https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-with-switch-vertical.html)
 
 ## Description
 

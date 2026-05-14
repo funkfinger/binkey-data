@@ -1,30 +1,21 @@
 ---
-type: electronic-component
+type: other
 category: Educational Electronics
 subcategory: Paper Circuits
-brand: Chibitronics
 description: Educational electronics kit with LED stickers, microcontroller, and paper circuit components
 functions: [led-lighting, paper-circuits, educational, programming]
 components: [led-stickers, chibi-chip, copper-tape, sensors]
 interfaces: [paper-circuits, programming]
-location: [Cabinet-2/Bin-10]
+location: Cabinet-2/Bin-10
 quantity: 1 kit
 status: available
-price_range: $20-50
 tags: [chibitronics, educational, led-stickers, paper-circuits, stem, craft, programming]
 product_url: https://chibitronics.com
+price: $20-50
+manufacturer: Chibitronics
 ---
 
 # Chibitronics Educational Electronics Kit
-
-## Details
-
-- **Location**: Cabinet-2, Bin 10
-- **Category**: Educational Electronics
-- **Type**: Paper Circuit Educational Kit
-- **Brand**: Chibitronics
-- **Quantity**: 1 complete kit
-- **Website**: https://chibitronics.com
 
 ## Description
 

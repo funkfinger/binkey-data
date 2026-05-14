@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: Various
 model: 2-Pin Female Stacking Headers
 description: 2-Pin Female Stacking Headers for PCB Connections
@@ -15,42 +14,17 @@ power: Variable
 interface: [Through-hole, Stacking]
 connectivity: [PCB, Breadboard, Shields, Modules]
 compatibility: [Arduino, Raspberry Pi, Development boards, Power connections]
-location: [Cabinet-3/Bin-45/Section-A]
+location: Cabinet-3/Bin-45/Section-A
 quantity: 30+
 status: available
-price_range: $0.05-0.25 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic component)
-tags:
-  [
-    headers,
-    connectors,
-    stacking,
-    female,
-    2-pin,
-    pcb,
-    power,
-    arduino,
-    cabinet-3,
-    bin-45,
-    status-available,
-  ]
+tags: [headers, connectors, stacking, female, 2-pin, pcb, power, arduino, cabinet-3, bin-45, status-available]
 date_added: 2025-01-13
+price: $0.05-0.25 per piece
 ---
 
 # 2-Pin Female Stacking Headers
-
-## Details
-
-- **Location**: Cabinet-3, Bin 45, Section A
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: 2-Pin Female Stacking Headers
-- **Package**: Through-hole
-- **Quantity**: 30+
-- **Status**: Available
-- **Pitch**: 0.1" (2.54mm) standard
-- **Gender**: Female (sockets)
-- **Pin Count**: 2 pins
 
 ## Description
 

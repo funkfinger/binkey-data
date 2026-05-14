@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Analog ICs
 subcategory: Operational Transconductance Amplifiers
-brand: Texas Instruments / ON Semiconductor
 part_number: LM13700N
 model: LM13700N
 description: Dual operational transconductance amplifier (OTA) with linearizing diodes and buffer amplifiers
@@ -15,30 +14,17 @@ power: Low power analog operation
 interface: [Analog Signal Processing, Voltage Controlled Amplification]
 connectivity: [Through-hole pins]
 compatibility: [Audio circuits, Synthesizers, Filters, VCAs, Modulators]
-location: [Cabinet-3/Bin-32/Section-A]
+location: Cabinet-3/Bin-32/Section-A
 quantity: 9
 status: available
-price_range: $3.00-8.00
 datasheet: https://www.ti.com/lit/ds/symlink/lm13700.pdf
 product_url: https://www.ti.com/product/LM13700
 tags: [operational-transconductance-amplifier, ota, voltage-controlled-amplifier, analog-synthesizer, audio-processing, cabinet-3, bin-32, status-available]
 date_added: 2025-01-13
+price: $3.00-8.00
 ---
 
 # LM13700N - Dual Operational Transconductance Amplifier (OTA)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 32, Section A
-- **Category**: Analog ICs
-- **Brand**: Texas Instruments / ON Semiconductor
-- **Part Number**: LM13700N
-- **Package**: 16-DIP
-- **Quantity**: 9
-- **Status**: Available
-- **Price Range**: $3.00-8.00
-- **Datasheet**: [LM13700 Datasheet](https://www.ti.com/lit/ds/symlink/lm13700.pdf)
-- **Product URL**: https://www.ti.com/product/LM13700
 
 ## Description
 

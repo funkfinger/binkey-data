@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Prototyping & Development
 subcategory: SMT Breakout Boards
-brand: Adafruit
 part_number: Various (1208, 1163, 1211)
 model: SMT Breakout PCB Collection
 description: Various SMT breakout boards for SOIC, TSSOP, QFN, and TQFP packages
@@ -15,30 +14,17 @@ power: N/A
 interface: [0.1" pin spacing, Breadboard compatible]
 connectivity: [SMT to DIP conversion, Through-hole pins]
 compatibility: [SOIC, TSSOP, QFN, TQFP, Breadboards, Prototyping]
-location: [Cabinet-5/Bin-16]
+location: Cabinet-5/Bin-16
 quantity: Various types
 status: available
-price_range: $4.95-5.95
 datasheet: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
 product_url: https://www.adafruit.com/category/475
 tags: [adafruit, smt, breakout, soic, tssop, qfn, tqfp, prototyping, breadboard, cabinet-5, bin-16, status-available]
 date_added: 2025-01-14
+price: $4.95-5.95
 ---
 
 # Adafruit SMT Breakout Board Collection
-
-## Details
-
-- **Location**: Cabinet-5, Bin 16
-- **Category**: Prototyping & Development
-- **Brand**: Adafruit Industries
-- **Part Numbers**: Various (1208, 1163, 1211, and others)
-- **Model**: SMT Breakout PCB Collection
-- **Package**: PCB Breakout Boards
-- **Quantity**: Various types and quantities
-- **Status**: Available
-- **Price Range**: $4.95-$5.95 per pack
-- **GitHub**: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
 
 ## Description
 

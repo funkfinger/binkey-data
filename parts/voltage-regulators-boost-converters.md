@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Voltage Regulators & Boost Converters
 description: Collection of DC-DC boost converters and voltage regulator modules for power supply and voltage conversion applications
 manufacturer: Various
@@ -8,11 +8,11 @@ category: power-management
 subcategory: voltage-regulators
 tags: [voltage-regulators, boost-converters, dc-dc, mt3608, step-up, power-supply, adjustable]
 total_quantity: 25+
-location: [cabinet-2-bin-13]
+location: Cabinet-2/Bin-13
 price: 5.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Voltage Regulators & Boost Converters

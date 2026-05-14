@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: RP2040 Development Board
-brand: Adafruit
 part_number: 4884
 model: Feather RP2040
 microcontroller: RP2040
@@ -23,36 +22,15 @@ usb_native: true
 stemma_qt: true
 battery_charging: true
 form_factor: Feather
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 1
 status: available
-price_range: $11-12
-tags:
-  [
-    microcontroller,
-    rp2040,
-    feather,
-    stemma-qt,
-    usb-c,
-    adafruit,
-    circuitpython,
-    neopixel,
-    battery-charging,
-  ]
+tags: [microcontroller, rp2040, feather, stemma-qt, usb-c, adafruit, circuitpython, neopixel, battery-charging]
+price: $11-12
+manufacturer: Adafruit
 ---
 
 # Adafruit Feather RP2040
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Feather Boards
-- **Type**: RP2040 Development Board (Feather Form Factor)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 125MHz)
-- **Brand**: Adafruit
-- **Part Number**: 4884
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/4884
 
 ## Description
 

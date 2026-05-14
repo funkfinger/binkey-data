@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Mechanical Components
 subcategory: Bearings
-brand: Various
 part_number: 608
 model: Various 608 Style Ball Bearings 8x22x7mm
 description: 50+ various 608 style ball bearings including ceramic hybrid and steel types, 8x22x7mm dimensions
@@ -15,43 +14,17 @@ power: N/A
 interface: [Shaft Mount]
 connectivity: [Mechanical Rotation]
 compatibility: [Skateboards, Rollerblades, Scooters, Industrial Equipment, Motors]
-location: [Cabinet-5/Bin-47]
+location: Cabinet-5/Bin-47
 quantity: 50+
 status: available
-price_range: $25-50
 datasheet: N/A
 product_url: https://a.co/d/5P9Il8H
-tags:
-  [
-    ball-bearings,
-    608-bearings,
-    ceramic-hybrid,
-    steel-bearings,
-    skateboard-bearings,
-    mechanical-bearings,
-    8x22x7mm,
-    various-brands,
-    cabinet-5,
-    bin-47,
-    status-available,
-  ]
+tags: [ball-bearings, 608-bearings, ceramic-hybrid, steel-bearings, skateboard-bearings, mechanical-bearings, 8x22x7mm, various-brands, cabinet-5, bin-47, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $25-50
 ---
 
 # Various 608 Style Ball Bearings - 50+ Pieces
-
-## Details
-
-- **Location**: Cabinet-5, Bin 47
-- **Category**: Mechanical Components
-- **Brand**: Various manufacturers
-- **Model**: Various 608 Style Ball Bearings 8x22x7mm
-- **Package**: Individual bearings
-- **Quantity**: 50+ pieces (mixed types)
-- **Status**: Available
-- **Price Range**: $25-50
-- **Product URL**: https://a.co/d/5P9Il8H
 
 ## Description
 

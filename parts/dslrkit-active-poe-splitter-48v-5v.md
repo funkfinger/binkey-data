@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Networking Components
 subcategory: PoE Splitter
-brand: DSLRKIT
 part_number: POE-SPLITTER-48V-5V
 model: Active PoE Splitter 48V to 5V 2.4A USB Type A Female
 description: IEEE 802.3af compliant active PoE splitter converting 48V PoE to 5V 2.4A USB output for powering non-PoE devices
@@ -15,29 +14,17 @@ power: 12W max output
 interface: [Ethernet, USB Type A]
 connectivity: [RJ45 Input, RJ45 Output, USB-A Female]
 compatibility: [IP Cameras, Tablets, Raspberry Pi, Non-PoE Devices]
-location: [Cabinet-4/Bin-17]
+location: Cabinet-4/Bin-17
 quantity: 8
 status: available
-price_range: $10.50
-datasheet: 
+datasheet:
 product_url: https://a.co/d/c7kYSif
 tags: [poe-splitter, power-over-ethernet, usb-power, ip-cameras, raspberry-pi, cabinet-4, bin-17, status-available]
 date_added: 2025-01-13
+price: $10.50
 ---
 
 # DSLRKIT Active PoE Splitter 48V to 5V 2.4A USB Type A Female
-
-## Details
-
-- **Location**: Cabinet 4, Bin 17
-- **Category**: Networking Components
-- **Brand**: DSLRKIT
-- **Part Number**: POE-SPLITTER-48V-5V
-- **Package**: Individual unit
-- **Quantity**: 8
-- **Status**: Available
-- **Price Range**: $10.50
-- **Product URL**: https://a.co/d/c7kYSif
 
 ## Description
 

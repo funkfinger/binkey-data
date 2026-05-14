@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: Arduino Uno Proto Shield
 description: Generic prototyping shield for Arduino Uno with breadboard area and standard pin layout
 manufacturer: Generic
@@ -8,20 +8,13 @@ category: shields
 subcategory: prototyping-shields
 tags: [proto-shield, arduino, uno, prototyping, breadboard, generic]
 quantity: 4
-location: [cabinet-1-bin-41]
-purchase_url: ""
+location: Cabinet-1/Bin-41
 price: 5.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: ""
 ---
-
-## Details
-
-- Location: Cabinet-1, Bin 41
-- Quantity: 4
-
-# Arduino Uno Proto Shield
 
 ## Overview
 

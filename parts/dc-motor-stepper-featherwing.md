@@ -1,31 +1,22 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: Motor Driver Module
-brand: Adafruit
 part_number: 2927
 functions: [dc-motor-driver, stepper-motor-driver, pwm-control]
 interface: I2C
 connectors: [terminal-blocks, stackable-headers]
 voltage: 4.5V-13.5V
 current: 1.2A per bridge
-location: [Cabinet-1/Bin-16]
+location: Cabinet-1/Bin-16
 quantity: 2
 status: available
-price_range: $19-20
 tags: [featherwing, motor-driver, stepper, dc-motor, tb6612, i2c, adafruit]
+price: $19-20
+manufacturer: Adafruit
 ---
 
 # DC Motor + Stepper FeatherWing
-
-## Details
-- **Location**: Cabinet-1, Bin 16
-- **Category**: FeatherWings
-- **Type**: Motor Driver Module
-- **Functions**: DC Motor Driver, Stepper Motor Driver, PWM Control
-- **Interface**: I2C (PCA9685 PWM driver)
-- **Quantity**: 2
-- **Product URL**: https://www.adafruit.com/product/2927
 
 ## Description
 The DC Motor + Stepper FeatherWing lets you control 2 bi-polar stepper motors or 4 brushed DC motors (or 1 stepper and 2 DC motors). Features a fully-dedicated PWM driver chip that handles all motor and speed controls over I2C, making it compatible with any Feather board.

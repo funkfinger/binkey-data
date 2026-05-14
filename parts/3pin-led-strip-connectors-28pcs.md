@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: LED Accessories
 subcategory: LED Strip Connectors
-brand: Mudder
 part_number: 3PIN-LED-CONNECTOR-28PCS
 model: 28 Pieces 3 Pin LED Connector Set
 description: 28-piece set of 3-pin LED strip connectors including L-shape and T-shape adapters for WS2811 WS2812B SK6812 addressable LED strips
@@ -15,42 +14,17 @@ power: Up to 60W (12V)
 interface: [3-pin LED strip connection, L-shape, T-shape]
 connectivity: [WS2811 LED strips, WS2812B LED strips, SK6812 LED strips]
 compatibility: [10mm wide addressable LED strips, 3-pin digital LED strips]
-location: [Cabinet-5/Bin-26/Section-B]
+location: Cabinet-5/Bin-26/Section-B
 quantity: 28 pieces
 status: available
-price_range: $8-12
 datasheet: N/A
 product_url: https://a.co/d/5j3SYHu
-tags:
-  [
-    led-connectors,
-    addressable-led,
-    ws2811,
-    ws2812b,
-    sk6812,
-    l-shape,
-    t-shape,
-    mudder,
-    cabinet-5,
-    bin-26,
-    status-available,
-  ]
+tags: [led-connectors, addressable-led, ws2811, ws2812b, sk6812, l-shape, t-shape, mudder, cabinet-5, bin-26, status-available]
 date_added: 2025-01-14
+price: $8-12
 ---
 
 # 28 Pieces 3 Pin LED Connector Set
-
-## Details
-
-- **Location**: Cabinet-5, Bin 26, Section B
-- **Category**: LED Accessories
-- **Brand**: Mudder
-- **Part Number**: 3PIN-LED-CONNECTOR-28PCS
-- **Package**: Multi-piece Kit
-- **Quantity**: 28 pieces
-- **Status**: Available
-- **Price Range**: $8-12
-- **Product URL**: https://a.co/d/5j3SYHu
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Mechanical
 subcategory: Knobs & Controls
-brand: Generic
 part_number: A0304
 model: Black Knob White Top 15x15mm Shaft Diameter 6.00mm Split Shaft
 description: Standard black plastic knob with white top indicator, 15x15mm size with 6mm split shaft for potentiometers and rotary controls
@@ -15,12 +14,12 @@ power: N/A (mechanical component)
 interface: [Split Shaft, Potentiometer, Rotary Control]
 connectivity: [Potentiometers, Rotary switches, Variable resistors, Audio equipment]
 compatibility: [6mm split shaft potentiometers, Rotary encoders, Audio mixers, Control panels]
-location: [Cabinet-5/Bin-6/Section-A]
+location: Cabinet-5/Bin-6/Section-A
 quantity: 10
 status: available
-price_range: $0.37 per piece
 tags: [knobs, controls, hardware, mechanical, 6mm-shaft, split-shaft, black, white-top, potentiometer, cabinet-5, status-available]
 date_added: 2025-08-06
+price: $0.37 per piece
 ---
 
 # Black Knob White Top 15x15mm Shaft Diameter 6.00mm Split Shaft

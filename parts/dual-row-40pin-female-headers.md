@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: Various
 model: Dual Row 40-Pin Female Headers
 description: Dual Row 40-Pin Female Headers for GPIO and High-Density Connections
@@ -15,30 +14,17 @@ power: Variable
 interface: [Through-hole, GPIO]
 connectivity: [PCB, Raspberry Pi, Development boards, High-density connections]
 compatibility: [Raspberry Pi GPIO, Arduino Mega, Development boards, IDC cables]
-location: [Cabinet-3/Bin-44]
+location: Cabinet-3/Bin-44
 quantity: 20+
 status: available
-price_range: $0.50-2.00 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic component)
 tags: [headers, connectors, female, dual-row, 40-pin, gpio, raspberry-pi, arduino, cabinet-3, bin-44, status-available]
 date_added: 2025-01-13
+price: $0.50-2.00 per piece
 ---
 
 # Dual Row 40-Pin Female Headers
-
-## Details
-
-- **Location**: Cabinet-3, Bin 44
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: Dual Row 40-Pin Female Headers
-- **Package**: Through-hole
-- **Quantity**: 20+
-- **Status**: Available
-- **Pitch**: 0.1" (2.54mm) standard
-- **Gender**: Female (sockets)
-- **Pin Count**: 40 pins (2x20 configuration)
-- **Row Spacing**: 0.6" (15.24mm) typical
 
 ## Description
 

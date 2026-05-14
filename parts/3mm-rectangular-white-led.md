@@ -1,26 +1,18 @@
 ---
-type: electronic-component
+type: passive
 category: Standard LEDs
 subcategory: Rectangular LED
 size: 3mm
 color: white
 shape: rectangular
-location: [Cabinet-1/Bin-12]
+location: Cabinet-1/Bin-12
 quantity: 5
 status: available
-price_range: $0.20-0.75
 tags: [led, white, 3mm, rectangular]
+price: $0.20-0.75
 ---
 
 # 3mm Rectangular White LED
-
-## Details
-
-- **Location**: Cabinet-1, Bin 12
-- **Category**: LEDs
-- **Color**: White
-- **Size**: 3mm
-- **Shape**: Rectangular
 
 ## Description
 

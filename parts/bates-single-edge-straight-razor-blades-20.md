@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Tools & Supplies
 subcategory: Shaving Supplies
-brand: Bates
 part_number: N/A
 model: Bates Single Edge Straight Razor Blades
 description: Premium-grade steel single edge straight razor blades with silver finish, 20+ pieces
@@ -15,42 +14,17 @@ power: N/A
 interface: [Single Edge Razor, Scraper Tool]
 connectivity: [Mechanical Fit]
 compatibility: [Single Edge Razors, Straight Razors, Scraper Tools]
-location: [Cabinet-5/Bin-43]
+location: Cabinet-5/Bin-43
 quantity: 20+
 status: available
-price_range: $12-20
 datasheet: N/A
 product_url: https://a.co/d/e1okC9j
-tags:
-  [
-    single-edge-blades,
-    straight-razor,
-    bates,
-    premium-steel,
-    silver-finish,
-    scraper-blades,
-    shaving,
-    cabinet-5,
-    bin-43,
-    status-available,
-  ]
+tags: [single-edge-blades, straight-razor, bates, premium-steel, silver-finish, scraper-blades, shaving, cabinet-5, bin-43, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $12-20
 ---
 
 # Bates Single Edge Straight Razor Blades
-
-## Details
-
-- **Location**: Cabinet-5, Bin 43
-- **Category**: Tools & Supplies
-- **Brand**: Bates
-- **Model**: Bates Single Edge Straight Razor Blades
-- **Package**: Individual wrapped blades
-- **Quantity**: 20+ pieces
-- **Status**: Available
-- **Price Range**: $12-20
-- **Product URL**: https://a.co/d/e1okC9j
 
 ## Description
 

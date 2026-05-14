@@ -1,24 +1,17 @@
 ---
-type: electronic-component
+type: passive
 category: Standard LEDs
 subcategory: Basic LED
 size: 5mm
 color: blue
-location: [Cabinet-1/Bin-9]
+location: Cabinet-1/Bin-9
 quantity: 10
 status: available
-price_range: $0.10-0.50
 tags: [led, blue, 5mm, standard]
+price: $0.10-0.50
 ---
 
 # 5mm LED Blue
-
-## Details
-
-- **Location**: Cabinet-1, Bin 9
-- **Category**: LEDs
-- **Color**: Blue
-- **Size**: 5mm
 
 ## Description
 

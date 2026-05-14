@@ -3,14 +3,12 @@ title: LM7824T +24V Voltage Regulator
 description: Taejin LM7824T positive 24V linear voltage regulator in TO-220 package
 manufacturer: Taejin
 part_number: LM7824T
-datasheet_url: https://www.taejin.co.kr/en/product/product_view.php?idx=47
 supplier: Digikey
 supplier_part_number: LM7824T-ND
-supplier_url: https://www.digikey.com/en/products/detail/taejin/LM7824T/22237262
 quantity: 2
-location: 
-  - cabinet: 3
-  - bin: 23
+location:
+- "{'cabinet': 3}"
+- "{'bin': 23}"
 package: TO-220
 voltage_output: +24V
 voltage_input_min: 26.5V
@@ -22,6 +20,8 @@ operating_temp_min: 0°C
 operating_temp_max: 125°C
 tags: [voltage-regulator, linear-regulator, positive-voltage, to-220, taejin, 24v]
 categories: [power-management, voltage-regulators]
+product_url: https://www.digikey.com/en/products/detail/taejin/LM7824T/22237262
+datasheet: https://www.taejin.co.kr/en/product/product_view.php?idx=47
 ---
 
 # LM7824T +24V Voltage Regulator

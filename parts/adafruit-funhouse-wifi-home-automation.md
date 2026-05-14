@@ -1,31 +1,20 @@
 ---
-type: part
+type: other
 title: Adafruit FunHouse - WiFi Home Automation Development Board
 description: ESP32-S2 based home automation board with built-in sensors, 1.54" color display, and extensive connectivity options
 manufacturer: Adafruit
 part_number: 4985
 category: iot-boards
 subcategory: home-automation
-tags:
-  [
-    funhouse,
-    esp32-s2,
-    wifi,
-    home-automation,
-    iot,
-    sensors,
-    display,
-    circuitpython,
-    stemma,
-  ]
+tags: [funhouse, esp32-s2, wifi, home-automation, iot, sensors, display, circuitpython, stemma]
 quantity: 1
-location: [cabinet-1-bin-40]
-datasheet_url: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-funhouse.pdf
-purchase_url: https://www.adafruit.com/product/4985
+location: Cabinet-1/Bin-40
 price: 34.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4985
+datasheet: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-funhouse.pdf
 ---
 
 # Adafruit FunHouse - WiFi Home Automation Development Board

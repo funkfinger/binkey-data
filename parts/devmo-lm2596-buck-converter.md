@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Power Management
 subcategory: DC-DC Converters
-brand: DEVMO
 part_number: DEVMO-LM2596-10PACK
 model: LM2596S DC-DC Step Down Variable Voltage Regulator
 description: Adjustable buck converter module with LM2596S switching regulator IC
@@ -18,28 +17,14 @@ compatibility: [Arduino, Raspberry Pi, General Electronics]
 location: [Cabinet-2/Bin-14/Section-A, Cabinet-2/Bin-14/Section-B]
 quantity: 9
 status: available
-price_range: $15-25
 datasheet: https://www.ti.com/lit/ds/symlink/lm2596.pdf
 product_url: https://a.co/d/dcny2co
 tags: [buck-converter, step-down, voltage-regulator, lm2596, switching-regulator, adjustable, cabinet-2, bin-14, status-available]
 date_added: 2025-01-30
-added_date: 2025-01-30
+price: $15-25
 ---
 
 # DEVMO LM2596 Buck Converter Module
-
-## Details
-
-- **Location**: Cabinet-2, Bin 14 (Section A: 3 units, Section B: 6 units)
-- **Category**: Power Management
-- **Brand**: DEVMO
-- **Part Number**: DEVMO-LM2596-10PACK
-- **Package**: PCB Module
-- **Quantity**: 9 total (3 in Section A, 6 in Section B)
-- **Status**: Available
-- **Price Range**: $15-25
-- **Datasheet**: [LM2596 Datasheet](https://www.ti.com/lit/ds/symlink/lm2596.pdf)
-- **Product URL**: https://a.co/d/dcny2co
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: USB-C to USB-A Adapter Pack
 description: Pack of USB-C female to USB-A male adapters for connecting USB-C devices to USB-A ports
 manufacturer: Generic
@@ -8,27 +8,15 @@ category: adapters-cables
 subcategory: usb-adapters
 tags: [usb-c, usb-a, adapter, connector, compatibility, charging, data-transfer]
 quantity: 1
-location: [cabinet-1-bin-39]
-purchase_url: https://a.co/d/7g7O0X9
+location: Cabinet-1/Bin-39
 price: 8.99
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://a.co/d/7g7O0X9
 ---
 
 # USB-C to USB-A Adapter Pack
-
-## Details
-
-- **Location**: Cabinet-5, Bin 26
-- **Category**: USB Adapters
-- **Brand**: Various
-- **Part Number**: USB-C-TO-USB-A-ADAPTER-PACK
-- **Package**: Multi-pack Collection
-- **Quantity**: 10+
-- **Status**: Available
-- **Price Range**: $8-15
-- **Product URL**: https://a.co/d/j4NGutU
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Integrated Circuits
 subcategory: DAC ICs
-brand: Microchip Technology
 part_number: MCP4921-E/SN
 model: MCP4921-E/SN
 description: 12-bit single-channel SPI DAC with rail-to-rail output, 8-SOIC package
@@ -15,31 +14,17 @@ power: Low power with shutdown mode (~150nA shutdown current)
 interface: [SPI]
 connectivity: [Surface-mount pins]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers]
-location: [Cabinet-3/Bin-37/Section-G]
+location: Cabinet-3/Bin-37/Section-G
 quantity: 15
 status: available
-price_range: $1.50-$2.50
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/21897B.pdf
 product_url: https://www.microchip.com/en-us/product/mcp4921
 tags: [dac, spi, 12-bit, single-channel, soic-8, microchip, rail-to-rail, cabinet-3, bin-37, status-available]
 date_added: 2026-04-27
-added_date: 2026-04-27
+price: $1.50-$2.50
 ---
 
 # MCP4921-E/SN - 12-Bit Single-Channel SPI DAC
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section G
-- **Category**: Integrated Circuits > DAC ICs
-- **Brand**: Microchip Technology
-- **Part Number**: MCP4921-E/SN
-- **Package**: 8-SOIC
-- **Quantity**: 15
-- **Status**: Available
-- **Price Range**: $1.50-$2.50
-- **Datasheet**: [MCP4921 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/21897B.pdf)
-- **Product URL**: https://www.microchip.com/en-us/product/mcp4921
 
 ## Description
 

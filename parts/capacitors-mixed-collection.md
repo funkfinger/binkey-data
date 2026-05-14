@@ -1,42 +1,19 @@
 ---
-type: part
+type: passive
 title: Capacitors - Mixed Collection
 description: Collection of various capacitor types including ceramic, electrolytic, tantalum, and film capacitors for general electronics applications
 manufacturer: Various
 part_number: CAPACITOR-MIXED-COLLECTION
 category: passive-components
 subcategory: capacitors
-tags:
-  [
-    capacitors,
-    ceramic,
-    electrolytic,
-    tantalum,
-    film,
-    bypass,
-    decoupling,
-    filtering,
-    energy-storage,
-  ]
+tags: [capacitors, ceramic, electrolytic, tantalum, film, bypass, decoupling, filtering, energy-storage]
 total_quantity: 500+
-location: [cabinet-2-bin-12]
+location: Cabinet-2/Bin-12
 price: 0.25
 currency: USD
 date_added: 2025-01-09
-status: active
-values_present:
-  [
-    "1 uF",
-    "2.2 uF",
-    "3.3 uF",
-    "4.7 uF",
-    "10 uF",
-    "15 uF",
-    "22 uF",
-    "33 uF",
-    "47 uF",
-    "100 uF",
-  ]
+status: available
+values_present: ["1 uF", "2.2 uF", "3.3 uF", "4.7 uF", "10 uF", "15 uF", "22 uF", "33 uF", "47 uF", "100 uF"]
 ---
 
 # Capacitors - Mixed Collection

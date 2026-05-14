@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Analog ICs
 subcategory: Op-Amps
-brand: Various
 part_number: LM741
 model: LM741
 description: General-purpose operational amplifier IC
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [Analog]
 connectivity: [Through-hole pins]
 compatibility: [Analog circuits, Audio applications]
-location: [Cabinet-3/Bin-37/Section-A]
+location: Cabinet-3/Bin-37/Section-A
 quantity: 16
 status: available
-price_range: $0.50-1.50
 datasheet: https://www.ti.com/lit/ds/symlink/lm741.pdf
 product_url: https://www.ti.com/product/LM741
 tags: [op-amp, analog-ic, single-opamp, general-purpose, classic, lm741, cabinet-3, bin-37, status-available]
 date_added: 2025-01-12
+price: $0.50-1.50
 ---
 
 # LM741 - General-Purpose Operational Amplifier
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section A
-- **Category**: Analog ICs
-- **Brand**: Various (TI, STMicroelectronics, etc.)
-- **Part Number**: LM741 / LM741CN
-- **Package**: 8-DIP
-- **Quantity**: 16
-- **Status**: Available
-- **Price Range**: $0.50-1.50
-- **Datasheet**: [LM741 Datasheet](https://www.ti.com/lit/ds/symlink/lm741.pdf)
-- **Product URL**: https://www.ti.com/product/LM741
 
 ## Description
 

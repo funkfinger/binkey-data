@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Sensors
 subcategory: Moisture Sensor
-brand: HiLetgo
 part_number: LM393-SOIL-5PCS
 model: LM393 3.3V-5V Soil Moisture Detect Sensor
 description: Soil moisture detection sensor with LM393 comparator for automatic watering systems and plant monitoring
@@ -15,29 +14,17 @@ power: <75mW
 interface: [Analog Output, Digital Output, TTL]
 connectivity: [4-pin connector, VCC, GND, DO, AO]
 compatibility: [Arduino, Raspberry Pi, ESP32, Microcontrollers]
-location: [Cabinet-4/Bin-10]
+location: Cabinet-4/Bin-10
 quantity: 4
 status: available
-price_range: $7.89
-datasheet: 
+datasheet:
 product_url: https://a.co/d/dCR5WP7
 tags: [soil-moisture, lm393, sensor, arduino, automatic-watering, plant-monitoring, cabinet-4, bin-10, status-available]
 date_added: 2025-01-13
+price: $7.89
 ---
 
 # HiLetgo LM393 3.3V-5V Soil Moisture Detect Sensor (5pcs)
-
-## Details
-
-- **Location**: Cabinet 4, Bin 10
-- **Category**: Sensors
-- **Brand**: HiLetgo
-- **Part Number**: LM393-SOIL-5PCS
-- **Package**: 5-piece kit
-- **Quantity**: 4 kits (20 sensors total)
-- **Status**: Available
-- **Price Range**: $7.89 per kit
-- **Product URL**: https://a.co/d/dCR5WP7
 
 ## Description
 

@@ -1,25 +1,18 @@
 ---
-type: electronic-component
+type: other
 category: Optical Components
 subcategory: Lasers and Mirrors
 description: Collection of small laser diodes and first surface mirrors for optical experiments
 components: [laser-diodes, first-surface-mirrors]
 applications: [optics, laser-experiments, beam-steering, interferometry]
-location: [Cabinet-2/Bin-11]
+location: Cabinet-2/Bin-11
 quantity: 10+
 status: available
-price_range: $5-50
 tags: [laser, diode, mirrors, optics, first-surface, beam-steering, experiments]
+price: $5-50
 ---
 
 # Laser Diodes and Optical Mirrors Collection
-
-## Details
-
-- **Location**: Cabinet-2, Bin 11
-- **Category**: Optical Components
-- **Total Quantity**: 10+ components
-- **Applications**: Optical experiments, laser projects, beam manipulation
 
 ## Description
 

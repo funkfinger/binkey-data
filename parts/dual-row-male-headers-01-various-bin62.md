@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: Various
 model: Dual Row Male Headers - 0.1" Spacing Various Lengths (Bin 62)
 description: Additional assorted dual row male headers with 0.1" pitch in various pin counts and lengths
@@ -15,29 +14,17 @@ power: Variable
 interface: [Through-hole, Standard Headers]
 connectivity: [PCB, Breadboard, Development boards, Female headers]
 compatibility: [Arduino, Raspberry Pi, Standard 0.1" female headers, IDC connectors]
-location: [Cabinet-3/Bin-62]
+location: Cabinet-3/Bin-62
 quantity: 50+
 status: available
-price_range: $0.25-2.00 per piece
 datasheet: Generic connector specifications
 product_url: N/A (generic components)
 tags: [headers, connectors, male, dual-row, 0.1-spacing, various-lengths, pcb, arduino, cabinet-3, bin-62, status-available]
 date_added: 2025-01-13
+price: $0.25-2.00 per piece
 ---
 
 # Dual Row Male Headers - 0.1" Spacing Various Lengths (Bin 62)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 62
-- **Category**: Connectors & Cables - Header Connectors
-- **Type**: Dual Row Male Headers Collection (Additional Stock)
-- **Package**: Through-hole
-- **Quantity**: 50+ in various lengths
-- **Status**: Available
-- **Pitch**: 0.1" (2.54mm) standard spacing
-- **Gender**: Male (pins)
-- **Configuration**: Dual row
 
 ## Description
 

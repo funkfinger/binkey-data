@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Mechanical
 subcategory: Knobs & Controls
-brand: Generic
 part_number: A0305
 model: Wood Ebony Dome Knob 20x17mm Shaft 6.00mm
 description: Premium wood ebony dome-style knob with 20x17mm dimensions and 6mm shaft hole, providing elegant appearance and comfortable grip for high-end audio and control applications
@@ -15,12 +14,12 @@ power: N/A (mechanical component)
 interface: [6mm Shaft, Potentiometer, Rotary Control]
 connectivity: [Potentiometers, Rotary switches, Variable resistors, Premium audio equipment]
 compatibility: [6mm shaft potentiometers, High-end audio equipment, Vintage restorations, Premium control panels]
-location: [Cabinet-5/Bin-7/Section-A]
+location: Cabinet-5/Bin-7/Section-A
 quantity: 4
 status: available
-price_range: $3.15 per piece
 tags: [knobs, controls, hardware, mechanical, wood, ebony, dome, 6mm-shaft, premium, audio, vintage, cabinet-5, status-available]
 date_added: 2025-08-06
+price: $3.15 per piece
 ---
 
 # Wood Ebony Dome Knob 20x17mm Shaft 6.00mm

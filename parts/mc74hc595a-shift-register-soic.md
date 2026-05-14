@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Shift Registers
-brand: ON Semiconductor
 part_number: MC74HC595A
 model: MC74HC595A
 description: 8-bit serial-in parallel-out shift register with tri-state outputs in SOIC package for surface mount applications
@@ -15,30 +14,17 @@ power: High-speed CMOS technology with low power
 interface: [Serial Input, Parallel Output, SPI Compatible]
 connectivity: [Surface mount pins]
 compatibility: [Microcontrollers, Arduino, TTL Logic, CMOS Logic]
-location: [Cabinet-3/Bin-35/Section-D]
+location: Cabinet-3/Bin-35/Section-D
 quantity: 31
 status: available
-price_range: $0.50-1.20
 datasheet: https://www.onsemi.com/pdf/datasheet/mc74hc595a-d.pdf
 product_url: https://www.onsemi.com/products/logic/shift-registers/mc74hc595a
 tags: [shift-register, serial-to-parallel, io-expander, spi-compatible, soic-package, surface-mount, on-semiconductor, cabinet-3, bin-35, status-available]
 date_added: 2025-01-13
+price: $0.50-1.20
 ---
 
 # MC74HC595A - 8-Bit Serial-In Parallel-Out Shift Register (SOIC)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 35, Section D
-- **Category**: Logic ICs
-- **Brand**: ON Semiconductor
-- **Part Number**: MC74HC595A
-- **Package**: 16-SOIC (Surface Mount)
-- **Quantity**: 31
-- **Status**: Available
-- **Price Range**: $0.50-1.20
-- **Datasheet**: [MC74HC595A Datasheet](https://www.onsemi.com/pdf/datasheet/mc74hc595a-d.pdf)
-- **Product URL**: [ON Semiconductor Product Page](https://www.onsemi.com/products/logic/shift-registers/mc74hc595a)
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: ATSAMD21 Development Board
-brand: Adafruit
 part_number: 2772
 model: Feather M0 Basic Proto
 microcontroller: ATSAMD21G18
@@ -24,25 +23,15 @@ battery_charging: true
 prototyping_area: true
 rtc: true
 form_factor: Feather
-location: [Cabinet-1/Bin-29]
+location: Cabinet-1/Bin-29
 quantity: 1
 status: available
-price_range: $19-20
 tags: [microcontroller, atsamd21, feather, prototyping, arduino, battery-charging, adafruit, m0-basic, cortex-m0]
+price: $19-20
+manufacturer: Adafruit
 ---
 
 # Adafruit Feather M0 Basic Proto
-
-## Details
-
-- **Location**: Cabinet-1, Bin 29
-- **Category**: Feather Boards
-- **Type**: ATSAMD21 Development Board with Prototyping Area (Feather Form Factor)
-- **Microcontroller**: ATSAMD21G18 ARM Cortex-M0+ @ 48MHz
-- **Brand**: Adafruit
-- **Part Number**: 2772
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/2772
 
 ## Description
 

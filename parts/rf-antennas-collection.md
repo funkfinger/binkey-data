@@ -1,27 +1,19 @@
 ---
-type: electronic-component
+type: other
 category: RF Components
 subcategory: Antennas
 description: Collection of RF antennas for various wireless applications
 functions: [rf-transmission, rf-reception, wireless-communication]
 frequency_bands: [2.4GHz, 433MHz, 868MHz, 915MHz, multi-band]
 antenna_types: [dipole, monopole, patch, helical, whip]
-location: [Cabinet-3/Bin-20]
+location: Cabinet-3/Bin-20
 quantity: 15+
 status: available
-price_range: $2-25
 tags: [antennas, rf, wireless, 2.4ghz, 433mhz, 868mhz, 915mhz, sma, u.fl]
+price: $2-25
 ---
 
 # RF Antennas Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bin 20
-- **Category**: RF Components
-- **Type**: Various RF antennas and antenna accessories
-- **Total Quantity**: 15+ antennas
-- **Applications**: Wireless communication, RF testing, antenna experiments
 
 ## Description
 

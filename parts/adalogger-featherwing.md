@@ -1,26 +1,19 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: Data Logger
-brand: Adafruit
 part_number: 2922
 functions: [rtc, sd-card]
 storage: micro-sd
-location: [Cabinet-1/Bin-16]
+location: Cabinet-1/Bin-16
 quantity: 1
 status: available
-price_range: $15-20
 tags: [featherwing, adalogger, rtc, sd-card, storage, adafruit]
+price: $15-20
+manufacturer: Adafruit
 ---
 
 # Adalogger FeatherWing
-
-## Details
-
-- **Location**: Cabinet-1, Bin 16
-- **Category**: Featherwings
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/2922
 
 ## Description
 

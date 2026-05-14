@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Pomona 5250 SOIC 8-Pin Test Clip
 description: Professional test clip for SOIC 8-pin (2x4) surface mount packages, ideal for in-circuit testing and programming
 manufacturer: Pomona Electronics
@@ -8,13 +8,13 @@ category: test-equipment
 subcategory: test-clips
 tags: [test-clip, soic, surface-mount, 8-pin, pomona, in-circuit-testing, programming, debugging, smd]
 quantity: 1
-location: [cabinet-1-bin-38]
-datasheet_url: https://www.pomonaelectronics.com/file/17791/download?token=l5Lb21oc
-purchase_url: https://www.digikey.com/en/products/detail/pomona-electronics/5250/745102
+location: Cabinet-1/Bin-38
 price: 18.19
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.digikey.com/en/products/detail/pomona-electronics/5250/745102
+datasheet: https://www.pomonaelectronics.com/file/17791/download?token=l5Lb21oc
 ---
 
 # Pomona 5250 SOIC 8-Pin Test Clip

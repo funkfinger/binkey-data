@@ -1,5 +1,5 @@
 ---
-type: electronic-component
+type: other
 category: Cables & Connectors
 subcategory: JST Connectors
 description: Collection of JST cables and sockets for power and signal connections
@@ -9,22 +9,11 @@ components: [cables, sockets, connectors]
 location: [Cabinet-2/Bin-14, Cabinet-2/Bin-15, Cabinet-2/Bin-16]
 quantity: 25+
 status: available
-price_range: $5-20
 tags: [jst, cables, connectors, power, signal, 2-pin, 3-pin, sockets]
+price: $5-20
 ---
 
 # JST Cables and Connectors Collection
-
-## Details
-
-- **Location**: Cabinet-2, Bins 14-16
-- **Category**: Cables & Connectors
-- **Type**: JST Connector System
-- **Total Quantity**: 25+ pieces
-- **Distribution**:
-  - Bin 14: 3-Pin JST Cables (5+)
-  - Bin 15: 2-Pin JST Cables (10+)
-  - Bin 16: 2-Pin JST Sockets (10+)
 
 ## Description
 

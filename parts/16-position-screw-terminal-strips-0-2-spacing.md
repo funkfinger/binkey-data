@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Terminal Blocks
-brand: Various
 part_number: N/A
 model: 16 Position Screw Terminal Strips 0.2" Spacing
 description: Screw terminal strips with 16 positions and 0.2 inch (5.08mm) spacing for wire connections
@@ -15,42 +14,17 @@ power: High power capability
 interface: [Screw Terminal, Wire to Wire]
 connectivity: [Panel Mount, DIN Rail Compatible]
 compatibility: [Control Panels, Distribution Blocks, Industrial Wiring]
-location: [Cabinet-5/Bin-38]
+location: Cabinet-5/Bin-38
 quantity: 6
 status: available
-price_range: $20-35
 datasheet: N/A
 product_url: https://www.digikey.com/en/products/detail/molex/0395943011/4481297
-tags:
-  [
-    terminal-strips,
-    screw-terminals,
-    16-position,
-    0-2-inch-spacing,
-    panel-mount,
-    din-rail,
-    distribution-block,
-    cabinet-5,
-    bin-38,
-    status-available,
-  ]
+tags: [terminal-strips, screw-terminals, 16-position, 0-2-inch-spacing, panel-mount, din-rail, distribution-block, cabinet-5, bin-38, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $20-35
 ---
 
 # 16 Position Screw Terminal Strips 0.2" Spacing
-
-## Details
-
-- **Location**: Cabinet-5, Bin 38
-- **Category**: Connectors & Interconnects
-- **Brand**: Various manufacturers
-- **Model**: 16 Position Screw Terminal Strips 0.2" Spacing
-- **Package**: Individual pieces
-- **Quantity**: 6
-- **Status**: Available
-- **Price Range**: $20-35
-- **Reference**: Similar to Molex terminal block series
 
 ## Description
 

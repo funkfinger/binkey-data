@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Adafruit USBtinyISP AVR Programmer Kit
 description: Open-source USB AVR programmer kit based on USBtinyISP design, perfect for programming AVR microcontrollers
 manufacturer: Adafruit
@@ -8,13 +8,13 @@ category: programming-tools
 subcategory: avr-programmers
 tags: [usbtinyisp, avr, programmer, usb, open-source, kit, atmega, attiny, isp, spi, diy]
 quantity: 1
-location: [cabinet-1-bin-37]
-datasheet_url: https://learn.adafruit.com/usbtinyisp
-purchase_url: https://www.adafruit.com/product/46
+location: Cabinet-1/Bin-37
 price: 22.00
 currency: USD
 date_added: 2025-01-09
-status: discontinued
+status: out-of-stock
+product_url: https://www.adafruit.com/product/46
+datasheet: https://learn.adafruit.com/usbtinyisp
 ---
 
 # Adafruit USBtinyISP AVR Programmer Kit

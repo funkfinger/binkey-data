@@ -1,0 +1,147 @@
+@use "../../styles/variables.scss" as *;
+
+.frontmatter-table {
+  margin: 0.75rem 0 1.5rem 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.fm-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.fm-row {
+  border-bottom: 1px solid var(--lightgray);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &:nth-child(even) {
+    background-color: color-mix(in srgb, var(--lightgray) 25%, var(--light) 75%);
+  }
+}
+
+.fm-label {
+  width: 9rem;
+  padding: 0.4rem 0.75rem;
+  font-weight: 600;
+  color: var(--darkgray);
+  background-color: color-mix(in srgb, var(--lightgray) 40%, var(--light) 60%);
+  vertical-align: top;
+  text-align: left;
+  white-space: nowrap;
+  border-right: 1px solid var(--lightgray);
+
+  @media all and #{$mobile} {
+    width: 6.5rem;
+    font-size: 0.8rem;
+  }
+}
+
+.fm-value {
+  padding: 0.4rem 0.75rem;
+  color: var(--darkgray);
+  word-break: break-word;
+  vertical-align: top;
+}
+
+// Location breadcrumb
+.fm-location-crumb {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.fm-sep {
+  color: var(--gray);
+  margin: 0 0.2rem;
+}
+
+.fm-loc-comma {
+  color: var(--gray);
+  margin-right: 0.4rem;
+}
+
+.fm-loc-link {
+  color: var(--secondary) !important;
+  background: none !important;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    color: var(--tertiary) !important;
+  }
+}
+
+.fm-loc-segment {
+  color: var(--darkgray);
+}
+
+// Status badge
+.fm-status {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  border: 1px solid transparent;
+
+  &.status-available {
+    background-color: color-mix(in srgb, var(--tertiary) 18%, transparent);
+    color: var(--tertiary);
+    border-color: color-mix(in srgb, var(--tertiary) 35%, transparent);
+  }
+
+  &.status-low {
+    background-color: color-mix(in srgb, #e8a000 15%, transparent);
+    color: #a07000;
+    border-color: color-mix(in srgb, #e8a000 40%, transparent);
+  }
+
+  &.status-out {
+    background-color: color-mix(in srgb, var(--gray) 18%, transparent);
+    color: var(--gray);
+    border-color: color-mix(in srgb, var(--gray) 35%, transparent);
+  }
+}
+
+// External URLs
+.fm-url {
+  color: var(--secondary) !important;
+  text-decoration: none;
+  word-break: break-all;
+
+  &:hover {
+    text-decoration: underline;
+    color: var(--tertiary) !important;
+  }
+}
+
+// Tags
+.fm-tags {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.fm-tag {
+  display: inline-block;
+  margin: 0.1rem 0.2rem 0.1rem 0;
+  padding: 0.1rem 0.4rem;
+  background-color: var(--highlight);
+  border-radius: 4px;
+  font-size: 0.78rem;
+  color: var(--darkgray);
+  white-space: nowrap;
+}
+
+// Quantity
+.fm-qty {
+  font-weight: 600;
+}

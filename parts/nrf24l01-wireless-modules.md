@@ -1,40 +1,22 @@
 ---
-type: electronic-component
+type: module
 category: Wireless Modules
 subcategory: RF Transceivers
-brand: MakerFocus
 chip: nRF24L01+
 description: Collection of nRF24L01+ wireless transceiver modules for 2.4GHz communication
 functions: [wireless-communication, rf-transceiver, arduino-compatible]
 interfaces: [SPI, 2.4GHz-RF]
 variants: [basic-nrf24l01, pa-lna-extended-range]
-location: [Cabinet-3/Bin-18]
+location: Cabinet-3/Bin-18
 quantity: 16
 status: available
-price_range: $13-15
-tags:
-  [
-    nrf24l01,
-    wireless,
-    2.4ghz,
-    arduino,
-    raspberry-pi,
-    makerfocus,
-    rf-transceiver,
-  ]
+tags: [nrf24l01, wireless, 2.4ghz, arduino, raspberry-pi, makerfocus, rf-transceiver]
 product_urls: [https://a.co/d/jgPi6Wi, https://a.co/d/ecQKVm8]
+price: $13-15
+manufacturer: MakerFocus
 ---
 
 # nRF24L01+ Wireless Modules Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bin 18
-- **Category**: Wireless Modules
-- **Brand**: MakerFocus
-- **Chip**: nRF24L01+ (Nordic Semiconductor)
-- **Total Quantity**: 16 modules
-- **Amazon Products**: Two different variants purchased
 
 ## Description
 

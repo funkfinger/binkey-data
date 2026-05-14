@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Fasteners
 subcategory: Snap Hooks & Connectors
-brand: Paxcoo
 part_number: B06XGMKM6R
 model: Metal Swivel Lanyard Snap Hook
 description: Metal swivel lanyard snap hooks with key rings for crafts and accessories
@@ -15,41 +14,17 @@ power: N/A
 interface: [Mechanical]
 connectivity: [Swivel Snap Hook, Key Ring]
 compatibility: [Lanyards, Keychains, Crafts, Sewing Projects]
-location: [Cabinet-5/Bin-27/Section-A]
+location: Cabinet-5/Bin-27/Section-A
 quantity: 100
 status: available
-price_range: $8-15
 datasheet: N/A
 product_url: https://a.co/d/0aAYn38
-tags:
-  [
-    snap-hooks,
-    swivel-hooks,
-    lanyard-hardware,
-    key-rings,
-    crafts,
-    hardware,
-    fasteners,
-    cabinet-5,
-    bin-27,
-    status-available,
-  ]
+tags: [snap-hooks, swivel-hooks, lanyard-hardware, key-rings, crafts, hardware, fasteners, cabinet-5, bin-27, status-available]
 date_added: 2025-01-23
+price: $8-15
 ---
 
 # Paxcoo Metal Swivel Lanyard Snap Hooks
-
-## Details
-
-- **Location**: Cabinet-5, Bin 27, Section A
-- **Category**: Hardware & Fasteners
-- **Brand**: Paxcoo
-- **Part Number**: B06XGMKM6R
-- **Package**: Bulk Pack (100 pieces)
-- **Quantity**: 100
-- **Status**: Available
-- **Price Range**: $8-15
-- **Product URL**: https://a.co/d/0aAYn38
 
 ## Description
 

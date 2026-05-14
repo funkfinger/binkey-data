@@ -5,29 +5,18 @@ part_number: 882pcs-technic-set
 manufacturer: Habow
 category: building-components
 subcategory: technic-parts
-type: mechanical-parts-kit
-location: ["cabinet-4", "bin-1", "bin-2"]
+type: kit
+location:
+- Cabinet-4
+- Bin-1
+- Bin-2
 quantity: 882
 source: Amazon
 price: $24.08
-list_price: $25.69
 purchase_date: 2025-01-13
-datasheet_url: ""
 product_url: "https://a.co/d/4ANsvue"
 image: "habow-882pcs-technic-parts.jpg"
-tags:
-  [
-    technic-parts,
-    lego-compatible,
-    axles,
-    pins,
-    connectors,
-    bushes,
-    chain-links,
-    gears,
-    moc-parts,
-    building-blocks,
-  ]
+tags: [technic-parts, lego-compatible, axles, pins, connectors, bushes, chain-links, gears, moc-parts, building-blocks]
 specifications:
   total_pieces: 882
   compatibility: "Fully compatible with major brand building blocks (Lego Technic)"
@@ -35,40 +24,28 @@ specifications:
   color_scheme: "Random colors (multi-color assortment)"
   build_quality: "Durable construction with excellent building experience"
   included_components:
-    - "Technic Axles (various lengths)"
-    - "Technic Pins (friction and frictionless)"
-    - "Technic Axle Pin Connectors"
-    - "Technic Chain Links"
-    - "Technic Bushes"
-    - "Teeth/Gears"
-    - "Technic Joint Connectors"
-    - "Rubber Bands"
-    - "Beams and Liftarms"
-    - "Connectors and Adapters"
+  - "Technic Axles (various lengths)"
+  - "Technic Pins (friction and frictionless)"
+  - "Technic Axle Pin Connectors"
+  - "Technic Chain Links"
+  - "Technic Bushes"
+  - "Teeth/Gears"
+  - "Technic Joint Connectors"
+  - "Rubber Bands"
+  - "Beams and Liftarms"
+  - "Connectors and Adapters"
   applications:
-    - "MOC (My Own Creation) Technic models"
-    - "EV3 Mindstorms Robotics Kit repairs/builds"
-    - "Technic Cars and Vehicles"
-    - "Cranes and Construction Equipment"
-    - "Tractors and Agricultural Models"
-    - "Engines and Mechanical Systems"
+  - "MOC (My Own Creation) Technic models"
+  - "EV3 Mindstorms Robotics Kit repairs/builds"
+  - "Technic Cars and Vehicles"
+  - "Cranes and Construction Equipment"
+  - "Tractors and Agricultural Models"
+  - "Engines and Mechanical Systems"
   recommended_use: "Replacement parts and expansion pieces for Technic builds"
+datasheet: ""
 ---
 
 # Habow 882pcs Technic Parts Set
-
-## Details
-
-- **Location**: Cabinet 4, Bins 1 and 2 (distributed across both bins)
-- **Category**: Building Components
-- **Manufacturer**: Habow
-- **Part Number**: 882pcs-technic-set
-- **Total Pieces**: 882
-- **Quantity**: 882 pieces
-- **Status**: Available
-- **Price**: $24.08 (6% savings from $25.69)
-- **Source**: Amazon
-- **Product URL**: [Amazon Link](https://a.co/d/4ANsvue)
 
 ## Description
 

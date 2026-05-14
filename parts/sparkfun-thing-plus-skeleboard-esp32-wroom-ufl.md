@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Development Boards
 subcategory: ESP32 Development Board
-brand: SparkFun
 part_number: WRL-18581
 model: Thing Plus SkeleBoard ESP32 WROOM (U.FL)
 microcontroller: ESP32-D0WDQ6
@@ -26,26 +25,15 @@ battery_charging: true
 qwiic: true
 antenna_connector: U.FL
 form_factor: Thing Plus
-location: [Cabinet-1/Bin-31]
+location: Cabinet-1/Bin-31
 quantity: 1
-status: discontinued
-price_range: $25
+status: out-of-stock
 tags: [microcontroller, esp32, thing-plus, skeleboard, wifi, bluetooth-le, bluetooth-classic, battery-charging, sparkfun, qwiic, u-fl, limited-edition, discontinued]
+price: $25
+manufacturer: SparkFun
 ---
 
 # SparkFun Thing Plus SkeleBoard - ESP32 WROOM (U.FL)
-
-## Details
-
-- **Location**: Cabinet-1, Bin 31
-- **Category**: Development Boards
-- **Type**: ESP32 Development Board (Thing Plus Form Factor)
-- **Microcontroller**: ESP32-D0WDQ6 (Dual Xtensa LX6 @ 240MHz)
-- **Brand**: SparkFun
-- **Part Number**: WRL-18581
-- **Quantity**: 1
-- **Status**: Discontinued (Limited Edition SkeleBoard)
-- **Product URL**: https://www.sparkfun.com/sparkfun-thing-plus-skeleboard-esp32-wroom-u-fl.html
 
 ## Description
 

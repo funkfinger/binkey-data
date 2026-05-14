@@ -1,41 +1,22 @@
 ---
-type: electronic-component
+type: other
 category: Frequency Control & Timing
 subcategory: Ceramic Resonators
-brand: Murata Electronics
 part_number: CSTCE20M0V53-R0
 model: CSTCE20M0V53
 description: Ceramic resonator 20MHz with built-in 15pF capacitor, SMD package, frequency control and timing applications
 manufacturer: Murata Electronics
 package: SMD
 voltage: 2.5V ±10%
-location: [Cabinet-6/Bin-1/Container-K]
+location: Cabinet-6/Bin-1/Container-K
 quantity: 10
 status: available
-price_range: $0.30-0.50 each
 datasheet: https://www.murata.com/en-us/products/productdetail?partno=CSTCE20M0V53-R0
 product_url: https://www.digikey.com/en/products/detail/murata-electronics/CSTCE20M0V53-R0/584407
-tags:
-  [
-    ceramic-resonator,
-    frequency-control,
-    timing,
-    20mhz,
-    murata,
-    ceralock,
-    smd,
-    15pf,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [ceramic-resonator, frequency-control, timing, 20mhz, murata, ceralock, smd, 15pf, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.30-0.50 each
 ---
-
-## Details
-
-The Murata CSTCE20M0V53-R0 is a ceramic resonator from the CERALOCK® series designed for frequency control and timing applications. It features a built-in 15pF capacitor, eliminating the need for external load capacitors in many applications. This SMD component is ideal for microcontroller clock circuits and timing applications requiring 20MHz operation.
 
 ## Description
 

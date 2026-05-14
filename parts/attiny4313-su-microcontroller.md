@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Microcontrollers
 subcategory: AVR - ATtiny
-brand: Microchip Technology
 part_number: ATTINY4313-SU
 model: ATtiny4313
 description: 8-bit AVR RISC microcontroller, 4KB Flash, 256B SRAM, 256B EEPROM, 20MHz, 20-pin SOIC package
@@ -14,45 +13,17 @@ power: Low power consumption
 interface: [ISP, debugWIRE, UART, SPI, I2C]
 connectivity: [20-pin SOIC]
 compatibility: [Arduino IDE, AVR-GCC, debugWIRE debugging]
-location: [Cabinet-6/Bin-1/Container-G]
+location: Cabinet-6/Bin-1/Container-G
 quantity: 10
 status: available
-price_range: $0.85-1.20 each
 datasheet: https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/8246S.pdf
 product_url: https://www.microchip.com/en-us/product/attiny4313
-tags:
-  [
-    microcontroller,
-    avr,
-    attiny,
-    8-bit,
-    4kb-flash,
-    20mhz,
-    soic-20,
-    microchip,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [microcontroller, avr, attiny, 8-bit, 4kb-flash, 20mhz, soic-20, microchip, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.85-1.20 each
 ---
 
 # Microchip ATtiny4313-SU Microcontroller
-
-## Details
-
-- **Location**: Cabinet-6, Bin 1, Container G
-- **Category**: Microcontrollers
-- **Brand**: Microchip Technology
-- **Part Number**: ATTINY4313-SU
-- **Model**: ATtiny4313
-- **Package**: SOIC-20 (20-pin Surface Mount)
-- **Quantity**: 10 units
-- **Status**: Available
-- **Price Range**: $0.85-1.20 per unit
-- **Datasheet**: [ATtiny2313A/4313 Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/8246S.pdf)
-- **Product URL**: [Microchip - ATtiny4313](https://www.microchip.com/en-us/product/attiny4313)
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Relays & Switches
 subcategory: Solid State Relays
-brand: Littelfuse
 part_number: LAA110
 model: LAA110
 description: Dual 1-Form-A OptoMOS solid state relay with optical isolation and MOSFET switching
@@ -15,30 +14,17 @@ power: Low power consumption with 5mA input control current
 interface: [Optical Isolation, MOSFET Switching]
 connectivity: [Through-hole pins]
 compatibility: [Digital logic control, Low voltage switching, Isolated switching]
-location: [Cabinet-3/Bin-33/Section-J]
+location: Cabinet-3/Bin-33/Section-J
 quantity: 2
 status: available
-price_range: $5.00-12.00
 datasheet: https://www.littelfuse.com/assetdocs/littelfuse-integrated-circuits-laa110-datasheet
 product_url: https://www.littelfuse.com/products/power-semiconductors-control-ics/solid-state-relays/optomos-relays/normally-open-relays/dual-1-form-a/laa110
 tags: [solid-state-relay, optomos, optical-isolation, mosfet-switching, littelfuse, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $5.00-12.00
 ---
 
 # LAA110 - Dual 1-Form-A OptoMOS Solid State Relay
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section J
-- **Category**: Relays & Switches
-- **Brand**: Littelfuse
-- **Part Number**: LAA110
-- **Package**: 8-DIP
-- **Quantity**: 2
-- **Status**: Available
-- **Price Range**: $5.00-12.00
-- **Datasheet**: [LAA110 Datasheet](https://www.littelfuse.com/assetdocs/littelfuse-integrated-circuits-laa110-datasheet)
-- **Product URL**: [LAA110 Product Page](https://www.littelfuse.com/products/power-semiconductors-control-ics/solid-state-relays/optomos-relays/normally-open-relays/dual-1-form-a/laa110)
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-type: part
+type: dev-board
 title: MakersBox Yet Another Programming Shield
 description: Arduino shield for programming AVR microcontrollers with ZIF socket and multiple chip support
 manufacturer: MakersBox
@@ -8,12 +8,12 @@ category: programming-tools
 subcategory: arduino-shields
 tags: [yaps, programming-shield, arduino, avr, zif-socket, atmega, attiny, makersbox, diy, kit]
 quantity: 1
-location: [cabinet-1-bin-38]
-purchase_url: https://www.tindie.com/products/makersbox/yet-another-programming-shield/
+location: Cabinet-1/Bin-38
 price: 22.50
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.tindie.com/products/makersbox/yet-another-programming-shield/
 ---
 
 # MakersBox Yet Another Programming Shield (YAPS)

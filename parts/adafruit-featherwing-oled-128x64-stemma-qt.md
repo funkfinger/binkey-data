@@ -1,32 +1,20 @@
 ---
-type: part
+type: dev-board
 title: Adafruit FeatherWing OLED 128x64 STEMMA QT
 description: 128x64 monochrome OLED display add-on for Feather boards with STEMMA QT connector and 3 user buttons
 manufacturer: Adafruit
 part_number: 4650
 category: featherwings
 subcategory: display-wings
-tags:
-  [
-    featherwing,
-    oled,
-    display,
-    128x64,
-    stemma-qt,
-    qwiic,
-    i2c,
-    sh1107,
-    adafruit,
-    buttons,
-  ]
+tags: [featherwing, oled, display, 128x64, stemma-qt, qwiic, i2c, sh1107, adafruit, buttons]
 quantity: 1
-location: [cabinet-1-bin-35]
-datasheet_url: https://cdn-shop.adafruit.com/product-files/4650/4650_C14586.pdf
-purchase_url: https://www.adafruit.com/product/4650
+location: Cabinet-1/Bin-35
 price: 14.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4650
+datasheet: https://cdn-shop.adafruit.com/product-files/4650/4650_C14586.pdf
 ---
 
 # Adafruit FeatherWing OLED 128x64 STEMMA QT

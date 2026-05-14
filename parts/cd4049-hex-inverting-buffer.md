@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Buffers/Inverters
-brand: Texas Instruments
 part_number: CD4049
 model: CD4049UB
 description: CMOS hex inverting buffer/converter IC
@@ -15,41 +14,17 @@ power: Low power consumption
 interface: [Digital Logic]
 connectivity: [Through-hole pins]
 compatibility: [CMOS Logic, TTL Compatible]
-location: [Cabinet-3/Bin-34/Section-F]
+location: Cabinet-3/Bin-34/Section-F
 quantity: 5
 status: available
-price_range: $0.50-1.00
 datasheet: https://www.ti.com/lit/ds/symlink/cd4049ub.pdf
 product_url: https://www.ti.com/product/CD4049UB
-tags:
-  [
-    logic-ic,
-    buffer,
-    inverter,
-    hex-buffer,
-    cmos,
-    texas-instruments,
-    cabinet-3,
-    bin-34,
-    status-available,
-  ]
+tags: [logic-ic, buffer, inverter, hex-buffer, cmos, texas-instruments, cabinet-3, bin-34, status-available]
 date_added: 2025-01-12
+price: $0.50-1.00
 ---
 
 # CD4049 - CMOS Hex Inverting Buffer
-
-## Details
-
-- **Location**: Cabinet-3, Bin 34, Section F
-- **Category**: Logic ICs
-- **Brand**: Texas Instruments
-- **Part Number**: CD4049
-- **Package**: 16-DIP
-- **Quantity**: 5
-- **Status**: Available
-- **Price Range**: $0.50-1.00
-- **Datasheet**: [CD4049UB Datasheet](https://www.ti.com/lit/ds/symlink/cd4049ub.pdf)
-- **Product URL**: https://www.ti.com/product/CD4049UB
 
 ## Description
 

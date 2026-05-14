@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: Arduino Compatible
-brand: SparkFun
 part_number: DEV-15795
 model: Qwiic Pro Micro
 microcontroller: ATmega32U4
@@ -23,25 +22,15 @@ dimensions: 33.0mm x 17.8mm
 weight: 5g
 castellated: true
 reset_button: true
-location: [Cabinet-1/Bin-25]
+location: Cabinet-1/Bin-25
 quantity: 3
 status: available
-price_range: $23-24
 tags: [microcontroller, arduino-compatible, qwiic, usb-c, atmega32u4, sparkfun, castellated]
+price: $23-24
+manufacturer: SparkFun
 ---
 
 # SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)
-
-## Details
-
-- **Location**: Cabinet-1, Bin 25
-- **Category**: Microcontroller Boards
-- **Type**: Arduino-Compatible Microcontroller with Qwiic
-- **Microcontroller**: ATmega32U4
-- **Brand**: SparkFun
-- **Part Number**: DEV-15795
-- **Quantity**: 3
-- **Product URL**: https://www.sparkfun.com/sparkfun-qwiic-pro-micro-usb-c-atmega32u4.html
 
 ## Description
 

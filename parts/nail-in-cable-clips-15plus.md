@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Wiring & Cable Management
 subcategory: Cable Clips
-brand: Generic
 part_number: NAIL-CABLE-CLIPS
 model: Nail-In Cable Clips
 description: 15+ nail-in cable clips for securing and routing cables and wires along surfaces
@@ -15,40 +14,17 @@ power: N/A
 interface: [Cable Securing, Wire Management]
 connectivity: [Cable Routing, Wire Organization]
 compatibility: [Electrical Cables, Network Cables, Coaxial Cables, Audio Cables, Low Voltage Wiring]
-location: [Cabinet-5/Bin-56/Section-C]
+location: Cabinet-5/Bin-56/Section-C
 quantity: 15+
 status: available
-price_range: $2-6
 datasheet: N/A
 product_url: N/A
-tags:
-  [
-    cable-clips,
-    nail-in-clips,
-    wire-management,
-    cable-routing,
-    cable-organization,
-    wiring-accessories,
-    cabinet-5,
-    bin-56,
-    section-c,
-    status-available,
-  ]
+tags: [cable-clips, nail-in-clips, wire-management, cable-routing, cable-organization, wiring-accessories, cabinet-5, bin-56, section-c, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $2-6
 ---
 
 # Nail-In Cable Clips - 15+ Pieces
-
-## Details
-
-- **Location**: Cabinet-5, Bin 56, Section C
-- **Category**: Wiring & Cable Management
-- **Type**: Nail-In Cable Clips
-- **Package**: Individual clips
-- **Quantity**: 15+ pieces
-- **Status**: Available
-- **Price Range**: $2-6
 
 ## Description
 

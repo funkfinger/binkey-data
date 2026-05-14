@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: AVR Dragon Adapters Set
 description: Collection of adapter boards for connecting AVR Dragon programmer to various package types and development boards
 manufacturer: Generic/Third-party
@@ -8,11 +8,11 @@ category: programming-tools
 subcategory: programming-adapters
 tags: [avr-dragon, adapters, programming, debugging, package-adapters, soic, tqfp, dip, smd]
 quantity: 8
-location: [cabinet-1-bin-37]
+location: Cabinet-1/Bin-37
 price: 5.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # AVR Dragon Adapters Set

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: WiFi Development Board
-brand: Seeed Studio
 part_number: 113991114
 model: XIAO ESP32S3
 microcontroller: ESP32-S3R8
@@ -22,25 +21,15 @@ dimensions: 21.0mm x 17.8mm
 weight: 2.5g
 usb_native: false
 battery_charge: true
-location: [Cabinet-1/Bin-26]
+location: Cabinet-1/Bin-26
 quantity: 3
 status: available
-price_range: $6-7
 tags: [microcontroller, esp32s3, wifi, bluetooth, ble, xiao, seeed, dual-core, iot, tinyml]
+price: $6-7
+manufacturer: Seeed Studio
 ---
 
 # Seeed Studio XIAO ESP32S3
-
-## Details
-
-- **Location**: Cabinet-1, Bin 26
-- **Category**: Microcontroller Boards
-- **Type**: WiFi & Bluetooth Development Board
-- **Microcontroller**: ESP32-S3R8
-- **Brand**: Seeed Studio
-- **Part Number**: 113991114
-- **Quantity**: 3
-- **Product URL**: https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
 
 ## Description
 

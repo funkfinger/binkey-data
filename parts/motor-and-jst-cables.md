@@ -1,5 +1,5 @@
 ---
-type: electronic-component
+type: other
 category: Cables and Connectors
 subcategory: Motor and Power Cables
 description: JST 4-Conductor Cables and Stepper Motor Cables
@@ -14,14 +14,6 @@ tags: [jst, motor, cables, 4-conductor, stepper, servo, power, connectors]
 ---
 
 # Motor and JST Cables Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bins 6 and 8
-- **Category**: Cables and Connectors
-- **Type**: Motor and Power Connection Cables
-- **Total Quantity**: 9+ cables
-- **Wire Configuration**: 4-conductor cables
 
 ## Description
 

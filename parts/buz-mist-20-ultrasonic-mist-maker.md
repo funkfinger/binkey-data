@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Electromechanical
 subcategory: Ultrasonic Devices
-brand: ABRA Electronics
 part_number: BUZ-MIST-20
 model: 20MM Fogger Mist Maker
 description: Ultrasonic mist maker/humidifier for generating mist and eliminating odors
@@ -15,42 +14,17 @@ power: 0.5mW excitation level
 interface: [Ultrasonic, Ceramic Transducer]
 connectivity: [Wire Leads]
 compatibility: [Humidifiers, Fountains, Decorative Applications]
-location: [Cabinet-5/Bin-30]
+location: Cabinet-5/Bin-30
 quantity: 4
 status: available
-price_range: $2-3
 datasheet: N/A
 product_url: https://abra-electronics.com/electromechanical/audible-devices/buzzers/buz-mist-20-20mm-fogger-mist-maker-ultrasonic-atomization-ceramic.html
-tags:
-  [
-    ultrasonic,
-    mist-maker,
-    fogger,
-    humidifier,
-    atomizer,
-    ceramic,
-    transducer,
-    electromechanical,
-    cabinet-5,
-    bin-30,
-    status-available,
-  ]
+tags: [ultrasonic, mist-maker, fogger, humidifier, atomizer, ceramic, transducer, electromechanical, cabinet-5, bin-30, status-available]
 date_added: 2025-01-23
+price: $2-3
 ---
 
 # BUZ-MIST-20 Ultrasonic Mist Maker
-
-## Details
-
-- **Location**: Cabinet-5, Bin 30
-- **Category**: Electromechanical
-- **Brand**: ABRA Electronics
-- **Part Number**: BUZ-MIST-20
-- **Package**: Individual Unit
-- **Quantity**: 4
-- **Status**: Available
-- **Price Range**: $2-3
-- **Product URL**: https://abra-electronics.com/electromechanical/audible-devices/buzzers/buz-mist-20-20mm-fogger-mist-maker-ultrasonic-atomization-ceramic.html
 
 ## Description
 

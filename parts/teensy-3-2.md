@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: ARM Cortex-M4 Development Board
-brand: PJRC
 part_number: TEENSY32
 model: Teensy 3.2
 microcontroller: MK20DX256VLH7
@@ -21,26 +20,15 @@ pwm_pins: 12
 dimensions: 35.6mm x 17.8mm
 weight: 7g
 usb_native: true
-location: [Cabinet-1/Bin-28]
+location: Cabinet-1/Bin-28
 quantity: 1
 status: available
-price_range: $20-25
-tags:
-  [microcontroller, arm, cortex-m4, teensy, usb, audio, dac, can-bus, i2s, pjrc]
+tags: [microcontroller, arm, cortex-m4, teensy, usb, audio, dac, can-bus, i2s, pjrc]
+price: $20-25
+manufacturer: PJRC
 ---
 
 # Teensy 3.2 Development Board
-
-## Details
-
-- **Location**: Cabinet-1, Bin 28
-- **Category**: Microcontroller Boards
-- **Type**: ARM Cortex-M4 Development Board
-- **Microcontroller**: MK20DX256VLH7
-- **Brand**: PJRC
-- **Part Number**: TEENSY32
-- **Quantity**: 1
-- **Product URL**: https://www.pjrc.com/store/teensy32.html
 
 ## Description
 

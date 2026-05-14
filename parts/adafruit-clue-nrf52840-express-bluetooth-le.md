@@ -1,34 +1,19 @@
 ---
-type: part
+type: module
 title: Adafruit CLUE - nRF52840 Express with Bluetooth LE
 description: Sensor-packed development board with nRF52840 Bluetooth processor, 1.3" color TFT, and comprehensive sensor suite
 manufacturer: Adafruit
 part_number: 4500
 category: development-boards
 subcategory: bluetooth-boards
-tags:
-  [
-    clue,
-    nrf52840,
-    bluetooth-le,
-    sensors,
-    tft,
-    display,
-    accelerometer,
-    gyroscope,
-    magnetometer,
-    microphone,
-    humidity,
-    pressure,
-    gesture,
-  ]
+tags: [clue, nrf52840, bluetooth-le, sensors, tft, display, accelerometer, gyroscope, magnetometer, microphone, humidity, pressure, gesture]
 quantity: 1
-location: [cabinet-1-bin-36]
-purchase_url: https://www.adafruit.com/product/4500
+location: Cabinet-1/Bin-36
 price: 44.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4500
 ---
 
 # Adafruit CLUE - nRF52840 Express with Bluetooth LE

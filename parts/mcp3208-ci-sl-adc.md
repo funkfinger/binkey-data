@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Integrated Circuits
 subcategory: ADC ICs
-brand: Microchip Technology
 part_number: MCP3208-CI/SL
 model: MCP3208-CI/SL
 description: 8-channel 12-bit ADC with SPI interface
@@ -15,31 +14,17 @@ power: Low power with shutdown mode
 interface: [SPI]
 connectivity: [Surface-mount pins]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers]
-location: [Cabinet-3/Bin-37/Section-E]
+location: Cabinet-3/Bin-37/Section-E
 quantity: 10
 status: available
-price_range: $3.50-4.50
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/21298E.pdf
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/MCP3208-CI-SL/305929
 tags: [adc, analog-to-digital, spi, 12-bit, 8-channel, microchip, mcp3208, soic, cabinet-3, bin-37, status-available]
 date_added: 2026-04-27
-added_date: 2026-04-27
+price: $3.50-4.50
 ---
 
 # MCP3208-CI/SL - 8-Channel 12-Bit ADC with SPI Interface
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section E
-- **Category**: Integrated Circuits
-- **Brand**: Microchip Technology
-- **Part Number**: MCP3208-CI/SL
-- **Package**: 16-SOIC
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $3.50-4.50
-- **Datasheet**: [MCP3208 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/21298E.pdf)
-- **Product URL**: https://www.digikey.com/en/products/detail/microchip-technology/MCP3208-CI-SL/305929
 
 ## Description
 

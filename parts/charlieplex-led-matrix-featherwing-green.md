@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: LED Matrix Display
-brand: Adafruit
 part_number: 3136
 size: 15x7
 color: green
@@ -13,25 +12,15 @@ interface: i2c
 form_factor: featherwing
 voltage: 3.3V
 dimensions: 51.0mm x 23.0mm x 3.0mm
-location: [Cabinet-1/Bin-23]
+location: Cabinet-1/Bin-23
 quantity: 1
 status: available
-price_range: $10-11
 tags: [featherwing, led-matrix, charlieplexed, green, is31fl3731, i2c, adafruit]
+price: $10-11
+manufacturer: Adafruit
 ---
 
 # Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing - Green
-
-## Details
-
-- **Location**: Cabinet-1, Bin 23
-- **Category**: FeatherWings
-- **Type**: 15x7 CharliePlex LED Matrix Display FeatherWing
-- **Color**: Green
-- **LEDs**: 105 individually controllable
-- **Form Factor**: Feather-compatible wing
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/3136
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Analog ICs
 subcategory: Operational Amplifiers
-brand: Microchip Technology
 part_number: MCP6002-I/P
 model: MCP6002-I/P
 description: Dual 1 MHz low-power operational amplifier with rail-to-rail input and output operation
@@ -15,32 +14,18 @@ power: Low power consumption
 interface: [Analog Signal Processing, General Purpose]
 connectivity: [Through-hole pins]
 compatibility: [Low-power circuits, Battery systems, Sensor interfaces, General-purpose applications]
-location: [Cabinet-3/Bin-32/Section-C]
+location: Cabinet-3/Bin-32/Section-C
 quantity: 25
 status: available
-price_range: $0.50-1.00
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf
 product_url: https://www.microchip.com/en-us/product/mcp6002
 supplier: Microchip Technology
 tags: [dual-opamp, 1mhz, low-power, general-purpose, microchip-technology, cabinet-3, bin-32, status-available]
 date_added: 2025-11-02
-added_date: 2025-11-02
+price: $0.50-1.00
 ---
 
 # MCP6002-I/P - Dual 1 MHz Low-Power Operational Amplifier
-
-## Details
-
-- **Location**: Cabinet-3, Bin 32, Section C
-- **Category**: Analog ICs
-- **Brand**: Microchip Technology
-- **Part Number**: MCP6002-I/P
-- **Package**: 8-DIP
-- **Quantity**: 25
-- **Status**: Available
-- **Price Range**: $0.50-1.00
-- **Datasheet**: [MCP6002 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf)
-- **Product URL**: [Microchip Product Page](https://www.microchip.com/en-us/product/mcp6002)
 
 ## Description
 

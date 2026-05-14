@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: kit
 category: Switches & Controls
 subcategory: Tactile Switch Assortment
-brand: QTEATAK
 part_number: B0BFWK5N8V
 model: 240 Pcs 24 Value Micro Momentary Tactile Switch Kit
 description: Comprehensive assortment of micro momentary tactile push button switches in 24 different values
@@ -18,27 +17,14 @@ compatibility: [Arduino, Breadboards, PCB projects, Electronics repair]
 location: [Cabinet-5/Bin-13, Cabinet-5/Bin-14]
 quantity: Multiple types spread across bins
 status: available
-price_range: $14-15
 datasheet: https://www.qteatak.com/tactile-switch-datasheet
 product_url: https://a.co/d/bSShHIM
 tags: [qteatak, tactile-switch, momentary, micro, assortment, 24-value, pcb-mount, arduino, repair, cabinet-5, bin-13, bin-14, status-available]
 date_added: 2025-01-14
+price: $14-15
 ---
 
 # QTEATAK Micro Momentary Tactile Switch Assortment
-
-## Details
-
-- **Location**: Cabinet-5, Bins 13 and 14
-- **Category**: Switches & Controls
-- **Brand**: QTEATAK
-- **Part Number**: B0BFWK5N8V
-- **Model**: 240 Pcs 24 Value Micro Momentary Tactile Switch Kit
-- **Package**: Mixed Assortment Kit
-- **Quantity**: Multiple types spread between bins 13 and 14
-- **Status**: Available
-- **Price Range**: $14.99 (240-piece kit)
-- **Product URL**: https://a.co/d/bSShHIM
 
 ## Description
 

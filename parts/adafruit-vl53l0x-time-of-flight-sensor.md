@@ -6,14 +6,13 @@ manufacturer: Adafruit Industries
 category: sensors
 subcategory: proximity-sensors
 quantity: 1
-location:
-  - Cabinet-3
-  - Bin-31
-cost_per_unit: $14.95
+location: Cabinet-3/Bin-31
 datasheet: https://learn.adafruit.com/adafruit-vl53l0x-micro-lidar-distance-sensor-breakout
-purchase_url: https://www.adafruit.com/product/3317
 purchase_date: 2024-12-15
 tags: [time-of-flight, distance-sensor, laser, lidar, i2c, stemma-qt]
+price: $14.95
+product_url: https://www.adafruit.com/product/3317
+type: module
 ---
 
 # Adafruit VL53L0X Time of Flight Distance Sensor

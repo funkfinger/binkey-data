@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Power Management
 subcategory: Voltage Regulators
-brand: Texas Instruments
 part_number: UA723CN
 model: UA723CN
 description: 150mA adjustable linear voltage regulator with precision reference and current limiting
@@ -15,30 +14,17 @@ power: Linear voltage regulation with low dropout
 interface: [Analog Voltage Regulation]
 connectivity: [Through-hole pins]
 compatibility: [Power supplies, Voltage references, Current limiters]
-location: [Cabinet-3/Bin-33/Section-G]
+location: Cabinet-3/Bin-33/Section-G
 quantity: 1
 status: available
-price_range: $1.00-3.00
 datasheet: https://www.ti.com/lit/gpn/UA723
 product_url: https://www.ti.com/product/UA723/part-details/UA723CN
 tags: [voltage-regulator, linear-regulator, adjustable-regulator, precision-regulator, texas-instruments, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $1.00-3.00
 ---
 
 # UA723CN - Precision Adjustable Linear Voltage Regulator
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section G
-- **Category**: Power Management
-- **Brand**: Texas Instruments
-- **Part Number**: UA723CN
-- **Package**: 14-DIP
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $1.00-3.00
-- **Datasheet**: [UA723 Datasheet](https://www.ti.com/lit/gpn/UA723)
-- **Product URL**: https://www.ti.com/product/UA723/part-details/UA723CN
 
 ## Description
 

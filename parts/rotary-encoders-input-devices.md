@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: Rotary Encoders & Input Devices
 description: Collection of rotary encoders and input devices for user interface applications including mechanical encoders with built-in switches for menu navigation and control systems
 manufacturer: Various
@@ -8,11 +8,11 @@ category: sensors-transducers
 subcategory: encoders
 tags: [rotary-encoder, mechanical-encoder, quadrature, incremental, pec11l, bourns, user-interface, navigation, control, switch, detent]
 total_quantity: 5
-location: [cabinet-2-bin-32]
+location: Cabinet-2/Bin-32
 price: 2.50
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Rotary Encoders & Input Devices

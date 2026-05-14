@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Controls
 subcategory: DPDT Toggle Switches
-brand: Taiss
 part_number: B0799KM8T6
 model: MTS-202
 description: DPDT mini toggle switch 6-pin 2-position ON/ON with panel mount design
@@ -15,30 +14,17 @@ power: 750W
 interface: [DPDT, 6-Terminal]
 connectivity: [Panel mount, Solder terminals]
 compatibility: [Control panels, Electronics projects, Guitar wiring, Audio equipment]
-location: [Cabinet-5/Bin-11]
+location: Cabinet-5/Bin-11
 quantity: 30
 status: available
-price_range: $8-9
 datasheet: https://www.taiss.com/mts-202-datasheet
 product_url: https://a.co/d/8iIpvid
 tags: [taiss, mts-202, dpdt-switch, 6-pin, on-on, 2-position, panel-mount, cabinet-5, bin-11, status-available]
 date_added: 2025-01-14
+price: $8-9
 ---
 
 # Taiss MTS-202 DPDT Toggle Switches
-
-## Details
-
-- **Location**: Cabinet-5, Bin 11
-- **Category**: Switches & Controls
-- **Brand**: Taiss
-- **Part Number**: B0799KM8T6
-- **Model**: MTS-202
-- **Package**: Panel Mount Toggle Switch
-- **Quantity**: 30 switches (from 10-piece packs)
-- **Status**: Available
-- **Price Range**: $8.66 (pack of 10)
-- **Product URL**: https://a.co/d/8iIpvid
 
 ## Description
 

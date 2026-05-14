@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Sensors & Transducers
 subcategory: Infrared Devices
-brand: Adafruit
 part_number: 389
 model: Mini Remote Control
 description: 21-button infrared remote control with NEC encoding for robotics and projects
@@ -15,43 +14,17 @@ power: Battery powered
 interface: [Infrared, NEC Protocol]
 connectivity: [38KHz IR LED, 940nm wavelength]
 compatibility: [IR Receivers, Arduino, CircuitPython, Robotics Projects]
-location: [Cabinet-5/Bin-32]
+location: Cabinet-5/Bin-32
 quantity: 3
 status: available
-price_range: $4-5
 datasheet: N/A
 product_url: https://www.adafruit.com/product/389
-tags:
-  [
-    infrared,
-    remote-control,
-    ir-remote,
-    nec-protocol,
-    robotics,
-    arduino,
-    circuitpython,
-    adafruit,
-    cabinet-5,
-    bin-32,
-    status-available,
-  ]
+tags: [infrared, remote-control, ir-remote, nec-protocol, robotics, arduino, circuitpython, adafruit, cabinet-5, bin-32, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $4-5
 ---
 
 # Adafruit 389 Mini Remote Control
-
-## Details
-
-- **Location**: Cabinet-5, Bin 32
-- **Category**: Sensors & Transducers
-- **Brand**: Adafruit Industries
-- **Part Number**: 389
-- **Package**: Individual Unit
-- **Quantity**: 3
-- **Status**: Available
-- **Price Range**: $4-5
-- **Product URL**: https://www.adafruit.com/product/389
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: ARM Development Board
-brand: Adafruit
 part_number: 4600
 model: QT Py SAMD21
 microcontroller: ATSAMD21E18
@@ -21,25 +20,15 @@ dimensions: 22.0mm x 17.9mm x 5.9mm
 weight: 2.3g
 usb_native: true
 stemma_qt: true
-location: [Cabinet-1/Bin-26]
+location: Cabinet-1/Bin-26
 quantity: 5
 status: available
-price_range: $7-8
 tags: [microcontroller, arm, cortex-m0+, samd21, qt-py, stemma-qt, usb-c, adafruit, arduino, circuitpython]
+price: $7-8
+manufacturer: Adafruit
 ---
 
 # Adafruit QT Py - SAMD21 Dev Board with STEMMA QT
-
-## Details
-
-- **Location**: Cabinet-1, Bin 26
-- **Category**: Microcontroller Boards
-- **Type**: ARM Development Board with STEMMA QT
-- **Microcontroller**: ATSAMD21E18
-- **Brand**: Adafruit
-- **Part Number**: 4600
-- **Quantity**: 5
-- **Product URL**: https://www.adafruit.com/product/4600
 
 ## Description
 

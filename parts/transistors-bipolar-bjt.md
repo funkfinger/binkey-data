@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Bipolar Junction Transistors (BJT)
 description: Collection of bipolar junction transistors including NPN and PNP types for general purpose amplification, switching, and signal processing applications
 manufacturer: Various
@@ -8,11 +8,11 @@ category: discrete-semiconductors
 subcategory: transistors
 tags: [transistors, bjt, bipolar, npn, pnp, bc548, bc558, amplification, switching, signal-processing, to-92]
 total_quantity: 40
-location: [cabinet-2-bin-26]
+location: Cabinet-2/Bin-26
 price: 0.13
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Bipolar Junction Transistors (BJT)

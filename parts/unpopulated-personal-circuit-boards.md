@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Prototyping & Development
 subcategory: Unpopulated PCBs
-brand: Various
 part_number: Various
 model: Personal Circuit Board Collection
 description: Variety of unpopulated personal circuit boards for custom electronics projects
@@ -15,30 +14,17 @@ power: N/A
 interface: [Various pin configurations]
 connectivity: [Through-hole, SMD pads, Various connectors]
 compatibility: [Custom projects, Prototyping, Development boards]
-location: [Cabinet-5/Bin-15]
+location: Cabinet-5/Bin-15
 quantity: Various boards
 status: available
-price_range: Various
 datasheet: N/A
 product_url: N/A
 tags: [pcb, unpopulated, personal, custom, prototyping, development, various, cabinet-5, bin-15, status-available]
 date_added: 2025-01-14
+price: Various
 ---
 
 # Unpopulated Personal Circuit Board Collection
-
-## Details
-
-- **Location**: Cabinet-5, Bin 15
-- **Category**: Prototyping & Development
-- **Brand**: Various
-- **Part Numbers**: Various
-- **Model**: Personal Circuit Board Collection
-- **Package**: PCB Boards
-- **Quantity**: Various boards
-- **Status**: Available
-- **Price Range**: Various
-- **Type**: Unpopulated PCBs
 
 ## Description
 

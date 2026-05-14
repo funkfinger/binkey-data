@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Connectors & Hardware
 subcategory: Test & Programming Connectors
-brand: Various
 part_number: Various
 model: Pogo Pin Assortment
 description: Variety of spring-loaded pogo pins for test fixtures, programming interfaces, and temporary connections
@@ -15,30 +14,17 @@ power: Various ratings
 interface: [Spring-loaded contact, Various tip styles]
 connectivity: [Test fixtures, Programming jigs, Temporary connections]
 compatibility: [PCB testing, In-circuit programming, Contact probes]
-location: [Cabinet-5/Bin-21/Section-A]
+location: Cabinet-5/Bin-21/Section-A
 quantity: Various types and quantities
 status: available
-price_range: Various
 datasheet: Various
 product_url: Various
 tags: [pogo-pins, spring-loaded, test-fixtures, programming, probes, contact, various, cabinet-5, bin-21, status-available]
 date_added: 2025-01-14
+price: Various
 ---
 
 # Pogo Pin Variety Collection
-
-## Details
-
-- **Location**: Cabinet-5, Bin 21, Section A
-- **Category**: Connectors & Hardware
-- **Brand**: Various manufacturers
-- **Part Numbers**: Various
-- **Model**: Pogo Pin Assortment
-- **Package**: Spring-loaded pins
-- **Quantity**: Various types and quantities
-- **Status**: Available
-- **Price Range**: Various
-- **Type**: Spring-loaded contact pins
 
 ## Description
 

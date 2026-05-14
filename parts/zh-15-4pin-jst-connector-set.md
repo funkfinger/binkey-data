@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors
 subcategory: JST Connector
-brand: daier
 part_number: ZH-1.5-4Pin
 model: Mini Micro ZH 1.5 4-Pin JST Connector Set
 description: 10 sets of ZH 1.5mm pitch 4-pin JST connectors with pre-wired cables
@@ -15,29 +14,17 @@ power: Low power applications
 interface: [4-pin connector]
 connectivity: [ZH 1.5mm JST connector]
 compatibility: [Microcontrollers, sensors, small electronics, drone applications]
-location: [Cabinet-3/Bin-13]
+location: Cabinet-3/Bin-13
 quantity: 10
 status: available
-price_range: $7.99
 datasheet: JST ZH connector specifications
 product_url: https://a.co/d/7AfzLeW
 tags: [jst, connector, zh-15, 4-pin, micro, cable, cabinet-3, bin-13, status-available]
 date_added: 2025-01-13
+price: $7.99
 ---
 
 # ZH 1.5 4-Pin JST Connector Set
-
-## Details
-
-- **Location**: Cabinet-3, Bin 13
-- **Category**: Connectors
-- **Brand**: daier
-- **Part Number**: ZH-1.5-4Pin
-- **Package**: Connector set with pre-wired cables
-- **Quantity**: 10 sets
-- **Status**: available
-- **Price Range**: $7.99
-- **Product URL**: https://a.co/d/7AfzLeW
 
 ## Description
 

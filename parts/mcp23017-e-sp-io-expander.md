@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Interface ICs
 subcategory: I/O Expanders
-brand: Microchip Technology
 part_number: MCP23017-E/SP
 model: MCP23017-E/SP
 description: 16-bit I/O expander with I2C interface
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [I2C]
 connectivity: [Through-hole pins]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers]
-location: [Cabinet-3/Bin-38/Section-A]
+location: Cabinet-3/Bin-38/Section-A
 quantity: 24
 status: available
-price_range: $1.28-1.69
 datasheet: https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/MCP23017-E-SP/894272
 tags: [io-expander, interface-ic, i2c, gpio, microchip, mcp23017, cabinet-3, bin-38, status-available]
 date_added: 2025-01-12
+price: $1.28-1.69
 ---
 
 # MCP23017-E/SP - 16-Bit I/O Expander with I2C Interface
-
-## Details
-
-- **Location**: Cabinet-3, Bin 38, Section A
-- **Category**: Interface ICs
-- **Brand**: Microchip Technology
-- **Part Number**: MCP23017-E/SP
-- **Package**: 28-SPDIP
-- **Quantity**: 24
-- **Status**: Available
-- **Price Range**: $1.28-1.69
-- **Datasheet**: [MCP23017 Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf)
-- **Product URL**: https://www.digikey.com/en/products/detail/microchip-technology/MCP23017-E-SP/894272
 
 ## Description
 

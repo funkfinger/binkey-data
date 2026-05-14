@@ -1,32 +1,22 @@
 ---
-type: electronic-component
+type: passive
 category: LED Displays
 subcategory: LED Matrix
-brand: Adafruit
 part_number: 3162
 size: 9x16
 color: warm-white
 technology: charlieplexed
 leds: 144
 dimensions: 43.3mm x 28.1mm x 2.4mm
-location: [Cabinet-1/Bin-23]
+location: Cabinet-1/Bin-23
 quantity: 3
 status: available
-price_range: $8-9
 tags: [led-display, matrix, charlieplexed, warm-white, adafruit, 9x16]
+price: $8-9
+manufacturer: Adafruit
 ---
 
 # LED Charlieplexed Matrix - 9x16 LEDs - Warm White
-
-## Details
-
-- **Location**: Cabinet-1, Bin 23
-- **Category**: LED Displays
-- **Type**: 9x16 Charlieplexed LED Matrix
-- **Color**: Warm White
-- **LEDs**: 144 individually addressable
-- **Quantity**: 3
-- **Product URL**: https://www.adafruit.com/product/3162
 
 ## Description
 

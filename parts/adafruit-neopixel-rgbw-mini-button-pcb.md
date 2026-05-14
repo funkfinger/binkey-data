@@ -1,36 +1,23 @@
 ---
-type: electronic-component
+type: passive
 category: Neopixel LEDs
 subcategory: Addressable LED Module
-brand: Adafruit Industries LLC
 part_number: 4776
 size: 9.1mm x 9.1mm
 color: RGBW (Red, Green, Blue, White)
 voltage: 5V (can run as low as 3.5V)
 current: 18.5mA per LED (~75mA max total per pixel)
 led_type: SK6812
-location: [Cabinet-1/Bin-33]
+location: Cabinet-1/Bin-33
 quantity: 6
 status: available
-price_range: $4.95 per pack of 10
 interface: PWM (800 KHz protocol)
 tags: [neopixel, rgbw, addressable, mini-button, sk6812, pcb, adafruit]
+price: $4.95 per pack of 10
+manufacturer: Adafruit Industries LLC
 ---
 
 # Adafruit NeoPixel RGBW Mini Button PCB (Individual Units)
-
-## Details
-
-- **Location**: Cabinet-1, Bin 33
-- **Category**: Neopixel LEDs
-- **Part Number**: Adafruit 4776
-- **Size**: 9.1mm x 9.1mm x 3.1mm (0.36" x 0.36" x 0.125")
-- **Color**: RGBW (Red, Green, Blue, White)
-- **Voltage**: 5V DC (can run as low as 3.5V but dimmed)
-- **Current**: 18.5mA per LED (~75mA max total per pixel)
-- **Quantity**: 6 individual PCBs
-- **Product URL**: https://www.adafruit.com/product/4776
-- **DigiKey URL**: https://www.digikey.com/en/products/detail/adafruit-industries-llc/4776/13550158
 
 ## Description
 

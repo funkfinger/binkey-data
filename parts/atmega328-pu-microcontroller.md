@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Microcontrollers
 subcategory: AVR Microcontrollers
-brand: Microchip (formerly Atmel)
 part_number: ATmega328-PU
 model: ATmega328P-PU
 description: 8-bit AVR RISC microcontroller with 32KB Flash, Arduino Uno compatible, DIP-28 package
@@ -15,30 +14,17 @@ power: 20mW @ 1MHz, 1.8V
 interface: [USART, SPI, I2C, ADC, PWM]
 connectivity: [Through-hole pins]
 compatibility: [Arduino IDE, Arduino Uno, AVR-GCC, Atmel Studio]
-location: [Cabinet-3/Bin-40/Section-D]
+location: Cabinet-3/Bin-40/Section-D
 quantity: 11
 status: available
-price_range: $2.00-4.00
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 product_url: https://www.microchip.com/en-us/product/ATmega328P
 tags: [microcontroller, avr, arduino-compatible, 8-bit, atmega328, dip-28, cabinet-3, bin-40, status-available]
 date_added: 2025-01-13
+price: $2.00-4.00
 ---
 
 # ATmega328-PU - 8-bit AVR RISC Microcontroller
-
-## Details
-
-- **Location**: Cabinet-3, Bin 40, Section D
-- **Category**: Microcontrollers
-- **Brand**: Microchip Technology (formerly Atmel)
-- **Part Number**: ATmega328-PU / ATmega328P-PU
-- **Package**: 28-DIP (Through-hole)
-- **Quantity**: 11
-- **Status**: Available
-- **Price Range**: $2.00-4.00
-- **Datasheet**: [ATmega328P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
-- **Product URL**: https://www.microchip.com/en-us/product/ATmega328P
 
 ## Description
 

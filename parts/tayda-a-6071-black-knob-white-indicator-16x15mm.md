@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Knobs & Controls
 subcategory: Potentiometer Knobs
-brand: Tayda Electronics
 part_number: A-6071
 model: Black Knob White Indicator 16x15mm
 description: Black ABS knob with white indicator line, 16mm dia x 15mm H, for 6mm T18 split-shaft potentiometers
@@ -15,30 +14,17 @@ power: N/A
 interface: [Mechanical]
 connectivity: [6mm T18 split shaft]
 compatibility: [6mm split-shaft potentiometers]
-location: [Cabinet-7/Bin-16/Section-D]
+location: Cabinet-7/Bin-16/Section-D
 quantity: 10
 status: available
-price_range: $0.30
 datasheet: N/A
 product_url: https://www.taydaelectronics.com/black-knob-white-indicator-16x15mm.html
 tags: [knob, pot-knob, indicator-knob, black, white-indicator, split-shaft, 6mm, eurorack, cabinet-7, bin-16, status-available]
 date_added: 2026-05-07
-added_date: 2026-05-07
+price: $0.30
 ---
 
 # Tayda A-6071 - Black Knob, White Indicator, 16x15mm
-
-## Details
-
-- **Location**: Cabinet-7, Bin 16, Section D
-- **Category**: Knobs & Controls — Potentiometer Knobs
-- **Brand**: Tayda Electronics
-- **Part Number**: A-6071
-- **Package**: Push-fit knob
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $0.30
-- **Product URL**: [Tayda A-6071](https://www.taydaelectronics.com/black-knob-white-indicator-16x15mm.html)
 
 ## Description
 

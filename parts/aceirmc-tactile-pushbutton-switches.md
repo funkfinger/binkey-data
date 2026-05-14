@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Controls
 subcategory: Tactile Push Button Switches
-brand: ACEIRMC
 part_number: B091HL5YBD
 model: 12x12x7.3mm Tactile Switch
 description: Momentary tact tactile push button switches with colored caps for PCB mounting
@@ -15,30 +14,17 @@ power: 0.6W
 interface: [4-Pin, Momentary Contact]
 connectivity: [PCB mount, Through-hole pins]
 compatibility: [Arduino, Breadboards, PCB projects, Microcontrollers]
-location: [Cabinet-5/Bin-12/Section-A]
+location: Cabinet-5/Bin-12/Section-A
 quantity: 20
 status: available
-price_range: $6-7
 datasheet: https://www.aceirmc.com/tactile-switch-datasheet
 product_url: https://a.co/d/f2uPsdL
 tags: [aceirmc, tactile-switch, pushbutton, momentary, 12mm, colored-caps, pcb-mount, arduino, cabinet-5, bin-12, status-available]
 date_added: 2025-01-14
+price: $6-7
 ---
 
 # ACEIRMC 12x12x7.3mm Tactile Push Button Switches
-
-## Details
-
-- **Location**: Cabinet-5, Bin 12, Section A
-- **Category**: Switches & Controls
-- **Brand**: ACEIRMC
-- **Part Number**: B091HL5YBD
-- **Model**: 12x12x7.3mm Tactile Switch
-- **Package**: Through-hole/SMD PCB Mount
-- **Quantity**: 20 switches (from 25-piece pack)
-- **Status**: Available
-- **Price Range**: $6.89 (pack of 25)
-- **Product URL**: https://a.co/d/f2uPsdL
 
 ## Description
 

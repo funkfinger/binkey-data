@@ -1,28 +1,19 @@
 ---
-type: electronic-component
+type: ic
 category: Logic Gates
 subcategory: Schmitt Trigger Inverter
-brand: Motorola
 part_number: MC14584B
 size: DIP-14
 color: Black
-location: [Cabinet-3/Bin-33/Section-B]
+location: Cabinet-3/Bin-33/Section-B
 quantity: 1
 status: available
-price_range: $2-8
 tags: [logic-gate, schmitt-trigger, inverter, hex, cmos, motorola, dip-14, vintage, cabinet-3, bin-33, section-b, status-available]
+price: $2-8
+manufacturer: Motorola
 ---
 
 # Motorola MC14584B Hex Schmitt Trigger Inverter
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section B
-- **Category**: Logic Gates
-- **Quantity**: 1
-- **Status**: Available
-- **Package**: 14-pin DIP (Dual In-line Package)
-- **Datasheet**: [MC14584B Datasheet](https://www.electronicoscaldas.com/datasheet/MC14584B_Motorola.pdf)
 
 ## Description
 

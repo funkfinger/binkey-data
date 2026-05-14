@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2040 Development Board
-brand: Adafruit
 part_number: 4888
 model: ItsyBitsy RP2040
 microcontroller: RP2040
@@ -21,25 +20,15 @@ dimensions: 36mm x 18mm x 4mm
 weight: 3.2g
 usb_native: true
 form_factor: ItsyBitsy
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 2
 status: available
-price_range: $9-10
 tags: [microcontroller, rp2040, itsybitsy, usb-micro, adafruit, circuitpython, neopixel, compact]
+price: $9-10
+manufacturer: Adafruit
 ---
 
 # Adafruit ItsyBitsy RP2040
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2040 Development Board (ItsyBitsy Form Factor)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 125MHz)
-- **Brand**: Adafruit
-- **Part Number**: 4888
-- **Quantity**: 2
-- **Product URL**: https://www.adafruit.com/product/4888
 
 ## Description
 

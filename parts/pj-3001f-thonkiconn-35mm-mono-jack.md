@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Jacks
 subcategory: Audio Jacks
-brand: Generic
 part_number: PJ-3001F
 model: PJ-3001F 3.5mm Mono Phone Jack (Thonkiconn)
 description: Standard 3.5mm mono phone jack connector, commonly known as Thonkiconn in the Eurorack modular synthesizer community, PCB mount with switching contacts
@@ -15,12 +14,12 @@ power: 30W
 interface: [PCB Mount, Audio, CV/Gate]
 connectivity: [Audio equipment, Eurorack, Modular synths, General audio]
 compatibility: [Eurorack modules, Audio equipment, CV/Gate systems, Arduino audio projects]
-location: [Cabinet-7/Bin-9]
+location: Cabinet-7/Bin-9
 quantity: 30+
 status: available
-price_range: $0.184 per piece
 tags: [connectors, jacks, audio, 3.5mm, mono, thonkiconn, eurorack, cv-gate, pcb-mount, cabinet-7, status-available]
 date_added: 2025-08-06
+price: $0.184 per piece
 ---
 
 # PJ-3001F 3.5mm Mono Phone Jack (Thonkiconn)

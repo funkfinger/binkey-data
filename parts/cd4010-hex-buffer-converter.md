@@ -1,28 +1,19 @@
 ---
-type: electronic-component
+type: ic
 category: Logic Gates
 subcategory: Buffer/Converter
-brand: Various (CD4010 Standard)
 part_number: CD4010
 size: DIP-16
 color: Black
-location: [Cabinet-3/Bin-34/Section-A]
+location: Cabinet-3/Bin-34/Section-A
 quantity: 9
 status: available
-price_range: $1-5
 tags: [logic-gate, buffer, converter, hex, cmos, voltage-level, dip-16, cd4010, cabinet-3, bin-34, section-a, status-available]
+price: $1-5
+manufacturer: Various (CD4010 Standard)
 ---
 
 # CD4010 Hex Buffer/Converter
-
-## Details
-
-- **Location**: Cabinet-3, Bin 34, Section A
-- **Category**: Logic Gates
-- **Quantity**: 9
-- **Status**: Available
-- **Package**: 16-pin DIP (Dual In-line Package)
-- **Datasheet**: [CD4010B Datasheet](https://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf)
 
 ## Description
 

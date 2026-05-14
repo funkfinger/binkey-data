@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2040 Development Board
-brand: Seeed Studio
 part_number: 102010428
 model: XIAO RP2040
 microcontroller: RP2040
@@ -21,37 +20,15 @@ dimensions: 21mm x 17.8mm x 3.5mm
 weight: 3g
 usb_native: true
 form_factor: XIAO Compatible
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 1
 status: available
-price_range: $5-6
-tags:
-  [
-    microcontroller,
-    rp2040,
-    xiao,
-    seeed,
-    usb-c,
-    circuitpython,
-    micropython,
-    arduino,
-    compact,
-    breadboard-friendly,
-  ]
+tags: [microcontroller, rp2040, xiao, seeed, usb-c, circuitpython, micropython, arduino, compact, breadboard-friendly]
+price: $5-6
+manufacturer: Seeed Studio
 ---
 
 # Seeed Studio XIAO RP2040
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2040 Development Board (XIAO Form Factor)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 133MHz)
-- **Brand**: Seeed Studio
-- **Part Number**: 102010428
-- **Quantity**: 1
-- **Product URL**: https://wiki.seeedstudio.com/XIAO-RP2040/
 
 ## Description
 

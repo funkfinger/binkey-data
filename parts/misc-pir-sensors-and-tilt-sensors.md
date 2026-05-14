@@ -6,12 +6,11 @@ manufacturer: Various
 category: sensors
 subcategory: motion-sensors
 quantity: 10+
-location:
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $3.00
+location: Cabinet-3/Bin-28
 purchase_date: 2024-12-15
 tags: [pir, motion-sensor, tilt-sensor, infrared, passive, detection]
+price: $3.00
+type: module
 ---
 
 # Miscellaneous PIR Sensors and Tilt Sensors

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Sensors
 subcategory: Touch Sensors
-brand: Microchip Technology
 part_number: AT42QT1010-TSHR
 model: AT42QT1010
 description: Single-channel capacitive touch sensor IC, momentary output, 1.8V-5.5V operation, SOIC-8 package
@@ -10,32 +9,15 @@ manufacturer: Microchip Technology
 package: SOIC-8
 voltage: 1.8V-5.5V
 current: 17µA (typical at 1.8V)
-location: [Cabinet-6/Bin-1/Container-I]
+location: Cabinet-6/Bin-1/Container-I
 quantity: 20+
 status: available
-price_range: $0.50-0.80 each
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
 product_url: https://www.microchip.com/en-us/product/at42qt1010
-tags:
-  [
-    touch-sensor,
-    capacitive,
-    at42qt1010,
-    microchip,
-    soic-8,
-    1-8v-5-5v,
-    low-power,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [touch-sensor, capacitive, at42qt1010, microchip, soic-8, 1-8v-5-5v, low-power, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.50-0.80 each
 ---
-
-## Details
-
-The AT42QT1010 is a single-channel capacitive touch sensor IC from Microchip Technology. It's a standalone momentary touch controller that requires no microcontroller - just power and touch detection. The device implements advanced filtering algorithms for robust operation in noisy environments.
 
 ## Description
 

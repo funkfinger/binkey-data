@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: SMT LEDs
 description: Collection of surface mount technology (SMT) LEDs for compact lighting, status indication, and display applications in high-density PCB designs
 manufacturer: Various
@@ -8,11 +8,11 @@ category: optoelectronics
 subcategory: smt-leds
 tags: [smt-leds, surface-mount, status-indicators, compact-lighting, 0603, 0805, 1206, rgb-leds, white-leds, colored-leds]
 total_quantity: Various
-location: [cabinet-2-bin-44]
+location: Cabinet-2/Bin-44
 price: 12.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # SMT LEDs

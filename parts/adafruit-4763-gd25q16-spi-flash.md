@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Memory & Storage
 subcategory: Flash Memory - SPI
-brand: Adafruit
 part_number: 4763
 model: GD25Q16C
 description: 2MB SPI Flash Memory in 8-Pin SOIC package, 16 Megabit non-volatile storage, CircuitPython and Arduino compatible
@@ -14,46 +13,17 @@ power: Low power consumption
 interface: [SPI, Serial Peripheral Interface]
 connectivity: [SPI Bus]
 compatibility: [CircuitPython, Arduino, Microcontroller projects]
-location: [Cabinet-6/Bin-1/Container-F]
+location: Cabinet-6/Bin-1/Container-F
 quantity: 5
 status: available
-price_range: $3.95-5.00 each
 datasheet: https://cdn-shop.adafruit.com/product-files/4763/4763_GD25Q16CTIGR.pdf
 product_url: https://www.adafruit.com/product/4763
-tags:
-  [
-    flash-memory,
-    spi,
-    gd25q16,
-    2mb,
-    storage,
-    soic-8,
-    circuitpython,
-    arduino,
-    adafruit,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [flash-memory, spi, gd25q16, 2mb, storage, soic-8, circuitpython, arduino, adafruit, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $3.95-5.00 each
 ---
 
 # Adafruit 4763 - GD25Q16C SPI Flash Memory
-
-## Details
-
-- **Location**: Cabinet-6, Bin 1, Container F
-- **Category**: Memory & Storage
-- **Brand**: Adafruit
-- **Part Number**: 4763
-- **Model**: GD25Q16C
-- **Package**: SOIC-8 (8-pin DIP)
-- **Quantity**: 5 units
-- **Status**: Available
-- **Price Range**: $3.95-5.00 per unit
-- **Datasheet**: [GD25Q16C Datasheet](https://cdn-shop.adafruit.com/product-files/4763/4763_GD25Q16CTIGR.pdf)
-- **Product URL**: [Adafruit - Product 4763](https://www.adafruit.com/product/4763)
 
 ## Description
 

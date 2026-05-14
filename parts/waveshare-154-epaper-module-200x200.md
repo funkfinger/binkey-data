@@ -1,36 +1,23 @@
 ---
-type: electronic-component
+type: module
 category: LCD & Display
 subcategory: E-Paper Display
-brand: Waveshare
 part_number: 12955
 size: 1.54 inch (27.6mm × 27.6mm display)
 color: Black & White (2-level grayscale)
 voltage: 3.3V
 resolution: 200x200 pixels
 interface: SPI (3-wire or 4-wire)
-location: [Cabinet-1/Bin-34]
+location: Cabinet-1/Bin-34
 quantity: 1
 status: available
-price_range: $14.88
 power_consumption: 26.4mW refresh, <0.017mW standby
 tags: [epaper, eink, display, waveshare, spi, low-power, sunlight-readable]
+price: $14.88
+manufacturer: Waveshare
 ---
 
 # Waveshare 1.54" e-Paper Module 200x200
-
-## Details
-
-- **Location**: Cabinet-1, Bin 34
-- **Category**: LCD & Display
-- **Part Number**: Waveshare 12955 (RB-Wav-119)
-- **Size**: 1.54" diagonal (27.6mm × 27.6mm display area)
-- **Resolution**: 200 × 200 pixels
-- **Colors**: Black & White (2-level grayscale)
-- **Voltage**: 3.3V operating voltage
-- **Interface**: SPI (3-wire or 4-wire)
-- **Quantity**: 1
-- **Product URL**: https://www.robotshop.com/products/154-e-paper-module-200x200
 
 ## Description
 

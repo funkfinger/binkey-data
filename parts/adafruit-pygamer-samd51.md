@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Adafruit PyGamer SAMD51
 description: Handheld gaming device with SAMD51 processor, 1.8" TFT display, D-pad, buttons, and built-in sensors
 manufacturer: Adafruit
@@ -8,12 +8,12 @@ category: development-boards
 subcategory: gaming-boards
 tags: [pygamer, gaming, handheld, samd51, tft, display, accelerometer, light-sensor, speaker, neopixel, feather-compatible]
 quantity: 1
-location: [cabinet-1-bin-36]
-purchase_url: https://www.adafruit.com/product/4242
+location: Cabinet-1/Bin-36
 price: 39.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4242
 ---
 
 # Adafruit PyGamer SAMD51

@@ -1,40 +1,20 @@
 ---
-type: electronic-component
+type: mechanical
 category: Connectors & Sockets
 subcategory: Mechanical Keyboard Sockets
-brand: Kailh
 part_number: CPG151101S11
 model: Kailh Hot-Swappable PCB Socket
 description: Hot-swappable PCB socket for mechanical keyboard switches, allows tool-free switch replacement, compatible with Kailh switches
 manufacturer: Kailh
 package: SIP Socket (Surface Mount)
-location: [Cabinet-6/Bin-1/Container-P]
+location: Cabinet-6/Bin-1/Container-P
 quantity: 50
 status: available
-price_range: $0.05-0.10 each
 product_url: https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B07K8CCMQZ
-tags:
-  [
-    kailh,
-    hot-swappable,
-    socket,
-    cpg151101s11,
-    mechanical-keyboard,
-    pcb-socket,
-    sip-socket,
-    keyboard-diy,
-    switch-socket,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [kailh, hot-swappable, socket, cpg151101s11, mechanical-keyboard, pcb-socket, sip-socket, keyboard-diy, switch-socket, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.05-0.10 each
 ---
-
-## Details
-
-The Kailh CPG151101S11 is a hot-swappable PCB socket designed for mechanical keyboard switches. These sockets allow users to easily swap out mechanical switches without soldering, making keyboard customization and maintenance simple and tool-free. The socket is compatible with Kailh mechanical switches and is widely used in DIY mechanical keyboard projects.
 
 ## Description
 

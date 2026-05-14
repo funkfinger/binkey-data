@@ -1,41 +1,19 @@
 ---
-type: electronic-component
+type: passive
 category: Digital Potentiometer
 subcategory: Dual Channel
-brand: Dallas Semiconductor
 part_number: DS1267-100
 size: DIP-14
 color: Black
-location: [Cabinet-3/Bin-33/Section-D]
+location: Cabinet-3/Bin-33/Section-D
 quantity: 1
 status: available
-price_range: $8-20
-tags:
-  [
-    digital-potentiometer,
-    dual-channel,
-    100k-ohm,
-    serial-interface,
-    dallas,
-    dip-14,
-    vintage,
-    cabinet-3,
-    bin-33,
-    section-d,
-    status-available,
-  ]
+tags: [digital-potentiometer, dual-channel, 100k-ohm, serial-interface, dallas, dip-14, vintage, cabinet-3, bin-33, section-d, status-available]
+price: $8-20
+manufacturer: Dallas Semiconductor
 ---
 
 # Dallas DS1267-100 Dual Digital Potentiometer
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section D
-- **Category**: Digital Potentiometer
-- **Quantity**: 1
-- **Status**: Available
-- **Package**: 14-pin DIP (Dual In-line Package)
-- **Datasheet**: [DS1267 Datasheet](https://cdn-reichelt.de/documents/datenblatt/A200/DS1267~DAL.pdf)
 
 ## Description
 

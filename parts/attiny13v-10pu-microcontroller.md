@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Microcontrollers
 subcategory: AVR Microcontrollers
-brand: Microchip (formerly Atmel)
 part_number: ATtiny13V-10PU
 model: ATtiny13V-10PU
 description: 8-bit AVR RISC microcontroller with 1KB Flash, ultra-low power, DIP-8 package, smallest AVR
@@ -15,30 +14,17 @@ power: 0.5mW @ 1MHz, 1.8V typical
 interface: [ADC, PWM, Analog Comparator]
 connectivity: [Through-hole pins]
 compatibility: [Arduino IDE, ATtiny Core, AVR-GCC, Atmel Studio]
-location: [Cabinet-3/Bin-40/Section-A]
+location: Cabinet-3/Bin-40/Section-A
 quantity: 11
 status: available
-price_range: $0.75-1.50
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf
 product_url: https://www.microchip.com/en-us/product/ATtiny13
 tags: [microcontroller, avr, attiny, arduino-compatible, 8-bit, ultra-low-power, dip-8, cabinet-3, bin-40, status-available]
 date_added: 2025-01-13
+price: $0.75-1.50
 ---
 
 # ATtiny13V-10PU - 8-bit AVR RISC Microcontroller (Ultra-Small)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 40, Section A
-- **Category**: Microcontrollers
-- **Brand**: Microchip Technology (formerly Atmel)
-- **Part Number**: ATtiny13V-10PU
-- **Package**: 8-DIP (Through-hole)
-- **Quantity**: 11
-- **Status**: Available
-- **Price Range**: $0.75-1.50
-- **Datasheet**: [ATtiny13 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf)
-- **Product URL**: https://www.microchip.com/en-us/product/ATtiny13
 
 ## Description
 

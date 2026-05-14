@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Header Connectors
-brand: Generic
 part_number: 2212S-07G-85
 model: 7-Pin Single Row Female Headers
 description: Standard 0.1" (2.54mm) pitch single row female pin headers with 7 pins for PCB connections and prototyping
@@ -14,25 +13,13 @@ current: 3A per pin (typical)
 power: Variable
 interface: [Through-hole, PCB Headers]
 connectivity: [Male headers, Jumper wires, PCB pins, Breadboard]
-compatibility:
-  [Arduino, Raspberry Pi, Standard male headers, Prototyping boards]
-location: [Cabinet-3/Bin-61/Section-C]
+compatibility: [Arduino, Raspberry Pi, Standard male headers, Prototyping boards]
+location: Cabinet-3/Bin-61/Section-C
 quantity: 20+
 status: available
-price_range: $0.12 per piece
-tags:
-  [
-    headers,
-    connectors,
-    female,
-    single-row,
-    7-pin,
-    0.1-spacing,
-    prototyping,
-    cabinet-3,
-    status-available,
-  ]
+tags: [headers, connectors, female, single-row, 7-pin, 0.1-spacing, prototyping, cabinet-3, status-available]
 date_added: 2025-08-06
+price: $0.12 per piece
 ---
 
 # 7-Pin Single Row Female Headers

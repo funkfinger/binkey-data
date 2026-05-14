@@ -1,8 +1,7 @@
 ---
-type: connector
+type: other
 category: terminal-blocks
 subcategory: screw-terminal-blocks
-brand: Tugermoola
 part_number: B0D1GMMTZ5
 model: 72PCS 5mm Pitch PCB Mount Screw Terminal Block Assortment
 description: 72-piece assortment of PCB mount screw terminal blocks with 5mm pitch spacing in 2-pin, 3-pin, and 4-pin configurations
@@ -13,32 +12,21 @@ current: 10-25A
 interface: screw-terminal
 connectivity: pcb-mount
 location:
-  - Cabinet-5/Bin-39
-  - Cabinet-5/Bin-37
+- Cabinet-5/Bin-39
+- Cabinet-5/Bin-37
 quantity: 72
-status: in-stock
-price_range: budget
+status: available
 product_url: https://www.amazon.com/dp/B0D1GMMTZ5
 tags:
-  - connector
-  - terminal-block
-  - screw-terminal
-  - pcb-mount
-  - 5mm-pitch
-  - assortment
+- connector
+- terminal-block
+- screw-terminal
+- pcb-mount
+- 5mm-pitch
+- assortment
 date_added: 2025-11-14
-added_date: 2025-11-14
+price: budget
 ---
-
-## Details
-
-**Tugermoola 72-Piece 5mm Pitch PCB Mount Screw Terminal Block Assortment**
-
-This comprehensive assortment includes 72 screw terminal blocks in multiple pin configurations, perfect for prototyping, DIY electronics projects, and industrial control applications.
-
-### Location
-- **2-pin & 3-pin blocks**: Cabinet 5, Bin 39
-- **4-pin blocks**: Cabinet 5, Bin 37
 
 ## Specifications
 

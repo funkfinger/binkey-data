@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Interface & Communication
 subcategory: Logic Level Shifters
-brand: WWZMDiB
 part_number: B0CCF6TCSJ
 model: 12 Pcs Logic Level Shifter Converter Module
 description: Bidirectional 3.3V to 5V logic level shifter converter modules for UART, IIC, SPI, 1-Wire interfaces
@@ -15,30 +14,17 @@ power: Minimal
 interface: [4-Channel, Bidirectional]
 connectivity: [UART, IIC, SPI, 1-Wire]
 compatibility: [Arduino, Raspberry Pi, ESP32, Microcontrollers]
-location: [Cabinet-5/Bin-21/Section-B]
+location: Cabinet-5/Bin-21/Section-B
 quantity: 20
 status: available
-price_range: $6.99
 datasheet: https://www.wwzmdib.com/level-shifter-datasheet
 product_url: https://a.co/d/d8f2FYW
 tags: [wwzmdib, logic-level-shifter, bidirectional, 3.3v, 5v, uart, iic, spi, 1-wire, 4-channel, arduino, cabinet-5, bin-21, status-available]
 date_added: 2025-01-14
+price: $6.99
 ---
 
 # WWZMDiB Logic Level Shifter Converter Modules
-
-## Details
-
-- **Location**: Cabinet-5, Bin 21, Section B
-- **Category**: Interface & Communication
-- **Brand**: WWZMDiB
-- **Part Number**: B0CCF6TCSJ
-- **Model**: 12 Pcs Logic Level Shifter Converter Module
-- **Package**: PCB Module
-- **Quantity**: 20 modules
-- **Status**: Available
-- **Price Range**: $6.99 (12-piece pack)
-- **Product URL**: https://a.co/d/d8f2FYW
 
 ## Description
 

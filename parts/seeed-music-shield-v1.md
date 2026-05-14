@@ -1,5 +1,5 @@
 ---
-type: part
+type: module
 title: Seeed Music Shield V1.0
 description: Arduino shield for playing music from SD card with VS1053B decoder chip and audio amplifier
 manufacturer: Seeed Studio
@@ -8,14 +8,14 @@ category: shields
 subcategory: audio-shields
 tags: [music-shield, vs1053b, audio, mp3, wav, sd-card, amplifier, seeed]
 quantity: 1
-location: [cabinet-1-bin-42]
-datasheet_url: https://seeeddoc.github.io/Music_Shield_V1.0/
-purchase_url: ""
+location: Cabinet-1/Bin-42
 price: 25.00
 currency: USD
 date_added: 2025-01-09
-status: discontinued
+status: out-of-stock
 image: attachments/seeed-music-shield-v1.jpg
+product_url: ""
+datasheet: https://seeeddoc.github.io/Music_Shield_V1.0/
 ---
 
 # Seeed Music Shield V1.0

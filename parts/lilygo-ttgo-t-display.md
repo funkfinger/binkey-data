@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: LCD Display Development Board
-brand: LILYGO
 model: TTGO T-Display
 microcontroller: ESP32
 architecture: Xtensa LX6
@@ -24,25 +23,15 @@ dimensions: 51.52mm x 25.04mm
 weight: 8g
 usb_native: false
 serial_chip: CH9102
-location: [Cabinet-1/Bin-27]
+location: Cabinet-1/Bin-27
 quantity: 4
 status: available
-price_range: $8-9
 tags: [microcontroller, esp32, wifi, bluetooth, lcd, display, st7789, ttgo, lilygo, tft, iot]
+price: $8-9
+manufacturer: LILYGO
 ---
 
 # LILYGO TTGO T-Display - ESP32 with 1.14" LCD
-
-## Details
-
-- **Location**: Cabinet-1, Bin 27
-- **Category**: Microcontroller Boards
-- **Type**: LCD Display Development Board
-- **Microcontroller**: ESP32 (Xtensa LX6 dual-core)
-- **Brand**: LILYGO
-- **Model**: TTGO T-Display
-- **Quantity**: 4
-- **Product URL**: https://lilygo.cc/products/lilygo®-ttgo-t-display-1-14-inch-lcd-esp32-control-board
 
 ## Description
 

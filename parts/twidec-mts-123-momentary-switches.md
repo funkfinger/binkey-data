@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Controls
 subcategory: Momentary Toggle Switches
-brand: Twidec
 part_number: B07VHCB1Q4
 model: MTS-123-MZ
 description: Mini momentary toggle switch SPDT 3-position (ON)-Off-(ON) with waterproof cap
@@ -15,30 +14,17 @@ power: 500W / 625W
 interface: [SPDT, 3-Terminal]
 connectivity: [Panel mount, Screw terminals]
 compatibility: [Control panels, Electronics projects, Automotive applications]
-location: [Cabinet-5/Bin-9]
+location: Cabinet-5/Bin-9
 quantity: 6
 status: available
-price_range: $9-10
 datasheet: https://www.twidec.com/mts-123-datasheet
 product_url: https://a.co/d/d0yU4Bg
 tags: [twidec, mts-123, momentary-switch, spdt, on-off-on, 3-position, waterproof, cabinet-5, bin-9, status-available]
 date_added: 2025-01-14
+price: $9-10
 ---
 
 # Twidec MTS-123-MZ Momentary Toggle Switches
-
-## Details
-
-- **Location**: Cabinet-5, Bin 9
-- **Category**: Switches & Controls
-- **Brand**: Twidec
-- **Part Number**: B07VHCB1Q4
-- **Model**: MTS-123-MZ
-- **Package**: Panel Mount Momentary Switch
-- **Quantity**: 6 switches (from 6-piece pack)
-- **Status**: Available
-- **Price Range**: $9.99 (pack of 6)
-- **Product URL**: https://a.co/d/d0yU4Bg
 
 ## Description
 

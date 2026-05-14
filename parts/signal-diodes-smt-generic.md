@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Discrete Semiconductors
 subcategory: Diodes - Signal/Switching
-brand: Generic/Mixed
 part_number: Generic Signal Diodes (SMT)
 model: Various (1N4148W, BAT54, MMSD4148, etc.)
 description: Generic signal diodes in surface-mount packages (SOD-323, SOD-123), high-speed switching diodes for signal processing and logic circuits
@@ -17,28 +16,14 @@ compatibility: [General-purpose signal diodes, Switching applications, Logic cir
 location: [Cabinet-6/Bin-1/Container-D, Cabinet-6/Bin-1/Container-E]
 quantity: 20+ (Container D), 20+ (Container E)
 status: available
-price_range: $0.02-0.10 each
 datasheet: https://www.onsemi.com/pdf/datasheet/mmsd4148t1-d.pdf
 product_url: https://www.digikey.com/en/products/filter/diodes-general-purpose-power/87
 tags: [diode, signal-diode, smt, sod-323, sod-123, switching, generic, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.02-0.10 each
 ---
 
 # Generic Signal Diodes - SMT Packages
-
-## Details
-
-- **Location**: Cabinet-6, Bin 1, Container D & E
-- **Category**: Discrete Semiconductors
-- **Brand**: Generic/Mixed (Multiple manufacturers)
-- **Part Number**: Generic Signal Diodes (SMT)
-- **Package**: SOD-323, SOD-123 (Surface Mount)
-- **Quantity**: 20+ units per container
-- **Status**: Available
-- **Price Range**: $0.02-0.10 per unit
-- **Datasheet**: [MMSD4148 Example Datasheet](https://www.onsemi.com/pdf/datasheet/mmsd4148t1-d.pdf)
-- **Product URL**: [DigiKey - Signal Diodes](https://www.digikey.com/en/products/filter/diodes-general-purpose-power/87)
 
 ## Description
 

@@ -1,20 +1,19 @@
 ---
 title: A1301/A1302 Hall Effect Sensors
 description: Continuous-time ratiometric linear Hall-effect sensor ICs for magnetic field detection
-part_numbers: 
-  - A1301
-  - A1302
+part_numbers:
+- A1301
+- A1302
 manufacturer: Allegro MicroSystems
 category: sensors
 subcategory: magnetic-sensors
 quantity: 10
-location: 
-  - Cabinet-3
-  - Bin-26
-cost_per_unit: $2.50
+location: Cabinet-3/Bin-26
 datasheet: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/314/A1301-A1302-Rev.22_Dec5%2C2016_DS.pdf
 purchase_date: 2024-12-15
 tags: [hall-effect, magnetic-sensor, linear, ratiometric, analog-output]
+price: $2.50
+type: module
 ---
 
 # A1301/A1302 Hall Effect Sensors

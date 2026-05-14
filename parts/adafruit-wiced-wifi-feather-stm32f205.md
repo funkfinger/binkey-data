@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: STM32F205 Development Board
-brand: Adafruit
 part_number: 3056
 model: WICED WiFi Feather STM32F205
 microcontroller: STM32F205RG
@@ -25,26 +24,15 @@ wifi: true
 battery_charging: true
 rtc: true
 form_factor: Feather
-location: [Cabinet-1/Bin-29]
+location: Cabinet-1/Bin-29
 quantity: 1
-status: discontinued
-price_range: $34-35
+status: out-of-stock
 tags: [microcontroller, stm32f205, feather, wiced, wifi, cypress, broadcom, battery-charging, adafruit, arduino, tls, discontinued]
+price: $34-35
+manufacturer: Adafruit
 ---
 
 # Adafruit WICED WiFi Feather STM32F205
-
-## Details
-
-- **Location**: Cabinet-1, Bin 29
-- **Category**: Feather Boards
-- **Type**: STM32F205 Development Board with WiFi (Feather Form Factor)
-- **Microcontroller**: STM32F205RG ARM Cortex-M3 @ 120MHz
-- **Brand**: Adafruit
-- **Part Number**: 3056
-- **Quantity**: 1
-- **Status**: Discontinued (replaced by ESP32 Feather)
-- **Product URL**: https://www.adafruit.com/product/3056
 
 ## Description
 

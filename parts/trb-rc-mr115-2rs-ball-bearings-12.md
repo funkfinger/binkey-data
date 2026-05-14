@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Mechanical Components
 subcategory: Bearings
-brand: TRB RC
 part_number: MR115-2RS
 model: TRB RC MR115-2RS Miniature Ball Bearings 5x11x4mm
 description: 12+ TRB RC miniature ball bearings with rubber seals, 5x11x4mm dimensions, Traxxas 5116 compatible
@@ -15,44 +14,17 @@ power: N/A
 interface: [Shaft Mount]
 connectivity: [Mechanical Rotation]
 compatibility: [RC Vehicles, Traxxas Models, Miniature Applications, Motors]
-location: [Cabinet-5/Bin-48]
+location: Cabinet-5/Bin-48
 quantity: 12+
 status: available
-price_range: $15-25
 datasheet: N/A
 product_url: https://a.co/d/gL8myNZ
-tags:
-  [
-    ball-bearings,
-    mr115-2rs,
-    trb-rc,
-    miniature-bearings,
-    rubber-sealed,
-    5x11x4mm,
-    traxxas-5116,
-    rc-bearings,
-    cabinet-5,
-    bin-48,
-    status-available,
-  ]
+tags: [ball-bearings, mr115-2rs, trb-rc, miniature-bearings, rubber-sealed, 5x11x4mm, traxxas-5116, rc-bearings, cabinet-5, bin-48, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $15-25
 ---
 
 # TRB RC MR115-2RS Miniature Ball Bearings - 12+ Pieces
-
-## Details
-
-- **Location**: Cabinet-5, Bin 48
-- **Category**: Mechanical Components
-- **Brand**: TRB RC
-- **Model**: TRB RC MR115-2RS Miniature Ball Bearings 5x11x4mm
-- **Part Number**: MR115-2RS
-- **Package**: Individual bearings
-- **Quantity**: 12+ pieces
-- **Status**: Available
-- **Price Range**: $15-25
-- **Product URL**: https://a.co/d/gL8myNZ
 
 ## Description
 

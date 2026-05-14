@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Analog ICs
 subcategory: Operational Amplifiers
-brand: Texas Instruments
 part_number: LM324N
 model: LM324N
 description: Quad operational amplifier with single supply operation and ground-sensing capability for general-purpose applications
@@ -15,30 +14,17 @@ power: Low power consumption with wide supply range
 interface: [Analog Signal Processing, Single Supply Operation]
 connectivity: [Through-hole pins]
 compatibility: [General-purpose circuits, Audio applications, Signal conditioning, Single-supply systems]
-location: [Cabinet-3/Bin-33/Section-J]
+location: Cabinet-3/Bin-33/Section-J
 quantity: 1
 status: available
-price_range: $0.50-1.50
 datasheet: https://www.ti.com/lit/gpn/lm324
 product_url: https://www.ti.com/product/LM324
 tags: [quad-opamp, single-supply, ground-sensing, general-purpose, texas-instruments, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $0.50-1.50
 ---
 
 # LM324N - Quad General-Purpose Operational Amplifier
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section J
-- **Category**: Analog ICs
-- **Brand**: Texas Instruments
-- **Part Number**: LM324N
-- **Package**: 14-DIP
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $0.50-1.50
-- **Datasheet**: [LM324 Datasheet](https://www.ti.com/lit/gpn/lm324)
-- **Product URL**: [TI Product Page](https://www.ti.com/product/LM324)
 
 ## Description
 

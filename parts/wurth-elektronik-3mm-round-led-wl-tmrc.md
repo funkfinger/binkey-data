@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Optoelectronics
 subcategory: LEDs - Through-Hole
-brand: Würth Elektronik
 part_number: 151031VS06000 (Green), 151031SS06000 (Red)
 model: WL-TMRC
 description: 3mm round through-hole LEDs in red and green variants
@@ -15,34 +14,17 @@ power: 66mW (typical)
 interface: []
 connectivity: []
 compatibility: []
-location: [Cabinet-1/Bin-15/Section-B]
+location: Cabinet-1/Bin-15/Section-B
 quantity: 50 (Green - 151031VS06000), 50 (Red - 151031SS06000)
 status: available
-price_range: $0.10-0.15 each
 datasheet: https://www.we-online.com/components/products/datasheet/151031SS06000.pdf
 product_url: https://www.digikey.com/en/products/detail/würth-elektronik/151031VS06000/4489988
 tags: [led, 3mm, through-hole, indicator, red, green, digikey, cabinet-1, bin-15, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.10-0.15 each
 ---
 
 # Würth Elektronik 3mm Round LEDs (WL-TMRC)
-
-## Details
-
-- **Location**: Cabinet-1, Bin 15, Section B
-- **Category**: Optoelectronics
-- **Brand**: Würth Elektronik
-- **Part Numbers**: 
-  - Green (568nm): 151031VS06000
-  - Red (640nm): 151031SS06000
-- **Model**: WL-TMRC
-- **Package**: T-1 (3mm) Through-Hole
-- **Quantity**: 50 units each (Green and Red)
-- **Status**: Available
-- **Price Range**: $0.10-0.15 per unit
-- **Datasheet**: [WL-TMRC Datasheet](https://www.we-online.com/components/products/datasheet/151031SS06000.pdf)
-- **Product URL**: [DigiKey - Green LED](https://www.digikey.com/en/products/detail/würth-elektronik/151031VS06000/4489988) | [DigiKey - Red LED](https://www.digikey.com/en/products/detail/würth-elektronik/151031SS06000/4489982)
 
 ## Description
 

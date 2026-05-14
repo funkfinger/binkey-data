@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Sockets
 subcategory: Headers & Pins
-brand: Würth Elektronik
 part_number: 61201621621
 model: WR-BHD 16-Pin Header
 description: 16-pin dual row vertical header connector with 2.54mm pitch for through-hole mounting
@@ -14,44 +13,18 @@ current: 3A per contact
 power: High current capability
 interface: [Male Header Pins, Through-hole mounting]
 connectivity: [Shrouded 4-wall design, Board to cable/wire]
-compatibility:
-  [Eurorack power connectors, IDC cables, Ribbon cables, Development boards]
-location: [Cabinet-3/Bin-55]
+compatibility: [Eurorack power connectors, IDC cables, Ribbon cables, Development boards]
+location: Cabinet-3/Bin-55
 quantity: 15+
 status: available
-price_range: $0.86-1.00
 datasheet: https://www.we-online.com/components/products/datasheet/61202021621.pdf
 product_url: https://www.digikey.com/en/products/detail/w-rth-elektronik/61202021621/2060592
-tags:
-  [
-    header-connector,
-    male-pins,
-    eurorack,
-    shrouded-header,
-    through-hole,
-    wurth-elektronik,
-    cabinet-3,
-    bin-55,
-    status-available,
-  ]
+tags: [header-connector, male-pins, eurorack, shrouded-header, through-hole, wurth-elektronik, cabinet-3, bin-55, status-available]
 date_added: 2025-01-13
+price: $0.86-1.00
 ---
 
 # Würth Elektronik 61202021621 - 16Pin Shrouded Header Connector
-
-## Details
-
-- **Location**: Cabinet-3, Bin 55
-- **Category**: Connectors & Sockets
-- **Brand**: Würth Elektronik
-- **Part Number**: 61202021621
-- **Series**: WR-BHD (Board Header Dual)
-- **Package**: 16-Pin Shrouded Header (2x10)
-- **Quantity**: 15+
-- **Status**: Available
-- **Price Range**: $0.86-1.00
-- **Datasheet**: [61201621621 Datasheet](https://www.digikey.com/en/models/2060591)
-- **Product URL**: [Digi-Key Product Page](https://www.digikey.com/en/products/detail/w-rth-elektronik/61201621621/2060591)
 
 ## Description
 

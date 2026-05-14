@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connector Boards
 subcategory: I2C Adapter
-brand: SparkFun Electronics
 part_number: DEV-14495
 model: Qwiic Adapter
 description: Breakout Board Connectivity Qwiic Platform Evaluation Expansion Board
@@ -12,29 +11,17 @@ voltage: 3.3V
 connectors: [2x Qwiic JST, 4x Through-hole pins]
 dimensions: 15.24mm x 15.24mm
 pins: [SCL, SDA, 3.3V, GND]
-location: [Cabinet-3/Bin-4]
+location: Cabinet-3/Bin-4
 quantity: 4
 status: available
 price: $1.60
-price_range: $1.36-1.60
 tags: [qwiic, i2c, adapter, breakout, connector, sparkfun, jst, prototyping]
-datasheet_url: https://cdn.sparkfun.com/assets/2/4/7/e/6/SparkFun_Qwiic_Adapter.pdf
 product_url: https://www.sparkfun.com/products/14495
-digikey_url: https://www.digikey.com/en/products/detail/sparkfun-electronics/14495/7942483
+datasheet: https://cdn.sparkfun.com/assets/2/4/7/e/6/SparkFun_Qwiic_Adapter.pdf
+manufacturer: SparkFun Electronics
 ---
 
 # SparkFun Qwiic Adapter
-
-## Details
-
-- **Location**: Cabinet-3, Bin 4
-- **Category**: Connector Boards
-- **Type**: I2C to Qwiic Adapter
-- **Brand**: SparkFun Electronics
-- **Part Number**: DEV-14495
-- **Quantity**: 4
-- **Product URL**: https://www.sparkfun.com/products/14495
-- **DigiKey URL**: https://www.digikey.com/en/products/detail/sparkfun-electronics/14495/7942483
 
 ## Description
 

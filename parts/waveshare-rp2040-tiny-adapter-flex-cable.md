@@ -1,32 +1,22 @@
 ---
-type: part
+type: other
 title: WaveShare RP2040-Tiny-Adapter with Flex Cable
 description: USB adapter board with flex cable for RP2040-Tiny micro development board, enables USB programming and debugging
 manufacturer: WaveShare
 part_number: RP2040-Tiny-Adapter
 category: programming-tools
 subcategory: development-adapters
-tags:
-  [
-    rp2040,
-    tiny,
-    adapter,
-    flex-cable,
-    usb,
-    programming,
-    debugging,
-    waveshare,
-    microcontroller,
-    development,
-  ]
+tags: [rp2040, tiny, adapter, flex-cable, usb, programming, debugging, waveshare, microcontroller, development]
 quantity: 5
-location: [cabinet-1-bin-37, cabinet-1-bin-38]
-datasheet_url: https://www.waveshare.com/wiki/RP2040-Tiny
-purchase_url: https://www.waveshare.com/rp2040-tiny.htm
+location:
+- Cabinet-1/Bin-37
+- Cabinet-1/Bin-38
 price: 4.99
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.waveshare.com/rp2040-tiny.htm
+datasheet: https://www.waveshare.com/wiki/RP2040-Tiny
 ---
 
 # WaveShare RP2040-Tiny-Adapter with Flex Cable

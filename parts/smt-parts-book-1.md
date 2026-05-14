@@ -1,37 +1,18 @@
 ---
-type: electronic-component
+type: kit
 category: SMT Components
 subcategory: Parts Book - Cut Tape
-brand: Various
 description: SMT Parts Book 1 - Cut SMT tape in plastic transparent sleeves, 12 slots per page
 manufacturer: Various
 package: SMT Tape - Cut and sleeved
-location: [SMT-Parts-Book-1]
+location: SMT-Parts-Book-1
 quantity: Multiple pages populated
 status: available
-tags:
-  [
-    smt,
-    surface-mount,
-    parts-book,
-    tape,
-    cut-tape,
-    storage,
-    organization,
-    diodes,
-    regulators,
-    power-management,
-    battery-charging,
-  ]
+tags: [smt, surface-mount, parts-book, tape, cut-tape, storage, organization, diodes, regulators, power-management, battery-charging]
 date_added: 2025-11-16
-added_date: 2025-11-16
 ---
 
 # SMT Parts Book 1 - Cut Tape Collection
-
-## Details
-
-This is a dedicated SMT parts book for organizing cut SMT tape components in plastic transparent sleeves. The book has 12 slots per page for organized storage and easy identification of surface-mount components.
 
 ## Description
 

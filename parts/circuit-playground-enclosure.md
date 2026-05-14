@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Adafruit Circuit Playground Express or Bluefruit Enclosure
 description: Clear acrylic protective enclosure for Circuit Playground Express and Bluefruit with snap-together design and camera mount
 manufacturer: Adafruit
@@ -8,14 +8,14 @@ category: accessories
 subcategory: enclosures
 tags: [enclosure, circuit-playground, acrylic, protective, case, clear, snap-together]
 quantity: 4
-location: [cabinet-1-bin-44]
-datasheet_url: https://www.adafruit.com/product/3915
-purchase_url: https://www.adafruit.com/product/3915
+location: Cabinet-1/Bin-44
 price: 4.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/circuit-playground-enclosure.jpg
+product_url: https://www.adafruit.com/product/3915
+datasheet: https://www.adafruit.com/product/3915
 ---
 
 # Adafruit Circuit Playground Express or Bluefruit Enclosure

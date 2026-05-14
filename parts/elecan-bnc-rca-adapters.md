@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Test Equipment
 subcategory: Adapters & Connectors
-brand: Elecan
 part_number: B09TT3X8F6
 model: BNC Male to RCA Female
 description: BNC Male to RCA Female adapter connectors for CCTV, oscilloscopes, and test equipment
@@ -15,29 +14,17 @@ power: N/A
 interface: [BNC Male, RCA Female]
 connectivity: [Coaxial, Video, RF]
 compatibility: [CCTV cameras, Oscilloscopes, Test equipment, Video equipment]
-location: [Cabinet-5/Bin-5]
+location: Cabinet-5/Bin-5
 quantity: 6
 status: available
-price_range: $7-8
 datasheet: https://www.elecan.com/bnc-adapters
 product_url: https://a.co/d/07rw1FN
 tags: [elecan, bnc, rca, adapters, coaxial, test-equipment, cctv, oscilloscope, cabinet-5, bin-5, status-available]
 date_added: 2025-01-14
+price: $7-8
 ---
 
 # Elecan BNC to RCA Adapters (6 Pack)
-
-## Details
-
-- **Location**: Cabinet-5, Bin 5
-- **Category**: Test Equipment
-- **Brand**: Elecan
-- **Part Number**: B09TT3X8F6
-- **Package**: Coaxial Adapter
-- **Quantity**: 6 adapters
-- **Status**: Available
-- **Price Range**: $7.49 (pack of 6)
-- **Product URL**: https://a.co/d/07rw1FN
 
 ## Description
 

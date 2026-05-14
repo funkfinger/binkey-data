@@ -1,8 +1,7 @@
 ---
-type: electrical
+type: ic
 category: connectors
 subcategory: power-plugs
-brand: GE
 part_number: 54266
 model: Extension Cord Plug Replacement 2 Pack
 description: GE polarized 2-prong extension cord plug replacement set for small appliances and DIY projects
@@ -16,35 +15,28 @@ interface: polarized 2-prong
 connectivity: screw terminals
 compatibility: extension cords, power strips, lamps, small appliances
 location:
-  - cabinet-7
-  - bin-26
-  - section-b
+- Cabinet-7
+- Bin-26
+- Section-B
 quantity: 1 pack (2 plugs)
 status: available
-price_range: budget
 datasheet: N/A
 product_url: https://a.co/d/3Q9Og4z
 tags:
-  - extension-cord-plug
-  - power-plug
-  - polarized
-  - 2-prong
-  - replacement-plug
-  - electrical-repair
-  - diy
-  - ul-listed
-  - brown
+- extension-cord-plug
+- power-plug
+- polarized
+- 2-prong
+- replacement-plug
+- electrical-repair
+- diy
+- ul-listed
+- brown
 date_added: 2025-01-27
-added_date: 2025-01-27
+price: budget
 ---
 
 # GE Extension Cord Plug Replacement 2 Pack (54266)
-
-## Details
-
-**Location**: [[am-cabinet-7]] - Bin 26, Section B  
-**Quantity**: 1 pack (2 plugs)  
-**Status**: Available  
 
 ## Description
 

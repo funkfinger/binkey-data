@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Discrete Semiconductors
 subcategory: MOSFETs - P-Channel
-brand: Alpha & Omega Semiconductor
 part_number: AO3401A
 model: AO3401A
 description: 30V P-Channel MOSFET, 4A, SOT-23-3 package, general-purpose switching
@@ -14,32 +13,17 @@ power: Low power consumption
 interface: [Switching, Logic Level]
 connectivity: [Through-hole compatible, Surface Mount]
 compatibility: [General-purpose switching, Load switching, Power management]
-location: [Cabinet-6/Bin-1/Container-A]
+location: Cabinet-6/Bin-1/Container-A
 quantity: 20+
 status: available
-price_range: $0.10-0.25 each
 datasheet: https://aosmd.com/res/data_sheets/AO3401A.pdf
 product_url: https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AO3401A/1855773
 tags: [mosfet, p-channel, 30v, 4a, sot-23, switching, logic-level, alpha-omega, digikey, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.10-0.25 each
 ---
 
 # Alpha & Omega Semiconductor AO3401A P-Channel MOSFET
-
-## Details
-
-- **Location**: Cabinet-6, Bin 1, Container A
-- **Category**: Discrete Semiconductors
-- **Brand**: Alpha & Omega Semiconductor Inc.
-- **Part Number**: AO3401A
-- **Model**: AO3401A
-- **Package**: SOT-23-3
-- **Quantity**: 20+ units
-- **Status**: Available
-- **Price Range**: $0.10-0.25 per unit
-- **Datasheet**: [AO3401A Datasheet](https://aosmd.com/res/data_sheets/AO3401A.pdf)
-- **Product URL**: [DigiKey - AO3401A](https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AO3401A/1855773)
 
 ## Description
 

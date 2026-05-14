@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Shift Registers
-brand: Texas Instruments
 part_number: SN74HC595N
 model: SN74HC595N
 description: 8-bit serial-in parallel-out shift register with tri-state outputs for I/O expansion
@@ -15,32 +14,18 @@ power: High-speed CMOS technology with low power
 interface: [Serial Input, Parallel Output, SPI Compatible]
 connectivity: [Through-hole pins]
 compatibility: [Microcontrollers, Arduino, TTL Logic, CMOS Logic]
-location: [Cabinet-3/Bin-38/Section-C]
+location: Cabinet-3/Bin-38/Section-C
 quantity: 52
 status: available
-price_range: $0.70-1.40
 datasheet: https://www.ti.com/lit/gpn/sn74hc595
 product_url: https://www.digikey.com/en/products/detail/texas-instruments/SN74HC595N/277246
 supplier: Digikey (high reliability source)
 tags: [shift-register, serial-to-parallel, io-expander, spi-compatible, texas-instruments, digikey-sourced, cabinet-3, bin-38, status-available]
 date_added: 2025-01-13
+price: $0.70-1.40
 ---
 
 # SN74HC595N - 8-Bit Serial-In Parallel-Out Shift Register
-
-## Details
-
-- **Location**: Cabinet-3, Bin 38, Section C
-- **Category**: Logic ICs
-- **Brand**: Texas Instruments
-- **Part Number**: SN74HC595N
-- **Package**: 16-DIP
-- **Quantity**: 52
-- **Status**: Available
-- **Price Range**: $0.70-1.40
-- **Supplier**: **Digikey (high reliability source)**
-- **Datasheet**: [SN74HC595 Datasheet](https://www.ti.com/lit/gpn/sn74hc595)
-- **Product URL**: [Digikey Product Page](https://www.digikey.com/en/products/detail/texas-instruments/SN74HC595N/277246)
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: WiFi Development Board
-brand: Adafruit
 part_number: 5395
 model: QT Py ESP32 Pico
 microcontroller: ESP32-PICO-V3-02
@@ -22,25 +21,15 @@ dimensions: 22.0mm x 17.9mm x 5.9mm
 weight: 2.3g
 usb_native: false
 stemma_qt: true
-location: [Cabinet-1/Bin-26]
+location: Cabinet-1/Bin-26
 quantity: 1
 status: available
-price_range: $14-15
 tags: [microcontroller, esp32-pico, wifi, bluetooth, qt-py, stemma-qt, usb-c, adafruit, iot, dual-core]
+price: $14-15
+manufacturer: Adafruit
 ---
 
 # Adafruit QT Py ESP32 Pico - WiFi Dev Board with STEMMA QT
-
-## Details
-
-- **Location**: Cabinet-1, Bin 26
-- **Category**: Microcontroller Boards
-- **Type**: WiFi & Bluetooth Development Board with STEMMA QT
-- **Microcontroller**: ESP32-PICO-V3-02
-- **Brand**: Adafruit
-- **Part Number**: 5395
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/5395
 
 ## Description
 

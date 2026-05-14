@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Fasteners
 subcategory: Self-Tapping Screws
-brand: MEIYYJ
 part_number: 450PCS
 model: MEIYYJ 450PCS Phillips Truss Head Self Tapping Screws M2.3 M2.6 M3
 description: 450-piece assortment of Phillips truss head self-tapping screws in M2.3, M2.6, and M3 sizes with pan head and washer design
@@ -15,43 +14,17 @@ power: N/A
 interface: [Phillips Drive]
 connectivity: [Self-Tapping Threaded Fastening]
 compatibility: [Sheet Metal, Plastic, Electronics, Thin Materials, Self-Drilling Applications]
-location: [Cabinet-5/Bin-53]
+location: Cabinet-5/Bin-53
 quantity: 450 pieces (mixed sizes)
 status: available
-price_range: $15-25
 datasheet: N/A
 product_url: https://a.co/d/bv8OjKE
-tags:
-  [
-    self-tapping-screws,
-    phillips-truss-head,
-    meiyyj,
-    450-pieces,
-    m2-3-m2-6-m3,
-    pan-head-washer,
-    carbon-steel,
-    self-drilling,
-    cabinet-5,
-    bin-53,
-    status-available,
-  ]
+tags: [self-tapping-screws, phillips-truss-head, meiyyj, 450-pieces, m2-3-m2-6-m3, pan-head-washer, carbon-steel, self-drilling, cabinet-5, bin-53, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $15-25
 ---
 
 # MEIYYJ 450PCS Phillips Truss Head Self Tapping Screws M2.3 M2.6 M3
-
-## Details
-
-- **Location**: Cabinet-5, Bin 53
-- **Category**: Hardware & Fasteners
-- **Brand**: MEIYYJ
-- **Model**: MEIYYJ 450PCS Phillips Truss Head Self Tapping Screws M2.3 M2.6 M3
-- **Package**: 450-piece comprehensive assortment
-- **Quantity**: 450 pieces total (mixed M2.3, M2.6, M3 sizes)
-- **Status**: Available
-- **Price Range**: $15-25
-- **Product URL**: https://a.co/d/bv8OjKE
 
 ## Description
 

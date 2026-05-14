@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Sensors
 subcategory: Touch Sensors
-brand: Adafruit
 part_number: 1374
 model: AT42QT1010
 description: Standalone momentary capacitive touch sensor breakout with built-in LED indicator
@@ -15,42 +14,17 @@ power: 2.75mW (typical)
 interface: [Digital Output, Capacitive Touch]
 connectivity: [0.1" header pins, Wire connection pad]
 compatibility: [Arduino, Raspberry Pi, Microcontrollers, Breadboards]
-location: [Cabinet-5/Bin-12/Section-B]
+location: Cabinet-5/Bin-12/Section-B
 quantity: 3
 status: available
-price_range: $5-6
 datasheet: http://www.adafruit.com/datasheets/AT42QT1010.pdf
 product_url: https://www.adafruit.com/product/1374
-tags:
-  [
-    adafruit,
-    at42qt1010,
-    capacitive-touch,
-    touch-sensor,
-    breakout,
-    momentary,
-    standalone,
-    cabinet-5,
-    bin-12,
-    status-available,
-  ]
+tags: [adafruit, at42qt1010, capacitive-touch, touch-sensor, breakout, momentary, standalone, cabinet-5, bin-12, status-available]
 date_added: 2025-01-14
+price: $5-6
 ---
 
 # Adafruit AT42QT1010 Capacitive Touch Sensors
-
-## Details
-
-- **Location**: Cabinet-5, Bin 12 (Section B: 3 units)
-- **Category**: Sensors
-- **Brand**: Adafruit Industries
-- **Part Number**: 1374
-- **Model**: AT42QT1010
-- **Package**: Breakout Board
-- **Quantity**: 3 total
-- **Status**: Available
-- **Price Range**: $5.95 each
-- **Product URL**: https://www.adafruit.com/product/1374
 
 ## Description
 

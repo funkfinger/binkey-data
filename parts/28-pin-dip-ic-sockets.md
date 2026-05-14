@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Sockets
 subcategory: IC Sockets
-brand: Generic
 part_number: DIP-28
 model: 28-Pin DIP Socket
 description: 28-pin dual in-line IC socket for through-hole integrated circuits with 0.600" row spacing
@@ -15,26 +14,15 @@ power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
 compatibility: [28-pin DIP ICs, Microprocessors, Memory chips, Large logic ICs]
-location: [Cabinet-3/Bin-53/Section-A]
+location: Cabinet-3/Bin-53/Section-A
 quantity: 10+
 status: available
-price_range: $0.50-2.00
 tags: [ic-socket, dip-socket, 28-pin, through-hole, prototyping, cabinet-3, bin-53, status-available]
 date_added: 2025-01-13
+price: $0.50-2.00
 ---
 
 # 28-Pin DIP IC Sockets
-
-## Details
-
-- **Location**: Cabinet-3, Bin 53, Section A
-- **Category**: Connectors & Sockets
-- **Brand**: Generic
-- **Part Number**: DIP-28
-- **Package**: 28-Pin DIP Socket
-- **Quantity**: 10+
-- **Status**: Available
-- **Price Range**: $0.50-2.00
 
 ## Description
 

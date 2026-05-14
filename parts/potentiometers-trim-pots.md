@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: Potentiometers & Trim Pots
 description: Collection of variable resistors including trim potentiometers and through-hole potentiometers for voltage adjustment and control applications
 manufacturer: Various
@@ -8,11 +8,14 @@ category: passive-components
 subcategory: potentiometers
 tags: [potentiometers, trim-pots, variable-resistors, adjustment, control, through-hole]
 total_quantity: 150+
-location: [cabinet-2-bin-6, cabinet-2-bin-7, cabinet-2-bin-8]
+location:
+- Cabinet-2/Bin-6
+- Cabinet-2/Bin-7
+- Cabinet-2/Bin-8
 price: 0.50
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Potentiometers & Trim Pots

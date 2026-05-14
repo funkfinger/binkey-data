@@ -1,5 +1,5 @@
 ---
-type: part
+type: dev-board
 title: Adafruit TFT FeatherWing 2.4" 320x240 Touchscreen V2
 description: 2.4 inch color TFT display with resistive touchscreen and microSD card slot for Feather boards
 manufacturer: Adafruit
@@ -8,12 +8,12 @@ category: featherwings
 subcategory: display-wings
 tags: [featherwing, tft, display, touchscreen, 320x240, ili9341, tsc2007, microsd, stemma-qt, adafruit]
 quantity: 1
-location: [cabinet-1-bin-35]
-purchase_url: https://www.adafruit.com/product/3315
+location: Cabinet-1/Bin-35
 price: 34.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/3315
 ---
 
 # Adafruit TFT FeatherWing 2.4" 320x240 Touchscreen V2

@@ -1,45 +1,22 @@
 ---
-type: electronic-component
+type: ic
 category: Power Management
 subcategory: Timers & Controllers
-brand: Texas Instruments
 part_number: TPL5111
 model: TPL5111DDCT
 description: Nano-power system timer for power gating with ultra-low 35nA quiescent current, SOT-23-6 package
 manufacturer: Texas Instruments
 package: SOT-23-6 (6-pin surface mount)
 voltage: 2.5V typical (2.0V-5.5V operating range)
-location: [Cabinet-6/Bin-1/Container-O]
+location: Cabinet-6/Bin-1/Container-O
 quantity: 9
 status: available
-price_range: $1.00-1.50 each
 datasheet: https://www.ti.com/lit/gpn/TPL5111
 product_url: https://www.ti.com/product/TPL5111
-tags:
-  [
-    tpl5111,
-    nano-power,
-    timer,
-    power-gating,
-    ultra-low-power,
-    35na,
-    sot-23-6,
-    texas-instruments,
-    ti,
-    battery-powered,
-    iot,
-    smt,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [tpl5111, nano-power, timer, power-gating, ultra-low-power, 35na, sot-23-6, texas-instruments, ti, battery-powered, iot, smt, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $1.00-1.50 each
 ---
-
-## Details
-
-The Texas Instruments TPL5111 is a nano-power system timer designed for power gating applications in ultra-low-power battery-powered devices. With an exceptionally low quiescent current of just 35nA, it's ideal for IoT devices, wireless sensor nodes, and energy-harvesting applications that require periodic wake-up and power management.
 
 ## Description
 

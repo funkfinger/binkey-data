@@ -1,5 +1,5 @@
 ---
-type: part
+type: dev-board
 title: Adafruit 2.13" HD Tri-Color eInk FeatherWing
 description: 2.13 inch tri-color e-paper display FeatherWing with 250x122 resolution, built-in SRAM and microSD slot
 manufacturer: Adafruit
@@ -8,12 +8,12 @@ category: featherwings
 subcategory: display-wings
 tags: [featherwing, eink, epaper, display, tricolor, 250x122, ssd1680, sram, microsd, adafruit]
 quantity: 1
-location: [cabinet-1-bin-35]
-purchase_url: https://www.adafruit.com/product/4814
+location: Cabinet-1/Bin-35
 price: 24.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4814
 ---
 
 # Adafruit 2.13" HD Tri-Color eInk FeatherWing

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Integrated Circuits
 subcategory: Display Drivers
-brand: Soviet Union
 part_number: K155NA1
 model: K155ИД1
 description: Soviet BCD to Decimal Decoder/Driver for Nixie Tubes
@@ -15,42 +14,17 @@ power: 100mW (typical)
 interface: [TTL, BCD]
 connectivity: [Nixie Tubes, Cold Cathode Displays]
 compatibility: [74141 equivalent, Nixie clocks, retro displays]
-location: [Cabinet-3/Bin-42/Section-B]
+location: Cabinet-3/Bin-42/Section-B
 quantity: 10
 status: available
-price_range: Rare/Vintage
 datasheet: Soviet-era documentation (limited availability)
 product_url: N/A (vintage component)
-tags:
-  [
-    nixie,
-    driver,
-    soviet,
-    vintage,
-    bcd-decoder,
-    display-driver,
-    k155,
-    cabinet-3,
-    bin-42,
-    status-available,
-  ]
+tags: [nixie, driver, soviet, vintage, bcd-decoder, display-driver, k155, cabinet-3, bin-42, status-available]
 date_added: 2025-01-13
+price: Rare/Vintage
 ---
 
 # K155NA1 Soviet Nixie Tube Driver
-
-## Details
-
-- **Location**: Cabinet-3, Bin 42, Section B
-- **Category**: Integrated Circuits - Display Drivers
-- **Brand**: Soviet Union
-- **Part Number**: K155NA1
-- **Cyrillic Model**: K155ИД1
-- **Package**: 16-pin DIP
-- **Quantity**: 10
-- **Status**: Available
-- **Era**: Soviet-era (1970s-1980s)
-- **Equivalent**: Western 74141 (functional equivalent)
 
 ## Description
 

@@ -1,36 +1,23 @@
 ---
-type: electronic-component
+type: passive
 category: Neopixel LEDs
 subcategory: Addressable LED Ring
-brand: Adafruit Industries LLC
 part_number: 2875
 size: 1/4 Ring (15 LEDs)
 color: RGBW (Red, Green, Blue, White - Cool White ~6000K)
 voltage: 5V
 current: 18mA per LED (270mA max for all 15 LEDs)
 led_type: SK6812 (5050)
-location: [Cabinet-1/Bin-33]
+location: Cabinet-1/Bin-33
 quantity: 8
 status: available
-price_range: $11.95
 interface: Serial (Shift Register)
 tags: [neopixel, rgbw, addressable, led-ring, sk6812, cool-white, adafruit]
+price: $11.95
+manufacturer: Adafruit Industries LLC
 ---
 
 # Adafruit NeoPixel 1/4 60 Ring - 15x RGBW LEDs (Cool White)
-
-## Details
-
-- **Location**: Cabinet-1, Bin 33
-- **Category**: Neopixel LEDs
-- **Part Number**: Adafruit 2875
-- **Size**: 1/4 Ring (15 LEDs)
-- **Color**: RGBW (Red, Green, Blue, White - Cool White ~6000K)
-- **Voltage**: 5V DC
-- **Current**: 18mA per LED (270mA max for all 15 LEDs)
-- **Quantity**: 8
-- **Product URL**: https://www.adafruit.com/product/2875
-- **DigiKey URL**: https://www.digikey.com/en/products/detail/adafruit-industries-llc/2875/5878290
 
 ## Description
 

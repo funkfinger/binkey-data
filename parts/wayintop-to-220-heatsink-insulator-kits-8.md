@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Thermal Management
 subcategory: Heatsinks & Insulators
-brand: WayinTop
 part_number: N/A
 model: TO-220 Aluminum Heatsink & Insulator/Mounting Kits
 description: Complete heatsink and insulator mounting kits for TO-220 MOSFET transistors, 8 kits total
@@ -15,45 +14,17 @@ power: High power dissipation
 interface: [TO-220 Package Mount]
 connectivity: [M3 Screw Mount]
 compatibility: [TO-220 MOSFET, TO-220 Transistors, Power Electronics]
-location: [Cabinet-5/Bin-45/Section-D]
+location: Cabinet-5/Bin-45/Section-D
 quantity: 8
 status: available
-price_range: $12-18
 datasheet: N/A
 product_url: https://a.co/d/j3ckl6L
-tags:
-  [
-    heatsinks,
-    to-220,
-    thermal-management,
-    insulators,
-    mounting-kits,
-    mosfet,
-    transistors,
-    aluminum,
-    wayintop,
-    cabinet-5,
-    bin-45,
-    section-d,
-    status-available,
-  ]
+tags: [heatsinks, to-220, thermal-management, insulators, mounting-kits, mosfet, transistors, aluminum, wayintop, cabinet-5, bin-45, section-d, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $12-18
 ---
 
 # WayinTop TO-220 Aluminum Heatsink & Insulator/Mounting Kits
-
-## Details
-
-- **Location**: Cabinet-5, Bin 45, Section D
-- **Category**: Thermal Management
-- **Brand**: WayinTop
-- **Model**: TO-220 Aluminum Heatsink & Insulator/Mounting Kits
-- **Package**: Complete mounting kits
-- **Quantity**: 8 kits
-- **Status**: Available
-- **Price Range**: $12-18
-- **Product URL**: https://a.co/d/j3ckl6L
 
 ## Description
 

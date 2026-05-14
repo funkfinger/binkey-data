@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Interface ICs
 subcategory: Serial Communication
-brand: Maxim Integrated / Texas Instruments
 part_number: MAX232CPE
 model: MAX232CPE
 description: Dual RS-232 line driver/receiver IC for TTL to RS-232 voltage level conversion
@@ -15,30 +14,17 @@ power: Single +5V supply with internal voltage generation
 interface: [RS-232, TTL Logic, Serial Communication]
 connectivity: [Through-hole pins]
 compatibility: [Microcontrollers, PC serial ports, RS-232 devices, UART interfaces]
-location: [Cabinet-3/Bin-33/Section-I]
+location: Cabinet-3/Bin-33/Section-I
 quantity: 1
 status: available
-price_range: $2.00-5.00
 datasheet: https://www.ti.com/lit/ds/symlink/max232.pdf
 product_url: https://www.ti.com/product/MAX232
 tags: [rs232-interface, line-driver, serial-communication, voltage-converter, maxim-integrated, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $2.00-5.00
 ---
 
 # MAX232CPE - Dual RS-232 Line Driver/Receiver
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section I
-- **Category**: Interface ICs
-- **Brand**: Maxim Integrated / Texas Instruments
-- **Part Number**: MAX232CPE
-- **Package**: 16-DIP
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $2.00-5.00
-- **Datasheet**: [MAX232 Datasheet](https://www.ti.com/lit/ds/symlink/max232.pdf)
-- **Product URL**: https://www.ti.com/product/MAX232
 
 ## Description
 

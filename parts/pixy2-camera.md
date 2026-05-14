@@ -6,21 +6,12 @@ manufacturer: Charmed Labs
 category: cameras
 subcategory: vision-sensors
 quantity: 2
-location:
-  - Cabinet-3
-  - Bin-27
-cost_per_unit: $69.00
+location: Cabinet-3/Bin-27
 datasheet: https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:overview
 purchase_date: 2024-12-15
-tags:
-  [
-    computer-vision,
-    object-detection,
-    line-following,
-    arduino,
-    raspberry-pi,
-    robotics,
-  ]
+tags: [computer-vision, object-detection, line-following, arduino, raspberry-pi, robotics]
+price: $69.00
+type: module
 ---
 
 # Pixy2 Camera

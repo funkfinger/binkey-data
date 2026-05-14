@@ -6,35 +6,15 @@ manufacturer: OpenMV LLC
 category: cameras
 subcategory: machine-vision
 quantity: 1
-location:
-  - Cabinet-3
-  - Bin-27
-cost_per_unit: $80.00
+location: Cabinet-3/Bin-27
 datasheet: https://cdn.shopify.com/s/files/1/0803/9211/files/OpenMV-H7.pdf
 purchase_date: 2024-12-15
-tags:
-  [machine-vision, python, micropython, camera, stm32h7, computer-vision, ai]
+tags: [machine-vision, python, micropython, camera, stm32h7, computer-vision, ai]
+price: $80.00
+type: module
 ---
 
 # OpenMV Cam H7 R2
-
-## Details
-
-- **Location**: Cabinet 3, Bin 27
-- **Category**: Cameras — Machine Vision
-- **Manufacturer**: OpenMV LLC
-- **Part Number**: OMV-CAM-H7-V2
-- **Quantity**: 1
-- **Status**: Available
-- **Price**: $80.00
-- **Datasheet**: [OpenMV H7 Datasheet](https://cdn.shopify.com/s/files/1/0803/9211/files/OpenMV-H7.pdf)
-- **Product URL**: [openmv.io](https://openmv.io/products/openmv-cam-h7-r2)
-
-High-performance machine vision camera module with Python programming support for computer vision and AI applications.
-
-![OpenMV Cam H7 R2](../attachments/openmv-cam-h7-r2-product.jpg)
-
-_OpenMV Cam H7 R2 - High-performance machine vision camera with STM32H7 processor_
 
 ## Overview
 

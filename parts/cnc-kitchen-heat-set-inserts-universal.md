@@ -1,8 +1,7 @@
 ---
-type: hardware
+type: mechanical
 category: fasteners
 subcategory: heat-set-inserts
-brand: CNC Kitchen
 part_number: M2.5-M3-M4-heat-set-inserts
 model: Heat Set Inserts - M2.5, M3 & M4 Universal Collection
 description: CNC Kitchen heat-set inserts for 3D printed parts - M2.5 standard, M3 short/standard, and M4 short versions
@@ -15,40 +14,31 @@ power: N/A
 interface: threaded insert
 connectivity: heat-set installation
 compatibility: 3D printed thermoplastics (PLA, ABS, PETG)
-location:
-  - cabinet-5
-  - bin-40
+location: Cabinet-5/Bin-40
 quantity: 400 total (100 each type)
 status: available
-price_range: professional
 datasheet: N/A
 product_url:
-  - https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs
-  - https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces
-  - https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces
-  - https://cnckitchen.store/products/heat-set-insert-m4-x-4-short-version-100-pieces
+- https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs
+- https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces
+- https://cnckitchen.store/products/heat-set-insert-m3-x-5-7-100-pieces
+- https://cnckitchen.store/products/heat-set-insert-m4-x-4-short-version-100-pieces
 tags:
-  - heat-set-inserts
-  - threaded-inserts
-  - 3d-printing
-  - brass
-  - cnc-kitchen
-  - thermoplastics
-  - m2.5
-  - m3
-  - m4
-  - professional-grade
+- heat-set-inserts
+- threaded-inserts
+- 3d-printing
+- brass
+- cnc-kitchen
+- thermoplastics
+- m2.5
+- m3
+- m4
+- professional-grade
 date_added: 2025-01-27
-added_date: 2025-01-27
+price: professional
 ---
 
 # CNC Kitchen Heat Set Inserts - Universal Collection
-
-## Details
-
-**Location**: [[am-cabinet-5]] - Bin 40 (Sections A, D, E, F)
-**Quantity**: 400 total pieces (100 each type)
-**Status**: Available
 
 ## Description
 

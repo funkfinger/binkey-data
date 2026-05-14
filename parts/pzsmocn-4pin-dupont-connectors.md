@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Electrical Connectors
 subcategory: Dupont Connectors
-brand: Pzsmocn
 part_number: B096DFPXVX
 model: 4-Pin Female Dupont
 description: 2.54mm pitch 4-pin female Dupont adapter connector housing with crimp pins for breadboard and Arduino projects
@@ -15,29 +14,17 @@ power: 750W
 interface: [Dupont, Breadboard-compatible]
 connectivity: [Wire-to-board, Wire-to-wire]
 compatibility: [26-30 AWG wire, Arduino, Raspberry Pi, Breadboards]
-location: [Cabinet-5/Bin-4/Section-A]
+location: Cabinet-5/Bin-4/Section-A
 quantity: 50
 status: available
-price_range: $10-11
 datasheet: https://www.pzsmocn.com/dupont-connectors
 product_url: https://a.co/d/07Zs9S7
 tags: [pzsmocn, dupont, connectors, breadboard, arduino, female, 4-pin, crimp, cabinet-5, bin-4, section-a, status-available]
 date_added: 2025-01-14
+price: $10-11
 ---
 
 # Pzsmocn 4-Pin Female Dupont Connectors
-
-## Details
-
-- **Location**: Cabinet-5, Bin 4, Section A
-- **Category**: Electrical Connectors
-- **Brand**: Pzsmocn
-- **Part Number**: B096DFPXVX
-- **Package**: Dupont Female Housing
-- **Quantity**: 50 sets (250 pieces total)
-- **Status**: Available
-- **Price Range**: $10.99 (pack of 50 sets)
-- **Product URL**: https://a.co/d/07Zs9S7
 
 ## Description
 

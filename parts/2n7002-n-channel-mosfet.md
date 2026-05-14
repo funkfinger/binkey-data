@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Discrete Semiconductors
 subcategory: MOSFETs - N-Channel
-brand: Multiple (Nexperia, ON Semiconductor, STMicroelectronics)
 part_number: 2N7002
 model: 2N7002
 description: 60V N-Channel Trench MOSFET, 300mA, SOT-23 package, general-purpose switching
@@ -14,32 +13,17 @@ power: Low power consumption
 interface: [Switching, Logic Level]
 connectivity: [Surface Mount]
 compatibility: [General-purpose switching, Logic level conversion, ESD protection]
-location: [Cabinet-6/Bin-1/Container-B]
+location: Cabinet-6/Bin-1/Container-B
 quantity: 20+
 status: available
-price_range: $0.05-0.15 each
 datasheet: https://assets.nexperia.com/documents/data-sheet/2N7002.pdf
 product_url: https://www.digikey.com/en/products/detail/nexperia/2N7002/1232123
 tags: [mosfet, n-channel, 60v, 300ma, sot-23, switching, logic-level, trench, digikey, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.05-0.15 each
 ---
 
 # 2N7002 N-Channel MOSFET
-
-## Details
-
-- **Location**: Cabinet-6, Bin 1, Container B
-- **Category**: Discrete Semiconductors
-- **Brand**: Multiple (Nexperia, ON Semiconductor, STMicroelectronics)
-- **Part Number**: 2N7002
-- **Model**: 2N7002
-- **Package**: SOT-23-3
-- **Quantity**: 20+ units
-- **Status**: Available
-- **Price Range**: $0.05-0.15 per unit
-- **Datasheet**: [2N7002 Datasheet](https://assets.nexperia.com/documents/data-sheet/2N7002.pdf)
-- **Product URL**: [DigiKey - 2N7002](https://www.digikey.com/en/products/detail/nexperia/2N7002/1232123)
 
 ## Description
 

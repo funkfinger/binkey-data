@@ -1,26 +1,20 @@
 ---
-type: electronic-component
+type: passive
 category: Resistors
 subcategory: SMT Resistors - Precision
-brand: Generic
 description: 100Ω 1% precision SMT resistors, cut tape
 manufacturer: Various
 package: SMT (Surface Mount Device) - 0603, 0805, or 1206
 resistance: 100Ω
 tolerance: 1%
 voltage: Rated for standard SMT applications
-location: [SMT-Parts-Book-1/Page-9/Slots-1-4]
+location: SMT-Parts-Book-1/Page-9/Slots-1-4
 quantity: 100
 status: available
-price_range: $0.02-0.05 each
 tags: [smt-resistor, resistor, 100-ohm, 1-percent, precision, surface-mount, 0603, 0805, 1206, cut-tape]
 date_added: 2025-11-16
-added_date: 2025-11-16
+price: $0.02-0.05 each
 ---
-
-## Details
-
-100Ω 1% precision SMT resistors in cut tape format. These precision resistors are ideal for applications requiring tighter tolerance specifications compared to standard 5% resistors.
 
 ## Description
 

@@ -1,9 +1,8 @@
 ---
-type: component
+type: other
 category: semiconductors
 subcategory: transistors
 component_type: BJT NPN Transistor
-brand: onsemi
 part_number: MMBT3904TT1G
 model: MMBT3904TT1G
 description: General purpose NPN switching transistor in SOT-23 surface mount package
@@ -16,22 +15,17 @@ power: 350mW (max)
 interface: BJT
 connectivity: 3-pin SMT
 compatibility: General purpose switching and amplification applications
-location: [Cabinet-6/Bin-1]
+location: Cabinet-6/Bin-1
 quantity: 20+
-status: in-stock
-price_range: budget
+status: available
 datasheet: https://www.onsemi.com/download/data-sheet/pdf/mmbt3904tt1-d.pdf
 product_url: https://www.digikey.com/en/products/detail/onsemi/MMBT3904TT1G/919603
 tags: [transistor, bjt, npn, smt, switching, amplification, general-purpose, onsemi]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: budget
 ---
 
 # MMBT3904TT1G - General Purpose NPN Transistor
-
-## Details
-
-The MMBT3904TT1G is a general-purpose NPN switching transistor manufactured by onsemi in a compact SOT-23 surface-mount package. It's ideal for low-power switching and amplification applications in modern electronics.
 
 ## Description
 

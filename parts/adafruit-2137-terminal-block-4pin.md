@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Cables
 subcategory: Terminal Blocks
-brand: Adafruit
 part_number: 2137
 model: 2.54mm/0.1" Pitch Terminal Block - 4-pin
 description: Compact 4-pin terminal block with 2.54mm pitch for secure wire connections
@@ -15,31 +14,19 @@ power: Variable
 interface: [Through-hole, Screw terminals]
 connectivity: [PCB, Wire connections, Breadboard compatible]
 compatibility: [0.1" pitch PCBs, Perfboard, Protoboard, 26-20AWG wire]
-location: [Cabinet-3/Bin-57/Section-A]
+location: Cabinet-3/Bin-57/Section-A
 quantity: 20+
 status: available
-price_range: $1.55 each (1-9), $1.40 each (10-99), $1.24 each (100+)
 datasheet: https://cdn-shop.adafruit.com/product-files/2135/Kaweei_KF120-XP.pdf
 product_url: https://www.adafruit.com/product/2137
 tags: [terminal-blocks, connectors, screw-terminals, 4-pin, 0.1-pitch, wire-connections, pcb, adafruit, cabinet-3, bin-57, status-available]
 date_added: 2025-01-13
+price: $1.55 each (1-9), $1.40 each (10-99), $1.24 each (100+)
 ---
 
 # Adafruit 2.54mm/0.1" Pitch Terminal Block - 4-pin
 
 ![Adafruit 4-pin Terminal Block](../attachments/adafruit-2137-terminal-block-4pin.jpg)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 57, Section A
-- **Category**: Connectors & Cables - Terminal Blocks
-- **Brand**: Adafruit Industries
-- **Part Number**: 2137
-- **Type**: 4-pin Terminal Block
-- **Package**: Through-hole
-- **Quantity**: 20+
-- **Status**: Available
-- **Pitch**: 2.54mm (0.1") standard spacing
 
 ## Description
 

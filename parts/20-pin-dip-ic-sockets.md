@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Sockets
 subcategory: IC Sockets
-brand: Generic
 part_number: DIP-20
 model: 20-Pin DIP Socket
 description: 20-pin dual in-line IC socket for through-hole integrated circuits with 0.600" row spacing
@@ -14,38 +13,16 @@ current: Rated for standard IC currents
 power: Low resistance contacts
 interface: [IC Socket, Through-hole mounting]
 connectivity: [Through-hole pins, IC insertion]
-compatibility:
-  [20-pin DIP ICs, Memory chips, Logic ICs, Interface ICs, Microcontrollers]
-location: [Cabinet-3/Bin-52/Section-B]
+compatibility: [20-pin DIP ICs, Memory chips, Logic ICs, Interface ICs, Microcontrollers]
+location: Cabinet-3/Bin-52/Section-B
 quantity: 20+
 status: available
-price_range: $0.50-2.00
-tags:
-  [
-    ic-socket,
-    dip-socket,
-    20-pin,
-    through-hole,
-    prototyping,
-    cabinet-3,
-    bin-61,
-    status-available,
-  ]
+tags: [ic-socket, dip-socket, 20-pin, through-hole, prototyping, cabinet-3, bin-61, status-available]
 date_added: 2025-01-13
+price: $0.50-2.00
 ---
 
 # 20-Pin DIP IC Sockets
-
-## Details
-
-- **Location**: Cabinet-3, Bin 52, Section B
-- **Category**: Connectors & Sockets
-- **Brand**: Generic
-- **Part Number**: DIP-20
-- **Package**: 20-Pin DIP Socket
-- **Quantity**: 20+
-- **Status**: Available
-- **Price Range**: $0.50-2.00
 
 ## Description
 

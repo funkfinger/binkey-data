@@ -1,43 +1,21 @@
 ---
-type: electronic-component
+type: other
 category: Switches
 subcategory: Slide Switches
-brand: Uxcell
 part_number: a13070200ux0807
 model: Uxcell SMT Slide Switch
 description: 2-position 7-pin 1P2T SPDT horizontal mini surface-mounted slide switch for PCB applications
 manufacturer: Uxcell
 package: SMT (Surface Mount Device)
 voltage: 5V typical
-location: [Cabinet-6/Bin-1/Container-Q]
+location: Cabinet-6/Bin-1/Container-Q
 quantity: 20+
 status: available
-price_range: $0.10-0.20 each
 product_url: https://www.amazon.com/Uxcell-a13070200ux0807-Position-Horizontal-Switch/dp/B00E6QJ6YK
-tags:
-  [
-    uxcell,
-    a13070200ux0807,
-    slide-switch,
-    smt,
-    surface-mount,
-    2-position,
-    spdt,
-    1p2t,
-    horizontal,
-    mini-switch,
-    pcb-mount,
-    cabinet-6,
-    bin-1,
-    status-available,
-  ]
+tags: [uxcell, a13070200ux0807, slide-switch, smt, surface-mount, 2-position, spdt, 1p2t, horizontal, mini-switch, pcb-mount, cabinet-6, bin-1, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.10-0.20 each
 ---
-
-## Details
-
-The Uxcell a13070200ux0807 is a compact SMT (surface-mounted device) slide switch designed for PCB applications. This 2-position, 7-pin SPDT (Single Pole Double Throw) switch provides reliable switching functionality in a horizontal mini package. It's ideal for DIY electronics projects, prototyping, and small-scale production applications.
 
 ## Description
 

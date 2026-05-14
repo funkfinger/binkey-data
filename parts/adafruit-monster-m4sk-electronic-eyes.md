@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Adafruit MONSTER M4SK - DIY Electronic Eyes Mask
 description: Dual-display electronic eyes mask with SAMD51 processor, two 240x240 TFT displays, and comprehensive sensor suite
 manufacturer: Adafruit
@@ -8,13 +8,13 @@ category: wearables
 subcategory: electronic-masks
 tags: [monster-m4sk, electronic-eyes, samd51, tft-display, wearable, halloween, costume, sensors, audio]
 quantity: 1
-location: [cabinet-1-bin-40]
-datasheet_url: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-monster-m4sk-eyes.pdf
-purchase_url: https://www.adafruit.com/product/4343
+location: Cabinet-1/Bin-40
 price: 44.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.adafruit.com/product/4343
+datasheet: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-monster-m4sk-eyes.pdf
 ---
 
 # Adafruit MONSTER M4SK - DIY Electronic Eyes Mask

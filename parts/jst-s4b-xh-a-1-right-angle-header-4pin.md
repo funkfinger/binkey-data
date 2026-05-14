@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Headers & Connectors - XH Series
-brand: JST Sales America Inc.
 part_number: S4B-XH-A-1
 model: XH Series
 description: JST XH 4-position right-angle header, 2.5mm pitch, through-hole
@@ -16,34 +15,17 @@ mounting: PCB Through-Hole
 interface: []
 connectivity: [XH-series]
 compatibility: [JST XH connectors]
-location: [Cabinet-3/Bin-56/Section-B]
+location: Cabinet-3/Bin-56/Section-B
 quantity: 30
 status: available
-price_range: $0.35-0.55 each
 datasheet: https://www.jst-mfg.com/product/pdf/eng/eXH.pdf
 product_url: https://www.digikey.com/en/products/detail/jst-sales-america-inc/S4B-XH-A-1/9961923
 tags: [connector, header, jst, xh-series, 4-pin, 2.5mm, right-angle, through-hole, digikey, cabinet-3, bin-56, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $0.35-0.55 each
 ---
 
 # JST S4B-XH-A-1 Right-Angle Header 4-Pin
-
-## Details
-
-- **Location**: Cabinet-3, Bin 56, Section B
-- **Category**: Connectors & Interconnects
-- **Brand**: JST Sales America Inc.
-- **Part Number**: S4B-XH-A-1
-- **Model**: XH Series
-- **Connector Type**: Header - Right Angle
-- **Positions**: 4
-- **Pitch**: 2.5mm (0.098")
-- **Quantity**: 30 units
-- **Status**: Available
-- **Price Range**: $0.35-0.55 per unit
-- **Datasheet**: [JST XH Connector Datasheet](https://www.jst-mfg.com/product/pdf/eng/eXH.pdf)
-- **Product URL**: [DigiKey - S4B-XH-A-1](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S4B-XH-A-1/9961923)
 
 ## Description
 

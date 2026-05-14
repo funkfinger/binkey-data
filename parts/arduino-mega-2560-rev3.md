@@ -1,30 +1,20 @@
 ---
-type: part
+type: dev-board
 title: Arduino Mega 2560 Rev3
 description: 8-bit microcontroller board based on ATmega2560 with 54 digital I/O pins, 16 analog inputs, and 4 serial ports
 manufacturer: Arduino
 part_number: A000067
 category: microcontrollers
 subcategory: arduino-boards
-tags:
-  [
-    arduino,
-    mega,
-    atmega2560,
-    microcontroller,
-    development-board,
-    8-bit,
-    usb,
-    official,
-  ]
+tags: [arduino, mega, atmega2560, microcontroller, development-board, 8-bit, usb, official]
 quantity: 2
-location: [cabinet-1-bin-39]
-datasheet_url: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf
-purchase_url: https://store.arduino.cc/products/arduino-mega-2560-rev3
+location: Cabinet-1/Bin-39
 price: 52.80
 currency: EUR
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://store.arduino.cc/products/arduino-mega-2560-rev3
+datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf
 ---
 
 # Arduino Mega 2560 Rev3

@@ -1,28 +1,19 @@
 ---
-type: electronic-component
+type: ic
 category: Logic Gates
 subcategory: Latch
-brand: Texas Instruments
 part_number: SN74HCT573N
 size: DIP-20
 color: Black
-location: [Cabinet-3/Bin-33/Section-E]
+location: Cabinet-3/Bin-33/Section-E
 quantity: 1
 status: available
-price_range: $0.50-1.50
 tags: [logic-gate, latch, transparent-latch, octal, d-type, tri-state, 74hct-series, texas-instruments, dip-20, cabinet-3, bin-33, section-e, status-available]
+price: $0.50-1.50
+manufacturer: Texas Instruments
 ---
 
 # SN74HCT573N Octal Transparent D-Type Latch
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section E
-- **Category**: Logic Gates
-- **Quantity**: 1
-- **Status**: Available
-- **Package**: 20-pin DIP (Dual In-line Package)
-- **Datasheet**: [SN74HCT573 Datasheet](https://www.ti.com/lit/gpn/SN74HCT573)
 
 ## Description
 

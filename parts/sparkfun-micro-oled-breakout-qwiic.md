@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: SparkFun Micro OLED Breakout (Qwiic)
 description: Small monochrome OLED display with Qwiic connectors, 64x48 pixels, blue-on-black
 manufacturer: SparkFun
@@ -8,13 +8,13 @@ category: oled-displays
 subcategory: micro-oled
 tags: [oled, display, qwiic, i2c, 64x48, sparkfun, micro, blue, ssd1306]
 quantity: 1
-location: [cabinet-1-bin-34]
-datasheet_url: https://cdn.sparkfun.com/assets/learn_tutorials/3/0/8/SSD1306.pdf
-purchase_url: https://www.sparkfun.com/sparkfun-micro-oled-breakout-qwiic-lcd-22495.html
+location: Cabinet-1/Bin-34
 price: 11.25
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://www.sparkfun.com/sparkfun-micro-oled-breakout-qwiic-lcd-22495.html
+datasheet: https://cdn.sparkfun.com/assets/learn_tutorials/3/0/8/SSD1306.pdf
 ---
 
 # SparkFun Micro OLED Breakout (Qwiic)

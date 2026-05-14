@@ -1,23 +1,17 @@
 ---
-type: electronic-component
+type: other
 category: Programming Tools
 subcategory: IC Adapter
-brand: Adafruit
 part_number: 1283
-location: [Cabinet-1/Bin-5]
+location: Cabinet-1/Bin-5
 quantity: 1
 status: available
-price_range: $5-10
 tags: [programming, adapter, sop16, dip, adafruit]
+price: $5-10
+manufacturer: Adafruit
 ---
 
 # CNV-SOP16 SOP ZOF Programming Adapter
-
-## Details
-
-- **Location**: Cabinet-1, Bin 5
-- **Category**: Programming / Debugging Tools
-- **Product URL**: https://www.adafruit.com/product/1283
 
 ## Description
 

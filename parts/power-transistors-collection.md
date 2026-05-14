@@ -1,5 +1,5 @@
 ---
-type: electronic-component
+type: other
 category: Power Semiconductors
 subcategory: Power Transistors
 description: Collection of power transistors including Darlington and MOSFET types
@@ -7,22 +7,14 @@ functions: [power-switching, amplification, motor-control, power-conversion]
 transistor_types: [darlington-bjt, n-channel-mosfet, power-mosfet]
 packages: [TO-220, TO-247, TO-3P]
 part_numbers: [TIP120, IRF840PBF, FQPF9N90CT]
-location: [Cabinet-3/Bin-24]
+location: Cabinet-3/Bin-24
 quantity: 15+
 status: available
-price_range: $1.00-8.00
 tags: [power-transistor, tip120, irf840, fqpf9n90ct, darlington, mosfet, switching, motor-control]
+price: $1.00-8.00
 ---
 
 # Power Transistors Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bin 24
-- **Category**: Power Semiconductors
-- **Type**: Power transistors for switching and amplification
-- **Total Quantity**: 15+ transistors
-- **Applications**: Motor control, power switching, amplification, power supplies
 
 ## Description
 

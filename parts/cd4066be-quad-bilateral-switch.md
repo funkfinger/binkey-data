@@ -1,28 +1,19 @@
 ---
-type: electronic-component
+type: ic
 category: Logic Gates
 subcategory: Analog Switch
-brand: Texas Instruments
 part_number: CD4066BE
 size: DIP-14
 color: Black
-location: [Cabinet-3/Bin-34/Section-C]
+location: Cabinet-3/Bin-34/Section-C
 quantity: 10
 status: available
-price_range: $0.50-2
 tags: [logic-gate, analog-switch, bilateral-switch, quad, multiplexer, cmos, texas-instruments, dip-14, cabinet-3, bin-34, section-c, status-available]
+price: $0.50-2
+manufacturer: Texas Instruments
 ---
 
 # CD4066BE Quad Bilateral Switch
-
-## Details
-
-- **Location**: Cabinet-3, Bin 34, Section C
-- **Category**: Logic Gates
-- **Quantity**: 10
-- **Status**: Available
-- **Package**: 14-pin DIP (Dual In-line Package)
-- **Datasheet**: [CD4066B Datasheet](https://www.ti.com/lit/ds/symlink/cd4066b.pdf)
 
 ## Description
 

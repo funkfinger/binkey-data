@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Knobs & Controls
 subcategory: Encoder Knobs
-brand: Tayda Electronics
 part_number: A-6887
 model: Black Rotary Encoder Knob D Shaft 6x4.5mm
 description: Black soft-touch rubber encoder knob, 15mm dia x 16.1mm, for 6mm D-shaft rotary encoders
@@ -15,30 +14,17 @@ power: N/A
 interface: [Mechanical]
 connectivity: [6mm D-shaft]
 compatibility: [EC11 encoders, 6mm D-shaft rotary encoders, Tayda A-6331]
-location: [Cabinet-7/Bin-15/Section-A]
+location: Cabinet-7/Bin-15/Section-A
 quantity: 10
 status: available
-price_range: $0.40
 datasheet: N/A
 product_url: https://www.taydaelectronics.com/black-rotary-encoder-knob.html
 tags: [knob, encoder-knob, d-shaft, rubber, soft-touch, black, 6mm, eurorack, cabinet-7, bin-15, status-available]
 date_added: 2026-05-07
-added_date: 2026-05-07
+price: $0.40
 ---
 
 # Tayda A-6887 - Black Rotary Encoder Knob, D-Shaft 6x4.5mm
-
-## Details
-
-- **Location**: Cabinet-7, Bin 15, Section A
-- **Category**: Knobs & Controls — Encoder Knobs
-- **Brand**: Tayda Electronics
-- **Part Number**: A-6887
-- **Package**: Push-fit knob
-- **Quantity**: 10
-- **Status**: Available
-- **Price Range**: $0.40
-- **Product URL**: [Tayda A-6887](https://www.taydaelectronics.com/black-rotary-encoder-knob.html)
 
 ## Description
 

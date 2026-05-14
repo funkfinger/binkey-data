@@ -1,31 +1,23 @@
 ---
-type: part
+type: ic
 title: Circuit Playground Express
 description: Advanced Circuit Playground with ATSAMD21 ARM Cortex M0, multiple programming options including CircuitPython and MakeCode
 manufacturer: Adafruit
 part_number: 3333
 category: microcontrollers
 subcategory: circuit-playground
-tags:
-  [
-    circuit-playground,
-    express,
-    atsamd21,
-    circuitpython,
-    makecode,
-    arduino,
-    sensors,
-    neopixels,
-  ]
+tags: [circuit-playground, express, atsamd21, circuitpython, makecode, arduino, sensors, neopixels]
 quantity: 6
-location: [cabinet-1-bin-43, cabinet-1-bin-44]
-datasheet_url: https://learn.adafruit.com/adafruit-circuit-playground-express
-purchase_url: https://www.adafruit.com/product/3333
+location:
+- Cabinet-1/Bin-43
+- Cabinet-1/Bin-44
 price: 24.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/circuit-playground-express.jpg
+product_url: https://www.adafruit.com/product/3333
+datasheet: https://learn.adafruit.com/adafruit-circuit-playground-express
 ---
 
 # Circuit Playground Express

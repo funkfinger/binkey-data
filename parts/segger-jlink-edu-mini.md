@@ -1,23 +1,17 @@
 ---
-type: electronic-component
+type: other
 category: Programming Tools
 subcategory: Debugger
-brand: SEGGER
 part_number: 3571
-location: [Cabinet-1/Bin-5]
+location: Cabinet-1/Bin-5
 quantity: 1
 status: available
-price_range: $15-25
 tags: [segger, jlink, jtag, swd, debugger, adafruit]
+price: $15-25
+manufacturer: SEGGER
 ---
 
 # SEGGER J-Link EDU Mini
-
-## Details
-
-- **Location**: Cabinet-1, Bin 5
-- **Category**: Programming / Debugging Tools
-- **Product URL**: https://www.adafruit.com/product/3571
 
 ## Description
 

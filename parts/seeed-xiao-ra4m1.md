@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: ARM Cortex-M4 Development Board
-brand: Seeed Technology Co., Ltd
 part_number: 102010551
 model: XIAO RA4M1
 microcontroller: Renesas RA4M1 (R7FA4M1AB3CNE)
@@ -20,26 +19,15 @@ analog_resolution: 14-bit
 dac_resolution: 12-bit
 dimensions: 21.0mm x 17.8mm
 ultra_low_power: true
-location: [Cabinet-1/Bin-28]
+location: Cabinet-1/Bin-28
 quantity: 2
 status: available
-price_range: $5-7
 tags: [microcontroller, arm, cortex-m4, ra4m1, renesas, usb, xiao, seeed, arduino, can-bus, fpu]
+price: $5-7
+manufacturer: Seeed Technology Co., Ltd
 ---
 
 # Seeed Studio XIAO RA4M1
-
-## Details
-
-- **Location**: Cabinet-1, Bin 28
-- **Category**: Microcontroller Boards
-- **Type**: ARM Cortex-M4 Development Board
-- **Microcontroller**: Renesas RA4M1 (R7FA4M1AB3CNE)
-- **Brand**: Seeed Technology Co., Ltd
-- **Part Number**: 102010551
-- **Quantity**: 2
-- **Product URL**: https://www.seeedstudio.com/Seeed-XIAO-RA4M1-p-5943.html
-- **Wiki**: https://wiki.seeedstudio.com/getting_started_xiao_ra4m1/
 
 ## Description
 

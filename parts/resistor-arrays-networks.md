@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: Resistor Arrays & Networks
 description: Collection of resistor arrays and networks including bussed, isolated, and R2R ladder configurations in SIP packages
 manufacturer: Various
@@ -8,11 +8,11 @@ category: passive-components
 subcategory: resistor-arrays
 tags: [resistor-arrays, resistor-networks, sip, bussed, isolated, r2r-ladder, bourns, cts]
 total_quantity: 70+
-location: [cabinet-2-bin-5]
+location: Cabinet-2/Bin-5
 price: 2.50
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Resistor Arrays & Networks

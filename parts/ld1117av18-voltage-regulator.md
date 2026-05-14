@@ -3,14 +3,12 @@ title: LD1117AV18 1.8V Low-Dropout Voltage Regulator
 description: STMicroelectronics LD1117AV18 positive 1.8V low-dropout linear voltage regulator in TO-220 package
 manufacturer: STMicroelectronics
 part_number: LD1117AV18
-datasheet_url: https://www.st.com/resource/en/datasheet/ld1117.pdf
 supplier: Digikey
 supplier_part_number: 497-1241-5-ND
-supplier_url: https://www.digikey.com/en/products/detail/stmicroelectronics/LD1117AV18/586004
 quantity: 12
-location: 
-  - cabinet: 3
-  - bin: 23
+location:
+- "{'cabinet': 3}"
+- "{'bin': 23}"
 package: TO-220
 voltage_output: +1.8V
 voltage_input_min: 2.5V
@@ -22,6 +20,8 @@ operating_temp_min: 0°C
 operating_temp_max: 125°C
 tags: [voltage-regulator, ldo-regulator, low-dropout, positive-voltage, to-220, stmicroelectronics, 1.8v]
 categories: [power-management, voltage-regulators, low-dropout-regulators]
+product_url: https://www.digikey.com/en/products/detail/stmicroelectronics/LD1117AV18/586004
+datasheet: https://www.st.com/resource/en/datasheet/ld1117.pdf
 ---
 
 # LD1117AV18 1.8V Low-Dropout Voltage Regulator

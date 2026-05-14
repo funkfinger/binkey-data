@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: WiFi LED Controller
-brand: ElectroMage
 model: Pixelblaze V3 Standard
 microcontroller: ESP32
 architecture: Xtensa LX6
@@ -14,25 +13,15 @@ led_support: [WS2812, APA102, SK9822, WS2801, WS2811, WS2813, WS2815, SK6812]
 max_leds: 5000
 dimensions: 34.2mm x 39.5mm
 power_input: [USB, 5V_Screw_Terminal]
-location: [Cabinet-1/Bin-28]
+location: Cabinet-1/Bin-28
 quantity: 1
 status: available
-price_range: $35-40
 tags: [led-controller, wifi, esp32, ws2812, neopixel, apa102, pixelblaze, live-coding, art-installation]
+price: $35-40
+manufacturer: ElectroMage
 ---
 
 # Pixelblaze V3 Standard - WiFi LED Controller
-
-## Details
-
-- **Location**: Cabinet-1, Bin 28
-- **Category**: Microcontroller Boards
-- **Type**: WiFi LED Controller
-- **Microcontroller**: ESP32
-- **Brand**: ElectroMage
-- **Model**: Pixelblaze V3 Standard
-- **Quantity**: 1
-- **Product URL**: https://shop.electromage.com/products/pixelblaze-v3-standard-wifi-led-controller
 
 ## Description
 

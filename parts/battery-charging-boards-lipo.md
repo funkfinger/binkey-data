@@ -1,29 +1,18 @@
 ---
-type: part
+type: other
 title: Battery Charging Boards & Power Management
 description: Collection of battery charging boards, power management modules, and charging circuits for Li-Po, Li-Ion, and other rechargeable battery types in portable electronics
 manufacturer: Various
 part_number: BATTERY-CHARGING-BOARDS-MIXED
 category: power
 subcategory: charging-circuits
-tags:
-  [
-    battery-charging,
-    lipo-charger,
-    power-management,
-    usb-charging,
-    tp4056,
-    mcp73831,
-    charging-circuit,
-    portable-power,
-    battery-management,
-  ]
+tags: [battery-charging, lipo-charger, power-management, usb-charging, tp4056, mcp73831, charging-circuit, portable-power, battery-management]
 total_quantity: 25+
-location: [cabinet-2-bin-40]
+location: Cabinet-2/Bin-40
 price: 5.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Li-po (LiPo) Battery Charging Boards & Power Management

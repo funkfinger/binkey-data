@@ -1,8 +1,7 @@
 ---
-type: capacitor
+type: passive
 category: passive-components
 subcategory: electrolytic-capacitors
-brand: JSDUS
 part_number: B0B5FBQ8CD
 model: 10uF 100V Non-Polarized Electrolytic Capacitor
 description: Pack of 10 non-polarized electrolytic capacitors, 10µF capacitance at 100V rating, 10mm x 17mm package
@@ -12,32 +11,21 @@ capacitance: 10µF
 voltage: 100V
 polarity: non-polarized
 size: 10mm x 17mm
-location:
-  - Cabinet-2/Bin-20
+location: Cabinet-2/Bin-20
 quantity: 100
-status: in-stock
-price_range: budget
+status: available
 product_url: https://www.amazon.com/dp/B0B5FBQ8CD
 tags:
-  - capacitor
-  - electrolytic
-  - non-polarized
-  - 10uf
-  - 100v
-  - through-hole
-  - passive-component
+- capacitor
+- electrolytic
+- non-polarized
+- 10uf
+- 100v
+- through-hole
+- passive-component
 date_added: 2025-11-14
-added_date: 2025-11-14
+price: budget
 ---
-
-## Details
-
-**10µF 100V Non-Polarized Electrolytic Capacitors**
-
-Pack of 10 non-polarized electrolytic capacitors with 10µF capacitance rating and 100V voltage rating. These through-hole components are ideal for audio circuits, power supply filtering, and general-purpose applications.
-
-### Location
-- **Cabinet 2, Bin 20** - Through Hole Capacitors (Large Values)
 
 ## Specifications
 

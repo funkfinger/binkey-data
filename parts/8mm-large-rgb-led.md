@@ -1,25 +1,19 @@
 ---
-type: electronic-component
+type: passive
 category: RGB LEDs
 subcategory: Large LED
-brand: Adafruit
 part_number: 1734
 size: 8mm
 color: rgb
-location: [Cabinet-1/Bin-8]
+location: Cabinet-1/Bin-8
 quantity: 1
 status: available
-price_range: $1-5
 tags: [led, rgb, 8mm, large, adafruit]
+price: $1-5
+manufacturer: Adafruit
 ---
 
 # 8mm Large RGB LED
-
-## Details
-
-- **Location**: Cabinet-1, Bin 8
-- **Category**: RGB LEDs
-- **Product URL**: https://www.adafruit.com/product/1734
 
 ## Description
 

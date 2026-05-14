@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Display Drivers
 subcategory: LED Drivers
-brand: Allegro Microsystems
 part_number: A6276
 model: A6276EA
 description: 16-bit LED driver IC with shift register and output transistors for LED display applications
@@ -15,30 +14,17 @@ power: BiCMOS architecture for efficient operation
 interface: [Serial Data Input, Shift Register]
 connectivity: [Through-hole pins]
 compatibility: [LED matrices, LED displays, Microcontrollers, Digital circuits]
-location: [Cabinet-3/Bin-39/Section-A]
+location: Cabinet-3/Bin-39/Section-A
 quantity: 20
 status: available
-price_range: $3.00-5.00 (estimated)
 datasheet: https://www.allegromicro.com/~/media/Files/Datasheets/A6276-Datasheet.ashx
 product_url: https://www.allegromicro.com/en/products/led-drivers/led-display-drivers/a6276
 tags: [led-driver, shift-register, display-driver, 16-bit, allegro, bicmos, cabinet-3, bin-39, status-available]
 date_added: 2025-01-13
+price: $3.00-5.00 (estimated)
 ---
 
 # A6276 - 16-Bit LED Driver IC
-
-## Details
-
-- **Location**: Cabinet-3, Bin 39, Section A
-- **Category**: Display Drivers
-- **Brand**: Allegro Microsystems
-- **Part Number**: A6276 / A6276EA
-- **Package**: 24-DIP
-- **Quantity**: 20
-- **Status**: Available
-- **Price Range**: $3.00-5.00 (estimated)
-- **Datasheet**: [A6276 Datasheet](https://www.allegromicro.com/~/media/Files/Datasheets/A6276-Datasheet.ashx)
-- **Product URL**: https://www.allegromicro.com/en/products/led-drivers/led-display-drivers/a6276
 
 ## Description
 

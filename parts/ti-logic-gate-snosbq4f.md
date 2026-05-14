@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Logic Gates
-brand: Texas Instruments
 part_number: TI-LOGIC-SNOSBQ4F
 model: Unknown (SNOSBQ4F datasheet reference)
 description: Texas Instruments logic gate IC - specific part number to be identified from SNOSBQ4F datasheet
@@ -15,30 +14,17 @@ power: Low power CMOS/TTL logic
 interface: [Digital Logic]
 connectivity: [Through-hole pins]
 compatibility: [TTL Logic, CMOS Logic, Digital circuits]
-location: [Cabinet-3/Bin-33/Section-G]
+location: Cabinet-3/Bin-33/Section-G
 quantity: 3
 status: available
-price_range: $0.50-2.00 (estimated)
 datasheet: https://www.ti.com/lit/ds/snosbq4f/snosbq4f.pdf
 product_url: https://www.ti.com/
 tags: [logic-ic, texas-instruments, digital-logic, unknown-part, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $0.50-2.00 (estimated)
 ---
 
 # TI Logic Gate IC (SNOSBQ4F Reference)
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section G
-- **Category**: Logic ICs
-- **Brand**: Texas Instruments
-- **Part Number**: Unknown (SNOSBQ4F datasheet reference)
-- **Package**: DIP (assumed)
-- **Quantity**: 3
-- **Status**: Available
-- **Price Range**: $0.50-2.00 (estimated)
-- **Datasheet**: [SNOSBQ4F Datasheet](https://www.ti.com/lit/ds/snosbq4f/snosbq4f.pdf)
-- **Product URL**: https://www.ti.com/
 
 ## Description
 

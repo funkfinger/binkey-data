@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Logic Gates
-brand: Various
 part_number: CD4071
 model: CD4071BE
 description: CMOS quad 2-input OR gate IC
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [Digital Logic]
 connectivity: [Through-hole pins]
 compatibility: [CMOS Logic, TTL Compatible]
-location: [Cabinet-3/Bin-33/Section-F]
+location: Cabinet-3/Bin-33/Section-F
 quantity: 1
 status: available
-price_range: $0.50-1.00
 datasheet: https://www.ti.com/lit/ds/symlink/cd4071b.pdf
 product_url: https://www.ti.com/product/CD4071B
 tags: [logic-ic, or-gate, quad-gate, cmos, cd4071, cabinet-3, bin-33, status-available]
 date_added: 2025-01-13
+price: $0.50-1.00
 ---
 
 # CD4071 - CMOS Quad 2-Input OR Gate
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section F
-- **Category**: Logic ICs
-- **Brand**: Various (TI, STMicroelectronics, etc.)
-- **Part Number**: CD4071 / CD4071BE
-- **Package**: 14-DIP
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $0.50-1.00
-- **Datasheet**: [CD4071B Datasheet](https://www.ti.com/lit/ds/symlink/cd4071b.pdf)
-- **Product URL**: https://www.ti.com/product/CD4071B
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: LED Drivers
 subcategory: Display Drivers
-brand: Microchip Technology
 part_number: MM5450
 model: MM5450
 description: 35-output LED display driver with serial interface for driving large LED arrays and multiplexed displays
@@ -14,42 +13,18 @@ current: 25mA per output (typical)
 power: Low power CMOS technology
 interface: [Serial Data Interface, LED Display Control]
 connectivity: [Through-hole pins, Surface mount]
-compatibility:
-  [LED matrices, Seven-segment displays, Bar graphs, Custom LED arrays]
-location: [Cabinet-3/Bin-43/Section-A]
+compatibility: [LED matrices, Seven-segment displays, Bar graphs, Custom LED arrays]
+location: Cabinet-3/Bin-43/Section-A
 quantity: 5
 status: available
-price_range: $8.00-15.00
 datasheet: https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005651A.pdf
 product_url: https://www.microchip.com/en-us/product/mm5450
-tags:
-  [
-    led-driver,
-    display-driver,
-    serial-interface,
-    35-output,
-    microchip-technology,
-    cabinet-3,
-    bin-43,
-    status-available,
-  ]
+tags: [led-driver, display-driver, serial-interface, 35-output, microchip-technology, cabinet-3, bin-43, status-available]
 date_added: 2025-01-13
+price: $8.00-15.00
 ---
 
 # MM5450 - 35-Output LED Display Driver
-
-## Details
-
-- **Location**: Cabinet-3, Bin 43, Section A
-- **Category**: LED Drivers
-- **Brand**: Microchip Technology (formerly Micrel)
-- **Part Number**: MM5450
-- **Package**: 40-DIP / 44-PLCC
-- **Quantity**: 5
-- **Status**: Available
-- **Price Range**: $8.00-15.00
-- **Datasheet**: [MM5450/5451 Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005651A.pdf)
-- **Product URL**: [Microchip Product Page](https://www.microchip.com/en-us/product/mm5450)
 
 ## Description
 

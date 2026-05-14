@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: LED Accessories
 subcategory: LED Strip Connectors
-brand: JACKYLED
 part_number: LEDconnecter02
 model: 20Packs L Shape 4-Pin LED Connectors with 22Pcs Clips
 description: L-shaped 4-pin LED strip connectors with mounting clips for 10mm RGB LED strips
@@ -15,29 +14,17 @@ power: Up to 144W (24V)
 interface: [4-pin LED strip connection, L-shape design]
 connectivity: [RGB LED strips, RGBW LED strips]
 compatibility: [10mm wide LED strips, 5050 LED strips]
-location: [Cabinet-5/Bin-26]
+location: Cabinet-5/Bin-26
 quantity: 20 connectors + 22 clips
 status: available
-price_range: $12-18
 datasheet: N/A
 product_url: https://a.co/d/j4NGutU
 tags: [led-connectors, rgb-led, led-strips, l-shape, mounting-clips, jackyled, cabinet-5, bin-26, status-available]
 date_added: 2025-01-14
+price: $12-18
 ---
 
 # JACKYLED 20Packs L Shape 4-Pin LED Connectors with 22Pcs Clips
-
-## Details
-
-- **Location**: Cabinet-5, Bin 26
-- **Category**: LED Accessories
-- **Brand**: JACKYLED
-- **Part Number**: LEDconnecter02
-- **Package**: Multi-pack Kit
-- **Quantity**: 20 connectors + 22 clips
-- **Status**: Available
-- **Price Range**: $12-18
-- **Product URL**: https://a.co/d/j4NGutU
 
 ## Description
 

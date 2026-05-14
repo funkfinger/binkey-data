@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: Wireless Microcontroller
-brand: Adafruit
 part_number: 3178
 microcontroller: ATSAMD21G18
 architecture: ARM Cortex M0
@@ -20,24 +19,15 @@ analog_inputs: 10
 analog_outputs: 1
 dimensions: 51mm x 23mm x 8mm
 weight: 5.8g
-location: [Cabinet-1/Bin-24]
+location: Cabinet-1/Bin-24
 quantity: 2
 status: available
-price_range: $34-35
 tags: [feather, microcontroller, lora, wireless, m0, rfm95, 900mhz, radiofruit, adafruit]
+price: $34-35
+manufacturer: Adafruit
 ---
 
 # Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz - RadioFruit
-
-## Details
-
-- **Location**: Cabinet-1, Bin 24
-- **Category**: Feather Boards
-- **Type**: Wireless Microcontroller with LoRa Radio
-- **Microcontroller**: ATSAMD21G18 ARM Cortex M0
-- **Radio**: RFM95 LoRa 900MHz
-- **Quantity**: 2
-- **Product URL**: https://www.adafruit.com/product/3178
 
 ## Description
 

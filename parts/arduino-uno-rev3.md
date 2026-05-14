@@ -1,31 +1,21 @@
 ---
-type: part
+type: dev-board
 title: Arduino Uno Rev3
 description: 8-bit microcontroller board based on ATmega328P with 14 digital I/O pins, 6 analog inputs, and USB connectivity
 manufacturer: Arduino
 part_number: A000066
 category: microcontrollers
 subcategory: arduino-boards
-tags:
-  [
-    arduino,
-    uno,
-    atmega328p,
-    microcontroller,
-    development-board,
-    8-bit,
-    usb,
-    official,
-  ]
+tags: [arduino, uno, atmega328p, microcontroller, development-board, 8-bit, usb, official]
 quantity: 2
-location: [cabinet-1-bin-41]
-datasheet_url: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
-purchase_url: https://store-usa.arduino.cc/products/arduino-uno-rev3
+location: Cabinet-1/Bin-41
 price: 27.60
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/arduino-uno-rev3-front.jpg
+product_url: https://store-usa.arduino.cc/products/arduino-uno-rev3
+datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 ---
 
 # Arduino Uno Rev3

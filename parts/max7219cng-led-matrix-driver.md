@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Display Drivers
 subcategory: LED Matrix Drivers
-brand: Adafruit
 part_number: MAX7219CNG
 model: MAX7219
 description: LED Matrix/Digit Display Driver IC for 8x8 matrices or 8-digit 7-segment displays
@@ -15,30 +14,17 @@ power: Low power with shutdown mode
 interface: [SPI]
 connectivity: [Through-hole pins]
 compatibility: [Arduino, CircuitPython, Microcontrollers, 8x8 LED matrices, 7-segment displays]
-location: [Cabinet-3/Bin-39/Section-C]
+location: Cabinet-3/Bin-39/Section-C
 quantity: 20
 status: available
-price_range: $12.95 (single), $11.66 (10-99), $10.36 (100+)
 datasheet: https://cdn-shop.adafruit.com/datasheets/MAX7219.pdf
 product_url: https://www.adafruit.com/product/453
 tags: [display-driver, led-matrix, max7219, spi, multiplexing, adafruit, maxim, cabinet-3, bin-39, status-available]
 date_added: 2025-01-13
+price: $12.95 (single), $11.66 (10-99), $10.36 (100+)
 ---
 
 # MAX7219CNG - LED Matrix/Digit Display Driver
-
-## Details
-
-- **Location**: Cabinet-3, Bin 39, Section C
-- **Category**: Display Drivers
-- **Brand**: Adafruit (Maxim Integrated IC)
-- **Part Number**: MAX7219CNG
-- **Package**: 24-DIP
-- **Quantity**: 20
-- **Status**: Available
-- **Price Range**: $12.95 (single), $11.66 (10-99), $10.36 (100+)
-- **Datasheet**: [MAX7219 Datasheet](https://cdn-shop.adafruit.com/datasheets/MAX7219.pdf)
-- **Product URL**: https://www.adafruit.com/product/453
 
 ## Description
 

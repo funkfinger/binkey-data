@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Connectors & Interconnects
 subcategory: Jumpers & Shunts
-brand: California JOS
 part_number: N/A
 model: 2.54mm Black Jumper Caps Standard Circuit Board Shunts
 description: Black jumper caps with 2.54mm pitch for short circuit connections on pin blocks, 30+ pieces
@@ -15,44 +14,17 @@ power: Low power switching
 interface: [Pin Header Mount]
 connectivity: [Short Circuit Connection]
 compatibility: [2.54mm Pin Headers, Circuit Boards, Configuration Jumpers]
-location: [Cabinet-5/Bin-45/Section-B]
+location: Cabinet-5/Bin-45/Section-B
 quantity: 30+
 status: available
-price_range: $8-12
 datasheet: N/A
 product_url: https://a.co/d/hPFQKiv
-tags:
-  [
-    jumper-caps,
-    shunts,
-    2-54mm-pitch,
-    circuit-board,
-    pin-headers,
-    configuration,
-    short-circuit,
-    california-jos,
-    cabinet-5,
-    bin-45,
-    section-b,
-    status-available,
-  ]
+tags: [jumper-caps, shunts, 2-54mm-pitch, circuit-board, pin-headers, configuration, short-circuit, california-jos, cabinet-5, bin-45, section-b, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $8-12
 ---
 
 # California JOS 2.54mm Black Jumper Caps Standard Circuit Board Shunts
-
-## Details
-
-- **Location**: Cabinet-5, Bin 45, Section B
-- **Category**: Connectors & Interconnects
-- **Brand**: California JOS
-- **Model**: 2.54mm Black Jumper Caps Standard Circuit Board Shunts
-- **Package**: Individual pieces
-- **Quantity**: 30+ pieces
-- **Status**: Available
-- **Price Range**: $8-12
-- **Product URL**: https://a.co/d/hPFQKiv
 
 ## Description
 

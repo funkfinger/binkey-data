@@ -1,42 +1,19 @@
 ---
-type: electronic-component
+type: ic
 category: Logic Gates
 subcategory: Analog Multiplexer
-brand: Various (74HC Standard)
 part_number: 74HC4051
 size: DIP-16
 color: Black
-location: [Cabinet-3/Bin-34/Section-D]
+location: Cabinet-3/Bin-34/Section-D
 quantity: 15
 status: available
-price_range: $0.50-2
-tags:
-  [
-    logic-gate,
-    analog-multiplexer,
-    demultiplexer,
-    8-channel,
-    sp8t,
-    cmos,
-    74hc-series,
-    dip-16,
-    cabinet-3,
-    bin-34,
-    section-d,
-    status-available,
-  ]
+tags: [logic-gate, analog-multiplexer, demultiplexer, 8-channel, sp8t, cmos, 74hc-series, dip-16, cabinet-3, bin-34, section-d, status-available]
+price: $0.50-2
+manufacturer: Various (74HC Standard)
 ---
 
 # 74HC4051 8-Channel Analog Multiplexer/Demultiplexer
-
-## Details
-
-- **Location**: Cabinet-3, Bin 34, Section D
-- **Category**: Logic Gates
-- **Quantity**: 15
-- **Status**: Available
-- **Package**: 16-pin DIP (Dual In-line Package)
-- **Datasheet**: [74HC4051 Datasheet](https://assets.nexperia.com/documents/data-sheet/74HC_HCT4051.pdf)
 
 ## Description
 

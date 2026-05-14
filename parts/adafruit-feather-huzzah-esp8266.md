@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: ESP8266 Development Board
-brand: Adafruit
 part_number: 2821
 model: Feather HUZZAH ESP8266
 microcontroller: ESP8266
@@ -22,25 +21,15 @@ weight: 6.1g
 wifi: true
 battery_charging: true
 form_factor: Feather
-location: [Cabinet-1/Bin-30]
+location: Cabinet-1/Bin-30
 quantity: 6
 status: available
-price_range: $14-15
 tags: [microcontroller, esp8266, feather, huzzah, wifi, battery-charging, adafruit, arduino, nodemcu, iot, usb-serial]
+price: $14-15
+manufacturer: Adafruit
 ---
 
 # Adafruit Feather HUZZAH ESP8266
-
-## Details
-
-- **Location**: Cabinet-1, Bin 30
-- **Category**: Feather Boards
-- **Type**: ESP8266 Development Board (Feather Form Factor)
-- **Microcontroller**: ESP8266 (Xtensa LX106 @ 80MHz)
-- **Brand**: Adafruit
-- **Part Number**: 2821
-- **Quantity**: 6
-- **Product URL**: https://www.adafruit.com/product/2821
 
 ## Description
 

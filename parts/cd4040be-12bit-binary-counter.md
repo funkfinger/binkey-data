@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Counters
-brand: Texas Instruments
 part_number: CD4040BE
 model: CD4040BE
 description: 12-bit binary ripple carry counter IC
@@ -15,40 +14,17 @@ power: Low power consumption
 interface: [Digital Logic]
 connectivity: [Through-hole pins]
 compatibility: [CMOS Logic, TTL Compatible]
-location: [Cabinet-3/Bin-34/Section-E]
+location: Cabinet-3/Bin-34/Section-E
 quantity: 9
 status: available
-price_range: $0.91
 datasheet: https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4020b
 product_url: https://www.digikey.com/en/products/detail/texas-instruments/CD4040BE/67285
-tags:
-  [
-    logic-ic,
-    counter,
-    binary-counter,
-    cmos,
-    texas-instruments,
-    cabinet-3,
-    bin-34,
-    status-available,
-  ]
+tags: [logic-ic, counter, binary-counter, cmos, texas-instruments, cabinet-3, bin-34, status-available]
 date_added: 2025-01-12
+price: $0.91
 ---
 
 # CD4040BE - 12-Bit Binary Counter
-
-## Details
-
-- **Location**: Cabinet-3, Bin 34, Section E
-- **Category**: Logic ICs
-- **Brand**: Texas Instruments
-- **Part Number**: CD4040BE
-- **Package**: 16-DIP
-- **Quantity**: 9
-- **Status**: Available
-- **Price Range**: $0.91
-- **Datasheet**: [CD4040BE Datasheet](https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4020b)
-- **Product URL**: https://www.digikey.com/en/products/detail/texas-instruments/CD4040BE/67285
 
 ## Description
 

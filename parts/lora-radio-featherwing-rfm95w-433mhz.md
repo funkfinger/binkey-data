@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: Wireless Radio
-brand: Adafruit
 part_number: 3232
 radio: RFM95W
 radio_frequency: 433MHz
@@ -14,25 +13,15 @@ power_output: 20dBm
 voltage: 3.3V-5V
 dimensions: 51.0mm x 22.8mm x 3.8mm
 weight: 4.8g
-location: [Cabinet-1/Bin-24]
+location: Cabinet-1/Bin-24
 quantity: 2
 status: available
-price_range: $19-20
 tags: [featherwing, lora, wireless, rfm95w, 433mhz, radiofruit, long-range, adafruit]
+price: $19-20
+manufacturer: Adafruit
 ---
 
 # Adafruit LoRa Radio FeatherWing - RFM95W 433 MHz - RadioFruit
-
-## Details
-
-- **Location**: Cabinet-1, Bin 24
-- **Category**: FeatherWings
-- **Type**: LoRa Radio FeatherWing
-- **Radio**: RFM95W LoRa transceiver
-- **Frequency**: 433MHz
-- **Form Factor**: Feather-compatible wing
-- **Quantity**: 2
-- **Product URL**: https://www.adafruit.com/product/3232
 
 ## Description
 

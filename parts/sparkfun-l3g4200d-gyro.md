@@ -6,13 +6,12 @@ manufacturer: SparkFun Electronics
 category: sensors
 subcategory: motion-sensors
 quantity: 1
-location: 
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $24.95
+location: Cabinet-3/Bin-28
 datasheet: https://www.pololu.com/file/0J491/L3G4200D.pdf
 purchase_date: 2024-12-15
 tags: [gyroscope, motion-sensor, 3-axis, i2c, spi, angular-velocity]
+price: $24.95
+type: module
 ---
 
 # SparkFun L3G4200D Gyro

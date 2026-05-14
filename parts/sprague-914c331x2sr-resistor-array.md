@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Passive Components
 subcategory: Resistor Arrays
-brand: Sprague
 part_number: 914C331X2SR
 model: 914C331X2SR
 description: 330 Ohm Resistor Array Network in DIP Package
@@ -17,29 +16,17 @@ tolerance: ±5%
 interface: [Through-hole]
 connectivity: [Common terminal, Individual resistors]
 compatibility: [Pull-up networks, Pull-down networks, Termination networks]
-location: [Cabinet-2/Bin-5]
+location: Cabinet-2/Bin-5
 quantity: 3
 status: available
-price_range: Vintage/NOS
 datasheet: Sprague Electronic Components 1980 Catalog
 product_url: N/A (vintage component)
 tags: [resistor-array, network, sprague, vintage, dip, 330-ohm, cabinet-2, bin-5, status-available]
 date_added: 2025-01-13
+price: Vintage/NOS
 ---
 
 # Sprague 914C331X2SR Resistor Array
-
-## Details
-
-- **Location**: Cabinet-2, Bin 5
-- **Category**: Passive Components - Resistor Arrays
-- **Brand**: Sprague Electric Company
-- **Part Number**: 914C331X2SR
-- **Package**: DIP (Dual In-line Package)
-- **Quantity**: 3
-- **Status**: Available
-- **Era**: 1980s vintage
-- **Datasheet**: Sprague Electronic Components 1980 Catalog
 
 ## Description
 

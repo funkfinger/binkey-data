@@ -1,26 +1,18 @@
 ---
-type: electronic-component
+type: module
 category: Wireless Modules
 subcategory: Miscellaneous Wireless
 description: Collection of miscellaneous wireless development boards and modules
 functions: [wireless-communication, development, prototyping]
 interfaces: [various]
-location: [Cabinet-3/Bin-19]
+location: Cabinet-3/Bin-19
 quantity: 10+
 status: available
-price_range: $5-50
 tags: [wireless, development-boards, prototyping, misc, communication]
+price: $5-50
 ---
 
 # Miscellaneous Wireless Boards Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bin 19
-- **Category**: Wireless Modules
-- **Type**: Mixed wireless development boards and modules
-- **Total Quantity**: 10+ boards
-- **Applications**: Wireless prototyping, development, experimentation
 
 ## Description
 

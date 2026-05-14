@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Art of Circuits USBasp v2.0 Programmer for Atmel Microcontrollers
 description: USB AVR programmer based on USBasp design with improved features and reliability for programming Atmel microcontrollers
 manufacturer: Art of Circuits
@@ -8,12 +8,12 @@ category: programming-tools
 subcategory: avr-programmers
 tags: [usbasp, avr, programmer, usb, atmega, attiny, isp, spi, art-of-circuits, improved]
 quantity: 1
-location: [cabinet-1-bin-37]
-purchase_url: https://artofcircuits.com/product/usbasp-v2-0-programmer-for-atmel-microcontrollers
+location: Cabinet-1/Bin-37
 price: 18.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
+product_url: https://artofcircuits.com/product/usbasp-v2-0-programmer-for-atmel-microcontrollers
 ---
 
 # Art of Circuits USBasp v2.0 Programmer for Atmel Microcontrollers

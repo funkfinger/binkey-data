@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: WiFi Development Board
-brand: Particle
 part_number: 2721
 model: Photon with Headers
 microcontroller: STM32F205
@@ -19,25 +18,15 @@ pwm_outputs: 9
 dimensions: 38.0mm x 21.0mm x 3.0mm
 weight: 5.0g
 wifi_chip: BCM43362
-location: [Cabinet-1/Bin-28]
+location: Cabinet-1/Bin-28
 quantity: 1
 status: available
-price_range: $15-20
 tags: [microcontroller, wifi, particle, photon, iot, cloud, stm32, arm, cortex-m3, discontinued]
+price: $15-20
+manufacturer: Particle
 ---
 
 # Particle Photon with Headers
-
-## Details
-
-- **Location**: Cabinet-1, Bin 28
-- **Category**: Microcontroller Boards
-- **Type**: WiFi Development Board
-- **Microcontroller**: STM32F205
-- **Brand**: Particle
-- **Part Number**: 2721
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/2721
 
 ## Description
 

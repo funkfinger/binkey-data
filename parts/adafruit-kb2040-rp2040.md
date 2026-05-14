@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: RP2040 Development Board
-brand: Adafruit
 part_number: 5302
 model: KB2040 - RP2040 Kee Boar Driver
 microcontroller: RP2040
@@ -22,25 +21,15 @@ weight: 2.8g
 usb_native: true
 stemma_qt: true
 form_factor: Pro Micro Compatible
-location: [Cabinet-1/Bin-32]
+location: Cabinet-1/Bin-32
 quantity: 6
 status: available
-price_range: $8-9
 tags: [microcontroller, rp2040, kb2040, kee-boar, pro-micro-compatible, stemma-qt, usb-c, adafruit, keyboard, circuitpython, neopixel]
+price: $8-9
+manufacturer: Adafruit
 ---
 
 # Adafruit KB2040 - RP2040 Kee Boar Driver
-
-## Details
-
-- **Location**: Cabinet-1, Bin 32
-- **Category**: Microcontroller Boards
-- **Type**: RP2040 Development Board (Pro Micro Compatible)
-- **Microcontroller**: RP2040 (Dual ARM Cortex-M0+ @ 125MHz)
-- **Brand**: Adafruit
-- **Part Number**: 5302
-- **Quantity**: 6
-- **Product URL**: https://www.adafruit.com/product/5302
 
 ## Description
 

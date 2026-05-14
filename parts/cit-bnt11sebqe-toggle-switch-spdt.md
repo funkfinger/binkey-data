@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Controls
 subcategory: Toggle Switches
-brand: CIT Relay and Switch
 part_number: BNT11SEBQE
 model: BNT11SEBQE
 description: Toggle switch SPDT, 3A 120V, panel mount through-hole
@@ -16,45 +15,17 @@ mounting: Panel Mount
 interface: []
 connectivity: []
 compatibility: []
-location: [Cabinet-5/Bin-17/Section-A]
+location: Cabinet-5/Bin-17/Section-A
 quantity: 10
 status: available
-price_range: $2.00-2.50 each
 datasheet: https://www.digikey.com/en/products/detail/cit-relay-and-witch/BNT11SEBQE/12503398
 product_url: https://www.digikey.com/en/products/detail/cit-relay-and-switch/BNT11SEBQE/12503398
-tags:
-  [
-    switch,
-    toggle,
-    spdt,
-    3a,
-    120v,
-    panel-mount,
-    through-hole,
-    digikey,
-    cabinet-5,
-    bin-17,
-    status-available,
-  ]
+tags: [switch, toggle, spdt, 3a, 120v, panel-mount, through-hole, digikey, cabinet-5, bin-17, status-available]
 date_added: 2025-11-09
-added_date: 2025-11-09
+price: $2.00-2.50 each
 ---
 
 # CIT BNT11SEBQE Toggle Switch SPDT
-
-## Details
-
-- **Location**: Cabinet-5, Bin 17, Section A
-- **Category**: Switches & Controls
-- **Brand**: CIT Relay and Switch
-- **Part Number**: BNT11SEBQE
-- **Model**: BNT11SEBQE
-- **Switch Type**: Toggle
-- **Circuit**: SPDT (Single Pole Double Throw)
-- **Quantity**: 10 units
-- **Status**: Available
-- **Price Range**: $2.00-2.50 per unit
-- **Product URL**: [DigiKey - BNT11SEBQE](https://www.digikey.com/en/products/detail/cit-relay-and-switch/BNT11SEBQE/12503398)
 
 ## Description
 

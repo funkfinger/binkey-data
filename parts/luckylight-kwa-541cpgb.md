@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: Alphanumeric Displays
 subcategory: LED Character Display
-brand: Lucky Light
 part_number: KWA-541CPGB
 size: 0.54 inch
 color: green
@@ -14,25 +13,15 @@ voltage: 5V
 current: 20mA per segment
 luminous_intensity: 40mcd
 wavelength: 565nm
-location: [Cabinet-1/Bin-19]
+location: Cabinet-1/Bin-19
 quantity: 4
 status: available
-price_range: $3-6
-tags:
-  [led-display, alphanumeric, green, 14-segment, lucky-light, common-cathode]
+tags: [led-display, alphanumeric, green, 14-segment, lucky-light, common-cathode]
+price: $3-6
+manufacturer: Lucky Light
 ---
 
 # Lucky Light KWA-541CPGB Green Alphanumeric Display
-
-## Details
-
-- **Location**: Cabinet-1, Bin 19
-- **Category**: Alphanumeric Displays
-- **Type**: 14-Segment LED Character Display
-- **Color**: Green
-- **Size**: 0.54 inch (13.60mm) character height
-- **Quantity**: 4
-- **Datasheet**: https://cdn-shop.adafruit.com/datasheets/2156datasheet.pdf
 
 ## Description
 

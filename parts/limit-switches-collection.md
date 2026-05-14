@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switching
 subcategory: Limit Switches
-brand: Various
 part_number: Mixed
 model: Various Models
 description: Collection of mechanical limit switches including 3D printer endstops and SPDT switches
@@ -13,56 +12,19 @@ voltage: 125V-300V AC/DC
 current: 2A-15A ratings
 power: Various power ratings
 interface: [Mechanical actuation, Electrical contacts]
-connectivity:
-  [
-    Wire leads,
-    PCB connections,
-    3-pin connectors,
-    Screw terminals,
-  ]
-compatibility:
-  [
-    3D printers,
-    CNC machines,
-    Automation systems,
-    Position sensing,
-    Safety circuits,
-  ]
-location: [Cabinet-4/Bin-24]
+connectivity: [Wire leads, PCB connections, 3-pin connectors, Screw terminals]
+compatibility: [3D printers, CNC machines, Automation systems, Position sensing, Safety circuits]
+location: Cabinet-4/Bin-24
 quantity: ~30 total (~10 R REIFENG, ~10 HiLetgo V-156, ~10 other types)
 status: available
-price_range: $5-15 per pack
 datasheet: Various manufacturer datasheets
 product_url:
-tags:
-  [
-    limit-switch,
-    endstop,
-    mechanical,
-    3d-printer,
-    cnc,
-    automation,
-    position-sensing,
-    cabinet-4,
-    bin-24,
-    status-available,
-  ]
+tags: [limit-switch, endstop, mechanical, 3d-printer, cnc, automation, position-sensing, cabinet-4, bin-24, status-available]
 date_added: 2025-01-13
+price: $5-15 per pack
 ---
 
 # Limit Switch Collection
-
-## Details
-
-- **Location**: Cabinet-4, Bin 24
-- **Category**: Switching
-- **Brand**: Various (R REIFENG, HiLetgo, others)
-- **Part Number**: Mixed
-- **Package**: Mixed packages
-- **Quantity**: ~30 total (~10 each of 3 types)
-- **Status**: available
-- **Price Range**: $5-15 per pack
-- **Datasheet**: Various manufacturer datasheets
 
 ## Description
 

@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Feather Boards
 subcategory: nRF52840 Development Board
-brand: Adafruit
 part_number: 4062
 model: Feather nRF52840 Express
 microcontroller: nRF52840
@@ -24,25 +23,15 @@ bluetooth_le: true
 battery_charging: true
 neopixel: true
 form_factor: Feather
-location: [Cabinet-1/Bin-29]
+location: Cabinet-1/Bin-29
 quantity: 1
 status: available
-price_range: $24-25
 tags: [microcontroller, nrf52840, feather, bluetooth-le, circuitpython, arduino, native-usb, battery-charging, adafruit, neopixel, qspi-flash]
+price: $24-25
+manufacturer: Adafruit
 ---
 
 # Adafruit Feather nRF52840 Express
-
-## Details
-
-- **Location**: Cabinet-1, Bin 29
-- **Category**: Feather Boards
-- **Type**: nRF52840 Development Board with Bluetooth LE (Feather Form Factor)
-- **Microcontroller**: nRF52840 ARM Cortex-M4F @ 64MHz
-- **Brand**: Adafruit
-- **Part Number**: 4062
-- **Quantity**: 1
-- **Product URL**: https://www.adafruit.com/product/4062
 
 ## Description
 

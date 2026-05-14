@@ -3,14 +3,12 @@ title: LM7805CT +5V Voltage Regulator
 description: Texas Instruments LM7805CT positive 5V linear voltage regulator in TO-220 package
 manufacturer: Texas Instruments
 part_number: LM7805CT-NOPB
-datasheet_url: https://www.ti.com/lit/ds/symlink/lm78.pdf
 supplier: Digikey
 supplier_part_number: LM7805CT/NOPB-ND
-supplier_url: https://www.digikey.com/en/products/detail/texas-instruments/LM7805CT-NOPB/3901929
 quantity: 10+
-location: 
-  - cabinet: 3
-  - bin: 23
+location:
+- "{'cabinet': 3}"
+- "{'bin': 23}"
 package: TO-220
 voltage_output: +5V
 voltage_input_min: 7V
@@ -22,6 +20,8 @@ operating_temp_min: 0°C
 operating_temp_max: 125°C
 tags: [voltage-regulator, linear-regulator, positive-voltage, to-220, texas-instruments, 5v]
 categories: [power-management, voltage-regulators]
+product_url: https://www.digikey.com/en/products/detail/texas-instruments/LM7805CT-NOPB/3901929
+datasheet: https://www.ti.com/lit/ds/symlink/lm78.pdf
 ---
 
 # LM7805CT +5V Voltage Regulator

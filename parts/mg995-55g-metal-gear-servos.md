@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Servo Motors
 subcategory: Standard Servo
-brand: DEEGOO-FPV
 part_number: MG995-55G
 model: MG995 55G Metal Gear Servo Motor
 description: High-torque MG995 55g metal gear servo motors for RC cars, robots, helicopters, and heavy-duty applications
@@ -15,29 +14,17 @@ power: Variable based on load
 interface: [PWM Control, 3-wire connection]
 connectivity: [Signal, VCC, Ground]
 compatibility: [RC Cars, Robots, Helicopters, Arduino, Heavy-duty applications]
-location: [Cabinet-4/Bin-19]
+location: Cabinet-4/Bin-19
 quantity: ~2
 status: available
-price_range: $13.99
-datasheet: 
+datasheet:
 product_url: https://a.co/d/c10wWyk
 tags: [servo-motors, mg995, metal-gear, high-torque, rc-cars, robotics, pwm-control, cabinet-4, bin-19, status-available]
 date_added: 2025-01-13
+price: $13.99
 ---
 
 # MG995 55G Metal Gear Servo Motors
-
-## Details
-
-- **Location**: Cabinet 4, Bin 19
-- **Category**: Servo Motors
-- **Brand**: DEEGOO-FPV
-- **Part Number**: MG995-55G
-- **Package**: Individual servos
-- **Quantity**: ~2 servos
-- **Status**: Available
-- **Price Range**: $13.99 (2-pack)
-- **Product URL**: https://a.co/d/c10wWyk
 
 ## Description
 

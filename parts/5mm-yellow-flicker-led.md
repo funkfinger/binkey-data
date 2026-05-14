@@ -1,26 +1,18 @@
 ---
-type: electronic-component
+type: passive
 category: Special Effect LEDs
 subcategory: Flicker LED
 size: 5mm
 color: yellow
 effect: flicker
-location: [Cabinet-1/Bin-12]
+location: Cabinet-1/Bin-12
 quantity: 3
 status: available
-price_range: $0.50-1.50
 tags: [led, yellow, flicker, 5mm, effect]
+price: $0.50-1.50
 ---
 
 # 5mm Yellow Flicker LED
-
-## Details
-
-- **Location**: Cabinet-1, Bin 12
-- **Category**: LEDs
-- **Color**: Yellow
-- **Size**: 5mm
-- **Type**: Flicker
 
 ## Description
 

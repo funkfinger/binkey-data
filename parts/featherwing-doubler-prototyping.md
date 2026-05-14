@@ -1,30 +1,22 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: Prototyping Board
-brand: Adafruit
 part_number: 2890
 size: 50.9mm x 47mm
 color: green
 interface: feather-headers
 voltage: 3.3V-5V
 current: passthrough
-location: [Cabinet-1/Bin-22]
+location: Cabinet-1/Bin-22
 quantity: 2
 status: available
-price_range: $7-8
 tags: [featherwing, prototyping, doubler, adafruit, feather, breadboard, headers]
+price: $7-8
+manufacturer: Adafruit
 ---
 
 # FeatherWing Doubler - Prototyping Add-on For All Feather Boards
-
-## Details
-- **Location**: Cabinet-1, Bin 22
-- **Category**: FeatherWings
-- **Type**: Prototyping Board / Doubler
-- **Size**: 50.9mm x 47mm x 1.6mm
-- **Quantity**: 2
-- **Product URL**: https://www.adafruit.com/product/2890
 
 ## Description
 FeatherWing Doubler is a prototyping add-on that allows you to work with two Feather boards simultaneously side-by-side. Features duplicate breakouts for each Feather pin, prototyping grid holes, and cross-connected pins for easy development and testing.

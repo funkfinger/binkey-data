@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: Matter Development Board
-brand: Seeed Studio
 part_number: 102010610
 model: XIAO MG24 Sense
 microcontroller: EFR32MG24
@@ -24,25 +23,15 @@ usb_native: false
 battery_charge: true
 built_in_sensors: [6-axis_IMU, analog_microphone]
 ai_accelerator: MVP
-location: [Cabinet-1/Bin-26]
+location: Cabinet-1/Bin-26
 quantity: 1
 status: available
-price_range: $9-10
 tags: [microcontroller, mg24, matter, thread, zigbee, bluetooth, xiao, seeed, ultra-low-power, tinyml, ai, imu, microphone]
+price: $9-10
+manufacturer: Seeed Studio
 ---
 
 # Seeed Studio XIAO MG24 Sense
-
-## Details
-
-- **Location**: Cabinet-1, Bin 26
-- **Category**: Microcontroller Boards
-- **Type**: Matter-native Development Board with Sensors
-- **Microcontroller**: Silicon Labs EFR32MG24
-- **Brand**: Seeed Studio
-- **Part Number**: 102010610
-- **Quantity**: 1
-- **Product URL**: https://www.seeedstudio.com/Seeed-XIAO-MG24-Sense-p-6248.html
 
 ## Description
 

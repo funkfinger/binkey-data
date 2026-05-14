@@ -6,14 +6,13 @@ manufacturer: Pololu
 category: sensors
 subcategory: motion-sensors
 quantity: 1
-location: 
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $29.95
+location: Cabinet-3/Bin-28
 datasheet: https://www.pololu.com/file/0J737/minimu-9-v3-schematic-diagram.pdf
-purchase_url: https://www.pololu.com/product/2468
 purchase_date: 2024-12-15
 tags: [imu, gyroscope, accelerometer, magnetometer, 9dof, i2c, ahrs]
+price: $29.95
+product_url: https://www.pololu.com/product/2468
+type: module
 ---
 
 # Pololu MinIMU-9 v3

@@ -3,14 +3,12 @@ title: LM7812CT +12V Voltage Regulator
 description: Texas Instruments LM7812CT positive 12V linear voltage regulator in TO-220 package
 manufacturer: Texas Instruments
 part_number: LM7812CT-NOPB
-datasheet_url: https://www.ti.com/lit/ds/symlink/lm78.pdf
 supplier: Digikey
 supplier_part_number: LM7812CT/NOPB-ND
-supplier_url: https://www.digikey.com/en/products/detail/texas-instruments/LM7812CT-NOPB/3901975
 quantity: 2
-location: 
-  - cabinet: 3
-  - bin: 23
+location:
+- "{'cabinet': 3}"
+- "{'bin': 23}"
 package: TO-220
 voltage_output: +12V
 voltage_input_min: 14.5V
@@ -22,6 +20,8 @@ operating_temp_min: 0°C
 operating_temp_max: 125°C
 tags: [voltage-regulator, linear-regulator, positive-voltage, to-220, texas-instruments]
 categories: [power-management, voltage-regulators]
+product_url: https://www.digikey.com/en/products/detail/texas-instruments/LM7812CT-NOPB/3901975
+datasheet: https://www.ti.com/lit/ds/symlink/lm78.pdf
 ---
 
 # LM7812CT +12V Voltage Regulator

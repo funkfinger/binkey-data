@@ -1,23 +1,17 @@
 ---
-type: electronic-component
+type: passive
 category: LED Backpacks
 subcategory: Display Driver
-brand: Adafruit
 part_number: 1427
-location: [Cabinet-1/Bin-4]
+location: Cabinet-1/Bin-4
 quantity: 1
 status: available
-price_range: $5-10
 tags: [led-backpack, ht16k33, adafruit, display-driver]
+price: $5-10
+manufacturer: Adafruit
 ---
 
 # Holtek HT16K33 Breakout
-
-## Details
-
-- **Location**: Cabinet-1, Bin 4
-- **Category**: LED Backpacks
-- **Product URL**: https://www.adafruit.com/product/1427
 
 ## Description
 

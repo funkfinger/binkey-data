@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switching
 subcategory: Relays
-brand: Various
 part_number: Mixed
 model: Various Models
 description: Collection of solid state and mechanical relays for switching applications
@@ -14,47 +13,18 @@ current: Various current ratings
 power: Various power ratings
 interface: [Control inputs, Switched outputs]
 connectivity: [PCB pins, Screw terminals, Wire leads]
-compatibility:
-  [
-    Microcontroller projects,
-    Power switching,
-    Signal switching,
-    Automation systems,
-  ]
-location: [Cabinet-4/Bin-23]
+compatibility: [Microcontroller projects, Power switching, Signal switching, Automation systems]
+location: Cabinet-4/Bin-23
 quantity: Various
 status: available
-price_range: $1-20 per relay
 datasheet: Various manufacturer datasheets
 product_url:
-tags:
-  [
-    relay,
-    switching,
-    solid-state,
-    mechanical,
-    automation,
-    control,
-    cabinet-4,
-    bin-23,
-    status-available,
-  ]
+tags: [relay, switching, solid-state, mechanical, automation, control, cabinet-4, bin-23, status-available]
 date_added: 2025-01-13
+price: $1-20 per relay
 ---
 
 # Mixed Relay Collection
-
-## Details
-
-- **Location**: Cabinet-4, Bin 23
-- **Category**: Switching
-- **Brand**: Various
-- **Part Number**: Mixed
-- **Package**: Mixed packages
-- **Quantity**: Various
-- **Status**: available
-- **Price Range**: $1-20 per relay
-- **Datasheet**: Various manufacturer datasheets
 
 ## Description
 

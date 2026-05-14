@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: dev-board
 category: Microcontroller Boards
 subcategory: Arduino Compatible
-brand: Generic (SparkFun-compatible)
 part_number: Pro Micro (ATmega32U4)
 model: Arduino Pro Micro
 description: Compact Arduino-compatible development board based on the ATmega32U4 with native USB.
@@ -15,35 +14,17 @@ power: USB powered
 interface: [USB, I2C, SPI, UART, GPIO]
 connectivity: [USB]
 compatibility: [Arduino IDE]
-location: [Cabinet-1/Bin-25]
+location: Cabinet-1/Bin-25
 quantity: 1
 status: available
-price_range: $8-25
 datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/doc7766.pdf
 product_url:
-tags:
-  [
-    arduino,
-    pro-micro,
-    atmega32u4,
-    microcontroller,
-    cabinet-1,
-    bin-25,
-    status-available,
-  ]
+tags: [arduino, pro-micro, atmega32u4, microcontroller, cabinet-1, bin-25, status-available]
 date_added: 2025-09-03
-added_date: 2025-09-03
+price: $8-25
 ---
 
 # Arduino Pro Micro (ATmega32U4)
-
-## Details
-
-- Location: Cabinet-1, Bin 25
-- Category: Microcontroller Boards → Arduino Compatible
-- MCU: ATmega32U4 (native USB)
-- USB: Micro USB
-- Quantity: 1 (update if different)
 
 ## Description
 

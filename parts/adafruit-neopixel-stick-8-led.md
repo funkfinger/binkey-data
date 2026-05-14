@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: passive
 category: LED/Optoelectronics
 subcategory: Addressable LED Module
-brand: Adafruit Industries LLC
 part_number: 1426
 model: NeoPixel Stick - 8 x 5050 RGB LED
 led_type: WS2812/SK6812
@@ -17,25 +16,15 @@ dimensions: 51.10mm x 10.20mm
 weight: 3g
 mounting: User Defined
 addressable: true
-location: [Cabinet-1/Bin-33]
+location: Cabinet-1/Bin-33
 quantity: 20+
 status: available
-price_range: $6
 tags: [neopixel, addressable-led, rgb-led, ws2812, sk6812, led-strip, led-module, adafruit, serial-interface, 5050-led]
+price: $6
+manufacturer: Adafruit Industries LLC
 ---
 
 # Adafruit NeoPixel Stick - 8 x 5050 RGB LED with Integrated Drivers
-
-## Details
-
-- **Location**: Cabinet-1, Bin 33
-- **Category**: LED/Optoelectronics
-- **Type**: Addressable LED Module
-- **LED Type**: WS2812/SK6812 5050 RGB LEDs
-- **Brand**: Adafruit Industries LLC
-- **Part Number**: 1426
-- **Quantity**: 20+
-- **Product URL**: https://www.digikey.com/en/products/detail/adafruit-industries-llc/1426/5395892
 
 ## Description
 

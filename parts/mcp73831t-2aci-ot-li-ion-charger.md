@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Power Management
 subcategory: Battery Charging
-brand: Microchip Technology
 part_number: MCP73831T-2ACI-OT
 description: Single-cell Li-Ion/LiPo battery charge management controller, SOT-23-5
 manufacturer: Microchip Technology
@@ -11,19 +10,14 @@ voltage: 3.75V to 6V input (max 6.5V)
 current: 500mA maximum charge current
 power: Linear charger with integrated power MOSFETs
 interface: Single-cell Li-Ion/LiPo battery charging
-location: [SMT-Parts-Book-1/Page-5/Slot-5]
+location: SMT-Parts-Book-1/Page-5/Slot-5
 quantity: 20
 status: available
-price_range: $0.50-1.00 each
 product_url: https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301
 tags: [smt, battery-charger, li-ion, lipo, lithium-polymer, power-management, microchip, sot-23, charging-controller]
 date_added: 2025-11-16
-added_date: 2025-11-16
+price: $0.50-1.00 each
 ---
-
-## Details
-
-The MCP73831T-2ACI-OT is a single-cell linear lithium-ion/lithium-polymer battery charge management controller from Microchip Technology. It provides a complete linear charging solution with integrated power MOSFETs and comprehensive protection circuitry.
 
 ## Description
 

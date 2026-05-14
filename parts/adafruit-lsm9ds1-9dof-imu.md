@@ -6,14 +6,13 @@ manufacturer: Adafruit Industries
 category: sensors
 subcategory: motion-sensors
 quantity: 1
-location: 
-  - Cabinet-3
-  - Bin-28
-cost_per_unit: $14.95
+location: Cabinet-3/Bin-28
 datasheet: https://learn.adafruit.com/adafruit-lsm9ds1-accelerometer-plus-gyro-plus-magnetometer-9-dof-breakout
-purchase_url: https://www.adafruit.com/product/3387
 purchase_date: 2024-12-15
 tags: [imu, accelerometer, gyroscope, magnetometer, 9dof, i2c, spi]
+price: $14.95
+product_url: https://www.adafruit.com/product/3387
+type: module
 ---
 
 # Adafruit LSM9DS1 9-DoF IMU

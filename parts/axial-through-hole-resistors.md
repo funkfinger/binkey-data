@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: Axial Through Hole Resistors
 description: Collection of standard axial through-hole resistors in various values with 5% tolerance
 manufacturer: Generic
@@ -8,11 +8,14 @@ category: passive-components
 subcategory: resistors
 tags: [resistors, axial, through-hole, carbon-film, metal-film, 5-percent, 1-4-watt]
 total_quantity: 200+
-location: [cabinet-2-bin-1, cabinet-2-bin-2, cabinet-2-bin-3]
+location:
+- Cabinet-2/Bin-1
+- Cabinet-2/Bin-2
+- Cabinet-2/Bin-3
 price: 0.05
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Axial Through Hole Resistors

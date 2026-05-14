@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Sensors & Transducers
 subcategory: Magnetic Sensors
-brand: Adafruit
 part_number: 375
 model: Magnetic Contact Switch (Door Sensor)
 description: Reed switch magnetic contact sensor for door/drawer detection
@@ -15,42 +14,17 @@ power: N/A
 interface: [Normally Open Reed Switch]
 connectivity: [Wire Leads]
 compatibility: [Door Sensors, Security Systems, IoT Projects]
-location: [Cabinet-5/Bin-31]
+location: Cabinet-5/Bin-31
 quantity: 1
 status: available
-price_range: $3-4
 datasheet: N/A
 product_url: https://www.adafruit.com/product/375
-tags:
-  [
-    magnetic-sensor,
-    reed-switch,
-    door-sensor,
-    security,
-    proximity,
-    adafruit,
-    normally-open,
-    cabinet-5,
-    bin-31,
-    status-available,
-  ]
+tags: [magnetic-sensor, reed-switch, door-sensor, security, proximity, adafruit, normally-open, cabinet-5, bin-31, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $3-4
 ---
 
 # Adafruit 375 Magnetic Contact Switch (Door Sensor)
-
-## Details
-
-- **Location**: Cabinet-5, Bin 31
-- **Category**: Sensors & Transducers
-- **Brand**: Adafruit Industries
-- **Part Number**: 375
-- **Package**: ABS Plastic Enclosure
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $3-4
-- **Product URL**: https://www.adafruit.com/product/375
 
 ## Description
 

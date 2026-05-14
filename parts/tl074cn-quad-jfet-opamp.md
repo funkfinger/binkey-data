@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Analog ICs
 subcategory: Op-Amps
-brand: STMicroelectronics
 part_number: TL074CN
 model: TL074CN
 description: Quad JFET-input operational amplifier IC
@@ -15,30 +14,17 @@ power: Low power consumption
 interface: [Analog]
 connectivity: [Through-hole pins]
 compatibility: [Analog circuits, Audio applications]
-location: [Cabinet-3/Bin-37/Section-C]
+location: Cabinet-3/Bin-37/Section-C
 quantity: 16
 status: available
-price_range: $1.00-2.00
 datasheet: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/734/TL074_A_B.pdf
 product_url: https://www.digikey.com/en/products/detail/stmicroelectronics/TL074CN/599651
 tags: [op-amp, analog-ic, quad-opamp, jfet-input, audio, precision, stmicroelectronics, cabinet-3, bin-37, status-available]
 date_added: 2025-01-12
+price: $1.00-2.00
 ---
 
 # TL074CN - Quad JFET-Input Operational Amplifier
-
-## Details
-
-- **Location**: Cabinet-3, Bin 37, Section C
-- **Category**: Analog ICs
-- **Brand**: STMicroelectronics
-- **Part Number**: TL074CN
-- **Package**: 14-DIP
-- **Quantity**: 16
-- **Status**: Available (Note: Part is obsolete)
-- **Price Range**: $1.00-2.00
-- **Datasheet**: [TL074CN Datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/734/TL074_A_B.pdf)
-- **Product URL**: https://www.digikey.com/en/products/detail/stmicroelectronics/TL074CN/599651
 
 ## Description
 

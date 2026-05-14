@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: Large Capacitors
 description: Collection of large value capacitors including electrolytic, tantalum, and ceramic capacitors for power supply filtering, energy storage, and high-current applications
 manufacturer: Various
@@ -8,11 +8,11 @@ category: passive-components
 subcategory: capacitors
 tags: [capacitors, electrolytic, tantalum, ceramic, large-value, power-supply, filtering, energy-storage, decoupling, high-current]
 total_quantity: 25+
-location: [cabinet-2-bin-38]
+location: Cabinet-2/Bin-38
 price: 8.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # Large Capacitors

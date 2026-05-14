@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: mechanical
 category: Hardware & Fasteners
 subcategory: Adhesive Bumpers
-brand: Various
 part_number: N/A
 model: Various Adhesive Rubber Bumpers and Feet
 description: Assorted collection of adhesive rubber bumpers and feet in various shapes and sizes
@@ -15,41 +14,17 @@ power: N/A
 interface: [Adhesive Backing]
 connectivity: [Self-Adhesive]
 compatibility: [Electronics Enclosures, Furniture, Appliances, Project Cases]
-location: [Cabinet-5/Bin-35]
+location: Cabinet-5/Bin-35
 quantity: 20+
 status: available
-price_range: $10-15
 datasheet: N/A
 product_url: N/A
-tags:
-  [
-    rubber-bumpers,
-    adhesive-feet,
-    shock-absorbers,
-    furniture-pads,
-    electronics-feet,
-    vibration-dampening,
-    various-sizes,
-    cabinet-5,
-    bin-35,
-    status-available,
-  ]
+tags: [rubber-bumpers, adhesive-feet, shock-absorbers, furniture-pads, electronics-feet, vibration-dampening, various-sizes, cabinet-5, bin-35, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $10-15
 ---
 
 # Various Adhesive Rubber Bumpers and Feet
-
-## Details
-
-- **Location**: Cabinet-5, Bin 35
-- **Category**: Hardware & Fasteners
-- **Brand**: Various manufacturers
-- **Model**: Various Adhesive Rubber Bumpers and Feet
-- **Package**: Individual pieces
-- **Quantity**: 20+ pieces
-- **Status**: Available
-- **Price Range**: $10-15
 
 ## Description
 

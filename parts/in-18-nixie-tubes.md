@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Display
 subcategory: Nixie Tube
-brand: Soviet/Russian
 part_number: IN-18
 model: IN-18
 description: Large Soviet-era numeric nixie display tube with 40mm tall digits
@@ -14,42 +13,18 @@ current: 2.5-3mA per digit
 power: Low power consumption per digit
 interface: [High voltage anode/cathode]
 connectivity: [Multi-pin tube base (typically 11 pins)]
-compatibility:
-  [Nixie clock circuits, High voltage displays, Vintage electronics]
-location: [Cabinet-4/Bin-22]
+compatibility: [Nixie clock circuits, High voltage displays, Vintage electronics]
+location: Cabinet-4/Bin-22
 quantity: 6
 status: available
-price_range: $15-30 each
 datasheet: Soviet-era tube specifications
 product_url:
-tags:
-  [
-    nixie,
-    display,
-    tube,
-    soviet,
-    vintage,
-    large-digits,
-    cabinet-4,
-    bin-22,
-    status-available,
-  ]
+tags: [nixie, display, tube, soviet, vintage, large-digits, cabinet-4, bin-22, status-available]
 date_added: 2025-01-13
+price: $15-30 each
 ---
 
 # IN-18 Large Nixie Tubes
-
-## Details
-
-- **Location**: Cabinet-4, Bin 22
-- **Category**: Display
-- **Brand**: Soviet/Russian
-- **Part Number**: IN-18
-- **Package**: Glass tube with multi-pin base
-- **Quantity**: 6
-- **Status**: available
-- **Price Range**: $15-30 each
-- **Datasheet**: Soviet-era tube specifications
 
 ## Description
 

@@ -1,5 +1,5 @@
 ---
-type: part
+type: other
 title: Circuit Playground Proto Gizmo - Bolt-on Perma-Proto
 description: Solderable breadboard-style PCB that bolts onto Circuit Playground boards for permanent circuit prototyping
 manufacturer: Adafruit
@@ -8,14 +8,14 @@ category: accessories
 subcategory: prototyping-accessories
 tags: [proto-gizmo, circuit-playground, prototyping, perma-proto, breadboard, soldering]
 quantity: 4
-location: [cabinet-1-bin-43]
-datasheet_url: https://www.adafruit.com/product/4320
-purchase_url: https://www.adafruit.com/product/4320
+location: Cabinet-1/Bin-43
 price: 7.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/circuit-playground-proto-gizmo.jpg
+product_url: https://www.adafruit.com/product/4320
+datasheet: https://www.adafruit.com/product/4320
 ---
 
 # Circuit Playground Proto Gizmo - Bolt-on Perma-Proto

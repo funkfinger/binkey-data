@@ -1,32 +1,26 @@
 ---
-type: part
+type: module
 title: Adafruit Proto Shield for Arduino Kit v.5
 description: Prototyping shield kit for Arduino with breadboard area, power rails, buttons, LEDs, and SOIC area
 manufacturer: Adafruit
 part_number: 51
 category: shields
 subcategory: prototyping-shields
-tags:
-  [proto-shield, arduino, prototyping, breadboard, kit, soldering, discontinued]
+tags: [proto-shield, arduino, prototyping, breadboard, kit, soldering, discontinued]
 quantity: 1
-location: [cabinet-1-bin-41]
-datasheet_url: https://learn.adafruit.com/adafruit-proto-shield-arduino
-purchase_url: https://www.adafruit.com/product/51
+location: Cabinet-1/Bin-41
 price: 15.00
 currency: USD
 date_added: 2025-01-09
-status: discontinued
+status: out-of-stock
 image: attachments/adafruit-proto-shield-v5.jpg
+product_url: https://www.adafruit.com/product/51
+datasheet: https://learn.adafruit.com/adafruit-proto-shield-arduino
 ---
 
 # Adafruit Proto Shield for Arduino Kit v.5
 
 ![Adafruit Proto Shield v5](attachments/adafruit-proto-shield-v5.jpg)
-
-## Details
-
-- Location: Cabinet-1, Bin 41
-- Quantity: 1
 
 ## ⚠️ Product Status
 

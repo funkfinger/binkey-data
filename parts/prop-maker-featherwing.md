@@ -1,39 +1,21 @@
 ---
-type: electronic-component
+type: dev-board
 category: FeatherWings
 subcategory: Prop Making Module
-brand: Adafruit
 part_number: 3988
-functions:
-  [
-    neopixel-driver,
-    rgb-led-driver,
-    accelerometer,
-    audio-amplifier,
-    low-power-mode,
-  ]
+functions: [neopixel-driver, rgb-led-driver, accelerometer, audio-amplifier, low-power-mode]
 interface: I2C
 connectors: [jst-ph-3pin, stemma-qt]
 voltage: 3.3V-5V
-location: [Cabinet-1/Bin-16]
+location: Cabinet-1/Bin-16
 quantity: 2
 status: available
-price_range: $9-11
-tags:
-  [featherwing, prop-maker, neopixel, accelerometer, audio, rgb-led, adafruit]
+tags: [featherwing, prop-maker, neopixel, accelerometer, audio, rgb-led, adafruit]
+price: $9-11
+manufacturer: Adafruit
 ---
 
 # Adafruit Prop-Maker FeatherWing
-
-## Details
-
-- **Location**: Cabinet-1, Bin 16
-- **Category**: FeatherWings
-- **Type**: Prop Making Module
-- **Functions**: NeoPixel Driver, RGB LED Driver, Accelerometer, Audio Amplifier
-- **Interface**: I2C, PWM, Analog Audio
-- **Quantity**: 2
-- **Product URL**: https://www.adafruit.com/product/3988
 
 ## Description
 

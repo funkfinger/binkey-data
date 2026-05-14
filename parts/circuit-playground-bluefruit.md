@@ -1,5 +1,5 @@
 ---
-type: part
+type: ic
 title: Circuit Playground Bluefruit - Bluetooth Low Energy
 description: Latest Circuit Playground with nRF52840 microcontroller and Bluetooth Low Energy for wireless connectivity
 manufacturer: Adafruit
@@ -8,14 +8,16 @@ category: microcontrollers
 subcategory: circuit-playground
 tags: [circuit-playground, bluefruit, nrf52840, bluetooth, ble, wireless, circuitpython, arduino]
 quantity: 4
-location: [cabinet-1-bin-43, cabinet-1-bin-44]
-datasheet_url: https://learn.adafruit.com/adafruit-circuit-playground-bluefruit
-purchase_url: https://www.adafruit.com/product/4333
+location:
+- Cabinet-1/Bin-43
+- Cabinet-1/Bin-44
 price: 24.95
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 image: attachments/circuit-playground-bluefruit.jpg
+product_url: https://www.adafruit.com/product/4333
+datasheet: https://learn.adafruit.com/adafruit-circuit-playground-bluefruit
 ---
 
 # Circuit Playground Bluefruit - Bluetooth Low Energy

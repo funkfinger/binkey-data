@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: ic
 category: Logic ICs
 subcategory: Logic Gates
-brand: Texas Instruments
 part_number: SN74HCT14N
 model: SN74HCT14N
 description: Hex inverting Schmitt trigger IC for signal conditioning and noise immunity
@@ -18,45 +17,15 @@ compatibility: [TTL Logic, CMOS Logic, Signal conditioning, Switch debouncing]
 location: [Cabinet-3/Bin-41/Section-A, Cabinet-3/Bin-41/Section-B]
 quantity: 41
 status: available
-price_range: $0.50-1.00
 datasheet: https://www.ti.com/lit/ds/symlink/sn74hct14.pdf
 product_url: https://www.ti.com/product/SN74HCT14
 supplier: Mixed (14 from Digikey - high reliability, 27 from other sources)
-tags:
-  [
-    schmitt-trigger,
-    hex-inverter,
-    signal-conditioning,
-    noise-immunity,
-    texas-instruments,
-    digikey-sourced,
-    cabinet-3,
-    bin-41,
-    status-available,
-  ]
+tags: [schmitt-trigger, hex-inverter, signal-conditioning, noise-immunity, texas-instruments, digikey-sourced, cabinet-3, bin-41, status-available]
 date_added: 2025-01-13
+price: $0.50-1.00
 ---
 
 # SN74HCT14N - Hex Inverting Schmitt Trigger
-
-## Details
-
-- **Location**: Cabinet-3, Bin 41, Sections A & B
-- **Category**: Logic ICs
-- **Brand**: Texas Instruments
-- **Part Number**: SN74HCT14N
-- **Package**: 14-DIP
-- **Quantity**: 41 total (14 + 27)
-- **Status**: Available
-- **Price Range**: $0.50-1.00
-- **Supplier**: Mixed sourcing (see breakdown below)
-- **Datasheet**: [SN74HCT14 Datasheet](https://www.ti.com/lit/ds/symlink/sn74hct14.pdf)
-- **Product URL**: https://www.ti.com/product/SN74HCT14
-
-### Sourcing Breakdown
-
-- **Section A**: 14 units from **Digikey** (high reliability, guaranteed authentic)
-- **Section B**: 27 units from **other sources** (standard reliability)
 
 ## Description
 

@@ -1,31 +1,22 @@
 ---
-type: electronic-component
+type: module
 category: Wireless Modules
 subcategory: WiFi Modules
-brand: ITEAD
 part_numbers: [PSF-A85, PSF-B85]
 chip: ESP8285
 description: Ultra low-power WiFi modules based on ESP8285 with integrated flash memory
 functions: [wifi, iot, serial-to-wifi, gpio-control, pwm-control]
 interfaces: [UART, SPI, I2C, GPIO, ADC]
-location: [Cabinet-3/Bin-17]
+location: Cabinet-3/Bin-17
 quantity: 10
 status: available
-price_range: $5-15
 tags: [itead, psf, esp8285, wifi, iot, wireless, uart, gpio, pwm]
 product_urls: [https://wiki.iteadstudio.com/PSF-A85, https://wiki.iteadstudio.com/PSF-B85]
+price: $5-15
+manufacturer: ITEAD
 ---
 
 # ITEAD PSF WiFi Modules Collection
-
-## Details
-
-- **Location**: Cabinet-3, Bin 17
-- **Category**: Wireless Modules
-- **Brand**: ITEAD Studio
-- **Chip**: ESP8285 (ESP8266 with integrated 1MB flash)
-- **Total Quantity**: 10 modules
-- **Models**: PSF-A85 and PSF-B85
 
 ## Description
 

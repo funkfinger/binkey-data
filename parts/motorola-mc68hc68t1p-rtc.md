@@ -1,41 +1,19 @@
 ---
-type: electronic-component
+type: other
 category: Real-Time Clock
 subcategory: RTC with RAM
-brand: Motorola
 part_number: MC68HC68T1P
 size: DIP-16
 color: Black
-location: [Cabinet-3/Bin-33/Section-A]
+location: Cabinet-3/Bin-33/Section-A
 quantity: 1
 status: available
-price_range: $5-15
-tags:
-  [
-    rtc,
-    real-time-clock,
-    ram,
-    serial-interface,
-    motorola,
-    dip-16,
-    vintage,
-    cabinet-3,
-    bin-33,
-    section-a,
-    status-available,
-  ]
+tags: [rtc, real-time-clock, ram, serial-interface, motorola, dip-16, vintage, cabinet-3, bin-33, section-a, status-available]
+price: $5-15
+manufacturer: Motorola
 ---
 
 # Motorola MC68HC68T1P Real-Time Clock
-
-## Details
-
-- **Location**: Cabinet-3, Bin 33, Section A
-- **Category**: Real-Time Clock
-- **Quantity**: 1
-- **Status**: Available
-- **Package**: 16-pin DIP (Dual In-line Package)
-- **Datasheet**: [MC68HC68T1 Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/4185/MOTOROLA/MC68HC68T1.html)
 
 ## Description
 

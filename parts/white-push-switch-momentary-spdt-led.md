@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: other
 category: Switches & Buttons
 subcategory: Push Button Switches
-brand: Generic
 part_number: A0303
 model: White Push Switch Momentary SPDT PCB Pins LED Mount
 description: White momentary push button switch with SPDT contacts, PCB pin mounting, and integrated LED mount for illuminated operation
@@ -15,12 +14,12 @@ power: 1.2W
 interface: [PCB Mount, LED Compatible]
 connectivity: [PCB, LED, Control circuits]
 compatibility: [Arduino, Raspberry Pi, General electronics, LED indicators, Control panels]
-location: [Cabinet-5/Bin-23/Section-A]
+location: Cabinet-5/Bin-23/Section-A
 quantity: 8
 status: available
-price_range: $1.09 per piece
 tags: [switches, buttons, push-button, momentary, spdt, led-mount, white, pcb-mount, cabinet-5, status-available]
 date_added: 2025-08-06
+price: $1.09 per piece
 ---
 
 # White Push Switch Momentary SPDT PCB Pins LED Mount

@@ -1,5 +1,5 @@
 ---
-type: part
+type: passive
 title: SMT Components - Resistors & Capacitors
 description: Collection of surface mount technology (SMT) resistors and capacitors for high-density PCB designs, miniaturization, and automated assembly applications
 manufacturer: Various
@@ -8,11 +8,11 @@ category: passive-components
 subcategory: smt-components
 tags: [smt, surface-mount, resistors, capacitors, 0603, 0805, 1206, miniaturization, pcb-assembly, automated-assembly]
 total_quantity: Various
-location: [cabinet-2-bin-43]
+location: Cabinet-2/Bin-43
 price: 15.00
 currency: USD
 date_added: 2025-01-09
-status: active
+status: available
 ---
 
 # SMT Components - Resistors & Capacitors

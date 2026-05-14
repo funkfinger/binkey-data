@@ -1,8 +1,7 @@
 ---
-type: electronic-component
+type: module
 category: Sensors & Transducers
 subcategory: Infrared Devices
-brand: Sharp
 part_number: GP1U5
 model: GP1U5 / GP1U521x IR Detector Block
 description: Integrated infrared receiver module for TV/VCR remote control applications
@@ -15,44 +14,17 @@ power: Low power
 interface: [Digital Output, Active Low]
 connectivity: [3-pin connection]
 compatibility: [Sony Remote Controls, 38KHz IR Systems, TV/VCR Applications]
-location: [Cabinet-5/Bin-32]
+location: Cabinet-5/Bin-32
 quantity: 1
 status: available
-price_range: $40-50
 datasheet: N/A
 product_url: https://www.ebay.com/itm/156148297589
-tags:
-  [
-    infrared-receiver,
-    ir-detector,
-    sharp,
-    gp1u5,
-    gp1u521x,
-    sony-compatible,
-    tv-vcr,
-    remote-control,
-    38khz,
-    cabinet-5,
-    bin-32,
-    status-available,
-  ]
+tags: [infrared-receiver, ir-detector, sharp, gp1u5, gp1u521x, sony-compatible, tv-vcr, remote-control, 38khz, cabinet-5, bin-32, status-available]
 date_added: 2025-01-23
-added_date: 2025-01-23
+price: $40-50
 ---
 
 # GP1U5 SHARP IR Detector Block
-
-## Details
-
-- **Location**: Cabinet-5, Bin 32
-- **Category**: Sensors & Transducers
-- **Brand**: Sharp Corporation
-- **Part Number**: GP1U5 / GP1U521x series
-- **Package**: DIP-3 / Block Module
-- **Quantity**: 1
-- **Status**: Available
-- **Price Range**: $40-50
-- **Product URL**: https://www.ebay.com/itm/156148297589
 
 ## Description
 
