@@ -18,6 +18,18 @@ tags:
 
 # OpenMV Cam H7 R2
 
+## Details
+
+- **Location**: Cabinet 3, Bin 27
+- **Category**: Cameras — Machine Vision
+- **Manufacturer**: OpenMV LLC
+- **Part Number**: OMV-CAM-H7-V2
+- **Quantity**: 1
+- **Status**: Available
+- **Price**: $80.00
+- **Datasheet**: [OpenMV H7 Datasheet](https://cdn.shopify.com/s/files/1/0803/9211/files/OpenMV-H7.pdf)
+- **Product URL**: [openmv.io](https://openmv.io/products/openmv-cam-h7-r2)
+
 High-performance machine vision camera module with Python programming support for computer vision and AI applications.
 
 ![OpenMV Cam H7 R2](../attachments/openmv-cam-h7-r2-product.jpg)
