@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import FrontmatterTable from "./FrontmatterTable"
+import SiteNotice from "./SiteNotice"
 
 export {
   ArticleTitle,
@@ -52,4 +53,5 @@ export {
   Flex,
   ConditionalRender,
   FrontmatterTable,
+  SiteNotice,
 }

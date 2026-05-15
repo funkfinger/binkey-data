@@ -161,6 +161,12 @@ a {
   }
 }
 
+.page-banner {
+  width: 100%;
+  max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
+  margin: 0 auto;
+}
+
 .page {
   max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
