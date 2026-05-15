@@ -194,4 +194,27 @@ function FrontmatterTable({ fileData }: QuartzComponentProps) {
 
 FrontmatterTable.css = style
 
+FrontmatterTable.afterDOMLoaded = `
+  function moveFmTable() {
+    const table = document.querySelector(".frontmatter-table")
+    const quartzBody = document.getElementById("quartz-body")
+    if (!quartzBody || !quartzBody.parentNode) return
+
+    // Remove any previous banner (SPA navigation cleanup)
+    const existing = quartzBody.parentNode.querySelector(".fm-banner")
+    if (existing) existing.remove()
+
+    // Only create banner if there's a table to show
+    if (!table) return
+
+    const banner = document.createElement("div")
+    banner.className = "fm-banner"
+    banner.appendChild(table)
+    quartzBody.parentNode.insertBefore(banner, quartzBody)
+  }
+
+  moveFmTable()
+  document.addEventListener("nav", moveFmTable)
+`
+
 export default (() => FrontmatterTable) satisfies QuartzComponentConstructor

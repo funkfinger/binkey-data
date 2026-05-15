@@ -1,5 +1,19 @@
 @use "../../styles/variables.scss" as *;
 
+// Banner wrapper — inserted before #quartz-body by JS, spans full page width
+.fm-banner {
+  width: 100%;
+
+  .frontmatter-table {
+    margin: 0;
+    border-radius: 0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid var(--lightgray);
+  }
+}
+
 .frontmatter-table {
   margin: 0.75rem 0 1.5rem 0;
   border: 1px solid var(--lightgray);
