@@ -187,6 +187,18 @@ SMT Parts Book 1 contains various surface-mount technology (SMT) components stor
 | 11   | 1µF Cap   | 1µF capacitor   |
 | 12   | 1µF Cap   | 1µF capacitor   |
 
+### Page 21
+
+| Slot | Component                      | Quantity | Details                                      |
+| ---- | ------------------------------ | -------- | -------------------------------------------- |
+| 1-12 | 5050 RGB WS2811 LEDs           | Many     | Addressable 5050 RGB SMT LEDs with integrated WS2811 driver |
+
+### Page 22
+
+| Slot | Component                      | Quantity | Details                                      |
+| ---- | ------------------------------ | -------- | -------------------------------------------- |
+| 1-12 | 5050 RGB WS2811 LEDs           | Many     | Addressable 5050 RGB SMT LEDs with integrated WS2811 driver |
+
 ## Storage Notes
 
 - Keep sleeves in protective case to prevent damage
