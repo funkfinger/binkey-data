@@ -729,6 +729,7 @@ This folder contains detailed specifications for each individual electronic comp
 ### Cable Management
 
 - [[nail-in-cable-clips-15plus]]
+- [[mgi-speedware-14-npt-cable-gland]]
 
 ## Adapters & Cables
 
