@@ -175,6 +175,11 @@ a {
       font-size: 2rem;
     }
 
+    // Parts pages use the design-spec title sizing
+    &.popover-hint {
+      // handled below
+    }
+
     & li:has(> input[type="checkbox"]) {
       list-style-type: none;
       padding-left: 0;

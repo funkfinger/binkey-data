@@ -2,6 +2,60 @@
 
 @use "themes"; // I (JW) added this!
 
+// ─── BinKey design refresh ────────────────────────────────────────────────────
+
+// Title H1 — 60px / 0.95 lh / 500 wt / -0.025em per design spec
+h1 {
+  font-size: 3.75rem !important; // 60px
+  line-height: 0.95 !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.025em !important;
+}
+
+// Breadcrumb — monospace, small, uppercase (matches design)
+.breadcrumb-container {
+  font-family: var(--codeFont);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin-bottom: 0;
+}
+
+// ContentMeta — date/read-time in mono
+.content-meta {
+  font-family: var(--codeFont);
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  color: var(--gray);
+}
+
+// Tags list below article — mono chip style matching design
+.tags ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.tags ul li a {
+  font-family: var(--codeFont);
+  font-size: 10px;
+  padding: 3px 8px;
+  border: 1px solid var(--lightgray);
+  color: var(--darkgray);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  border-radius: 0 !important; // no border-radius per spec
+}
+
+// Global: no border-radius on buttons and inputs
+button, input {
+  border-radius: 0 !important;
+}
+
 // Custom styles for binkey-data Electronics Inventory
 
 // Electronics component styling
