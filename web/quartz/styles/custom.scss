@@ -56,6 +56,58 @@ button, input {
   border-radius: 0 !important;
 }
 
+// ─── Grid override: drop left sidebar ────────────────────────────────────────
+// Left sidebar is empty — collapse to a 2-column layout (content + right TOC)
+#quartz-body {
+  // desktop: content takes full width, right panel stays
+  @media all and (min-width: 900px) {
+    grid-template-columns: auto 320px !important;
+    grid-template-areas:
+      "grid-header grid-sidebar-right"
+      "grid-center grid-sidebar-right"
+      "grid-footer grid-sidebar-right" !important;
+  }
+
+  // tablet/mobile: single column
+  @media all and (max-width: 899px) {
+    grid-template-columns: auto !important;
+    grid-template-areas:
+      "grid-header"
+      "grid-center"
+      "grid-sidebar-right"
+      "grid-footer" !important;
+  }
+}
+
+// Hide the empty left sidebar div (it renders but has no children)
+.sidebar.left {
+  display: none !important;
+}
+
+// Hide the Search and Darkmode rendered in afterBody — they only need to exist
+// for JS/CSS loading; the visible controls are in BinkeyNav
+.page-footer > .search,
+.page-footer > .darkmode,
+.page-footer > .readermode {
+  display: none;
+}
+
+// Right sidebar: TOC + backlinks, clean mono headings
+.sidebar.right {
+  padding-top: 2rem;
+  gap: 1.5rem;
+}
+
+// Footer — minimal, remove Discord link
+footer {
+  border-top: 1px solid var(--lightgray);
+  padding: 1rem 28px;
+  font-family: var(--codeFont);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--gray);
+}
+
 // Custom styles for binkey-data Electronics Inventory
 
 // Electronics component styling

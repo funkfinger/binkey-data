@@ -46,6 +46,22 @@ const BinkeyNav: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   )
 }
 
+BinkeyNav.afterDOMLoaded = `
+  // Wire the SEARCH button to trigger Quartz's search modal
+  function setupSearch() {
+    const searchHint = document.querySelector(".bk-search-hint")
+    if (!searchHint) return
+    searchHint.addEventListener("click", () => {
+      const quartzSearchBtn = document.querySelector(".search button")
+      if (quartzSearchBtn) quartzSearchBtn.click()
+      else document.dispatchEvent(new KeyboardEvent("keydown", { key: "k", metaKey: true }))
+    })
+    searchHint.style.cursor = "pointer"
+  }
+  setupSearch()
+  document.addEventListener("nav", setupSearch)
+`
+
 BinkeyNav.css = `
   .bk-nav {
     display: flex;
