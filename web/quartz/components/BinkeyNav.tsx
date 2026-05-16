@@ -3,23 +3,23 @@
 // Nav links map to Quartz folder pages: parts/, am-cabinet-*.md, etc.
 
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { pathToRoot } from "../util/path"
+import { FullSlug, pathToRoot, resolveRelative } from "../util/path"
 
 const BinkeyNav: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-  const base = pathToRoot(fileData.slug!)
+  const slug = fileData.slug!
 
   const navLinks = [
-    { label: "Catalog",   href: `${base}parts/` },
-    { label: "Cabinets",  href: `${base}am-cabinet-1` },
-    { label: "Boxes",     href: `${base}tags/kit` },
-    { label: "Books",     href: `${base}tags/smt` },
-    { label: "Tags",      href: `${base}tags/` },
+    { label: "Catalog",  slug: "parts/index" as FullSlug },
+    { label: "Cabinets", slug: "am-cabinet-3" as FullSlug },
+    { label: "Boxes",    slug: "tags/kit"     as FullSlug },
+    { label: "Books",    slug: "tags/smt"     as FullSlug },
+    { label: "Tags",     slug: "tags/index"   as FullSlug },
   ]
 
   return (
     <div class="bk-nav">
       {/* Wordmark */}
-      <a href={`${base}`} class="bk-wordmark">
+      <a href={pathToRoot(slug)} class="bk-wordmark">
         <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
           <rect x="0.75" y="0.75" width="16.5" height="16.5" stroke="currentColor" stroke-width="1.5" />
           <circle cx="6" cy="9" r="2.2" stroke="currentColor" stroke-width="1.5" />
@@ -32,8 +32,8 @@ const BinkeyNav: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
       {/* Nav links */}
       <nav class="bk-nav-links">
-        {navLinks.map(({ label, href }) => (
-          <a href={href} class="bk-nav-link">{label}</a>
+        {navLinks.map(({ label, slug: target }) => (
+          <a href={resolveRelative(slug, target)} class="bk-nav-link">{label}</a>
         ))}
       </nav>
 
