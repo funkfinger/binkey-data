@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import FrontmatterTable from "./FrontmatterTable"
 import SiteNotice from "./SiteNotice"
+import BinkeyNav from "./BinkeyNav"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   FrontmatterTable,
   SiteNotice,
+  BinkeyNav,
 }
