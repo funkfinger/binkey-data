@@ -28,32 +28,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Space Grotesk",
+        body: "Space Grotesk",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#0969da", // GitHub blue for electronics theme
-          tertiary: "#28a745", // Green for available components
-          highlight: "rgba(9, 105, 218, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#F4F2EC",       // paper — off-white, near-zero chroma
+          lightgray: "rgba(12,12,10,0.13)", // rule
+          gray: "rgba(12,12,10,0.45)",      // ink50
+          darkgray: "rgba(12,12,10,0.70)",  // ink70
+          dark: "#0C0C0A",        // ink — near-black
+          secondary: "#c1440e",   // passive rust (default accent)
+          tertiary: "oklch(0.62 0.18 152)", // sensor green — used for "available"
+          highlight: "rgba(193,68,14,0.08)",
+          textHighlight: "rgba(193,68,14,0.18)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#58a6ff", // Lighter blue for dark mode
-          tertiary: "#56d364", // Lighter green for dark mode
-          highlight: "rgba(88, 166, 255, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1A1916",       // dark paper
+          lightgray: "rgba(244,242,236,0.13)",
+          gray: "rgba(244,242,236,0.45)",
+          darkgray: "rgba(244,242,236,0.70)",
+          dark: "#F4F2EC",        // light ink on dark
+          secondary: "#e8673a",   // warmer rust on dark
+          tertiary: "oklch(0.72 0.16 152)",
+          highlight: "rgba(232,103,58,0.12)",
+          textHighlight: "rgba(232,103,58,0.22)",
         },
       },
     },

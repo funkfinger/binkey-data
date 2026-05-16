@@ -19,26 +19,30 @@ const SiteNotice: QuartzComponent = () => {
 SiteNotice.css = `
   .site-notice {
     width: 100%;
-    background-color: color-mix(in srgb, #e8a000 12%, var(--light));
-    border-bottom: 2px solid color-mix(in srgb, #e8a000 50%, transparent);
+    background: var(--light);
+    border-bottom: 1px solid var(--lightgray);
   }
 
   .site-notice-inner {
     display: flex;
     align-items: baseline;
     gap: 0.5rem;
-    padding: 0.6rem 1.5rem;
-    font-size: 0.875rem;
-    color: var(--darkgray);
+    padding: 7px 28px;
+    font-family: var(--codeFont);
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    color: var(--gray);
     max-width: 100%;
   }
 
   .site-notice-icon {
     flex-shrink: 0;
+    font-size: 11px;
   }
 
   .site-notice-text strong {
     color: var(--dark);
+    font-weight: 600;
   }
 `
 

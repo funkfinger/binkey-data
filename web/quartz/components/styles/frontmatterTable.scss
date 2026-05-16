@@ -1,168 +1,336 @@
 @use "../../styles/variables.scss" as *;
 
-// Banner wrapper — inserted before #quartz-body by JS, spans full page width
-.fm-banner {
-  width: 100%;
-
-  .frontmatter-table {
-    margin: 0;
-    border-radius: 0;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 2px solid var(--lightgray);
-  }
-}
-
-.frontmatter-table {
-  margin: 0.75rem 0 1.5rem 0;
+// ─── Root wrapper ────────────────────────────────────────────────────────────
+.fm-root {
+  position: relative;
+  display: flex;
   border: 1px solid var(--lightgray);
-  border-radius: 6px;
+  border-radius: 0;
+  margin: 0 0 1.5rem 0;
+  background: var(--light);
   overflow: hidden;
-  font-size: 0.875rem;
-  line-height: 1.4;
 }
 
-.fm-table {
-  width: 100%;
-  border-collapse: collapse;
-  table-layout: fixed;
+.fm-stripe {
+  width: 5px;
+  flex-shrink: 0;
+  background: var(--accent, var(--secondary));
 }
 
-.fm-row {
-  border-bottom: 1px solid var(--lightgray);
-
-  &:last-child {
-    border-bottom: none;
-  }
-
-  &:nth-child(even) {
-    background-color: color-mix(in srgb, var(--lightgray) 25%, var(--light) 75%);
-  }
+.fm-inner {
+  flex: 1;
+  min-width: 0;
 }
 
-.fm-label {
-  width: 9rem;
-  padding: 0.4rem 0.75rem;
-  font-weight: 600;
+// ─── Category chip ────────────────────────────────────────────────────────────
+.fm-chip {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 10px 18px 0;
+  font-family: var(--codeFont);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.fm-chip-dot {
+  width: 9px;
+  height: 9px;
+  flex-shrink: 0;
+}
+
+.fm-chip-type {
   color: var(--darkgray);
-  background-color: color-mix(in srgb, var(--lightgray) 40%, var(--light) 60%);
-  vertical-align: top;
-  text-align: left;
-  white-space: nowrap;
-  border-right: 1px solid var(--lightgray);
+}
+
+.fm-chip-sep {
+  opacity: 0.5;
+}
+
+.fm-chip-label {
+  color: var(--darkgray);
+}
+
+// ─── Hero band ───────────────────────────────────────────────────────────────
+.fm-hero-band {
+  display: grid;
+  grid-template-columns: 1.6fr 0.65fr 1.4fr;
+  border-bottom: 1px solid var(--lightgray);
+  margin-top: 0;
+
+  @media all and #{$tablet} {
+    grid-template-columns: 1fr 1fr;
+  }
 
   @media all and #{$mobile} {
-    width: 6.5rem;
-    font-size: 0.8rem;
+    grid-template-columns: 1fr;
   }
 }
 
-.fm-value {
-  padding: 0.4rem 0.75rem;
-  color: var(--darkgray);
-  word-break: break-word;
-  vertical-align: top;
+.fm-hero-cell {
+  padding: 18px 18px;
+  border-right: 1px solid var(--lightgray);
+
+  &:last-child {
+    border-right: none;
+  }
+
+  @media all and #{$mobile} {
+    border-right: none;
+    border-bottom: 1px solid var(--lightgray);
+    &:last-child { border-bottom: none; }
+  }
 }
 
-// Location breadcrumb
-.fm-location-crumb {
-  display: inline-flex;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.fm-sep {
+.fm-hero-cell-label {
+  font-family: var(--codeFont);
+  font-size: 9px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
   color: var(--gray);
-  margin: 0 0.2rem;
+  margin-bottom: 14px;
 }
 
-.fm-loc-comma {
+// Location lockup
+.fm-loc-lockup {
+  display: flex;
+  align-items: flex-end;
+  gap: 0;
+  font-family: var(--codeFont);
+  font-weight: 500;
+}
+
+.fm-loc-slash {
+  font-size: 2.2rem;
+  color: var(--lightgray);
+  padding: 0 6px;
+  line-height: 1;
+  align-self: flex-end;
+}
+
+.fm-loc-part {
+  display: flex;
+  flex-direction: column;
+}
+
+.fm-loc-label {
+  font-family: var(--codeFont);
+  font-size: 9px;
+  letter-spacing: 0.18em;
   color: var(--gray);
-  margin-right: 0.4rem;
+  margin-bottom: 2px;
 }
 
-.fm-loc-link {
-  color: var(--secondary) !important;
-  background: none !important;
+.fm-loc-value {
+  font-size: 2.2rem;
+  line-height: 0.9;
+  color: var(--dark);
   text-decoration: none;
+  font-weight: 500;
 
-  &:hover {
-    text-decoration: underline;
-    color: var(--tertiary) !important;
-  }
-}
-
-.fm-loc-segment {
-  color: var(--darkgray);
-}
-
-// Status badge
-.fm-status {
-  display: inline-block;
-  padding: 0.1rem 0.45rem;
-  border-radius: 4px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-transform: capitalize;
-  border: 1px solid transparent;
-
-  &.status-available {
-    background-color: color-mix(in srgb, var(--tertiary) 18%, transparent);
-    color: var(--tertiary);
-    border-color: color-mix(in srgb, var(--tertiary) 35%, transparent);
-  }
-
-  &.status-low {
-    background-color: color-mix(in srgb, #e8a000 15%, transparent);
-    color: #a07000;
-    border-color: color-mix(in srgb, #e8a000 40%, transparent);
-  }
-
-  &.status-out {
-    background-color: color-mix(in srgb, var(--gray) 18%, transparent);
-    color: var(--gray);
-    border-color: color-mix(in srgb, var(--gray) 35%, transparent);
-  }
-}
-
-// External URLs
-.fm-url {
-  color: var(--secondary) !important;
-  text-decoration: none;
-  word-break: break-all;
-
-  &:hover {
-    text-decoration: underline;
-    color: var(--tertiary) !important;
-  }
-}
-
-// Tags
-.fm-tags {
-  display: table-cell;
-  vertical-align: top;
-}
-
-.fm-tag {
-  display: inline-block;
-  margin: 0.1rem 0.2rem 0.1rem 0;
-  padding: 0.1rem 0.4rem;
-  background-color: var(--highlight);
-  border-radius: 4px;
-  font-size: 0.78rem;
-  color: var(--secondary) !important;
-  white-space: nowrap;
-  text-decoration: none;
-
-  &:hover {
-    background-color: color-mix(in srgb, var(--secondary) 15%, transparent);
-    color: var(--secondary) !important;
+  &.internal:hover {
     text-decoration: underline;
   }
 }
 
 // Quantity
-.fm-qty {
-  font-weight: 600;
+.fm-hero-qty {
+  background: color-mix(in srgb, var(--lightgray) 15%, var(--light) 85%);
+}
+
+.fm-qty-big {
+  font-family: var(--codeFont);
+  font-size: 3rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  color: var(--dark);
+}
+
+.fm-qty-unit {
+  font-size: 12px;
+  color: var(--gray);
+  margin-top: 4px;
+}
+
+.fm-status-pill {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 2px 8px;
+  font-family: var(--codeFont);
+  font-size: 9.5px;
+  letter-spacing: 0.08em;
+  text-transform: capitalize;
+  border: 1px solid var(--lightgray);
+  color: var(--darkgray);
+
+  &.fm-status-available {
+    color: oklch(0.55 0.15 152);
+    border-color: oklch(0.55 0.15 152);
+  }
+  &.fm-status-low-stock {
+    color: oklch(0.55 0.15 68);
+    border-color: oklch(0.55 0.15 68);
+  }
+  &.fm-status-out-of-stock {
+    color: var(--gray);
+  }
+}
+
+// Resources
+.fm-resource-tiles {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fm-resource-tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px 12px;
+  min-height: 64px;
+  text-decoration: none;
+  color: var(--dark);
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  transition: border-color 0.15s;
+
+  &:hover {
+    border-color: var(--accent, var(--secondary));
+  }
+}
+
+.fm-resource-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.fm-resource-kind {
+  font-family: var(--codeFont);
+  font-size: 9px;
+  letter-spacing: 0.14em;
+  color: var(--gray);
+}
+
+.fm-resource-symbol {
+  font-size: 15px;
+  line-height: 1;
+}
+
+.fm-resource-label {
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 4px;
+}
+
+// ─── Summary + Tags band ─────────────────────────────────────────────────────
+.fm-summary-band {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 28px;
+  padding: 16px 18px;
+  border-bottom: 1px solid var(--lightgray);
+  align-items: start;
+
+  @media all and #{$mobile} {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+}
+
+.fm-band-label {
+  font-family: var(--codeFont);
+  font-size: 9px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin-bottom: 10px;
+}
+
+.fm-summary-text {
+  font-size: 13.5px;
+  line-height: 1.55;
+  margin: 0;
+  color: var(--darkgray);
+}
+
+.fm-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.fm-tag {
+  font-family: var(--codeFont);
+  font-size: 10px;
+  padding: 3px 8px;
+  border: 1px solid var(--lightgray);
+  color: var(--darkgray);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  transition: border-color 0.15s, color 0.15s;
+
+  &:hover {
+    border-color: var(--accent, var(--secondary));
+    color: var(--accent, var(--secondary));
+  }
+}
+
+// ─── Specs band ───────────────────────────────────────────────────────────────
+.fm-specs-band {
+  padding: 14px 18px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0 20px;
+  align-items: start;
+}
+
+.fm-specs-label {
+  font-family: var(--codeFont);
+  font-size: 9px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gray);
+  padding-top: 2px;
+  white-space: nowrap;
+}
+
+.fm-specs-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 24px;
+}
+
+.fm-spec-item {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  padding: 4px 0;
+  border-bottom: 1px dashed var(--lightgray);
+  width: 100%;
+  font-size: 12px;
+
+  @media all and #{$desktop} {
+    width: calc(50% - 12px);
+  }
+}
+
+.fm-spec-key {
+  font-family: var(--codeFont);
+  font-size: 10.5px;
+  color: var(--gray);
+  flex-shrink: 0;
+  min-width: 7rem;
+}
+
+.fm-spec-val {
+  font-family: var(--codeFont);
+  color: var(--dark);
+  text-align: right;
+  flex: 1;
+  word-break: break-word;
 }
