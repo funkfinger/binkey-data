@@ -44,16 +44,17 @@ const config: QuartzConfig = {
           highlight: "rgba(193,68,14,0.08)",
           textHighlight: "rgba(193,68,14,0.18)",
         },
+        // Dark mode forced to match light mode — site is light-only
         darkMode: {
-          light: "#1A1916",       // dark paper
-          lightgray: "rgba(244,242,236,0.13)",
-          gray: "rgba(244,242,236,0.45)",
-          darkgray: "rgba(244,242,236,0.70)",
-          dark: "#F4F2EC",        // light ink on dark
-          secondary: "#e8673a",   // warmer rust on dark
-          tertiary: "oklch(0.72 0.16 152)",
-          highlight: "rgba(232,103,58,0.12)",
-          textHighlight: "rgba(232,103,58,0.22)",
+          light: "#F4F2EC",
+          lightgray: "rgba(12,12,10,0.13)",
+          gray: "rgba(12,12,10,0.45)",
+          darkgray: "rgba(12,12,10,0.70)",
+          dark: "#0C0C0A",
+          secondary: "#c1440e",
+          tertiary: "oklch(0.62 0.18 152)",
+          highlight: "rgba(193,68,14,0.08)",
+          textHighlight: "rgba(193,68,14,0.18)",
         },
       },
     },

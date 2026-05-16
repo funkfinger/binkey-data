@@ -1,74 +1,35 @@
 @use "./base.scss";
+// Note: @use "themes" removed — it imported old neon Quartz accent vars
 
-@use "themes"; // I (JW) added this!
+// ─── BinKey design system overrides ──────────────────────────────────────────
 
-// ─── BinKey design refresh ────────────────────────────────────────────────────
-
-// Title H1 — 60px / 0.95 lh / 500 wt / -0.025em per design spec
-h1 {
-  font-size: 3.75rem !important; // 60px
-  line-height: 0.95 !important;
-  font-weight: 500 !important;
-  letter-spacing: -0.025em !important;
+// Force light mode — dark class gets the same vars as light
+html, html.dark {
+  --light:     #F4F2EC;
+  --lightgray: rgba(12, 12, 10, 0.13);
+  --gray:      rgba(12, 12, 10, 0.45);
+  --darkgray:  rgba(12, 12, 10, 0.70);
+  --dark:      #0C0C0A;
+  --secondary: #c1440e;
+  --tertiary:  oklch(0.62 0.18 152);
+  --highlight: rgba(193, 68, 14, 0.08);
+  --textHighlight: rgba(193, 68, 14, 0.18);
 }
 
-// Breadcrumb — monospace, small, uppercase (matches design)
-.breadcrumb-container {
-  font-family: var(--codeFont);
-  font-size: 10.5px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--gray);
-  margin-bottom: 0;
-}
+// Hide darkmode toggle — site is light-only
+.darkmode, .readermode { display: none !important; }
 
-// ContentMeta — date/read-time in mono
-.content-meta {
-  font-family: var(--codeFont);
-  font-size: 10.5px;
-  letter-spacing: 0.06em;
-  color: var(--gray);
-}
+// ─── Grid: drop left sidebar, 2-column (content + TOC) ───────────────────────
+.sidebar.left { display: none !important; }
 
-// Tags list below article — mono chip style matching design
-.tags ul {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.tags ul li a {
-  font-family: var(--codeFont);
-  font-size: 10px;
-  padding: 3px 8px;
-  border: 1px solid var(--lightgray);
-  color: var(--darkgray);
-  text-decoration: none;
-  letter-spacing: 0.04em;
-  border-radius: 0 !important; // no border-radius per spec
-}
-
-// Global: no border-radius on buttons and inputs
-button, input {
-  border-radius: 0 !important;
-}
-
-// ─── Grid override: drop left sidebar ────────────────────────────────────────
-// Left sidebar is empty — collapse to a 2-column layout (content + right TOC)
 #quartz-body {
-  // desktop: content takes full width, right panel stays
   @media all and (min-width: 900px) {
-    grid-template-columns: auto 320px !important;
+    grid-template-columns: auto 280px !important;
     grid-template-areas:
       "grid-header grid-sidebar-right"
       "grid-center grid-sidebar-right"
       "grid-footer grid-sidebar-right" !important;
   }
-
-  // tablet/mobile: single column
   @media all and (max-width: 899px) {
     grid-template-columns: auto !important;
     grid-template-areas:
@@ -79,26 +40,95 @@ button, input {
   }
 }
 
-// Hide the empty left sidebar div (it renders but has no children)
-.sidebar.left {
-  display: none !important;
-}
-
-// Hide the Search and Darkmode rendered in afterBody — they only need to exist
-// for JS/CSS loading; the visible controls are in BinkeyNav
+// Search + darkmode in afterBody — invisible, just load the JS
 .page-footer > .search,
 .page-footer > .darkmode,
-.page-footer > .readermode {
-  display: none;
+.page-footer > .readermode { display: none !important; }
+
+// ─── Typography ───────────────────────────────────────────────────────────────
+
+// Title H1 — 60px / 0.95lh / 500wt / -0.025em (design spec)
+h1 {
+  font-size: 3.75rem !important;
+  line-height: 0.95 !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.025em !important;
 }
 
-// Right sidebar: TOC + backlinks, clean mono headings
+// Body prose — Space Grotesk, 16px / 1.5
+p, li, td, th {
+  font-family: var(--bodyFont);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+// ─── Breadcrumb ───────────────────────────────────────────────────────────────
+.breadcrumb-container {
+  font-family: var(--codeFont);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gray);
+  margin-bottom: 0;
+}
+
+// ─── ContentMeta (date / read time) ──────────────────────────────────────────
+.content-meta {
+  font-family: var(--codeFont);
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  color: var(--gray);
+}
+
+// ─── Tag list (below article) ────────────────────────────────────────────────
+.tags ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.tags ul li a {
+  font-family: var(--codeFont);
+  font-size: 10px;
+  padding: 3px 8px;
+  border: 1px solid var(--lightgray);
+  color: var(--darkgray);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  border-radius: 0;
+  background: transparent;
+}
+
+// ─── Global: no border-radius, no shadows (design spec) ──────────────────────
+*, *::before, *::after {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+// ─── Links ────────────────────────────────────────────────────────────────────
+a {
+  color: var(--secondary);
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
+
+// Internal wiki links
+.internal {
+  background: transparent !important;
+  color: var(--secondary);
+}
+
+// ─── Right sidebar ───────────────────────────────────────────────────────────
 .sidebar.right {
   padding-top: 2rem;
   gap: 1.5rem;
+  font-family: var(--codeFont);
+  font-size: 12px;
 }
 
-// Footer — minimal, remove Discord link
+// ─── Footer ──────────────────────────────────────────────────────────────────
 footer {
   border-top: 1px solid var(--lightgray);
   padding: 1rem 28px;
@@ -106,190 +136,52 @@ footer {
   font-size: 10px;
   letter-spacing: 0.08em;
   color: var(--gray);
-}
-
-// Custom styles for binkey-data Electronics Inventory
-
-// Electronics component styling
-/*
-.electronics-component {
-  border: 1px solid var(--lightgray);
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin: 1rem 0;
   background: var(--light);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-// Cabinet information styling
-.cabinet-info {
-  background: linear-gradient(135deg, var(--secondary) 0%, rgba(9, 105, 218, 0.1) 100%);
-  padding: 1rem;
-  border-left: 4px solid var(--secondary);
-  border-radius: 0 8px 8px 0;
-  margin: 1rem 0;
-}
-
-// Improve image display for component photos
+// ─── Images ──────────────────────────────────────────────────────────────────
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
-
-  &:hover {
-    transform: scale(1.02);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
-  }
+  border-radius: 0 !important;
+  box-shadow: none !important;
 }
 
-// Component specifications table styling
-table {
-  border-collapse: collapse;
+// ─── Tables (article body) ────────────────────────────────────────────────────
+article table {
   width: 100%;
+  border-collapse: collapse;
+  font-family: var(--codeFont);
+  font-size: 12.5px;
   margin: 1rem 0;
 
-  th,
-  td {
-    border: 1px solid var(--lightgray);
-    padding: 0.75rem;
+  th {
+    font-size: 9.5px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gray);
+    border-bottom: 1px solid var(--dark);
+    padding: 6px 8px;
+    font-weight: 500;
     text-align: left;
   }
 
-  th {
-    background: var(--secondary);
-    color: white;
-    font-weight: 600;
-  }
-
-  tr:nth-child(even) {
-    background: rgba(9, 105, 218, 0.05);
+  td {
+    padding: 8px 8px;
+    border-bottom: 1px solid var(--lightgray);
+    vertical-align: top;
+    font-size: 12.5px;
   }
 }
 
-// Bin organization styling
-.bin-section {
-  background: var(--light);
-  border: 1px solid var(--lightgray);
-  border-radius: 8px;
-  padding: 1rem;
-  margin: 0.5rem 0;
-
-  h3 {
-    color: var(--secondary);
-    margin-top: 0;
-    border-bottom: 2px solid var(--secondary);
-    padding-bottom: 0.5rem;
-  }
+// ─── Page header (breadcrumb + title zone) ───────────────────────────────────
+.page-header {
+  padding: 0 28px;
+  @media all and (max-width: 899px) { padding: 0 18px; }
 }
 
-// Status indicators
-.status-available {
-  color: var(--tertiary);
-  font-weight: 600;
+// ─── Search modal ─────────────────────────────────────────────────────────────
+// Keep search modal usable when triggered via ⌘K
+.search-container {
+  font-family: var(--codeFont) !important;
 }
-
-.status-todo {
-  color: #ff6b35;
-  font-weight: 600;
-}
-
-.status-pending {
-  color: #ffa500;
-  font-weight: 600;
-}
-
-// Quantity badges
-.quantity-badge {
-  background: var(--tertiary);
-  color: white;
-  padding: 0.25rem 0.5rem;
-  border-radius: 12px;
-  font-size: 0.875rem;
-  font-weight: 600;
-  display: inline-block;
-  margin-left: 0.5rem;
-}
-
-// Cabinet overview cards
-.cabinet-card {
-  background: var(--light);
-  border: 2px solid var(--lightgray);
-  border-radius: 12px;
-  padding: 1.5rem;
-  margin: 1rem 0;
-  transition:
-    border-color 0.2s ease,
-    box-shadow 0.2s ease;
-
-  &:hover {
-    border-color: var(--secondary);
-    box-shadow: 0 4px 16px rgba(9, 105, 218, 0.1);
-  }
-
-  h3 {
-    color: var(--secondary);
-    margin-top: 0;
-  }
-}
-
-// Tag styling for electronics categories
-.tag {
-  background: rgba(9, 105, 218, 0.1);
-  color: var(--secondary);
-  padding: 0.25rem 0.5rem;
-  border-radius: 6px;
-  font-size: 0.875rem;
-  margin: 0.25rem;
-  display: inline-block;
-  border: 1px solid rgba(9, 105, 218, 0.2);
-}
-
-// Wikilink styling for component references
-a[data-slug] {
-  color: var(--secondary);
-  text-decoration: none;
-  border-bottom: 1px dotted var(--secondary);
-  transition: all 0.2s ease;
-
-  &:hover {
-    background: rgba(9, 105, 218, 0.1);
-    border-bottom: 1px solid var(--secondary);
-    padding: 0.125rem 0.25rem;
-    border-radius: 4px;
-  }
-}
-
-// Search results styling
-.search-result {
-  border-left: 3px solid var(--secondary);
-  padding-left: 1rem;
-  margin: 0.5rem 0;
-}
-
-// Responsive design for mobile
-@media (max-width: 768px) {
-  .electronics-component,
-  .cabinet-card {
-    padding: 1rem;
-    margin: 0.5rem 0;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  table {
-    font-size: 0.875rem;
-
-    th,
-    td {
-      padding: 0.5rem;
-    }
-  }
-}
-*/
