@@ -124,9 +124,9 @@ function FrontmatterTable({ fileData }: QuartzComponentProps) {
   // Tags
   const tags: string[] = Array.isArray(fm.tags) ? fm.tags.map(String) : []
 
-  // Specs — pull any remaining interesting fields
+  // Specs — technical fields only; price/status/date_added are out of scope per design
   const specFields: [string, string][] = []
-  const specKeys = ["manufacturer", "part_number", "package", "voltage", "current", "interface", "date_added"]
+  const specKeys = ["manufacturer", "part_number", "package", "voltage", "current", "interface", "size", "compatibility"]
   const specLabels: Record<string, string> = {
     manufacturer: "Manufacturer",
     part_number: "Part №",
@@ -134,7 +134,8 @@ function FrontmatterTable({ fileData }: QuartzComponentProps) {
     voltage: "Voltage",
     current: "Current",
     interface: "Interface",
-    date_added: "Added",
+    size: "Size",
+    compatibility: "Compatible with",
   }
   for (const k of specKeys) {
     const v = fm[k]
@@ -179,12 +180,7 @@ function FrontmatterTable({ fileData }: QuartzComponentProps) {
             <div class="fm-hero-cell fm-hero-qty">
               <div class="fm-hero-cell-label">ON HAND</div>
               <div class="fm-qty-big">{String(fm.quantity)}</div>
-              <div class="fm-qty-unit">units</div>
-              {!isBlank(fm.status) && (
-                <div class={`fm-status-pill fm-status-${String(fm.status).toLowerCase().replace(/\s+/g, "-")}`}>
-                  {String(fm.status)}
-                </div>
-              )}
+              <div class="fm-qty-unit">{(fm.quantityUnit as string | undefined) ?? "units"}</div>
             </div>
           )}
 
@@ -236,12 +232,7 @@ function FrontmatterTable({ fileData }: QuartzComponentProps) {
                   <span class="fm-spec-val">{v}</span>
                 </div>
               ))}
-              {!isBlank(fm.price) && (
-                <div class="fm-spec-item">
-                  <span class="fm-spec-key">Price</span>
-                  <span class="fm-spec-val">{String(fm.price)}</span>
-                </div>
-              )}
+              {/* price removed — out of scope per design spec */}
             </div>
           </div>
         )}

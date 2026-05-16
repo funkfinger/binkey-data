@@ -5,14 +5,14 @@
   position: relative;
   display: flex;
   border: 1px solid var(--lightgray);
-  border-radius: 0;
+  border-radius: 0; // no border-radius per design spec
   margin: 0 0 1.5rem 0;
   background: var(--light);
   overflow: hidden;
 }
 
 .fm-stripe {
-  width: 5px;
+  width: 6px; // 6px per design spec
   flex-shrink: 0;
   background: var(--accent, var(--secondary));
 }
@@ -56,7 +56,7 @@
 // ─── Hero band ───────────────────────────────────────────────────────────────
 .fm-hero-band {
   display: grid;
-  grid-template-columns: 1.6fr 0.65fr 1.4fr;
+  grid-template-columns: 1.5fr 0.7fr 1.8fr; // per design spec
   border-bottom: 1px solid var(--lightgray);
   margin-top: 0;
 
@@ -103,9 +103,9 @@
 }
 
 .fm-loc-slash {
-  font-size: 2.2rem;
+  font-size: 3rem;
   color: var(--lightgray);
-  padding: 0 6px;
+  padding: 0 8px;
   line-height: 1;
   align-self: flex-end;
 }
@@ -124,7 +124,7 @@
 }
 
 .fm-loc-value {
-  font-size: 2.2rem;
+  font-size: 3rem; // 48px per design spec
   line-height: 0.9;
   color: var(--dark);
   text-decoration: none;
@@ -142,7 +142,7 @@
 
 .fm-qty-big {
   font-family: var(--codeFont);
-  font-size: 3rem;
+  font-size: 3rem; // 48px per design spec
   font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1;
@@ -155,29 +155,7 @@
   margin-top: 4px;
 }
 
-.fm-status-pill {
-  display: inline-block;
-  margin-top: 8px;
-  padding: 2px 8px;
-  font-family: var(--codeFont);
-  font-size: 9.5px;
-  letter-spacing: 0.08em;
-  text-transform: capitalize;
-  border: 1px solid var(--lightgray);
-  color: var(--darkgray);
-
-  &.fm-status-available {
-    color: oklch(0.55 0.15 152);
-    border-color: oklch(0.55 0.15 152);
-  }
-  &.fm-status-low-stock {
-    color: oklch(0.55 0.15 68);
-    border-color: oklch(0.55 0.15 68);
-  }
-  &.fm-status-out-of-stock {
-    color: var(--gray);
-  }
-}
+// status pill removed — out of scope per design spec
 
 // Resources
 .fm-resource-tiles {
@@ -194,13 +172,9 @@
   min-height: 64px;
   text-decoration: none;
   color: var(--dark);
-  border: 1px solid var(--lightgray);
+  border: 1px solid var(--dark); // hard border per spec
   background: var(--light);
-  transition: border-color 0.15s;
-
-  &:hover {
-    border-color: var(--accent, var(--secondary));
-  }
+  transition: none; // no transitions per design spec
 }
 
 .fm-resource-header {
