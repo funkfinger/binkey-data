@@ -25,6 +25,7 @@ Welcome to the **binkey-data** electronics component inventory system! This comp
 - **[[parts/index|📋 Parts Catalog]]** - Complete component database
 - **[[bins|🗂️ Bin Organization]]** - Physical storage layout
 - **[[todo|✅ TODO List]]** - Items needing attention
+- **[[to-order|🛒 Parts to Order]]** - Components to buy, primarily from DigiKey
 
 ## 📊 **Inventory Statistics**
 
