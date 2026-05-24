@@ -101,7 +101,7 @@ Sensor GND ── GND
 
 ## Technical Notes
 
-- **RP2350 A2 erratum E9**: internal pulldowns and high-impedance inputs are affected. Use external pulldowns ≤8.2kΩ where required.
+- ⚠️ **RP2350A A2 silicon — erratum E9 (confirmed on these boards)**: the GPIO pads have a defect that breaks internal pulldowns and makes high-impedance input states unreliable. When the internal pulldown is enabled with no external drive, the pad floats around ~2V instead of pulling to GND, and reads as logic-high. **Workaround**: always use an external pulldown resistor of **8.2kΩ or smaller** when you need a pulldown, or use the internal pull-up and invert the logic. Also affects some PIO input use cases. See Raspberry Pi RP2350-E9 errata documentation.
 - Selecting RISC-V vs ARM cores is done via a UF2 flashed at boot; the chip cannot run both simultaneously.
 - Without headers fitted, BOOTSEL is the small button near the USB connector — still accessible.
 - For SWD debugging use the 3-pin debug header pads (SWCLK, GND, SWDIO).
