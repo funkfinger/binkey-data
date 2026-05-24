@@ -2,33 +2,17 @@
 type: dev-board
 category: Microcontroller Boards
 subcategory: RP2350 Development Board
-part_number: 6087
-model: Raspberry Pi Pico 2W
-microcontroller: RP2350
-architecture: ARM Cortex-M33 / RISC-V Hazard3
-cores: dual-core
-clock_speed: 150MHz
-voltage: 3.3V
-flash: 4MB
-sram: 520KB
-connectivity: [USB, WiFi, Bluetooth-LE, Bluetooth-Classic]
-interface: [USB-Micro, I2C, SPI, UART, PWM, ADC]
-gpio_pins: 26
-analog_inputs: 4
-pwm_pins: 24
-pio_blocks: 3
-dimensions: 21mm x 51mm
-weight: 3g
-wifi: true
-bluetooth_le: true
-bluetooth_classic: true
-form_factor: Pico
-location: Cabinet-1/Bin-32
-quantity: 3
-status: available
-tags: [microcontroller, rp2350, pico, raspberry-pi, wifi, bluetooth-le, bluetooth-classic, circuitpython, micropython, arduino, dual-architecture, wireless, iot]
-price: $7
+part_number: SC1633
 manufacturer: Raspberry Pi Foundation
+description: Raspberry Pi Pico 2 W — RP2350 with WiFi 802.11n + Bluetooth 5.2 (LE/Classic), no headers fitted
+location: Cabinet-1/Bin-22/Section-A
+quantity: 7
+status: available
+price: $7
+datasheet: https://datasheets.raspberrypi.com/picow/pico-2-w-datasheet.pdf
+product_url: https://www.raspberrypi.com/products/raspberry-pi-pico-2/
+date_added: 2026-05-24
+tags: [microcontroller, rp2350, pico, raspberry-pi, wifi, bluetooth-le, bluetooth-classic, circuitpython, micropython, arduino, dual-architecture, wireless, iot, cabinet-1, bin-22, status-available]
 ---
 
 # Raspberry Pi Pico 2W

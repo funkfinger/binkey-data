@@ -202,6 +202,7 @@ This folder contains detailed specifications for each individual electronic comp
 - [[d1-mini-nodemcu-esp8266-wifi]]
 - [[esp32-s3-devkitc-1u-n8]]
 - [[esp-wroom-32-esp32-development-board]]
+- [[raspberry-pi-pico-2]]
 - [[raspberry-pi-pico-2w]]
 - [[raspberry-pi-pico-h]]
 - [[seeed-xiao-esp32c3]]

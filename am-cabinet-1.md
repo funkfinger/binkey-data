@@ -143,8 +143,13 @@ tags: [cabinet, inventory, electronics, components]
 - [[weewooday-oled-096-i2c-ssd1306]]
 - [[adafruit-mini-pitft-135x240]]
 
-## Bin 22 - FeatherWing Prototyping
+## Bin 22 - Raspberry Pi Pico 2 & FeatherWing Prototyping
 
+Section A: Raspberry Pi Pico 2 family
+- [[raspberry-pi-pico-2]] - 4
+- [[raspberry-pi-pico-2w]] - 7
+
+Section B: FeatherWing prototyping
 - [[featherwing-doubler-prototyping]]
 
 ## Bin 23 - Alpha Numeric Displays & LED Matrices
@@ -219,7 +224,6 @@ tags: [cabinet, inventory, electronics, components]
 - [[adafruit-itsybitsy-rp2040]] - 2
 - [[adafruit-kb2040-rp2040]] - 6
 - [[adafruit-qt-py-rp2040]] - 5
-- [[raspberry-pi-pico-2w]] - 3
 - [[raspberry-pi-pico-h]] - 1
 - [[seeed-xiao-rp2040]] - 1
 - [[sparkfun-pro-micro-rp2040]] - 3
