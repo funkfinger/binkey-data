@@ -266,7 +266,7 @@ Cabinet 3 contains sensors, various cable types, and specialty electronic compon
 ## Bin 43 - Header Connectors
 
 - Section A: [[mm5450-led-display-driver]] - 5
-- Section B: [[10pin-2x5-shrouded-idc-male-header]] - 10-Pin Shrouded IDC Male Box Header (9)
+- Section B: [[10pin-2x5-shrouded-idc-male-header]] - 10-Pin Shrouded IDC Male Box Header (15)
 
 ## Bin 44 - GPIO Headers
 

@@ -15,7 +15,7 @@ interface: [IDC, Ribbon Cable]
 connectivity: [Through-hole pins]
 compatibility: [Eurorack power bus, AVR ISP, ribbon cable assemblies, development boards]
 location: Cabinet-3/Bin-43/Section-B
-quantity: 9
+quantity: 15
 status: available
 datasheet: https://www.on-shore.com/wp-content/uploads/2019/02/302-S10X.pdf
 product_url: https://www.digikey.com/en/products/detail/on-shore-technology-inc/302-S101/2178422
