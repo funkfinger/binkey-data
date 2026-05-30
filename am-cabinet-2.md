@@ -255,13 +255,19 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[crimp-connectors]] - Various Crimp-able Connectors
 
-## Bin 42 - SMD Rework: Flux & Low-Melt Removal Alloy
+## Bin 42 - SMD Rework: Flux, Removal Alloy & Solder Paste
 
 Section A: Tack flux
 - [[chip-quik-smd291-tack-flux]] - 1
 
 Section B: Low-melt removal alloy
 - [[chip-quik-smd1-low-melt-removal-alloy]] - 1
+
+Section C: Leaded solder paste (jar)
+- [[mg-chemicals-4860p-35g-solder-paste]] - 1
+
+Section D: Leaded solder paste (syringe)
+- [[chip-quik-smdsmd291ax-solder-paste]] - 1
 
 ## Bin 43 - SMT Components
 

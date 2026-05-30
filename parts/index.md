@@ -42,6 +42,8 @@ This folder contains detailed specifications for each individual electronic comp
 
 - [[chip-quik-smd291-tack-flux]]
 - [[chip-quik-smd1-low-melt-removal-alloy]]
+- [[mg-chemicals-4860p-35g-solder-paste]]
+- [[chip-quik-smdsmd291ax-solder-paste]]
 
 ## Building Components & Mechanical Parts
 
