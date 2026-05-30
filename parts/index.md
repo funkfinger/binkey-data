@@ -38,6 +38,11 @@ This folder contains detailed specifications for each individual electronic comp
 - [[elecan-bnc-rca-adapters]]
 - [[assorted-testing-probes]]
 
+## Soldering & Rework
+
+- [[chip-quik-smd291-tack-flux]]
+- [[chip-quik-smd1-low-melt-removal-alloy]]
+
 ## Building Components & Mechanical Parts
 
 - [[habow-882pcs-technic-parts]]

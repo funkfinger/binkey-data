@@ -4,8 +4,8 @@ description: Electronics component inventory for Cabinet 2 - Passive Components
 cabinet: 2
 bin_capacity: 44
 total_bins: 44
-populated_bins: 41
-last_updated: 2025-09-06
+populated_bins: 42
+last_updated: 2026-05-29
 ---
 
 # Akro Mills Cabinet 2 - Passive Components
@@ -255,9 +255,13 @@ Cabinet 2 contains passive electronic components including resistors, capacitors
 
 - [[crimp-connectors]] - Various Crimp-able Connectors
 
-## Bin 42 - Empty
+## Bin 42 - SMD Rework: Flux & Low-Melt Removal Alloy
 
-- [[empty]]
+Section A: Tack flux
+- [[chip-quik-smd291-tack-flux]] - 1
+
+Section B: Low-melt removal alloy
+- [[chip-quik-smd1-low-melt-removal-alloy]] - 1
 
 ## Bin 43 - SMT Components
 
